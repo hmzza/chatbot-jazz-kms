@@ -8,49 +8,12 @@
         .attr('alt', 'Jazz Logo')
         .css({ width: '20px', height: '20px', marginRight: '8px' });
       
-      // Process text with proper formatting
+      // Format the text: bold and bullet points
       let formattedText = text
-        // Bold text (handle ** markdown)
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-        // Convert single asterisks at beginning of lines to bullet points
-        .replace(/^\s*\*\s+(.+)$/gm, '<li>$1</li>')
-        // Handle line breaks
-        .replace(/\n/g, '<br>');
-      
-      // Wrap bullet points in a ul if any exist
-      if (formattedText.includes('<li>')) {
-        formattedText = formattedText.replace(/<li>(.+?)<\/li>/g, function(match) {
-          return match;
-        });
-        // Find consecutive <li> elements and wrap them in <ul>
-        let parts = [];
-        let currentText = '';
-        const lines = formattedText.split('<br>');
-        
-        for (let i = 0; i < lines.length; i++) {
-          if (lines[i].startsWith('<li>')) {
-            if (!currentText.includes('<ul>')) {
-              currentText += '<ul>';
-            }
-            currentText += lines[i];
-            if (i === lines.length - 1 || !lines[i+1].startsWith('<li>')) {
-              currentText += '</ul>';
-            }
-          } else {
-            if (currentText) {
-              parts.push(currentText);
-              currentText = '';
-            }
-            parts.push(lines[i]);
-          }
-        }
-        
-        if (currentText) {
-          parts.push(currentText);
-        }
-        
-        formattedText = parts.join('<br>');
-      }
+        .replace(/\n\* /g, '<br>• ')  // Convert "newline + * " to "<br>• "
+        .replace(/^\* /g, '• ')       // If the text starts with "* "
+        .replace(/\n/g, '<br>');      // Replace remaining newlines
       
       const messageContent = $('<span>').html(formattedText);
       bubble.append(logo).append(messageContent);
@@ -77,14 +40,13 @@
       .attr('alt', 'Jazz Logo')
       .css({ width: '20px', height: '20px', marginRight: '8px' });
     
-    // Initialize with an empty message container
-    const messageContent = $('<span>').html('');
+    const messageContent = $('<span>');
     bubble.append(logo).append(messageContent);
     $('#chat-box').append(bubble);
     $('#chat-box').scrollTop($('#chat-box')[0].scrollHeight);
 
-    // Keep track of accumulated text for formatting
-    let accumulatedText = '';
+    // Store the complete response
+    let fullResponse = '';
 
     fetch("/chat", {
       method: "POST",
@@ -98,63 +60,29 @@
       function processStream() {
         return reader.read().then(({ done, value }) => {
           if (done) {
-            // Final formatting of the complete message
-            const finalFormattedText = processText(accumulatedText);
-            messageContent.html(finalFormattedText);
+            // Apply final formatting for the complete message
+            let formattedText = fullResponse
+              .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+              .replace(/\n\* /g, '<br>• ')  // Convert "newline + * " to "<br>• "
+              .replace(/^\* /g, '• ')       // If the text starts with "* "
+              .replace(/\n/g, '<br>');      // Replace remaining newlines
+            
+            messageContent.html(formattedText);
             return;
           }
           
           const chunk = decoder.decode(value, { stream: true });
-          accumulatedText += chunk;
+          fullResponse += chunk;
           
-          // For live streaming, apply basic formatting (just bold) as we go
-          const partialFormatted = chunk.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-          messageContent.append(partialFormatted);
+          // During streaming, show with simple formatting
+          // (new lines will work, but we'll save full formatting for the end)
+          let streamingText = fullResponse.replace(/\n/g, '<br>');
+          messageContent.html(streamingText);
           
           $('#chat-box').scrollTop($('#chat-box')[0].scrollHeight);
           
           return processStream();
         });
-      }
-
-      // Function to process text with all formatting rules
-      function processText(text) {
-        // Bold text
-        let formatted = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-        
-        // Create a temporary div to work with the HTML
-        const tempDiv = $('<div>').html(formatted);
-        
-        // Process the HTML content
-        const content = tempDiv.html();
-        
-        // Handle bullet points (lines starting with *)
-        let lines = content.split('\n');
-        let inList = false;
-        
-        for (let i = 0; i < lines.length; i++) {
-          const trimmed = lines[i].trim();
-          
-          if (trimmed.startsWith('* ')) {
-            if (!inList) {
-              lines[i] = '<ul><li>' + trimmed.substring(2) + '</li>';
-              inList = true;
-            } else {
-              lines[i] = '<li>' + trimmed.substring(2) + '</li>';
-            }
-            
-            // Check if next line is not a bullet point
-            if (i === lines.length - 1 || !lines[i+1].trim().startsWith('* ')) {
-              lines[i] += '</ul>';
-              inList = false;
-            }
-          } else if (inList) {
-            lines[i-1] += '</ul>';
-            inList = false;
-          }
-        }
-        
-        return lines.join('<br>');
       }
 
       return processStream().catch(err => {
@@ -183,8 +111,5 @@
     document.getElementById("user-input").addEventListener("keypress", function (e) {
       if (e.key === "Enter") sendMessage();
     });
-    
-    // Add click event for the send button if it exists
-    $("#send-button").on("click", sendMessage);
   });
 })();
