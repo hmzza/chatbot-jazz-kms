@@ -1,0 +1,2704 @@
+OFFER: Har Second Offer
+--------------------------------------------------
+Incentives: 4 Paisa /Second (On-Net/off-net)
+Validity: 1 day
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 Hours
+Subscription Code: *222#
+Unsubscription code: *222*4#
+Offer Status Code: *222*2#
+Offer info code: *222*3#
+Offer Type: Prepaid
+Charges: Rs. 0.60
+
+
+OFFER: IDD Group 1 (5 Destinations)
+--------------------------------------------------
+Incentives: Reduced rates
+Validity: 30 Days
+Time_Duration: 24 Hours
+Recursive: Yes
+ProRated: Yes
+Deposit: 24 Hours
+Subscription Code: Customer Care Center, Contact Centers and Franchise Centers
+Unsubscription code: Customer Care Center, Contact Centers and Franchise Centers
+Offer Status Code: Live
+Offer info code: Dest-100 m-Initial -- PKR 100 m100 -- PKR 100 m400 -- PKR 100 m600 -- PKR 100 m900 -- PKR 100 5-Intl. Dest-50 m300 -- PKR 50 m999 -- PKR 50 m1500 -- PKR 50 mUnlimited (Basic+Premium) -- PKR 50 Business Package -- PKR 50
+Offer Type: Postpaid
+Charges: Dest-100 m-Initial -- PKR 100 m100 -- PKR 100 m400 -- PKR 100 m600 -- PKR 100 m900 -- PKR 100 5-Intl. Dest-50 m300 -- PKR 50 m999 -- PKR 50 m1500 -- PKR 50 mUnlimited (Basic+Premium) -- PKR 50 Business Package -- PKR 50
+
+
+OFFER: Daily Voice Bundle - Whitelisted
+--------------------------------------------------
+Incentives: 100 Jazz/Warid minutes
+Validity: Same day midnight (12AM)
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: Same day midnight (12AM)
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *673*2#
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: Rs.4 inclusive of tax
+
+
+OFFER: Lajawab Haftawar Offer - Mandi Bahauddin
+--------------------------------------------------
+Incentives: 3000 Minutes (Jazz), 30 Minutes (Other Network) , 3GBs Data, 3000 SMS
+Validity: 7 days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 Hours
+Subscription Code: *565#
+Unsubscription code: *565*4#
+Offer Status Code: *565*2#
+Offer info code: *565*3#
+Offer Type: Prepaid
+Charges: Rs.130 (incl tax)
+
+
+OFFER: IDD Saudi Arabia & UAE
+--------------------------------------------------
+Incentives: UAE (L+M): Rs. 2.99+Tax / 15 Sec Saudia (L+M): Rs. 1.99+Tax / 15 Sec
+Validity: Unlimited 
+Time_Duration: UNLIMITED 
+Recursive: YES
+ProRated: NO
+Deposit: 24 HOURS
+Subscription Code: *452#
+Unsubscription code: *452*4#
+Offer Status Code: ACTIVE
+Offer info code: Customer will get 10 on-net minutes on every call connected (Maximum 100 min/day) and will be expired at midnight
+Offer Type: Prepaid
+Charges: No Subscription Charges
+
+
+OFFER: New Territories and Independen
+--------------------------------------------------
+Incentives: 0.15 Paisae
+Validity: I don't have updated information about this.
+Time_Duration: I don't have updated information about this.
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: I don't have updated information about this.
+Charges: I don't have updated information about this.
+
+
+OFFER: IDD India Offer
+--------------------------------------------------
+Incentives: Rs. 0.50 + Tax / 30 Seconds will be charged on Landline + Mobile
+Validity: 30 DAYS
+Time_Duration: UNLIMITED 
+Recursive: yes
+ProRated: no
+Deposit: 24 Hours
+Subscription Code: *296#
+Unsubscription code: 296*4#
+Offer Status Code: active
+Offer info code: Customer needs to dial preferably 0091 as international dialing code.
+Offer Type: Prepaid
+Charges: FOC 
+
+
+OFFER: IDD UK Landline
+--------------------------------------------------
+Incentives: Call to UK Landline for Rs.5 + Tax/15 Minutes
+Validity: Unlimited
+Time_Duration: UNLIMITED 
+Recursive: yes
+ProRated: no
+Deposit: 24 Hours
+Subscription Code: Just Dial 456 before UK Landline number
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: active
+Offer info code: Offer is not applicable to premium numbers (any given destination) OR mobile numbers (UK)
+Offer Type: Prepaid
+Charges: FOC 
+
+
+OFFER: New Territories and Independen
+--------------------------------------------------
+Incentives: 15 paisa
+Validity: I don't have updated information about this.
+Time_Duration: I don't have updated information about this.
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: I don't have updated information about this.
+Charges: I don't have updated information about this.
+
+
+OFFER: IDD UK
+--------------------------------------------------
+Incentives: Call to UK Rs.1.2+Tax/30 Seconds (Landline + Mobile)
+Validity: Unlimited
+Time_Duration: UNLIMITED 
+Recursive: yes
+ProRated: no
+Deposit: 24 Hours
+Subscription Code: *456*2#
+Unsubscription code: *456*2*4#
+Offer Status Code: *456*2*3#
+Offer info code: Call to UK Rs.1.2+Tax/30 Seconds (Landline + Mobile)
+Offer Type: Prepaid
+Charges: FOC 
+
+
+OFFER: Monthly Hybrid offer for DG Khan
+--------------------------------------------------
+Incentives: Jazz Warid Minutes 2000, Off-Net Minutes 200, SMS 4000, Internet 5000 MBs
+Validity: x+29 days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *705#
+Unsubscription code: *705*4#
+Offer Status Code: *705*2#
+Offer info code: *705*3#
+Offer Type: Prepaid
+Charges: Rs. 350 (Incl Tax)
+
+
+OFFER: Weekly Saudi Arabia Voice + SMS Bundle
+--------------------------------------------------
+Incentives: 10 Voice minutes [for Saudi Arabia]  20 SMS [for Saudi Arabia]
+Validity: 7 days
+Time_Duration: I don't have updated information about this.
+Recursive: no
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *960#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: active
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: Rs 1
+
+
+OFFER: Balance Plus International Recharge Bonus Offer
+--------------------------------------------------
+Incentives: If recharge is PKR 100 to 199.999 than incentive will be 500 MB plus Recharge amount (after tax) x 1If recharge is PKR 200 to 399.999 than incentive will be 2000 MB plus Recharge amount (after tax) x 2If recharge is PKR 400 and above than incentive will be 5000 MB plus Recharge amount (after tax) x 4
+Validity: 15 days for incentive
+Time_Duration: I don't have updated information about this.
+Recursive: no
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: active
+Offer info code: If recharge is PKR 100 to 199.999 than incentive will be 500 MB plus Recharge amount (after tax) x 1If recharge is PKR 200 to 399.999 than incentive will be 2000 MB plus Recharge amount (after tax) x 2If recharge is PKR 400 and above than incentive will be 5000 MB plus Recharge amount (after tax) x 4
+Offer Type: Prepaid
+Charges: I don't have updated information about this.
+
+
+OFFER: Monthly All-In-One Bronze 2 Offer
+--------------------------------------------------
+Incentives: 1000 OnNet Mins / 30 OffNet Mins /  1GB Internet / 1000SMS
+Validity: X+29 Days
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *615#
+Unsubscription code: *615*4#
+Offer Status Code: *615*2#
+Offer info code: *615*3#
+Offer Type: Prepaid
+Charges: PKR 135
+
+
+OFFER: Mega Super Duper weekly offer
+--------------------------------------------------
+Incentives: Internet 12 GBs (6 GBs between 2AM-2PM) Jazz Warid Minutes 5000 Off-Net Minutes 60 SMS 5000
+Validity: 7 Days
+Time_Duration: 24 Hours & (6 GBs between 2AM-2PM)
+Recursive: No
+ProRated: No
+Deposit: 24 Hours & (6 GBs between 2AM-2PM)
+Subscription Code: *505#
+Unsubscription code: *505*4#
+Offer Status Code: *505*2#
+Offer info code: *505*3#
+Offer Type: Prepaid
+Charges: Rs 0
+
+
+OFFER: Monthly Super Duper Offer
+--------------------------------------------------
+Incentives: 3000 Jazz+Warid On-Net, 300 Off-net Minutes, 3000 SMS All Network, 8GB 2G/3G/4G
+Validity: X+29 days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *706# &*7000#
+Unsubscription code: *7000*4#
+Offer Status Code: *7000*2#
+Offer info code: *706*3#
+Offer Type: Prepaid
+Charges: NWD PKR 868 (Incl Tax)
+
+
+OFFER: Monthly Super Duper Plus
+--------------------------------------------------
+Incentives: 50 GBs Data, 3,000 On-net & SMS, 500 Off-net Mins
+Validity: 30 Days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *707#
+Unsubscription code: *707*4#
+Offer Status Code: *707*2#
+Offer info code: *707*3#
+Offer Type: Prepaid
+Charges: RS  1390 (inc tax)
+
+
+OFFER: Jazz Your Own Offer
+--------------------------------------------------
+Incentives: As per Customer Selection
+Validity: N\A
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *303#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: For 1 day *303*1#, for 7 days *303*7# and for 30 days *303*30#
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: As per Selection
+
+
+OFFER: MST Daily Hybrid Bundle
+--------------------------------------------------
+Incentives: 300 Jazz Minutes 300 SMS (All Network) 30 MB (3G Data)
+Validity: Till Midnight
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: Till Midnight
+Subscription Code: *651#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: active
+Offer info code: *651*2#
+Offer Type: Prepaid
+Charges: Rs. 7 (incl. tax)
+
+
+OFFER: 3 Day Voice Bundle (2+1)
+--------------------------------------------------
+Incentives: 1500 Onnet Minutes in 3 days  (500 per day for three days) till 12:00 AM midnight
+Validity: 72 Hrs
+Time_Duration: 72 Hrs
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *834#
+Unsubscription code: *834*4#
+Offer Status Code: *383*2#
+Offer info code: *383*3#
+Offer Type: Prepaid
+Charges: Rs.35.85 (incl tax)
+
+
+OFFER: LBC KPK
+--------------------------------------------------
+Incentives: 1000MB, Unlimited On-Net Min (1440) and 50 SMS
+Validity: 1 Day
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: No
+Deposit: Same day Midnight
+Subscription Code: *291#
+Unsubscription code: *291*4#
+Offer Status Code: *291*2#
+Offer info code: *291*3#
+Offer Type: Prepaid
+Charges: Rs 30 (incl tax)
+
+
+OFFER: LBC Karachi
+--------------------------------------------------
+Incentives: Unlimited On-net Minutes  & data @ Rs. 2.39/mb (incl tax)
+Validity: 24 Hours
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *221#
+Unsubscription code: *221*4#
+Offer Status Code: *221*2#
+Offer info code: *221*3#
+Offer Type: Prepaid
+Charges: Rs.20 + Tax
+
+
+OFFER: Karachi daily hybrid offer
+--------------------------------------------------
+Incentives: 1440 Onnet Mins, 50 SMS, 1000 MB
+Validity: Till midnight
+Time_Duration: Till midnight
+Recursive: No
+ProRated: No
+Deposit: Till midnight
+Subscription Code: *400#
+Unsubscription code: *400*4#
+Offer Status Code: *400*2#
+Offer info code: *400*3#
+Offer Type: Prepaid
+Charges: Rs 0
+
+
+OFFER: SMS Plus Offer
+--------------------------------------------------
+Incentives: 1800SMS All local Networks 10MB whatsapp
+Validity: 24 Hours
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *106*1#
+Unsubscription code: *106*4#
+Offer Status Code: *106*2#
+Offer info code: *106*3#
+Offer Type: Prepaid
+Charges: Rs. 6
+
+
+OFFER: Weekly SMS Bundle
+--------------------------------------------------
+Incentives: 1500 SMS All Local Networks and WhatsApp 25 MBs Chat only (Media Sharing will be charged)
+Validity: 7 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: No
+Deposit: 24 Hours
+Subscription Code: *101*1*07# OR *445*2#
+Unsubscription code: *101*4*07#
+Offer Status Code: *101*2*07#
+Offer info code: *101*3*07#
+Offer Type: Prepaid
+Charges: Rs 0
+
+
+OFFER: Reactivation Offer 551
+--------------------------------------------------
+Incentives: 4GB [(2GB's +2 GB's Tamasha & WA ) in first 30 days & (2GB's +2 GB's Tamasha & WA ) in next 30 days] ,3000 Onnet Mins [50 Daily] ,3000 SMS : Bonus On Usage of Rs 15: 50 On Net(Jazz+Warid) Mins, SMS & MB
+Validity: Mins : Daily / SMS : X+59 Days /Data : X+29 Days (Month 1) X+29 Days (Month 2)
+Time_Duration: Allowed Usage Window: 11PM-7PM
+Recursive: No
+ProRated: No
+Deposit: Allowed Usage Window: 11PM-7PM
+Subscription Code: *551#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *553*2#
+Offer info code: *551*3#
+Offer Type: Prepaid
+Charges: 0.01
+
+
+OFFER: Reactivation Offer 551
+--------------------------------------------------
+Incentives: 4GB [(2GB's +2 GB's Tamasha & WA ) in first 30 days & (2GB's +2 GB's Tamasha & WA ) in next 30 days] ,3000 Onnet Mins [50 Daily] ,3000 SMS : Bonus On Usage of Rs 15: 50 On Net(Jazz+Warid) Mins, SMS & MB
+Validity: Mins : Daily / SMS : X+59 Days /Data : X+29 Days (Month 1) X+29 Days (Month 2)
+Time_Duration: Allowed Usage Window: 11PM-7PM
+Recursive: No
+ProRated: No
+Deposit: Allowed Usage Window: 11PM-7PM
+Subscription Code: *551#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *553*2#
+Offer info code: *551*3#
+Offer Type: Prepaid
+Charges: 0.01
+
+
+OFFER: Integrated Monthly Bundle 2
+--------------------------------------------------
+Incentives: 600 All Network Minutes 1200 SMS 1.2 GB 3G Internet Free WhatsApp
+Validity: X+29 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *777*3# OR *366#
+Unsubscription code: *366*4#
+Offer Status Code: *366*2#
+Offer info code: *366*3#
+Offer Type: Prepaid
+Charges: Rs 1
+
+
+OFFER: Student Bundle/Friends bundle
+--------------------------------------------------
+Incentives: 250 on-net Mins, 200 SMS, 1GB FB & Tamasha for 2 hours
+Validity: 2 Hours (from the time of Subscription)
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 2 Hours (from the time of Subscription)
+Subscription Code: *3000# *3001# *555#
+Unsubscription code: *320*4#
+Offer Status Code: *320*2#
+Offer info code: *320*3#
+Offer Type: Prepaid
+Charges: Rs. 15 (9pm-6pm) and Rs.15 (6pm-9pm) and
+
+
+OFFER: Nokia 3.2 (16GB / 32GB)
+--------------------------------------------------
+Incentives: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Time_Duration: I don't have updated information about this.
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: I don't have updated information about this.
+
+
+OFFER: Installment and Cash Sale of  Nokia 1,3.1 & 3.1+
+--------------------------------------------------
+Incentives: Nokia 1 : Total Price 8,999 , Down Payment : 3599, Installment/per month (PKR): 450, Commission: 500 , Jazz Installment Code: NS1MKTINSA, Warid Installment Code: WNS1MKTINA.  Nokia 3.1,        Total Price :19,900, Down Payment :10900, Installment/per month (PKR) :750, Commission (PKR) : 500, Jazz Installment Code: N3D1MTCINS, Warid Installment Code: WN3D1MTINS.  Nokia 3.1 Plus: Total Price (PKR)            25,450, Down Payment (PKR): 16450, Installment/per month (PKR): 750, Commission (PKR) : 500, Jazz Installment Code: N3D1PMTINS, Warid Installment Code: WN3D1PMTIN   Cash EFICS code Model             Business Center Price Nokia 1             NS1MKTBC         8,999  Nokia 3.1     N3D1MKTBC   19,900 Nokia 3.1 Plus N3D1PMKTBC 25,450
+Validity: I don't have updated information about this.
+Time_Duration: 1 year
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: This is inform you that now Business centers can also provide below handsets on cash. 
+Offer Type: Postpaid
+Charges: I don't have updated information about this.
+
+
+OFFER: Change in Installment-Samsung J7 Max,Nokia 5,J4,J6
+--------------------------------------------------
+Incentives: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Time_Duration: 1 Yeaar
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: --
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: I don't have updated information about this.
+
+
+OFFER: Samsung Galaxy Note 9
+--------------------------------------------------
+Incentives: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Time_Duration: I don't have updated information about this.
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: 129999
+
+
+OFFER: Samsung Galaxy Note 9
+--------------------------------------------------
+Incentives: 6  Month (1 GB/Month)
+Validity: I don't have updated information about this.
+Time_Duration: I don't have updated information about this.
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: 129999
+
+
+OFFER: Super FnF Offer (Heart to Heart)
+--------------------------------------------------
+Incentives: Unlimited Calls & SMS on 1 On-net Number
+Validity: 24 Hours
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *141*Number#
+Unsubscription code: *141*4*Number#
+Offer Status Code: *141*2#
+Offer info code: *141*3#
+Offer Type: Prepaid
+Charges: Rs 10
+
+
+OFFER: Lenovo Tablets
+--------------------------------------------------
+Incentives: 1GB/month for 6month
+Validity: 6month
+Time_Duration: 6month
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: prepaid: *114*39*2# postpaid:*2222#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: Lenovo TB-X304-L(X): 33,999 Lenovo  TB-8504X:29,999 Lenovo TB-7304X: 19,999
+
+
+OFFER: launches of Samsung Galaxy S9 & S9 plus
+--------------------------------------------------
+Incentives: 4G/LTE Data offer for 6 months (1GB / month)
+Validity: 6 months
+Time_Duration: 6 months
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: prepaid *114*39*2# , postpaid *2222#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: Samsung Galaxy S9+  105,000   PKR Samsung Galaxy S9 81,000 PKR
+
+
+OFFER: Weekly Super Max Offer
+--------------------------------------------------
+Incentives: 30GB, 150 Other Network Min, 1000 Jazz Min & SMS
+Validity: x+6
+Time_Duration: N.A
+Recursive: N.A
+ProRated: n.a
+Deposit: I don't have updated information about this.
+Subscription Code: *506#
+Unsubscription code: *506*4#
+Offer Status Code: *506*2#
+Offer info code: *506*3#
+Offer Type: Prepaid
+Charges: Rs 430 (incl. tax)
+
+
+OFFER: New SIM Offer-Acquisition & BOR offer
+--------------------------------------------------
+Incentives: 1000 Jazz Warid Min (No time window) 1000 SMS 3000 MBs (No time window) 7 days BOR :1000 On-net min, 1000 SMS, 1000 MBs for 3 days
+Validity: x+6
+Time_Duration: N.A
+Recursive: N.A
+ProRated: n.a
+Deposit: I don't have updated information about this.
+Subscription Code: *191#
+Unsubscription code: *191*4#
+Offer Status Code: *990*2#
+Offer info code: *990*3#
+Offer Type: Prepaid
+Charges: I don't have updated information about this.
+
+
+OFFER: Bundle Gifting - Yaari Bundle
+--------------------------------------------------
+Incentives: 1GB internet & 100 on-net minutes (Jazz/Warid)
+Validity: X+2 Days
+Time_Duration: 24 houss
+Recursive: No
+ProRated: No
+Deposit: 24 Hours
+Subscription Code: *919# (Party A)
+Unsubscription code: *898*4# (Party B)
+Offer Status Code: *898*2# (Party B)
+Offer info code: *919*3# (Party A)
+Offer Type: Prepaid
+Charges: Rs.35 (inc tax) (Party)
+
+
+OFFER: Monthly WhatsApp Bolt-On - (Postpaid Consumer)
+--------------------------------------------------
+Incentives: 6GB Whatsapp
+Validity: 30 days
+Time_Duration: 24 hours
+Recursive: yes
+ProRated: yes
+Deposit: 24 hours
+Subscription Code: *446# / CRM / WhatsApp
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *2222#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: Rs.181.91 [Excl Tax]
+
+
+OFFER: New Sim Offer (Central A Only)
+--------------------------------------------------
+Incentives: 5GB /Month combined for WhatsApp & Facebook
+Validity: 60 Days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *192#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *566*2#
+Offer info code: *192*3#
+Offer Type: Prepaid
+Charges: Rs 30
+
+
+OFFER: Punjab Haftawar Offer - *307#
+--------------------------------------------------
+Incentives: 100 All-Net Mins, 1000 SMS, 10240 MBs
+Validity: 7 Days
+Time_Duration: 24hrs
+Recursive: Yes
+ProRated: No
+Deposit: 24hrs
+Subscription Code: *307#
+Unsubscription code: *307*4#
+Offer Status Code: *307*2#
+Offer info code: *307*3#
+Offer Type: Prepaid
+Charges: Rs 173 Incl Tax
+
+
+OFFER: Karachi Facebook Monthly Offer - *532#
+--------------------------------------------------
+Incentives: 5GB Facebook Only
+Validity: 30 Days
+Time_Duration: 24hrs
+Recursive: No
+ProRated: No
+Deposit: 24hrs
+Subscription Code: *532#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *532*2#
+Offer info code: *532*3#
+Offer Type: Prepaid
+Charges: Rs 44.45 Incl Tax
+
+
+OFFER: 3 Day Max Offer
+--------------------------------------------------
+Incentives: 1GB + 1000 Jazz Mins + 10 Offnet + 1000 SMS
+Validity: X+2 Days
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: *631# / *117*4# / *846#
+Unsubscription code: *631*4# / *846*4# / *117*4*4#
+Offer Status Code: *631*2# / *846*2# / *117*4*2#
+Offer info code: *631*3# / *846*3# / *117*4*3#
+Offer Type: Prepaid
+Charges: Rs 69 (Incl Tax)
+
+
+OFFER: Super Ghanta Offer (GPRS)
+--------------------------------------------------
+Incentives: 1 GB (1024 MB)
+Validity: 1 Hour
+Time_Duration: 24 hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 1 Hour
+Subscription Code: *638#
+Unsubscription code: *638*4#
+Offer Status Code: *638*2#
+Offer info code: *638*3#
+Offer Type: Prepaid
+Charges: Rs.15 (For Jazzworld: Rs. 15)
+
+
+OFFER: Daily Peak, Off-Peak Data Bundle
+--------------------------------------------------
+Incentives: 100 MBs (24 Hrs) 1100 MB in Off Peak (2 am-2 pm)
+Validity: 24 Hours
+Time_Duration: 100 MBs (24 Hrs) 1100 MB in Off Peak (2 am-2 pm)
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 100 MB (24 Hrs) + 1100 MB (2am-2pm)
+Subscription Code: *117*4#
+Unsubscription code: *117*4*4#
+Offer Status Code: *117*4*2#
+Offer info code: *117*4*3#
+Offer Type: Prepaid
+Charges: Rs.23.90
+
+
+OFFER: Multan 4G Monthly Social Offer
+--------------------------------------------------
+Incentives: 4000MB (4G) +100 (3G/2G)
+Validity: 30 Days
+Time_Duration: 24 hours
+Recursive: NO
+ProRated: NO
+Deposit: 24 hours
+Subscription Code: *499#
+Unsubscription code: *499*4#
+Offer Status Code: *499*2#
+Offer info code: *499*3#
+Offer Type: Prepaid
+Charges: Rs.52 (inc Tax)
+
+
+OFFER: 4G Sim Offer - USIM Offer - *443*30#
+--------------------------------------------------
+Incentives: 15 GBs (24 hr)  , 500 Jazz Mins, 500 SMS
+Validity: 7 Days
+Time_Duration: 15 GBs (24 hr)    500 Jazz Mins, 500 SMS
+Recursive: No
+ProRated: N
+Deposit: I don't have updated information about this.
+Subscription Code: *443*30#
+Unsubscription code: *443*30*4#
+Offer Status Code: *443*30*2#
+Offer info code: *443*30*3#
+Offer Type: Prepaid
+Charges: Rs 0
+
+
+OFFER: Chenab Haftawar Offer (Old Name Chiniot LBC)
+--------------------------------------------------
+Incentives: 400 Jazz Mins, 40 Offnet, 400 SMS, 8000MB
+Validity: 7 days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *664#
+Unsubscription code: *664*4#
+Offer Status Code: *664*2#
+Offer info code: *664*3#
+Offer Type: Prepaid
+Charges: Rs. 156 (inc tax)
+
+
+OFFER: All in One - Budget (*448*1#)
+--------------------------------------------------
+Incentives: 5GBs , 225 All network mins & 2000 SMS
+Validity: 1 Month
+Time_Duration: 24hrs
+Recursive: Yes
+ProRated: Yes
+Deposit: 24hrs
+Subscription Code: *448*1# or *446*2*1# / WhatsApp
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *2222#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: Rs.727.67 [Excl Tax]
+
+
+OFFER: All in One - Mega (*448*2#)
+--------------------------------------------------
+Incentives: 17GBs of Data, 550 All network mins & 5000 SMS
+Validity: 1 Month
+Time_Duration: 24hrs
+Recursive: Yes
+ProRated: Yes
+Deposit: 24hrs
+Subscription Code: *448*2# or *446*2*1# / WhatsApp
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *2222#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: Rs.1673.64 [Excl Tax]
+
+
+OFFER: Super Night Data Offer - (Central 6)
+--------------------------------------------------
+Incentives: 5000MB
+Validity: 1 Day
+Time_Duration: 11 PM – 9 AM
+Recursive: no
+ProRated: no
+Deposit: 11 PM – 9 AM
+Subscription Code: *742#
+Unsubscription code: *742*4#
+Offer Status Code: *742*2#
+Offer info code: *742*3#
+Offer Type: Prepaid
+Charges: Rs. 30 (Inc. Tax)
+
+
+OFFER: DIGIT4G Bundle
+--------------------------------------------------
+Incentives: 550 On-net Minutes ,550 SMS all net ,20 off net mins 2000MB data*(1000 use on youtube only time window 12AM to 7 PM
+Validity: x+29
+Time_Duration: 24 Hrs (youtube incentive 12AM-7PM)
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: *679#
+Unsubscription code: *679*4#
+Offer Status Code: *679*2#
+Offer info code: *679*3#
+Offer Type: Prepaid
+Charges: 296 (with tax)
+
+
+OFFER: Karachi Facebook Monthly/Karachi Monthly Social
+--------------------------------------------------
+Incentives: 5GB Facebook Only
+Validity: 30 Days
+Time_Duration: 24hrs
+Recursive: No
+ProRated: No
+Deposit: 24hrs
+Subscription Code: *532#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *532*2#
+Offer info code: *532*3#
+Offer Type: Prepaid
+Charges: Rs 45.52 Incl Tax
+
+
+OFFER: Monthly Super Max/Monthly Max
+--------------------------------------------------
+Incentives: On-net Minute 3000, Off-net Minutes 500; SMS 3000 ; 50 GBs Data
+Validity: X+29 Days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *708#
+Unsubscription code: *708*4#
+Offer Status Code: *708*2#
+Offer info code: *708*3#
+Offer Type: Prepaid
+Charges: Rs. 1390
+
+
+OFFER: Daily WhatsApp and SMS bundle 
+--------------------------------------------------
+Incentives: 1800 SMS + 10 MB for WhatsApp text messages, video/audio calls and video audio media sharing
+Validity: 1 Day
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: *334#
+Unsubscription code: *334*4#
+Offer Status Code: *334*2#
+Offer info code: *334*3#
+Offer Type: Prepaid
+Charges: Rs.9.6 (incl tax)
+
+
+OFFER: Monthly Data Lite
+--------------------------------------------------
+Incentives: 2GB (1GB for WhatsApp , Facebook and Twitter
+Validity: 30Days
+Time_Duration: 24 hrs
+Recursive: Yes
+ProRated: Yes
+Deposit: 24hrs
+Subscription Code: Backend
+Unsubscription code: Siebel
+Offer Status Code: *2222#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: Rs. 150+tax(160)
+
+
+OFFER: Twin City Offer(Super SIM Offer)
+--------------------------------------------------
+Incentives: 6GB Data, 600 MIN,600 SMS,30 other Network MIN
+Validity: 7 day
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: *476#
+Unsubscription code: *476*4#
+Offer Status Code: *476*2#
+Offer info code: *476*3#
+Offer Type: Prepaid
+Charges: Rs 78
+
+
+OFFER: Dedicated Menu for Bronze 2 Customers
+--------------------------------------------------
+Incentives: As per respective offer
+Validity: All offers have 30 days validity
+Time_Duration: ..
+Recursive: Non-Recursive
+ProRated: I don't have updated information about this.
+Deposit: .
+Subscription Code: *699# (only accessible by whitelisted base)
+Unsubscription code: .N/A
+Offer Status Code: Active
+Offer info code: ..
+Offer Type: Prepaid
+Charges:  As per respective offer available in USSD Menu
+
+
+OFFER: Attock, Harripur ad Nowshera Weekly Data Offer
+--------------------------------------------------
+Incentives: 500 On-net Min, 50 Off-net Mins, 10 GB
+Validity: 7 Days
+Time_Duration: 24hrs
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: *598#
+Unsubscription code: *598*4#
+Offer Status Code: *598*2#
+Offer info code: *598*3#
+Offer Type: Prepaid
+Charges: Rs.217 Incl Tax
+
+
+OFFER: Quetta Haftawar Offer (LBS)
+--------------------------------------------------
+Incentives: 12GB, 5000 on-net, 100 off-net , sms 5000
+Validity: 7 days
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: I don't have updated information about this.
+Subscription Code: *609#
+Unsubscription code: *609*4#
+Offer Status Code: *609*2#
+Offer info code: *609*3#
+Offer Type: Prepaid
+Charges: Rs.260 (inc tax)
+
+
+OFFER: Jazz 2000 Add-On (Jazz 2000 SMS Add-On) - *441*25#
+--------------------------------------------------
+Incentives: 2000 All Net SMS
+Validity: 30 Days
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: 24 Hrs
+Subscription Code: CRM + USSD / WhatsApp
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: Rs.72.77 [Excl Tax]
+
+
+OFFER: CVM Weekly All Network(*730#)
+--------------------------------------------------
+Incentives: 3GB Data, 1000 Onnet MIN,60Offnet MIN, 1000 SMS
+Validity: X+6 Days
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: *730#
+Unsubscription code: *730*4#
+Offer Status Code: *730*2#
+Offer info code: *730*3#
+Offer Type: Prepaid
+Charges: Rs. 150
+
+
+OFFER: BR-19
+--------------------------------------------------
+Incentives: 1
+Validity: 1
+Time_Duration: 1
+Recursive: 1
+ProRated: 1
+Deposit: 1
+Subscription Code: 1
+Unsubscription code: 1
+Offer Status Code: 1
+Offer info code: 1
+Offer Type: Prepaid
+Charges: 1
+
+
+OFFER: BR-19
+--------------------------------------------------
+Incentives: 1
+Validity: 1
+Time_Duration: 1
+Recursive: 1
+ProRated: 1
+Deposit: 1
+Subscription Code: 11
+Unsubscription code: 2
+Offer Status Code: 2
+Offer info code: 2
+Offer Type: Prepaid
+Charges: 2
+
+
+OFFER: Mahana Bachat Offer-Jazz World Only [Discontinued]
+--------------------------------------------------
+Incentives: 4 GBs (WA/IMO), 250 Jazz Mins, 35 Off-net, 2000 SMS
+Validity: X+29 Days
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: Jazz World 
+Unsubscription code: Jazz World 
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: Rs 90
+
+
+OFFER: Mahana Bachat Offer-Jazz World Only [Discontinued]
+--------------------------------------------------
+Incentives: 4 GBs (WA/IMO), 250 Jazz Mins, 35 Off-net, 2000 SMS
+Validity: X+29 Days
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: Jazz World 
+Unsubscription code: Jazz World 
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: Rs 90
+
+
+OFFER: Monthly Super Duper – New Sale Promo Offer 
+--------------------------------------------------
+Incentives: 14GB Data, 3000 SMS,  3000 Jazz On-Net, 300 Off-net Mins
+Validity: 30 Days
+Time_Duration: 30 Days
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *706# or *7000#
+Unsubscription code: *706*4#
+Offer Status Code: *706*2# or *7000*2#
+Offer info code: *706*3# or *7000*3#, *7001*3# (BVS)
+Offer Type: Prepaid
+Charges: NWD Rs. 608.69 (incl. tax)
+
+
+OFFER: CVM Offers
+--------------------------------------------------
+Incentives: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Time_Duration: I don't have updated information about this.
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: I don't have updated information about this.
+
+
+OFFER: Monthly Social Plus
+--------------------------------------------------
+Incentives: 10GB (FB,WA,IMO,BiP, Tamasha), 50 Off-net, 300 On-net & 1000 SMS
+Validity: 30 Days
+Time_Duration: 30 Days
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *617#
+Unsubscription code: *617*4#
+Offer Status Code: *617*2#
+Offer info code: *617*3#
+Offer Type: Prepaid
+Charges: Rs 295 (incl. tax)
+
+
+OFFER: 15 Day AIO
+--------------------------------------------------
+Incentives: 2500 On-net, 250 Off-net, 2500 SMS, 10 GB Data
+Validity: X+14 days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *515#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: Rs.565 (Incl tax)
+
+
+OFFER: Weekly WhatsApp & SMS Offer
+--------------------------------------------------
+Incentives: SMS: 1500 SMS  WhatsApp (MBs): 25MBs
+Validity: 7 days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *101*1*07#
+Unsubscription code: *101*4*07#
+Offer Status Code: *101*2*07#
+Offer info code: *101*3*07#
+Offer Type: Prepaid
+Charges: Rs. 30
+
+
+OFFER: J All Network Lite
+--------------------------------------------------
+Incentives: 115 Free All Network Minutes
+Validity: 1 Month
+Time_Duration: I don't have updated information about this.
+Recursive: Yes
+ProRated: No
+Deposit: I don't have updated information about this.
+Subscription Code: *441*15#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *2222#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: Rs.218.3 [Excl Tax]
+
+
+OFFER: Weekly Budget Offer
+--------------------------------------------------
+Incentives: 300 On-net Mins, 300 SMS, 3000MB
+Validity: X+6
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *697#
+Unsubscription code: *697*4#
+Offer Status Code: *697*2#
+Offer info code: *697*3#
+Offer Type: Prepaid
+Charges: Rs. 30
+
+
+OFFER: Weekly Budget Plus Offer
+--------------------------------------------------
+Incentives: 3000 MB, 300 On-Net Mins, 30 Off-Net Mins ,300 SMS
+Validity: X+6
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *698#
+Unsubscription code: *698*4#
+Offer Status Code: *698*2#
+Offer info code: *698*3#
+Offer Type: Prepaid
+Charges: Rs. 60
+
+
+OFFER: Monthly Social Plus - New Sale Discounted Offer
+--------------------------------------------------
+Incentives: On-Net Incentive: 300 Mins, Off-Net Incentive: 50 Mins, SMS Incentive 1000 SMS, Data Incentive: 10 GBs
+Validity: X+29 Days
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *617# (Whitelisting Offer: MSDPARENTOFFER)
+Unsubscription code: *617*4#
+Offer Status Code: *617*2#
+Offer info code: *617*3#
+Offer Type: Prepaid
+Charges: Rs 0
+
+
+OFFER: Weekly Super Max (NS Variant)
+--------------------------------------------------
+Incentives: 30 GB Data,  150 Other Network Min, 6000 Jazz Min, 6000 SMS
+Validity: X+6 Days
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *506# (Whitelisting Offer: MSDPARENTOFFER)
+Unsubscription code: *506*4#
+Offer Status Code: *506*2#
+Offer info code: *506*3#
+Offer Type: Prepaid
+Charges: Rs.313 (Incl Tax)
+
+
+OFFER: 15 Day AIO (New Sale Variant)
+--------------------------------------------------
+Incentives: 10GB Social, 2500 Onnet MIN,250Offnet MIN, 2500 SMS
+Validity: X+14 Days
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: *515#
+Unsubscription code: *515*4#
+Offer Status Code: *515*2#
+Offer info code: *515*3#
+Offer Type: Prepaid
+Charges: Rs.338.26
+
+
+OFFER: IDD USA, UK and Canada - Prepaid/Postpaid
+--------------------------------------------------
+Incentives: Call to USA (L+M), Canada (L+M), and UK (L) for Just Rs. 5 + Tax / 15 Min
+Validity: I don't have updated information about this.
+Time_Duration: UNLIMITED 
+Recursive: yes
+ProRated: no
+Deposit: 24 Hours
+Subscription Code: Dial prefix 456 before number
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: active
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: FOC 
+
+
+OFFER: New Territories and Independen
+--------------------------------------------------
+Incentives: 15 paisa
+Validity: I don't have updated information about this.
+Time_Duration: I don't have updated information about this.
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: I don't have updated information about this.
+Charges: I don't have updated information about this.
+
+
+OFFER: 3 Day Gup Shup Offer
+--------------------------------------------------
+Incentives: 1000 On-net, 10 Off-net, 1000 SMS, 100 MBs
+Validity: 3 Days
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *356# /*558# /*114*4#
+Unsubscription code: *356*4# /*558*4# /*114*4*4#
+Offer Status Code: *356*2# /*558*2# /*114*4*2#
+Offer info code: *356*3# /*558*3# /*114*4*3#
+Offer Type: Prepaid
+Charges: Rs. 60
+
+
+OFFER: Weekly Bemisaal Offer 1
+--------------------------------------------------
+Incentives: 1000 On-net & 30 off net min 1000 SMS 3 GBs & 10GB WhatsApp
+Validity: X+6 Days
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *927#
+Unsubscription code: *927*4#
+Offer Status Code: *927*2#
+Offer info code: *927*3#
+Offer Type: Prepaid
+Charges: PKR 86.9
+
+
+OFFER: Monthly Super FnF
+--------------------------------------------------
+Incentives: unlimited on-net minutes on 1 favorite number
+Validity: x+29 days
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *393# for bundle, *394*number# for addition of number
+Unsubscription code: *393*4#
+Offer Status Code: *393*2#
+Offer info code: *393*3#
+Offer Type: Prepaid
+Charges: Rs.179 (inc tax)
+
+
+OFFER: Weekly Bemisaal Offer 2
+--------------------------------------------------
+Incentives: 1000 On-net & 30 off net min 1000 SMS 3 GBs & 10GB WhatsApp
+Validity: X+6 Days
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *928#
+Unsubscription code: *928*4#
+Offer Status Code: *928*2#
+Offer info code: *928*3#
+Offer Type: Prepaid
+Charges: PKR 86.9
+
+
+OFFER: Monthly Gup Shup Offer
+--------------------------------------------------
+Incentives: 2000 on-net minutes
+Validity: x+29 days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: I don't have updated information about this.
+Subscription Code: *717#
+Unsubscription code: *717*4#
+Offer Status Code: *717*2#
+Offer info code: *717*3#
+Offer Type: Prepaid
+Charges: Rs.434 (inc tax)
+
+
+OFFER: Monthly Gup Shup Offer
+--------------------------------------------------
+Incentives: 2000 on-net minutes
+Validity: x+29 days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: I don't have updated information about this.
+Subscription Code: *717#
+Unsubscription code: *717*4#
+Offer Status Code: *717*2#
+Offer info code: *717*3#
+Offer Type: Prepaid
+Charges: Rs.434 (inc tax)
+
+
+OFFER: Monthly Gup Shup Plus
+--------------------------------------------------
+Incentives: On-net 2000, off-net 200, 2000 sms
+Validity: x+29 days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: I don't have updated information about this.
+Subscription Code: *718#
+Unsubscription code: *718*4#
+Offer Status Code: *718*2#
+Offer info code: *718*3#
+Offer Type: Prepaid
+Charges: Rs.565 (inc tax)
+
+
+OFFER: Weekly Bemisaal Offer 3
+--------------------------------------------------
+Incentives: 1000 On-net & 30 off net min 1000 SMS 3 GBs & 10GB WhatsApp
+Validity: X+6 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *929#
+Unsubscription code: *929*4#
+Offer Status Code: *929*2#
+Offer info code: *929*3#
+Offer Type: Prepaid
+Charges: PKR 86.9
+
+
+OFFER: Weekly Freedom
+--------------------------------------------------
+Incentives: 50GB, 1000 All-Network Minutes & 1000 SMS
+Validity: x+6 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *737#
+Unsubscription code: *737*4#
+Offer Status Code: *737*2#
+Offer info code: *737*3#
+Offer Type: Prepaid
+Charges: Rs 0
+
+
+OFFER: Monthly Freedom 
+--------------------------------------------------
+Incentives: 100GB, 2000 All Network Min & SMS
+Validity: 30 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *733#
+Unsubscription code: *733*4#
+Offer Status Code: *733*2#
+Offer info code: *733*3#
+Offer Type: Prepaid
+Charges: PKR 1564
+
+
+OFFER: 7 Day Data Mini Bundle - 2GB
+--------------------------------------------------
+Incentives: 2GB
+Validity: 7 Days
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: 24hrs
+Subscription Code: CVM Campaign Only For Selected Customers
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *2222#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: FOC
+
+
+OFFER: Monthly freedom – PSL
+--------------------------------------------------
+Incentives: 100 GBs Flat Data, 2000 Mins, 2000 SMS
+Validity: X+29 Days
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: Backend
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *7333*2#
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: PKR 0
+
+
+OFFER: Peshawar & Chakwal Haftawar Offer
+--------------------------------------------------
+Incentives: 10GB Data, 100 All Network Min
+Validity: 7 day
+Time_Duration: 24 hrs
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 hrs
+Subscription Code: *109#
+Unsubscription code: *109*4#
+Offer Status Code: *109*2#
+Offer info code: *109*3#
+Offer Type: Prepaid
+Charges: Rs 215 Incl Tax
+
+
+OFFER:  Peshawar and Chakwal Haftawar
+--------------------------------------------------
+Incentives: 12GB Data, 120 All Network Min + Free tamasha app
+Validity: 7 day
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: *109#
+Unsubscription code: *109*4#
+Offer Status Code: *109*2#
+Offer info code: *109*3#
+Offer Type: Prepaid
+Charges: Rs 260 Incl Tax
+
+
+OFFER: Karachi Weekly LBC Offer (*545#)
+--------------------------------------------------
+Incentives: 5GB data, 1000 Allnet mins & SMS
+Validity: X+6
+Time_Duration: 24 hrs
+Recursive: No
+ProRated: No
+Deposit: 24hrs
+Subscription Code: *545#
+Unsubscription code: *545*4#
+Offer Status Code: *545*2#
+Offer info code: *545*3#
+Offer Type: Prepaid
+Charges: Rs 199 incl tax
+
+
+OFFER: Sargodha Haftawar LBC offer (*627#)
+--------------------------------------------------
+Incentives: 3000 MBs , 3000 Onnet, 30 Offnet, 3000 SMS
+Validity: X+6 days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *627#
+Unsubscription code: *627*4#
+Offer Status Code: *627*2#
+Offer info code: *627*3#
+Offer Type: Prepaid
+Charges: Rs 130 incl tax
+
+
+OFFER: South 4 Raabta Offer (LBC)
+--------------------------------------------------
+Incentives: 1GB, 1000 Onnet Minutes, 40 Offnet
+Validity: 7 days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *766#
+Unsubscription code: *766*4#
+Offer Status Code: *766*2#
+Offer info code: *766*3#
+Offer Type: Prepaid
+Charges: 130 (inc tax)
+
+
+OFFER: Sindh Offer (LBC)  - *522#
+--------------------------------------------------
+Incentives: Unlimited Jazz  Mins, 1000 MBs, 50 SMS
+Validity: Till Midnight
+Time_Duration: Till Midnight
+Recursive: No
+ProRated: No
+Deposit: Till Midnight
+Subscription Code: *522#
+Unsubscription code: *522*4#
+Offer Status Code: *522*2#
+Offer info code: *522*3#
+Offer Type: Prepaid
+Charges: Rs 0
+
+
+OFFER: Monthly YouTube and Social [Infinity Social]
+--------------------------------------------------
+Incentives: 300 On-net, 50 Off-net, 300 SMS, 15 GB (YouTube, Facebook, WhatsApp, IMO)
+Validity: X + 29 Days
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *620#
+Unsubscription code: *620*4#
+Offer Status Code: *620*2#
+Offer info code: *620*3#
+Offer Type: Prepaid
+Charges: PKR 347.8
+
+
+OFFER: J All Net Smart
+--------------------------------------------------
+Incentives: 335 Free All Network Minutes
+Validity: 1 Month
+Time_Duration: I don't have updated information about this.
+Recursive: Yes
+ProRated: Yes
+Deposit: I don't have updated information about this.
+Subscription Code: *441*23#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *1111#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: Rs.436.6 [Excl Tax]
+
+
+OFFER: J All Net Super
+--------------------------------------------------
+Incentives: 475 All Network Minutes
+Validity: 1 Month
+Time_Duration: 24hrs
+Recursive: Yes
+ProRated: Yes
+Deposit: 24hrs
+Subscription Code: CRM
+Unsubscription code: CRM
+Offer Status Code: *1111#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: Rs.691.28 [Excl Tax]
+
+
+OFFER: J All Network Basic/Budget
+--------------------------------------------------
+Incentives: 625 All network minutes
+Validity: 1 Month
+Time_Duration: 24hrs
+Recursive: Yes
+ProRated: Yes
+Deposit: 24hrs
+Subscription Code: *441*32#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *1111#
+Offer info code: *1111#
+Offer Type: Postpaid
+Charges: Rs.873.2 [Excl Tax]
+
+
+OFFER: 200 All Net Add-On
+--------------------------------------------------
+Incentives: 200 Free All Network Minutes
+Validity: 1 Month
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: I don't have updated information about this.
+Subscription Code: *441*20# / CRM / WhatsApp
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *2222#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: Rs.363.83 [Excl Tax]
+
+
+OFFER: Monthly Premium Plus (Mahana All Rounder NWD)
+--------------------------------------------------
+Incentives: 25GB, 3000 On-Net, 3000 SMS, 500 Off-Net
+Validity: X + 29 days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 hours
+Subscription Code: *2000#, *389#
+Unsubscription code: *2000*4#, *389*4#
+Offer Status Code: *2000*2#, *389*2#
+Offer info code: *2000*3#, *389*3#
+Offer Type: Prepaid
+Charges: Rs 1215 (incl tax)
+
+
+OFFER: Weekly Premium (Renamed as weekly premium plus)
+--------------------------------------------------
+Incentives: 5GB data & 50 all net mins
+Validity: 7 days
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: *660# /*570# / *668# / *117*47#
+Unsubscription code: *660*4# /*668*4#/*117*47*4#
+Offer Status Code: *660*2#/*570*2# /*668*2#/*117*47*2#
+Offer info code: *660*3#/*570*3# /*668*3#/*117*47*3#
+Offer Type: Prepaid
+Charges: NWD 260(inc tax)
+
+
+OFFER: Super Offer
+--------------------------------------------------
+Incentives: 1440 Jazz Minutes,  50 SMS, 200 MB
+Validity: 24 Hrs
+Time_Duration: 24 Hrs
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *212# / *340#
+Unsubscription code: *212*4# / *340*4#
+Offer Status Code: *212*2# / *340*2#
+Offer info code: *212*3# / *340*3#
+Offer Type: Prepaid
+Charges: NWD Rs. 30 inc tax, Turbat & Gwadar with Tax: Rs 45
+
+
+OFFER: Jazz Fan Pulse Offer [For Whitelisted Customers]
+--------------------------------------------------
+Incentives: 100GBs Data, 2000 All Network Min ,2000 SMS
+Validity: 30 Days
+Time_Duration: 24 hrs
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: CVM Campaign Only For Selected Customers
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *2222#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: FOC
+
+
+OFFER: Mahana Aala Offer (10PM-7PM)
+--------------------------------------------------
+Incentives: See Notes
+Validity: x+29 days
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: For data 10PM to 7PM
+Subscription Code: *7335#
+Unsubscription code: *7335*4#
+Offer Status Code: *7335*2#
+Offer info code: *7335*3#
+Offer Type: Prepaid
+Charges: Rs.1218 (Incl Tax)
+
+
+OFFER: Mahana Aala Offer (Monthly Freedom South Generic) 
+--------------------------------------------------
+Incentives: 80GB , 2000 All net Mins , 2000 SMS
+Validity: 30 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *7334#
+Unsubscription code: *7334*4#
+Offer Status Code: *7334*2#
+Offer info code: *7334*3#
+Offer Type: Prepaid
+Charges: Rs. 1391 (Rs. 1600 Load)
+
+
+OFFER: Super Chenab Plus LBS Offer
+--------------------------------------------------
+Incentives: 10GB , 1000 Jazz Mins, 1000 SMS aur 100 offnet mins
+Validity: X+6 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *764#
+Unsubscription code: *764*4#
+Offer Status Code: *764*2#
+Offer info code: *764*3#
+Offer Type: Prepaid
+Charges: Rs. 173 (Incl. tax) , Rs 200 Load
+
+
+OFFER: Super Mahana Offer (Karachi Hybrid LBC) 
+--------------------------------------------------
+Incentives: 10 GB, 5000 SMS, 5000 onnet mins, 150 offnet Minutes
+Validity: 30 days
+Time_Duration: 30 days
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *529#
+Unsubscription code: *529*4#
+Offer Status Code: *529*2#
+Offer info code: *529*3#
+Offer Type: Prepaid
+Charges: Rs.608 (incl tax)
+
+
+OFFER: Raabta Plus (South LBS Offer) 
+--------------------------------------------------
+Incentives: 1000 Onnet, 100 Offnet, 1000 SMS, 10240 MBs (10 PM to 7 PM)
+Validity: X+6 Days
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *7678#
+Unsubscription code: *7678*4#
+Offer Status Code: *7678*2#
+Offer info code: *7678*3#
+Offer Type: Prepaid
+Charges: PKR 173 (incl. tax) , Rs 200 Load
+
+
+OFFER: Islamia University Bundle(IUB)
+--------------------------------------------------
+Incentives: 250 Allnet min,(10 GB internet + 5 GB whatsapp only) +20GB LMS
+Validity: X+29 Days
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: *711#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *711*2#
+Offer info code: *711*3#
+Offer Type: Prepaid
+Charges: Rs. 1076
+
+
+OFFER: Islamia University Bundle(IUB)
+--------------------------------------------------
+Incentives: 250 Allnet min,(10 GB internet + 5 GB whatsapp only) +20GB LMS
+Validity: X+29 Days
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: *711#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *711*2#
+Offer info code: *711*3#
+Offer Type: Prepaid
+Charges: Rs. 1076
+
+
+OFFER: Islamia University Bundle(IUB)
+--------------------------------------------------
+Incentives: 250 Allnet min,(10 GB internet + 5 GB whatsapp only) +20GB LMS
+Validity: X+29 Days
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: *711#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *711*2#
+Offer info code: *711*3#
+Offer Type: Prepaid
+Charges: Rs. 1076
+
+
+OFFER: Islamia University Bundle(IUB)
+--------------------------------------------------
+Incentives: 250 Allnet min,(10 GB internet + 5 GB whatsapp only) +20GB LMS
+Validity: X+29 Days
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: *711#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *711*2#
+Offer info code: *711*3#
+Offer Type: Prepaid
+Charges: Rs. 1076
+
+
+OFFER: Infinity Gup Shup (old name:Voice Infinity Bundle)
+--------------------------------------------------
+Incentives: 120 Jazz Min & 30 Other Network Min
+Validity: 90 days
+Time_Duration: N.A
+Recursive: N.A
+ProRated: n.a
+Deposit: I don't have updated information about this.
+Subscription Code: *710#
+Unsubscription code: *710*4#
+Offer Status Code: *710*2#
+Offer info code: *710*3#
+Offer Type: Prepaid
+Charges: Rs. 110 Incl Tax(NWD)
+
+
+OFFER: Weekly AIO / Weekly All Network(*700#)
+--------------------------------------------------
+Incentives: 1000 On-net (Jazz) 90 Off-net , 1000 SMS , 3 GB
+Validity: X+6
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: *700#
+Unsubscription code: *700*4#
+Offer Status Code: *700*2#
+Offer info code: *700*3#
+Offer Type: Prepaid
+Charges: NWD Rs. 260 (inc tax)
+
+
+OFFER: Monthly Freedom Discounted Variant  (JC)
+--------------------------------------------------
+Incentives: 100GB, 2000 All-Network Minutes & 2000 SMS
+Validity: X+29 Days
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: Jazz Cash
+Unsubscription code: *733*4#
+Offer Status Code: *733*2#
+Offer info code: *733*3#
+Offer Type: Prepaid
+Charges: PKR 1300 (Load Amount PKR 1500)
+
+
+OFFER: Monthly Freedom Discounted Variant  (JC)
+--------------------------------------------------
+Incentives: 100GB, 2000 All-Network Minutes & 2000 SMS
+Validity: X+29 Days
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: Jazz Cash
+Unsubscription code: *733*4#
+Offer Status Code: *733*2#
+Offer info code: *733*3#
+Offer Type: Prepaid
+Charges: PKR 1300 (Load Amount PKR 1500)
+
+
+OFFER: Weekly Gupshup (old name: Weekly Voice Offer)
+--------------------------------------------------
+Incentives: 1000 Jazz/Warid Mins.
+Validity: 7 days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *211#
+Unsubscription code: *211*4#
+Offer Status Code: *211*2#
+Offer info code: *211*3#
+Offer Type: Prepaid
+Charges: 155 Incl Tax
+
+
+OFFER: Monthly Youtube & Social (BVS variant)
+--------------------------------------------------
+Incentives: 15GB YouTube, Facebook, WhatsApp, IMO, 50 Other Network Min, 500 Jazz Min & 500 SMS
+Validity: X+29 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *6201# (suppressed)
+Unsubscription code: Supressed
+Offer Status Code: *6201*2#
+Offer info code: *6201*3# (suppressed)
+Offer Type: Prepaid
+Charges: Rs.304.34 incl. tax
+
+
+OFFER: Monthly Youtube & Social (BVS variant)
+--------------------------------------------------
+Incentives: 15GB YouTube, Facebook, WhatsApp, IMO, 50 Other Network Min, 500 Jazz Min & 500 SMS
+Validity: X+29 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *6201# (suppressed)
+Unsubscription code: Supressed
+Offer Status Code: *6201*2#
+Offer info code: *6201*3# (suppressed)
+Offer Type: Prepaid
+Charges: Rs.304.34 incl. tax
+
+
+OFFER: Monthly Youtube & Social (BVS variant)
+--------------------------------------------------
+Incentives: 15GB YouTube, Facebook, WhatsApp, IMO, 50 Other Network Min, 500 Jazz Min & 500 SMS
+Validity: X+29 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *6201# (suppressed)
+Unsubscription code: Supressed
+Offer Status Code: *6201*2#
+Offer info code: *6201*3# (suppressed)
+Offer Type: Prepaid
+Charges: Rs.304.34 incl. tax
+
+
+OFFER: Monthly Freedom (BVS variant)
+--------------------------------------------------
+Incentives: 100GB, 2000 All Network Min, 2000 SMS
+Validity: X+29 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *7331# (suppressed)
+Unsubscription code: Suppressed
+Offer Status Code: *7331*2#
+Offer info code: *7331*3# (suppressed)
+Offer Type: Prepaid
+Charges: Rs.1304.34 incl. tax
+
+
+OFFER: Weekly Freedom (BVS Variant) 
+--------------------------------------------------
+Incentives: 50GB Data, 1000 All Network Min & 1000 SMS
+Validity: X+6 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *7371# (suppressed)
+Unsubscription code: Suppressed
+Offer Status Code: *7371*2#
+Offer info code: *7371*3#
+Offer Type: Prepaid
+Charges: Rs.347.82 incl. tax
+
+
+OFFER: Friends Plus Offer (re-routed to Friends bundle)
+--------------------------------------------------
+Incentives: 1GB Fb & 250 on-net minutes, 200 sms
+Validity: 2 hours
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: I don't have updated information about this.
+Subscription Code: *556#
+Unsubscription code: *557*4#
+Offer Status Code: *557*2#
+Offer info code: *557*3#
+Offer Type: Prepaid
+Charges: Rs. 15
+
+
+OFFER: Weekly Super Duper [Routing towards Weekly Super]
+--------------------------------------------------
+Incentives: 5000 On-net Minutes, 120 Off-net Minutes, 5000 SMS, 10 GBs
+Validity: X+6 Days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 Hours
+Subscription Code: *770#
+Unsubscription code: *770*4#
+Offer Status Code: *770*2#
+Offer info code: *770*3#
+Offer Type: Prepaid
+Charges: Rs. 345 Incl Tax
+
+
+OFFER: Weekly Freedom Discounted Variant (JW/JC)
+--------------------------------------------------
+Incentives: 1000 All-net mins, 1000SMS, 50 GBs
+Validity: X+6 Days
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: JW & JC
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *737*2#
+Offer info code: *737*3#
+Offer Type: Prepaid
+Charges: PKR 410
+
+
+OFFER: Monthly Freedom - Asia Cup Fan Pulse
+--------------------------------------------------
+Incentives: 2000 All-net, 2000 SMS, 100 GB (For 12 Months)
+Validity: 30 Days
+Time_Duration: 24 Hours
+Recursive: Yes
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: CVM Campaign Only For Selected Customers
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *73334*2#
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: PKR 0
+
+
+OFFER: Weekly Hybrid(Weekly Gupshup Plus) offer
+--------------------------------------------------
+Incentives: 100MB, 1000 On-net, 60 off-net, 1000 SMS
+Validity: X+6 days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *407#
+Unsubscription code: *407*4#
+Offer Status Code: *407*2#
+Offer info code: *407*3#
+Offer Type: Prepaid
+Charges: NWD Rs.173 (incl tax)
+
+
+OFFER: Weekly Super Plus - *505#
+--------------------------------------------------
+Incentives: 8 GB Data,  120 Other Network Min,  1000 Jazz Min  1000 SMS
+Validity: 7 Days
+Time_Duration: I don't have updated information about this.
+Recursive:  No
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: *505# / *157# / *159# / *770#
+Unsubscription code: *505*4#
+Offer Status Code: *505*2#
+Offer info code: *505*3#
+Offer Type: Prepaid
+Charges: Rs.374 Incl Tax
+
+
+OFFER: Lajawab Plus Offer 
+--------------------------------------------------
+Incentives: 8GB Social, 4000 Onnet MIN,8Offnet MIN, 4000 SMS
+Validity: X+6 Days
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: *5655#
+Unsubscription code: *5655*4#
+Offer Status Code: *5655*2#
+Offer info code: *5655*3#
+Offer Type: Prepaid
+Charges: Rs. 173
+
+
+OFFER: Bol Karachi Bol
+--------------------------------------------------
+Incentives: 1,000 All-Net Mins , 1000 sms
+Validity: 7 days
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *2111#
+Unsubscription code: *2111*4#
+Offer Status Code: *2111*2#
+Offer info code: *2111*3#
+Offer Type: Prepaid
+Charges: Rs. 140 (inc tax)
+
+
+OFFER: Monthly Gaming and Social - Monthly Social Plus
+--------------------------------------------------
+Incentives: 10GB (FB+WA+Tamasha), 50 Other Network Min, 300 Jazz Min & 1000 SMS
+Validity: X + 29 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *661# / *101*1*02# / *617#
+Unsubscription code: *661*4# / *101*4*02# / *617*4#
+Offer Status Code: *661*2# / *101*2*02# /  / *617*2#
+Offer info code: *661*3# / *101*3*02# /  / *617*3#
+Offer Type: Prepaid
+Charges: NWD: Rs.313 (incl. tax)
+
+
+OFFER: New Weekly Super Offer
+--------------------------------------------------
+Incentives: 15GB , 150 Other Network Min, 1000 Jazz Min & SMS
+Validity: x+6 Days
+Time_Duration: 24 Hrs
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hrs
+Subscription Code: *525#
+Unsubscription code: *525*4#
+Offer Status Code: *525*2#
+Offer info code: *525*3#
+Offer Type: Prepaid
+Charges: PKR 390 Incl.Tax
+
+
+OFFER: New Monthly Super Offer
+--------------------------------------------------
+Incentives: 14GB, 300 Other Network Min, 3000 Jazz Min & SMS
+Validity: x+29 Days
+Time_Duration: 24 Hrs
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hrs
+Subscription Code: *760#
+Unsubscription code: *760*4#
+Offer Status Code: *760*2#
+Offer info code: *760*3#
+Offer Type: Prepaid
+Charges: PKR 955 Incl.Tax
+
+
+OFFER: Weekly X
+--------------------------------------------------
+Incentives: 100GB (50GB Tamasha +YouTube + TikTok), 500 Other Network Min, 1000 Jazz Min & SMS  + Handset Insurance (Rs.50,000)
+Validity: X+6 Days
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 hrs
+Subscription Code: *7737#
+Unsubscription code: *7737*4#
+Offer Status Code: *7737*2#
+Offer info code: *7737*3#
+Offer Type: Prepaid
+Charges: PKR 475 (inc tax)
+
+
+OFFER: Monthly Gupshup Baadshah
+--------------------------------------------------
+Incentives: 30GB TikTok, Tamasha, YouTube, Facebook, WhatsApp, IMO, BiP, 300 Other Network Min, 3000 Jazz Min & 3000 SMS
+Validity: X+29
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 hrs
+Subscription Code: *719#
+Unsubscription code: *719*4#
+Offer Status Code: *719*2#
+Offer info code: *719*3#
+Offer Type: Prepaid
+Charges: PKR 869
+
+
+OFFER: SOUTH REACTIVATION OFFER
+--------------------------------------------------
+Incentives: 12 GBs (11PM-7PM) , 6GBs for first month and 6GBs for 2nd month, 100 Onnet Mins Daily for 2 months, 20 Offnet Mins for 2 months
+Validity: 2 months
+Time_Duration: 2 months
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 hours
+Subscription Code: *5511#
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: _
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: 1 paisa
+
+
+OFFER: Daily Super Hours (Old Name Daily Extreme)
+--------------------------------------------------
+Incentives: 2GB
+Validity: 24 hours
+Time_Duration: I don't have updated information about this.
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 12 AM – 12 PM
+Subscription Code: *757#
+Unsubscription code: *757*4#
+Offer Status Code: *757*2#
+Offer info code: *757*3#
+Offer Type: Prepaid
+Charges: Rs.35 (inc tax)
+
+
+OFFER: Monthly Bachat (Old Name Mahana Bachat Offer)
+--------------------------------------------------
+Incentives: 6GB (WA+IMO+ Tamasha ), 50 Other Network Min, 300 Jazz Min & 1000 SMS
+Validity: X+29 Days
+Time_Duration: 24 hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *614# / CRM / WhatsApp
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *614*2#
+Offer info code: *614*3#
+Offer Type: Prepaid
+Charges: Rs.275 (inc tax)
+
+
+OFFER: Monthly Video & Social - *625#
+--------------------------------------------------
+Incentives: 20GB TikTok, Tamasha, YouTube, Facebook, WhatsApp, IMO, BiP, 100 Other Network Min, 500 Jazz Min & 500 SMS
+Validity: x+29 Days
+Time_Duration: 24 Hrs
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hrs
+Subscription Code: *625#
+Unsubscription code: *625*4#
+Offer Status Code: *625*2#
+Offer info code: *625*3#
+Offer Type: Prepaid
+Charges: PKR 434 Incl.Tax
+
+
+OFFER: Monthly Video & Social - *625#
+--------------------------------------------------
+Incentives: 20GB TikTok, Tamasha, YouTube, Facebook, WhatsApp, IMO, BiP, 100 Other Network Min, 500 Jazz Min & 500 SMS
+Validity: x+29 Days
+Time_Duration: 24 Hrs
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24 Hrs
+Subscription Code: *625#
+Unsubscription code: *625*4#
+Offer Status Code: *625*2#
+Offer info code: *625*3#
+Offer Type: Prepaid
+Charges: PKR 434 Incl.Tax
+
+
+OFFER: Monthly X
+--------------------------------------------------
+Incentives: 200GB (100GB Tamasha + YouTube + TikTok), 1000 Other Network Min, 3000 Jazz Min & SMS + Handset Insurance (Rs.100,000)
+Validity: X+29 Days
+Time_Duration: 24 Hours
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: 24 Hours
+Subscription Code: *7733#
+Unsubscription code: *7733*4#
+Offer Status Code: *7733*2#
+Offer info code: *7733*3#
+Offer Type: Prepaid
+Charges: PKR  1739 (Recharge PKR 2000)
+
+
+OFFER: All Network Mini
+--------------------------------------------------
+Incentives: 225 All Network Minutes
+Validity: I don't have updated information about this.
+Time_Duration: 24hrs
+Recursive: Yes
+ProRated: I don't have updated information about this.
+Deposit: 24hrs
+Subscription Code: CRM + USSD *446# + WhatsApp
+Unsubscription code: CRM + USSD *446#
+Offer Status Code: *2222#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: Rs.363.83 [Excl Tax]
+
+
+OFFER: J-SMS1
+--------------------------------------------------
+Incentives: 250 SMS & 250 MB
+Validity: I don't have updated information about this.
+Time_Duration: 24hrs
+Recursive: Yes
+ProRated: I don't have updated information about this.
+Deposit: 24hrs
+Subscription Code: CRM + USSD  *441*17# + WhatsApp
+Unsubscription code: CRM
+Offer Status Code: I don't have updated information about this.
+Offer info code: *2222#
+Offer Type: Postpaid
+Charges: Rs.54.58 [Excl Tax]
+
+
+OFFER: J-SMS2
+--------------------------------------------------
+Incentives: 750 SMS & 750 MB
+Validity: I don't have updated information about this.
+Time_Duration: 24hrs
+Recursive: Yes
+ProRated: I don't have updated information about this.
+Deposit: 24hrs
+Subscription Code: CRM + USSD *441*18# + WhatsApp
+Unsubscription code: CRM
+Offer Status Code: *2222#
+Offer info code: *2222#
+Offer Type: Postpaid
+Charges: Rs.90.96 [Excl Tax]
+
+
+OFFER: J-SMS3
+--------------------------------------------------
+Incentives: 6000 SMS
+Validity: I don't have updated information about this.
+Time_Duration: 24hrs
+Recursive: Yes
+ProRated: I don't have updated information about this.
+Deposit: 24hrs
+Subscription Code: CRM + USSD *441*19# + WhatsApp
+Unsubscription code: CRM
+Offer Status Code: *2222#
+Offer info code: *2222#
+Offer Type: Postpaid
+Charges: Rs.163.73 [Excl Tax]
+
+
+OFFER: 100 All Net Add-On
+--------------------------------------------------
+Incentives: 100 all network minutes
+Validity: 30 Days
+Time_Duration: 24hrs
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: 24hrs
+Subscription Code: CRM + *446*3*2# + WhatsApp
+Unsubscription code: CRM
+Offer Status Code: *2222#
+Offer info code: *2222#
+Offer Type: Postpaid
+Charges: Rs.218.30 [Excl Tax]
+
+
+OFFER: Monthly Youtube (Jazz World and Jazz Cash only)
+--------------------------------------------------
+Incentives: 4.5 GB Youtube, 512 MBs
+Validity: X+29
+Time_Duration: 24hrs
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: Jazz World Jazz Cash only
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *
+Offer info code: Jazz World Jazz Cash 
+Offer Type: Prepaid
+Charges: Rs.85 (inc tax)
+
+
+OFFER: Monthly Youtube (Jazz World Jazz Cash only)
+--------------------------------------------------
+Incentives: 4.5 GB Youtube, 512 MBs
+Validity: X+29
+Time_Duration: 24hrs
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: Jazz World Jazz Cash only
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: Jazz World
+Offer info code: Jazz World Jazz Cash only
+Offer Type: Prepaid
+Charges: Rs.85 (inc tax)
+
+
+OFFER: PSL-9 X Jazz Recharge Promo - 2024
+--------------------------------------------------
+Incentives: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Time_Duration: I don't have updated information about this.
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: I don't have updated information about this.
+
+
+OFFER: PSL-9 X Jazz Recharge Promo - 2024
+--------------------------------------------------
+Incentives: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Time_Duration: I don't have updated information about this.
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: I don't have updated information about this.
+
+
+OFFER: PSL-9 X Jazz Recharge Promo - 2024
+--------------------------------------------------
+Incentives: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Time_Duration: I don't have updated information about this.
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: I don't have updated information about this.
+
+
+OFFER: Jazz Fanpulse x PSL 9 - 2024
+--------------------------------------------------
+Incentives: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Time_Duration: I don't have updated information about this.
+Recursive: --
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: I don't have updated information about this.
+
+
+OFFER: All in One Lite
+--------------------------------------------------
+Incentives: Data: 2GBs ; All Network Minutes: 100; SMS; 1000
+Validity: 1 Month
+Time_Duration: I don't have updated information about this.
+Recursive: Yes
+ProRated: Yes
+Deposit: I don't have updated information about this.
+Subscription Code: CRM/ *446# / WhatsApp
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *2222#
+Offer info code: I don't have updated information about this.
+Offer Type: Postpaid
+Charges: Rs.436.6 [Excl Tax] / Rs.600 [Incl Tax]
+
+
+OFFER: Sindh Haftawar Offer - *406#
+--------------------------------------------------
+Incentives: 20GB (10GB Whatsapp), 1000 All Network 1000 SMS
+Validity: 7 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *406#
+Unsubscription code: *406*4#
+Offer Status Code: *406*2#
+Offer info code: *406*3#
+Offer Type: Prepaid
+Charges: PKR : 252 (incl tax), Load Rs 290.
+
+
+OFFER: International Talk Pass (IDD Bundles)
+--------------------------------------------------
+Incentives: See details below
+Validity: See details below
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: App
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: I don't have updated information about this.
+
+
+OFFER: ROX product_2
+--------------------------------------------------
+Incentives: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Time_Duration: I don't have updated information about this.
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: I don't have updated information about this.
+
+
+OFFER: Weekly Fan Pulse 
+--------------------------------------------------
+Incentives: 50 GB + 50GB (Tamasha, YT, TikTok) ,1000 Onnet Mins, 500 Offnet Mins Mins & 1000 SMS
+Validity: X+6 Days
+Time_Duration: 24 hrs
+Recursive: no
+ProRated: no
+Deposit: 24hrs
+Subscription Code: *7377#(Suppressed)
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: *7377*2#
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: Rs 0
+
+
+OFFER: Insane Vibe
+--------------------------------------------------
+Incentives: 200Gb data, 5000 all net , 5000 sms
+Validity: 30 Days
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: 2100 (inc tax)
+
+
+OFFER: Crazy Vibe
+--------------------------------------------------
+Incentives: 75Gb Data, 2500 all net, 2500 sms
+Validity: 30 Days
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: 1800
+
+
+OFFER: Basic Vibe
+--------------------------------------------------
+Incentives: 25Gb, 2000 all-net , 2000 sms
+Validity: 30 Days
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: 1500
+
+
+OFFER: Booster & Buy now pay later (lifeline)
+--------------------------------------------------
+Incentives: 10 Gb data, 300 all-net mins, 300 sms
+Validity: as per vibe bundle
+Time_Duration: I don't have updated information about this.
+Recursive: No
+ProRated: No
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: Load price Rs.200
+
+
+OFFER: ROX Application - Features & Rules
+--------------------------------------------------
+Incentives: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Time_Duration: I don't have updated information about this.
+Recursive: I don't have updated information about this.
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription code: I don't have updated information about this.
+Offer Status Code: I don't have updated information about this.
+Offer info code: I don't have updated information about this.
+Offer Type: Prepaid
+Charges: I don't have updated information about this.
+
+
+OFFER: Weekly Star - *508#
+--------------------------------------------------
+Incentives: 20GB, 150 Other Network Min, 1000 Jazz Min & SMS
+Validity: x+6 days
+Time_Duration: 24hrs
+Recursive: No
+ProRated: I don't have updated information about this.
+Deposit: I don't have updated information about this.
+Subscription Code: *508#
+Unsubscription code: *508*4#
+Offer Status Code: *508*2#
+Offer info code: *508*3#
+Offer Type: Prepaid
+Charges: Rs 0
+
+
+OFFER: Monthly Star (Old name: Monthly Hybrid Offer)
+--------------------------------------------------
+Incentives: 3000 on-net, 500 off-net, 3000 SMS, 20GB
+Validity: 30 Days
+Time_Duration: 24 Hours
+Recursive: No
+ProRated: No
+Deposit: 24 hours
+Subscription Code: *430#
+Unsubscription code: *430*4#
+Offer Status Code: *430*2#
+Offer info code: *430*3#
+Offer Type: Prepaid
+Charges: PKR 1215 (Inc tax)
+
+
