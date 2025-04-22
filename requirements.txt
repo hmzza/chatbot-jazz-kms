@@ -1,0 +1,9 @@
+flask
+qdrant-client
+langchain
+langchain-community
+langchainhub
+sentence-transformers
+huggingface-hub
+python-dotenv
+qdrant-client

@@ -1,0 +1,1470 @@
+Package Name: Jazz Budget
+Type: Prepaid
+On-Network Calls: Rs.3.50/60 sec (Incl. Tax)  | Tax: Rs.3.50/60 sec (Incl. Tax)
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: Rs.3.50/60 sec (Incl. Tax) | Tax: Rs.3.50/60 sec (Incl. Tax)
+Off-Network SMS: 2.09+tax/sms | Tax: 2.5/sms
+On-Network SMS: 2.09+tax/sms | Tax: 2.5/sms
+International SMS: Rs.10+tax/sms | Tax: Rs. 11.98/sms
+MMS 50KB: 6 rs
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: *301#
+
+Package Name: Champion Package
+Type: Prepaid
+On-Network Calls: Rs 3.50/Minute Incl Tax | Tax: Rs 3.50/Minute Incl Tax
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: Rs 3.50/Minute Incl Tax | Tax: Rs 3.50/Minute Incl Tax
+Off-Network SMS: Rs 2.5/SMS Incl Tax | Tax: I don't have updated information about this.
+On-Network SMS: Rs 2.5/SMS Incl Tax | Tax: Rs 2.5/SMS Incl Tax
+International SMS: Rs. 10/SMS + Tax | Tax: Rs 11.95 incl. tax
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: *337#
+
+Package Name: J300
+Type: Postpaid
+On-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75 | Tax: Rs. 0.90
+Off-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: 0.75 + tax | Tax: 2.09/min
+On-Network SMS: Rs.0.75 | Tax: Rs. 0.90
+International SMS: 5.00 /SMS | Tax: 5.98
+MMS 50KB: I don't have updated information about this.
+Data MB: 5/MB
+On-Network Incentives Minutes: 1000
+Off-Network Incentives Minutes: 165
+2G/3G Incentives Minutes: 3 GB [1.5 GB Social]
+Local Network SMS: 1000 SMS (All Network)
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: 1000
+ISD Security Deposit: 1000
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Jazz One
+Type: Prepaid
+On-Network Calls: Rs.3.50 (incl.tax)  / 60 Seconds | Tax: Rs.3.50 (incl.tax)  / 60 Seconds
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: Rs.3.50 (incl.tax)  / 60 Seconds | Tax: Rs.3.50 (incl.tax)  / 60 Seconds
+Off-Network SMS: Rs. 2.15+tax / SMS | Tax: 2.50/sms
+On-Network SMS: Rs. 2.15+ tax/sms | Tax: 2.50/sms
+International SMS: 10+tax | Tax: 11.98/sms
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: *302#
+
+Package Name: Jazz Easy
+Type: Prepaid
+On-Network Calls: Rs. 3.50 (inc tax) / 60 sec | Tax: Rs. 3.50 (inc tax) / 60 sec
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: Rs. 3.50 (inc tax) / 60 sec | Tax: Rs. 3.50 (inc tax) / 60 sec
+Off-Network SMS: Rs. 2.50/sms | Tax: I don't have updated information about this.
+On-Network SMS: Rs. 2.50/sms | Tax: Rs. 2.50/sms
+International SMS: Rs. 11.95 inc tax | Tax: Rs. 11.95 inc tax
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: *305#
+
+Package Name: Champion Package II
+Type: Prepaid
+On-Network Calls: Rs 3.50/Minute Incl Tax | Tax: Rs 3.50/Minute Incl Tax
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: Rs 3.50/Minute Incl Tax | Tax: Rs 3.50/Minute Incl Tax
+Off-Network SMS: Rs 2.5/SMS | Tax: Rs 2.5/SMS
+On-Network SMS: Rs 2.5/SMS | Tax: Rs 2.5/SMS
+International SMS: Rs 10/SMS + Tax | Tax: Rs 11.95 incl. tax
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: *337#
+
+Package Name: Special Afghan SIM
+Type: Prepaid
+On-Network Calls: Rs. 0.84 | Tax: Rs. 0.90
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: Rs. 0.84 | Tax: Rs. 0.90
+Off-Network SMS: Rs. 1.00 | Tax: I don't have updated information about this.
+On-Network SMS: Rs. 1.00 | Tax: I don't have updated information about this.
+International SMS: Rs. 5.00 | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+
+Package Name: IDD World SIM
+Type: Prepaid
+On-Network Calls: Rs. 2 | Tax: I don't have updated information about this.
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: Rs. 2 | Tax: I don't have updated information about this.
+Off-Network SMS: Rs. 1 | Tax: I don't have updated information about this.
+On-Network SMS: Rs. 1 | Tax: I don't have updated information about this.
+International SMS: Rs. 5 | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+
+Package Name: Glow Champion 
+Type: Prepaid
+On-Network Calls: Rs. 3.50/Minute Incl Tax | Tax: Rs. 3.50/Minute Incl Tax
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: Rs. 3.50/Minute Incl Tax | Tax: Rs. 3.50/Minute Incl Tax
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: Rs. 2.5/SMS | Tax: Rs. 2.5/SMS
+International SMS: Rs 11.95 incl tax | Tax: Rs 11.95 incl tax
+MMS 50KB: Rs0.60
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+
+Package Name: M300
+Type: Postpaid
+On-Network Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: Rs. 0.75 | Tax: 0.90/min
+Off-Network Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network SMS: Rs. 0.75+tax | Tax: I don't have updated information about this.
+On-Network SMS: Rs. 0.75+tax | Tax: I don't have updated information about this.
+International SMS: Rs. 5 | Tax: Rs. 5.98/sms
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs. 2+tax
+On-Network Incentives Minutes: 150
+Off-Network Incentives Minutes: 150
+2G/3G Incentives Minutes: 1 GB
+Local Network SMS: 150 SMS
+SMS Line Rental: 25
+NWD Security Deposit: 1000
+ISD Security Deposit: 1500
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: M400
+Type: Postpaid
+On-Network Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75/min | Tax: Rs. 0.90/min
+Off-Network Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network SMS: Rs. 1.60/SMS | Tax: I don't have updated information about this.
+On-Network SMS: Rs. 0.75+tax/SMS | Tax: I don't have updated information about this.
+International SMS: Rs5 | Tax: Rs. 5.98/sms
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: 1.5 GB
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: Rs0.25
+NWD Security Deposit: Rs0.12
+ISD Security Deposit: Rs. 1500
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: M600
+Type: Postpaid
+On-Network Calls: Rs. 1.50 | Tax: 1.79/min
+PTCL Calls: Rs. 1.50 | Tax: 1.79/min
+FNF Calls: Rs. 0.75 | Tax: 0.90/min
+Off-Network Calls: Rs. 1.50 | Tax: 1.79/min
+Off-Network SMS: Rs. 1.50 | Tax: I don't have updated information about this.
+On-Network SMS: Rs. 0.75 | Tax: 0.90/min
+International SMS: Rs. 5.00 | Tax: Rs. 5.98/sms
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs. 2
+On-Network Incentives Minutes: 300
+Off-Network Incentives Minutes: 300
+2G/3G Incentives Minutes: 1024 MB
+Local Network SMS: 300 SMS
+SMS Line Rental: Rs. 25
+NWD Security Deposit: Rs. 1500
+ISD Security Deposit: Rs. 1500
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: J600
+Type: Postpaid
+On-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75 | Tax: Rs. 0.90
+Off-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: Rs. 0.90
+On-Network SMS: Rs.0.75 | Tax: Rs. 0.90
+International SMS: 5.98/SMS | Tax: 5.98/SMS
+MMS 50KB: Rs0.60
+Data MB: Rs0.20
+On-Network Incentives Minutes: 2000
+Off-Network Incentives Minutes: 300
+2G/3G Incentives Minutes: 3GBs+2GBs(Social,WA,FB)
+Local Network SMS: 2000 SMS
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: 1,500
+ISD Security Deposit: 1500
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: M100
+Type: Postpaid
+On-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: Rs. 0.75 | Tax: 0.90/min
+Off-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: 1.91/sms | Tax: I don't have updated information about this.
+On-Network SMS: Rs. 0.75 | Tax: 0.90/sms
+International SMS: 5.98/SMS | Tax: 0.98
+MMS 50KB: Rs0.60
+Data MB: Rs0.20
+On-Network Incentives Minutes: Na
+Off-Network Incentives Minutes: Na
+2G/3G Incentives Minutes: 500 MBs
+Local Network SMS: Rs. 1.60
+SMS Line Rental: 25
+NWD Security Deposit: 1200
+ISD Security Deposit: 1200
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: J999
+Type: Postpaid
+On-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75 | Tax: 0.90/min
+Off-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: 0.90/min | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75 | Tax: 0.90/min
+International SMS: Rs.5+tax | Tax: 5.98
+MMS 50KB: Rs0.60
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 5000
+Off-Network Incentives Minutes: 500
+2G/3G Incentives Minutes: 5GB+5GBs (Social,WA,FB)
+Local Network SMS: 5000 SMS
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: 1500
+ISD Security Deposit: 1500
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: J1500
+Type: Postpaid
+On-Network Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75/min | Tax: 0.90/min
+Off-Network Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network SMS: 0.90/SMS | Tax: I don't have updated information about this.
+On-Network SMS: Rs. 0.75 | Tax: 0.90/SMS
+International SMS: Rs. 5/ SMS | Tax: 5.98
+MMS 50KB: Rs0.60
+Data MB: Rs.2+Tax
+On-Network Incentives Minutes: 7,000 Minutes and SMS
+Off-Network Incentives Minutes: 500
+2G/3G Incentives Minutes: 7GBs+7GBs (Social,WA ,FB)
+Local Network SMS: 7000 SMS
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: 2500
+ISD Security Deposit: 2500
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Ex Employee FNF
+Type: Postpaid
+On-Network Calls: Rs. 0.75/Min | Tax: I don't have updated information about this.
+PTCL Calls: Rs 1.50/Min | Tax: I don't have updated information about this.
+FNF Calls: Rs. 0.75/Min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs 1.50/Min | Tax: I don't have updated information about this.
+Off-Network SMS: Rs 1.50/Min | Tax: Rs 1.50/Min
+On-Network SMS: Rs 0.10/SMS | Tax: I don't have updated information about this.
+International SMS: Rs. 5.00 | Tax: Rs. 5.00
+MMS 50KB: Rs. 6.50
+Data MB: 25GB
+On-Network Incentives Minutes: Total 500 (OnNet + OffNet)
+Off-Network Incentives Minutes: Total 500 (OnNet + OffNet)
+2G/3G Incentives Minutes: 25GB
+Local Network SMS: 6000
+SMS Line Rental: 0
+NWD Security Deposit: 0
+ISD Security Deposit: 0
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Ex Employee FNF
+Type: Postpaid
+On-Network Calls: Rs. 0.75/Min | Tax: I don't have updated information about this.
+PTCL Calls: Rs 1.50/Min | Tax: I don't have updated information about this.
+FNF Calls: Rs. 0.75/Min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs 1.50/Min | Tax: I don't have updated information about this.
+Off-Network SMS: Rs 1.50/Min | Tax: Rs 1.50/Min
+On-Network SMS: Rs 0.10/SMS | Tax: I don't have updated information about this.
+International SMS: Rs. 5.00 | Tax: Rs. 5.00
+MMS 50KB: Rs. 6.50
+Data MB: 25GB
+On-Network Incentives Minutes: Total 500 (OnNet + OffNet)
+Off-Network Incentives Minutes: Total 500 (OnNet + OffNet)
+2G/3G Incentives Minutes: 25GB
+Local Network SMS: 6000 SMS
+SMS Line Rental: 0
+NWD Security Deposit: 0
+ISD Security Deposit: 0
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Dealer Package
+Type: Postpaid
+On-Network Calls: Rs. 0.50+tax | Tax: Rs. 0.50+tax
+PTCL Calls: 1.25/Min | Tax: 1.25/Min
+FNF Calls: Rs. 0.50+tax | Tax: Rs. 0.50+tax
+Off-Network Calls: 1.25/Min | Tax: 1.25/Min
+Off-Network SMS: Rs. 1.51+tax | Tax: Rs. 1.51+tax
+On-Network SMS: 0.10/SMS | Tax: 0.10/SMS
+International SMS: 0 | Tax: 0
+MMS 50KB: Rs. 6.50+tax
+Data MB: 50GB
+On-Network Incentives Minutes: 0
+Off-Network Incentives Minutes: 0
+2G/3G Incentives Minutes: 50GB
+Local Network SMS: 6000
+SMS Line Rental: 0
+NWD Security Deposit: 0
+ISD Security Deposit: 0
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Official Special
+Type: Postpaid
+On-Network Calls: Rs 0.5/Min | Tax: Rs 0.5/Min
+PTCL Calls: Rs 1.25/Min | Tax: Rs 1.25/Min
+FNF Calls: Rs 0.5/Min | Tax: Rs 0.5/Min
+Off-Network Calls: Rs 1.25/Min | Tax: Rs 1.25/Min
+Off-Network SMS: Rs 0.10/SMS | Tax: Rs 0.10/SMS
+On-Network SMS: Rs 0.10/SMS | Tax: Rs 0.10/SMS
+International SMS: Rs. 5.00 | Tax: Rs. 5.00
+MMS 50KB: Rs. 6.50
+Data MB: 25GB
+On-Network Incentives Minutes: 0
+Off-Network Incentives Minutes: 0
+2G/3G Incentives Minutes: 25GB
+Local Network SMS: 6000
+SMS Line Rental: 0
+NWD Security Deposit: 0
+ISD Security Deposit: 0
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Official
+Type: Postpaid
+On-Network Calls: Rs 0.04/Min | Tax: Rs 0.04/Min
+PTCL Calls: Rs 0.75/Min | Tax: Rs 0.75/Min
+FNF Calls: Rs 0.04/Min | Tax: Rs 0.04/Min
+Off-Network Calls: Rs 0.75/Min | Tax: Rs 0.75/Min
+Off-Network SMS: Rs 0.10/SMS | Tax: Rs 0.10/SMS
+On-Network SMS: Rs 0.10/SMS | Tax: Rs 0.10/SMS
+International SMS: 0 | Tax: 0
+MMS 50KB: Rs. 6.50
+Data MB: 50GB
+On-Network Incentives Minutes: 0
+Off-Network Incentives Minutes: 0
+2G/3G Incentives Minutes: 50GB
+Local Network SMS: 6000
+SMS Line Rental: 0
+NWD Security Deposit: 0
+ISD Security Deposit: 0
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Employee
+Type: Postpaid
+On-Network Calls: Rs. 0.75/Min | Tax: I don't have updated information about this.
+PTCL Calls: Rs 1.50/Min | Tax: I don't have updated information about this.
+FNF Calls: Rs. 0.75/Min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs 1.50/Min | Tax: I don't have updated information about this.
+Off-Network SMS: Rs 0.10/SMS | Tax: Rs 0.10/SMS
+On-Network SMS: Rs 0.10/SMS | Tax: I don't have updated information about this.
+International SMS: Rs. 3.00 | Tax: I don't have updated information about this.
+MMS 50KB: 0
+Data MB: 25GB
+On-Network Incentives Minutes: 0
+Off-Network Incentives Minutes: 0
+2G/3G Incentives Minutes: 25GB
+Local Network SMS: 6000
+SMS Line Rental: 0
+NWD Security Deposit: 0
+ISD Security Deposit: 0
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Official for Testing
+Type: Postpaid
+On-Network Calls: Rs. 0.50+tax | Tax: Rs. 0.50+tax
+PTCL Calls: Rs 1.25/Min | Tax: Rs 1.25/Min
+FNF Calls: Rs. 0.50+tax | Tax: Rs. 0.50+tax
+Off-Network Calls: Rs 1.25/Min | Tax: Rs 1.25/Min
+Off-Network SMS: Rs 0.10/SMS | Tax: Rs 0.10/SMS
+On-Network SMS: Rs 0.10/SMS | Tax: Rs 0.10/SMS
+International SMS: 0 | Tax: 0
+MMS 50KB: Rs 5+tax
+Data MB: 25GB
+On-Network Incentives Minutes: 0
+Off-Network Incentives Minutes: 0
+2G/3G Incentives Minutes: 25GB
+Local Network SMS: 6000
+SMS Line Rental: 0
+NWD Security Deposit: 0
+ISD Security Deposit: 0
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: ExOfficial Package (ExPMCL)
+Type: Postpaid
+On-Network Calls: Rs. 0.50+tax | Tax: Rs. 0.50+tax
+PTCL Calls: Rs 1.25/Min | Tax: Rs 1.25/Min
+FNF Calls: Rs. 0.50+tax | Tax: Rs. 0.50+tax
+Off-Network Calls: Rs 1.25/Min | Tax: Rs 1.25/Min
+Off-Network SMS: Rs 0.10/SMS | Tax: Rs 0.10/SMS
+On-Network SMS: Rs 0.10/SMS | Tax: Rs 0.10/SMS
+International SMS: Rs. 5.00 | Tax: Rs. 5.00
+MMS 50KB: Rs 5+tax
+Data MB: 25GB
+On-Network Incentives Minutes: 0
+Off-Network Incentives Minutes: 0
+2G/3G Incentives Minutes: 25GB
+Local Network SMS: 6000
+SMS Line Rental: 0
+NWD Security Deposit: 1000
+ISD Security Deposit: 1000
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Retailer Package
+Type: Prepaid
+On-Network Calls: Rs. 0.68+tax | Tax: Rs. 0.68+tax
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: Rs. 0.68+tax | Tax: Rs. 0.68+tax
+Off-Network SMS: Rs 1.5+tax | Tax: Rs 1.5+tax
+On-Network SMS: Rs 1.5+tax | Tax: Rs 1.5+tax
+International SMS: Rs.10.00+tax | Tax: Rs.11.95
+MMS 50KB: Rs. 6+tax
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: 0
+
+Package Name: MBusiness
+Type: Postpaid
+On-Network Calls: Rs. 1/minute | Tax: Rs. 1/minute
+PTCL Calls: Rs 1.50/Min | Tax: Rs 1.50/Min
+FNF Calls: Rs. 1/minute | Tax: Rs. 1/minute
+Off-Network Calls: Rs 1.50/Min | Tax: Rs 1.50/Min
+Off-Network SMS: Rs 1.5+tax | Tax: Rs 1.5+tax
+On-Network SMS: Rs. 0.20 | Tax: Rs. 0.20
+International SMS: Rs. 5.00+tax | Tax: Rs. 5.00+tax
+MMS 50KB: Rs 5+tax
+Data MB: 0
+On-Network Incentives Minutes: 60
+Off-Network Incentives Minutes: 40
+2G/3G Incentives Minutes: 0
+Local Network SMS: 0
+SMS Line Rental: 0
+NWD Security Deposit: 1200
+ISD Security Deposit: 1500
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: MUnlimited Basic
+Type: Postpaid
+On-Network Calls: Rs. 0.3+tax | Tax: Rs. 0.3+tax
+PTCL Calls: Rs 1.55+tax | Tax: Rs 1.55+tax
+FNF Calls: Rs. 0.3+tax | Tax: Rs. 0.3+tax
+Off-Network Calls: Rs 1.55+tax | Tax: Rs 1.55+tax
+Off-Network SMS: Rs 1.05+tax | Tax: Rs 1.05+tax
+On-Network SMS: Rs. 0.20+tax | Tax: Rs. 0.20+tax
+International SMS: Rs. 5.00+tax | Tax: Rs. 5.00+tax
+MMS 50KB: Rs 0.6+tax
+Data MB: 0
+On-Network Incentives Minutes: 2800
+Off-Network Incentives Minutes: 1200
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: 1000 On Net Only
+SMS Line Rental: Rs 25+tax
+NWD Security Deposit: 5000
+ISD Security Deposit: 5000
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: MUnlimited Premium
+Type: Postpaid
+On-Network Calls: Rs 0.30+tax | Tax: Rs 0.30+tax
+PTCL Calls: Rs 0.82+tax | Tax: Rs 0.82+tax
+FNF Calls: Rs 0.30+tax | Tax: Rs 0.30+tax
+Off-Network Calls: Rs 1.55+tax | Tax: Rs 1.55+tax
+Off-Network SMS: Rs 0.20+tax | Tax: Rs 0.20+tax
+On-Network SMS: Rs. 0.20+tax | Tax: Rs. 0.20+tax
+International SMS: Rs. 5.00+tax | Tax: Rs. 5.00+tax
+MMS 50KB: Rs 5+tax
+Data MB: 0
+On-Network Incentives Minutes: 2800
+Off-Network Incentives Minutes: 1200
+2G/3G Incentives Minutes: 0
+Local Network SMS: 1000 On Net Only
+SMS Line Rental: Rs 25+tax
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Jazz lite 
+Type: Prepaid
+On-Network Calls: I don't have updated information about this. | Tax: Rs. 1.80/30 Sec
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: I don't have updated information about this. | Tax: Rs. 1.80/30 Sec
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: I don't have updated information about this. | Tax: Rs.2.15
+International SMS: 10+tax / SMS | Tax: 11.95/sms
+MMS 50KB: Rs 6 / 50 KB
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: *306#
+
+Package Name: MInitial (Discontinued)
+Type: Postpaid
+On-Network Calls: 2 rs | Tax: I don't have updated information about this.
+PTCL Calls: 2.15 | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: 2.15 | Tax: I don't have updated information about this.
+Off-Network SMS: 2.15 | Tax: I don't have updated information about this.
+On-Network SMS: 1 | Tax: I don't have updated information about this.
+International SMS: 5 | Tax: I don't have updated information about this.
+MMS 50KB: 6
+Data MB: 18
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: 2.15
+SMS Line Rental: 25/ rs
+NWD Security Deposit: 2000
+ISD Security Deposit: 2500
+IR Security Deposit: 20000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Postpaid Hybrid Bolt ONs
+Type: Postpaid
+On-Network Calls: As per main package | Tax: As per main package
+PTCL Calls: As per main package | Tax: As per main package
+FNF Calls: As per main package | Tax: As per main package
+Off-Network Calls: As per main package | Tax: As per main package
+Off-Network SMS: As per main package | Tax: As per main package
+On-Network SMS: As per main package | Tax: As per main package
+International SMS: As per main package | Tax: As per main package
+MMS 50KB: As per main package
+Data MB: As per main package
+On-Network Incentives Minutes: As per main package
+Off-Network Incentives Minutes: As per main package
+2G/3G Incentives Minutes: As per main package
+Local Network SMS: As per main package
+SMS Line Rental: As per main package
+NWD Security Deposit: As per main package
+ISD Security Deposit: As per main package
+IR Security Deposit: As per main package
+Subscription Code: I don't have updated information about this.
+
+Package Name: M999
+Type: Postpaid
+On-Network Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: 0.90/min
+Off-Network Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network SMS: 0.90+tax/sms | Tax: I don't have updated information about this.
+On-Network SMS: Rs. 0.75+tax/SMS | Tax: I don't have updated information about this.
+International SMS: Rs. 5+tax/SMS | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 3000
+Off-Network Incentives Minutes: 650
+2G/3G Incentives Minutes: 4 GB Data [2G, 3G, 4G]
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: Rs. 25
+NWD Security Deposit: Rs. 1500
+ISD Security Deposit: Rs. 1500
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: M900
+Type: Postpaid
+On-Network Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.45/min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network SMS: 1.91/sms | Tax: I don't have updated information about this.
+On-Network SMS: Rs. 0.75+tax/SMS | Tax: I don't have updated information about this.
+International SMS: Rs. 5+tax/SMS | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs. 2/MB
+On-Network Incentives Minutes: 950 AllNet Mins
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: 3 GB Data [2G, 3G, 4G]
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs. 1500
+ISD Security Deposit: Rs. 1500
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: J300 Test
+Type: Postpaid
+On-Network Calls: Rs.1.75 | Tax: Rs.1.75
+PTCL Calls: Rs. 1.90 | Tax: Rs.0.75
+FNF Calls: Rs. 0.90 | Tax: Rs.0.75
+Off-Network Calls: Rs. 1.90 | Tax: Rs.1.75
+Off-Network SMS: 1.9 | Tax: 5.00 /SMS
+On-Network SMS: Rs1 | Tax: 0.75 + tax
+International SMS: 5.98 | Tax: 5.98
+MMS 50KB: I don't have updated information about this.
+Data MB: 5/MB
+On-Network Incentives Minutes: 1000
+Off-Network Incentives Minutes: 150
+2G/3G Incentives Minutes: 500 MB Data + 500MB social
+Local Network SMS: 0.75 + tax
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: 1000
+ISD Security Deposit: 1000
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: M1500
+Type: Postpaid
+On-Network Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network SMS: Rs. 1.35+tax/SMS | Tax: I don't have updated information about this.
+On-Network SMS: Rs. 0.50+tax/SMS | Tax: I don't have updated information about this.
+International SMS: Rs. 5.00+tax | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: 900
+On-Network Incentives Minutes: 1500
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: 5GB
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: 25
+NWD Security Deposit: 2500
+ISD Security Deposit: 2500
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: W350(DBSS Package)
+Type: Postpaid
+On-Network Calls: Rs 2.2+tax/min | Tax: I don't have updated information about this.
+PTCL Calls: Rs 2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: Rs 0.75/min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs 2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: Rs 0.75+tax | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX/SMS | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 100
+Off-Network Incentives Minutes: 100
+2G/3G Incentives Minutes: 0
+Local Network SMS: 100 SMS
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs1,000
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+
+Package Name: W375(DBSS Package)
+Type: Postpaid
+On-Network Calls: Rs 2.2+tax/min | Tax: I don't have updated information about this.
+PTCL Calls: Rs 2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75 | Tax: Rs.0.75
+Off-Network Calls: Rs 2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75+tax | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX  | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 200
+Off-Network Incentives Minutes: 125
+2G/3G Incentives Minutes: 0
+Local Network SMS: 100 SMS
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs1,000
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+
+Package Name: W699(DBSS Package)
+Type: Postpaid
+On-Network Calls: Rs 2.2+tax/min | Tax: I don't have updated information about this.
+PTCL Calls: Rs 2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75 | Tax: Rs.0.75
+Off-Network Calls: Rs 2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75+tax | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX  | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 350
+Off-Network Incentives Minutes: 225
+2G/3G Incentives Minutes: 0
+Local Network SMS: 200 SMS
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs0.15
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+
+Package Name: W1025(DBSS Package)
+Type: Postpaid
+On-Network Calls: Rs 2.2+tax/min | Tax: I don't have updated information about this.
+PTCL Calls: Rs 2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75 | Tax: Rs.0.75
+Off-Network Calls: Rs 2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75 | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX  | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 500
+Off-Network Incentives Minutes: 350
+2G/3G Incentives Minutes: 0
+Local Network SMS: 300
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs1,500
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+
+Package Name: W3375(DBSS Package)
+Type: Postpaid
+On-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75/min | Tax: Rs.0.75
+Off-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75 | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX  | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 2000
+Off-Network Incentives Minutes: 650
+2G/3G Incentives Minutes: 6 GBs
+Local Network SMS: 1000
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs5,000
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+
+Package Name: W5500(DBSS Package)
+Type: Postpaid
+On-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75 | Tax: Rs.0.75
+Off-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75 | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX  | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 6000
+Off-Network Incentives Minutes: 700
+2G/3G Incentives Minutes: 12 GBs
+Local Network SMS: 6000
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs7,500
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+
+Package Name: WP1000F31000 CHARGEON60SEC 3FNF
+Type: Postpaid
+On-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75/min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: Rs 1/SMS | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.5 | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX  | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: Rs500
+Off-Network Incentives Minutes: 500
+2G/3G Incentives Minutes: 1GB
+Local Network SMS: 400
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs2,000
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: BASICDOFFIDEMO/ FRANCHISE OFFI PKG
+Type: Postpaid
+On-Network Calls: 0.005 /  1sec | Tax: I don't have updated information about this.
+PTCL Calls: 0.0142 / 1sec | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: 0.023 / 1sec | Tax: I don't have updated information about this.
+Off-Network SMS: Rs 1/SMS | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.5 | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX  | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: 0
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs1,000
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: FEMPLFRANCHISE EMPL FAMILY PKG
+Type: Postpaid
+On-Network Calls: 0.8 /60sec | Tax: I don't have updated information about this.
+PTCL Calls: 1.1 / 60sec | Tax: I don't have updated information about this.
+FNF Calls: 0.5 /60sec | Tax: I don't have updated information about this.
+Off-Network Calls: 1.6 /60sec | Tax: I don't have updated information about this.
+Off-Network SMS: Rs 1/SMS | Tax: I don't have updated information about this.
+On-Network SMS: Rs 0.5/sms | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX  | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: 0
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs1,000
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: ZAHI1500AZAHI 1500 30Sec
+Type: Postpaid
+On-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: 0.2/30sec MonFri; 0.2/30sec SatSun | Tax: I don't have updated information about this.
+Off-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: 0.5 / SMS | Tax: I don't have updated information about this.
+International SMS: 5 / SMS | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: 2/MB
+On-Network Incentives Minutes: 900 Warid mins
+Off-Network Incentives Minutes: 600 Other Network mins
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: 250 local sms
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: 3000
+ISD Security Deposit: 1500
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: DEMPLDEMO EMPL FAMILY PKG
+Type: Postpaid
+On-Network Calls: See Notes | Tax: I don't have updated information about this.
+PTCL Calls: See Notes | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: See Notes | Tax: I don't have updated information about this.
+Off-Network SMS: 0.2 / SMS | Tax: I don't have updated information about this.
+On-Network SMS: 0.2 / SMS | Tax: I don't have updated information about this.
+International SMS: 0.5 / SMS | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: 0
+NWD Security Deposit: 1000
+ISD Security Deposit: 1500
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: DOFFIDEMO/ FRANCHISE OFFI PKG
+Type: Postpaid
+On-Network Calls: 0.005 /  1sec | Tax: I don't have updated information about this.
+PTCL Calls: 0.0142 / 1sec | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: 0.023 / 1sec | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: 0.5  / SMS | Tax: I don't have updated information about this.
+International SMS: 5 /SMS | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: 2/MB
+On-Network Incentives Minutes: 0
+Off-Network Incentives Minutes: 0
+2G/3G Incentives Minutes: 0
+Local Network SMS: 1  / SMS
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: 1500
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Jazz 24 Hours
+Type: Prepaid
+On-Network Calls: 3.5/60s | Tax: 3.5/60s
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: I don't have updated information about this. | Tax: 3.5/60s
+Off-Network SMS: 2.5 | Tax: I don't have updated information about this.
+On-Network SMS: 2.5 | Tax: 2.5
+International SMS: 5+tax | Tax: 5.98
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+
+Package Name: Jazz budget plus (Expired)
+Type: Prepaid
+On-Network Calls: 2.39 / min | Tax: I don't have updated information about this.
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: 2.39 / min | Tax: I don't have updated information about this.
+Off-Network SMS: 1.2 / SMS | Tax: I don't have updated information about this.
+On-Network SMS: 1.2 / SMS | Tax: I don't have updated information about this.
+International SMS: 5.98 / SMS | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+
+Package Name: Gold Ultimate (Gold 1999)
+Type: Postpaid
+On-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75 | Tax: Rs.0.75
+Off-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: I don't have updated information about this. | Tax: 0.75
+International SMS: I don't have updated information about this. | Tax: Rs 5/sms
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 10,000
+Off-Network Incentives Minutes: 600
+2G/3G Incentives Minutes: 40GB
+Local Network SMS: 10,000
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs2,500
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Gold Plus (Gold 1199)
+Type: Postpaid
+On-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75 | Tax: Rs.0.75
+Off-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: I don't have updated information about this. | Tax: 0.75
+International SMS: I don't have updated information about this. | Tax: Rs 5/sms
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 6000
+Off-Network Incentives Minutes: 400
+2G/3G Incentives Minutes: 20 GB data 
+Local Network SMS: 6000 SMS
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs1,600
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Gold Basic (Gold 699)
+Type: Postpaid
+On-Network Calls: Rs.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75+tax/min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: Rs.0.75+tax | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75+tax | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX  | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 3000
+Off-Network Incentives Minutes: 200
+2G/3G Incentives Minutes: 10GB
+Local Network SMS: 3000
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs1,000
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Gold Basic Max
+Type: Postpaid
+On-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75/min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75 | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX  | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 3000
+Off-Network Incentives Minutes: 250
+2G/3G Incentives Minutes: 12 GB
+Local Network SMS: 3000
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: 1000
+ISD Security Deposit: 1500
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Gold Plus Max
+Type: Postpaid
+On-Network Calls: Rs.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75+tax/min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: Rs.0.75 | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75 | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX/SMS | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 6000
+Off-Network Incentives Minutes: 450
+2G/3G Incentives Minutes: 20GB 
+Local Network SMS: 6000 SMS
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs0.15
+ISD Security Deposit: Rs2,800
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Gold Ultimate Max
+Type: Postpaid
+On-Network Calls: Rs.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75/min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS: Rs.0.75 | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75 | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX  | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 10,000
+Off-Network Incentives Minutes: 650
+2G/3G Incentives Minutes: 40GB
+Local Network SMS: 10,000
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs0.20
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: M675
+Type: Postpaid
+On-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+FNF Calls: PKR 0.75/60 Sec | Tax: I don't have updated information about this.
+Off-Network Calls: Rs.2.2/min + tax | Tax: I don't have updated information about this.
+Off-Network SMS:  0.75/SMS | Tax: I don't have updated information about this.
+On-Network SMS: PKR 0.75/SMS | Tax: I don't have updated information about this.
+International SMS: PKR 5.00/SMS | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: 225
+Off-Network Incentives Minutes: 225
+2G/3G Incentives Minutes: 2GB
+Local Network SMS: 0
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: 1500
+ISD Security Deposit: 1500
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Postpay Economy
+Type: Postpaid
+On-Network Calls: Rs 2.2+tax | Tax: I don't have updated information about this.
+PTCL Calls: Rs 2.2+tax | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: Rs 2.2+tax | Tax: I don't have updated information about this.
+Off-Network SMS: 0.75+tax | Tax: I don't have updated information about this.
+On-Network SMS: 0.75+tax | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX/SMS | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 7000
+Off-Network Incentives Minutes: 700
+2G/3G Incentives Minutes: 7GB data 
+Local Network SMS: 7000
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: 2500
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Postpay Starter
+Type: Postpaid
+On-Network Calls: Rs 2.2+tax  | Tax: I don't have updated information about this.
+PTCL Calls: Rs 2.2+tax  | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75+tax/min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs 2.2+tax  | Tax: I don't have updated information about this.
+Off-Network SMS: Rs.0.75+tax | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75+tax | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX  | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 3000
+Off-Network Incentives Minutes: 300
+2G/3G Incentives Minutes: 3GB data 
+Local Network SMS: 3000
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs1,500
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Postpay Basic
+Type: Postpaid
+On-Network Calls: Rs 2.2+tax  | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75+tax/min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs 2.2+tax  | Tax: I don't have updated information about this.
+Off-Network SMS: Rs.0.75+tax | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75 | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX  | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 1000
+Off-Network Incentives Minutes: 100
+2G/3G Incentives Minutes: 1GB
+Local Network SMS: 1000
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs1,000
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Postpay Value
+Type: Postpaid
+On-Network Calls: Rs 2.2+tax  | Tax: I don't have updated information about this.
+PTCL Calls: Rs 2.2+tax  | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75+tax/min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs 2.2+tax  | Tax: I don't have updated information about this.
+Off-Network SMS: Rs.0.75+tax | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75+tax | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX/SMS | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 5000
+Off-Network Incentives Minutes: 500
+2G/3G Incentives Minutes: 5GB data 
+Local Network SMS: 5000
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs2,000
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Postpay Plus
+Type: Postpaid
+On-Network Calls: Rs 2.2+tax  | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: Rs.0.75+tax/min | Tax: I don't have updated information about this.
+Off-Network Calls: Rs 2.2+tax  | Tax: I don't have updated information about this.
+Off-Network SMS: Rs.0.75+tax | Tax: I don't have updated information about this.
+On-Network SMS: Rs.0.75+tax | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX/SMS | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 10,000
+Off-Network Incentives Minutes: 1000
+2G/3G Incentives Minutes: 10GB
+Local Network SMS: 10,000
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs3,250
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Postpay Mega
+Type: Postpaid
+On-Network Calls: PKR 1.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+PTCL Calls: PKR 1.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+FNF Calls: PKR 0.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+Off-Network Calls: PKR 1.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+Off-Network SMS: PKR 0.75/SMS [Exc. Tax] | Tax: I don't have updated information about this.
+On-Network SMS: PKR 0.75/SMS [Exc. Tax] | Tax: I don't have updated information about this.
+International SMS: PKR 5/SMS [Exc. Tax] | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: 12500 Onnet minutes
+Off-Network Incentives Minutes: 1250 Offnet minutes
+2G/3G Incentives Minutes: 12.5 GB Data [2G,3G,4G]
+Local Network SMS: PKR 0.75/SMS [Exc. Tax]
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs3,750
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Postpay Max
+Type: Postpaid
+On-Network Calls: PKR 1.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+PTCL Calls: PKR 1.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+FNF Calls: PKR 0.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+Off-Network Calls: PKR 1.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+Off-Network SMS: PKR 0.75/SMS [Exc. Tax] | Tax: I don't have updated information about this.
+On-Network SMS: PKR 0.75/SMS [Exc. Tax] | Tax: I don't have updated information about this.
+International SMS: PKR 5/SMS [Exc. Tax] | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: 20000 Onnet minutes
+Off-Network Incentives Minutes: 2000 Offnet minutes
+2G/3G Incentives Minutes: 20 GB Data [2G,3G,4G]
+Local Network SMS: PKR 0.75/SMS [Exc. Tax]
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: 7,500
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Postpay Ultimate
+Type: Postpaid
+On-Network Calls: PKR 1.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+PTCL Calls: PKR 1.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+FNF Calls: PKR 0.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+Off-Network Calls: PKR 1.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+Off-Network SMS: PKR 0.75/SMS [Exc. Tax] | Tax: I don't have updated information about this.
+On-Network SMS: PKR 0.75/SMS [Exc. Tax] | Tax: I don't have updated information about this.
+International SMS: PKR 5/SMS [Exc. Tax] | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: 15000 Onnet minutes
+Off-Network Incentives Minutes: 1500 Offnet minutes
+2G/3G Incentives Minutes: 15 GB Data [2G,3G,4G]
+Local Network SMS: PKR 0.75/SMS [Exc. Tax]
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: 5,000
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Gold Value
+Type: Postpaid
+On-Network Calls: PKR 1.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+PTCL Calls: Rs.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: PKR 0.75/60 Sec [Exc. Tax]
+Off-Network Calls: PKR 1.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+Off-Network SMS: PKR 0.75/60 Sec [Exc. Tax] | Tax: I don't have updated information about this.
+On-Network SMS: PKR 0.75/SMS [Exc. Tax] | Tax: I don't have updated information about this.
+International SMS: PKR 5/SMS [Exc. Tax] | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 4500
+Off-Network Incentives Minutes: 300
+2G/3G Incentives Minutes: 15GB data 
+Local Network SMS: 4500
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs1,500
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Jazz Red
+Type: Postpaid
+On-Network Calls: 2.2+tax/min | Tax: I don't have updated information about this.
+PTCL Calls: 2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: 2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network Calls: 2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network SMS: 0.75+tax/SMS | Tax: I don't have updated information about this.
+On-Network SMS: 0.75+tax/SMS | Tax: I don't have updated information about this.
+International SMS: 5+tax/SMS | Tax: Na
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 10000
+Off-Network Incentives Minutes: 1000
+2G/3G Incentives Minutes: 50GB data 
+Local Network SMS: 10000
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs2,500
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Jazz Red Z
+Type: Postpaid
+On-Network Calls: 2.2+tax/min | Tax: I don't have updated information about this.
+PTCL Calls: 2.2+tax/min | Tax: I don't have updated information about this.
+FNF Calls: 2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network Calls: 2.2+tax/min | Tax: I don't have updated information about this.
+Off-Network SMS: Rs 0.75+tax/SMS | Tax: I don't have updated information about this.
+On-Network SMS: Rs 0.75+tax/SMS | Tax: I don't have updated information about this.
+International SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: Rs.2+tax/MB
+On-Network Incentives Minutes: 20000
+Off-Network Incentives Minutes: 1000
+2G/3G Incentives Minutes: 100GB
+Local Network SMS: 20000 SMS
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: Rs3,000
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: Rs5,000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Postpaid Gold Classic
+Type: Postpaid
+On-Network Calls: PKR 2.2 + Tax | Tax: I don't have updated information about this.
+PTCL Calls: PKR 2.2 + Tax | Tax: I don't have updated information about this.
+FNF Calls: PKR 2.2 + Tax | Tax: I don't have updated information about this.
+Off-Network Calls: PKR 2.2 + Tax | Tax: I don't have updated information about this.
+Off-Network SMS: 0.75+tax | Tax: I don't have updated information about this.
+On-Network SMS: 0.75+tax | Tax: I don't have updated information about this.
+International SMS: Rs 5+TAX/SMS | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: 3500
+Off-Network Incentives Minutes: 200 Mins
+2G/3G Incentives Minutes: 10GBs
+Local Network SMS: 3500
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: PKR 1100
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: PKR 5000
+Subscription Code: I don't have updated information about this.
+
+Package Name: Prepaid Self Service Menu  *444#
+Type: Prepaid
+On-Network Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+International SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: *444#
+
+Package Name: Postpaid Self Service Menu  *446#
+Type: Postpaid
+On-Network Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+PTCL Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+FNF Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network Calls: I don't have updated information about this. | Tax: I don't have updated information about this.
+Off-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+On-Network SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+International SMS: I don't have updated information about this. | Tax: I don't have updated information about this.
+MMS 50KB: I don't have updated information about this.
+Data MB: I don't have updated information about this.
+On-Network Incentives Minutes: I don't have updated information about this.
+Off-Network Incentives Minutes: I don't have updated information about this.
+2G/3G Incentives Minutes: I don't have updated information about this.
+Local Network SMS: I don't have updated information about this.
+SMS Line Rental: I don't have updated information about this.
+NWD Security Deposit: I don't have updated information about this.
+ISD Security Deposit: I don't have updated information about this.
+IR Security Deposit: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+
