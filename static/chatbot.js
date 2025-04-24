@@ -1,4 +1,6 @@
 (function () {
+  let currentController = null; // Store the AbortController
+
   function appendMessage(text, sender) {
     let bubble = $('<div>').addClass('chat-bubble').addClass(sender);
 
@@ -34,6 +36,11 @@
     appendMessage(userMsg, 'user');
     input.val('');
 
+    // Show the stop button
+    $('#stop-btn').show();
+    $('#send-btn').prop('disabled', true);
+    $('#user-input').prop('disabled', true);
+
     const bubble = $('<div>').addClass('chat-bubble').addClass('bot');
     const logo = $('<img>')
       .attr('src', 'static/assets/Jazz-Company-logo-.png')
@@ -48,10 +55,15 @@
     // Store the complete response
     let fullResponse = '';
 
+    // Create a new AbortController
+    currentController = new AbortController();
+    const signal = currentController.signal;
+
     fetch("/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ message: userMsg })
+      body: JSON.stringify({ message: userMsg }),
+      signal: signal // Add the signal to allow aborting
     })
     .then(response => {
       const reader = response.body.getReader();
@@ -68,6 +80,7 @@
               .replace(/\n/g, '<br>');      // Replace remaining newlines
             
             messageContent.html(formattedText);
+            resetUI();
             return;
           }
           
@@ -86,13 +99,37 @@
       }
 
       return processStream().catch(err => {
-        messageContent.html("Error: " + err.message);
+        if (err.name === 'AbortError') {
+          messageContent.html(fullResponse.replace(/\n/g, '<br>') + "<br><em>[Response stopped]</em>");
+        } else {
+          messageContent.html("Error: " + err.message);
+        }
+        resetUI();
       });
     })
     .catch(error => {
-      bubble.remove();
-      appendMessage("Error: " + error.message, 'bot');
+      if (error.name === 'AbortError') {
+        // Do nothing special, already handled
+      } else {
+        bubble.remove();
+        appendMessage("Error: " + error.message, 'bot');
+      }
+      resetUI();
     });
+  }
+
+  function stopResponse() {
+    if (currentController) {
+      currentController.abort();
+      currentController = null;
+    }
+  }
+
+  function resetUI() {
+    $('#stop-btn').hide();
+    $('#send-btn').prop('disabled', false);
+    $('#user-input').prop('disabled', false);
+    $('#user-input').focus();
   }
 
   function sendQuickReply(message) {
@@ -100,7 +137,15 @@
     sendMessage();
   }
 
+  // Expose these functions globally
+  window.sendMessage = sendMessage;
+  window.stopResponse = stopResponse;
+  window.sendQuickReply = sendQuickReply;
+
   $(document).ready(function () {
+    // Hide stop button initially
+    $('#stop-btn').hide();
+    
     setTimeout(() => {
       appendMessage(
         "Hello! I'm your Jazz Support Bot powered by AI. How can I help you today?",
