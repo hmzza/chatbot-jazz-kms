@@ -70,4 +70,4 @@ Answer this user query in detail:
         return Response(f"Error: {str(e)}", mimetype='text/plain')
 
 if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0", port=6065)
+    app.run(debug=True, host="0.0.0.0", port=6066)

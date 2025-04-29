@@ -7,7 +7,6 @@ client = QdrantClient(host="localhost", port=6333)
 
 # Use BAAI/bge-small-en-v1.5 with sentence-transformers
 model = SentenceTransformer("BAAI/bge-small-en-v1.5")
-
 # Documents to embed
 documents = [
     "Jazz is Pakistan's leading digital operator providing internet, call, and SMS services.",

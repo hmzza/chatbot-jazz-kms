@@ -20,15 +20,15 @@ COLUMN_LABELS = {
 }
 
 # Ensure the necessary directory exists
-if not os.path.exists('cleaned_data'):
-    os.makedirs('cleaned_data')
+if not os.path.exists('../cleaned_data'):
+    os.makedirs('../cleaned_data')
 
 try:
     # Load the CSV (try UTF-8, fallback to latin1)
     try:
-        df = pd.read_csv("data/offers.csv", encoding='utf-8')
+        df = pd.read_csv("../data/offers.csv", encoding='utf-8')
     except:
-        df = pd.read_csv("data/offers.csv", encoding='latin1')
+        df = pd.read_csv("../data/offers.csv", encoding='latin1')
 
     # Normalize column names (strip and uppercase)
     df.columns = [col.strip().upper() for col in df.columns]
@@ -62,7 +62,7 @@ try:
             print(f"⚠️ Skipped row {index} due to error: {e}")
 
     # Save to file
-    output_file = "cleaned_data/cleaned_offers.txt"
+    output_file = "../cleaned_data/cleaned_offers.txt"
     with open(output_file, "w", encoding='utf-8') as f:
         for line in sentences:
             f.write(line + "\n\n")
