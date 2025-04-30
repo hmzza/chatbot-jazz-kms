@@ -1,0 +1,810 @@
+CATEGORY: JAZZ ROX
+
+TYPE: PACKAGES
+
+TOTAL ENTRIES: 25
+
+--------------------------------------------------------------------------------
+
+
+
+📦 PACKAGE: Test Data
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: Test Data
+On-Network Calls Tax: Test Data
+Off-Network Calls Base Rate: Test Data
+Off-Network Calls Tax: Test Data
+On-Network SMS Base Rate: Test Data
+On-Network SMS Tax: Test Data
+Off-Network SMS Base Rate: Test Data
+Off-Network SMS Tax: Test Data
+International SMS Base Rate: Test Data
+International SMS Tax: Test Data
+Created By: usman.zeb1
+URL: ~/JazzRoxPackage/
+Friends & Family Numbers: Test Data
+USSD String: Test Data
+View Type: BackEndTeam
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Test Data 2
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: Test Data
+On-Network Calls Tax: 0
+Off-Network Calls Base Rate: 0
+Off-Network Calls Tax: 0
+On-Network SMS Base Rate: 0
+On-Network SMS Tax: 0
+Off-Network SMS Base Rate: 0
+Off-Network SMS Tax: 0
+International SMS Base Rate: 0
+International SMS Tax: 0
+Created By: usman.zeb1
+URL: ~/JazzRoxPackage/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: BackEndTeam
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CE Team
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Test Data
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: 0
+On-Network Calls Tax: 0
+Off-Network Calls Base Rate: 0
+Off-Network Calls Tax: 0
+On-Network SMS Base Rate: 0
+On-Network SMS Tax: 0
+Off-Network SMS Base Rate: 0
+Off-Network SMS Tax: 0
+International SMS Base Rate: 0
+International SMS Tax: 0
+Created By: usman.zeb1
+URL: ~/JazzRoxPackage/
+Friends & Family Numbers: 0
+USSD String: 0
+View Type: BackEndTeam
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Test - CST
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: PKR 3.50
+On-Network Calls Tax: PKR 3.50
+Off-Network Calls Base Rate: PKR 3.50
+Off-Network Calls Tax: PKR 3.50
+On-Network SMS Base Rate: PKR 3.50
+On-Network SMS Tax: PKR 3.50
+Off-Network SMS Base Rate: PKR 3.50
+Off-Network SMS Tax: PKR 3.50
+International SMS Base Rate: PKR 11.98
+International SMS Tax: PKR 11.98
+Created By: muhammad.zaid
+URL: ~/JazzRoxPackage/
+Friends & Family Numbers: PKR 3.50
+USSD String: *123#
+View Type: CallCenter
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: JAZZROX1234532
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: 0
+On-Network Calls Tax: 0
+Off-Network Calls Base Rate: 0
+Off-Network Calls Tax: 0
+On-Network SMS Base Rate: 0
+On-Network SMS Tax: 0
+Off-Network SMS Base Rate: 0
+Off-Network SMS Tax: 0
+International SMS Base Rate: 0
+International SMS Tax: 0
+Created By: aamir.masood
+URL: ~/JazzRoxPackage/
+Friends & Family Numbers: 0
+USSD String: 0
+View Type: BackEndTeam
+Complaints: 14054.0
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: JAZZROX1234532324
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: 0
+On-Network Calls Tax: 0
+Off-Network Calls Base Rate: 0
+Off-Network Calls Tax: 0
+On-Network SMS Base Rate: 0
+On-Network SMS Tax: 0
+Off-Network SMS Base Rate: 0
+Off-Network SMS Tax: 0
+International SMS Base Rate: 0
+International SMS Tax: 0
+Created By: aamir.masood
+URL: ~/JazzRoxPackage/
+Friends & Family Numbers: 0
+USSD String: 0
+View Type: BackEndTeam
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Basic VIbe
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: BackEndTeam
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,CX–PTA CORRESPONDENCE TEAM,FSE groups,MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Basic VIbe
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: CallCenter
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,CX–PTA CORRESPONDENCE TEAM,FSE groups,MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Basic VIbe
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: ExperienceCenter
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,CX–PTA CORRESPONDENCE TEAM,FSE groups,MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Basic VIbe
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: Franchise
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,CX–PTA CORRESPONDENCE TEAM,FSE groups,MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Crazy Vibe
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: BackEndTeam
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,7667 Helpline,CX–PTA CORRESPONDENCE TEAM,FSE groups,MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Crazy Vibe
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: CallCenter
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,7667 Helpline,CX–PTA CORRESPONDENCE TEAM,FSE groups,MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Crazy Vibe
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: ExperienceCenter
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,7667 Helpline,CX–PTA CORRESPONDENCE TEAM,FSE groups,MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Crazy Vibe
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: Franchise
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,7667 Helpline,CX–PTA CORRESPONDENCE TEAM,FSE groups,MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Insane Vibe
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: BackEndTeam
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,7667 Helpline,CX–PTA CORRESPONDENCE TEAM,FSE groups,CRA (do not use as domain),MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Insane Vibe
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: CallCenter
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,7667 Helpline,CX–PTA CORRESPONDENCE TEAM,FSE groups,CRA (do not use as domain),MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Insane Vibe
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: ExperienceCenter
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,7667 Helpline,CX–PTA CORRESPONDENCE TEAM,FSE groups,CRA (do not use as domain),MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Insane Vibe
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: Franchise
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,7667 Helpline,CX–PTA CORRESPONDENCE TEAM,FSE groups,CRA (do not use as domain),MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: International Talk Pass (IDD Bundles)
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: BackEndTeam
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,7667 Helpline,CX–PTA CORRESPONDENCE TEAM,FSE groups,MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: International Talk Pass (IDD Bundles)
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: CallCenter
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,7667 Helpline,CX–PTA CORRESPONDENCE TEAM,FSE groups,MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: International Talk Pass (IDD Bundles)
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: ExperienceCenter
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,7667 Helpline,CX–PTA CORRESPONDENCE TEAM,FSE groups,MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: International Talk Pass (IDD Bundles)
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/Package/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: Franchise
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: CC - GSM JAZZ,CC - RTG,CC - CFL,CC - QA,DFS - Helpline,CE Team,CE VMT,RBH,CP,RD,ASM BSM,FRA - ALL,EC - RCCH,Business centers,EC - Managers,MKT - Segments,MKT-VAS,DIG - ALL,BO - Outsource,BO - In House,CE-Development,KMS_UAT,Jazz Q&T,CC: Credit & Collection,Social Media,Comm Unit,UAT,UAT - EC,7667 Helpline,CX–PTA CORRESPONDENCE TEAM,FSE groups,MMBL QA,Regional Finance Business Partner,MMBL CC,JAZZ WORLD TEAM,Sales,B2B,Sales (Regional commercial),Sales Operation Executive,BIZ,Helpdesk_CallCenter,Helpdesk_BackEndTeam,Helpdesk_ExperienceCenter,Helpdesk_Franchise,KMS Development UAT,DFS Customer Experience Team,CX-CIRU,CC - GSM JAZZ,CC - GSM JAZZ,CC - GSM JAZZ
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: Test package _ 1
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: I don't have updated information about this.
+On-Network Calls Tax: I don't have updated information about this.
+Off-Network Calls Base Rate: I don't have updated information about this.
+Off-Network Calls Tax: I don't have updated information about this.
+On-Network SMS Base Rate: I don't have updated information about this.
+On-Network SMS Tax: I don't have updated information about this.
+Off-Network SMS Base Rate: I don't have updated information about this.
+Off-Network SMS Tax: I don't have updated information about this.
+International SMS Base Rate: I don't have updated information about this.
+International SMS Tax: I don't have updated information about this.
+Created By: anum.khan3
+URL: ~/JazzRoxPackage/
+Friends & Family Numbers: I don't have updated information about this.
+USSD String: I don't have updated information about this.
+View Type: BackEndTeam
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: KMS Development UAT
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: test 2
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Others
+Network: Jazz
+On-Network Calls Base Rate: 1
+On-Network Calls Tax: 1
+Off-Network Calls Base Rate: 1
+Off-Network Calls Tax: 1
+On-Network SMS Base Rate: 1
+On-Network SMS Tax: 1
+Off-Network SMS Base Rate: 1
+Off-Network SMS Tax: 1
+International SMS Base Rate: 1
+International SMS Tax: 1
+Created By: hassan.mahmood1
+URL: ~/Package/
+Friends & Family Numbers: 1
+USSD String: 1
+View Type: BackEndTeam
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: KMS_UAT
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+
+📦 PACKAGE: test latest
+------------------------------------------------------------
+Category: Jazz Rox
+Package Type: Prepaid
+Main Type: Packages
+Network: Jazz
+On-Network Calls Base Rate: 1
+On-Network Calls Tax: 1
+Off-Network Calls Base Rate: 1
+Off-Network Calls Tax: 1
+On-Network SMS Base Rate: 1
+On-Network SMS Tax: 1
+Off-Network SMS Base Rate: 1
+Off-Network SMS Tax: 1
+International SMS Base Rate: 1
+International SMS Tax: 1
+Created By: hassan.mahmood1
+URL: ~/JazzRoxPackage/
+Friends & Family Numbers: 1
+USSD String: 1
+View Type: BackEndTeam
+Complaints: I don't have updated information about this.
+Main Header: Jazz Rox
+Notify Domain: KMS_UAT
+Price: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Description: I don't have updated information about this.
+Internet: I don't have updated information about this.
+Calls: I don't have updated information about this.
+SMS: I don't have updated information about this.
+
+

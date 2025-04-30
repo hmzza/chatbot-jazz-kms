@@ -7,3 +7,13 @@ sentence-transformers
 huggingface-hub
 python-dotenv
 qdrant-client
+
+flask
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+huggingface-hub
+torch
+ollama

@@ -1,5 +1,22 @@
+body { 
+  font-family: 'Rubik', sans-serif; 
+  background-color: #f4f4f4; 
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+}
+.container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 0;
+  max-height: 100%;
+  padding: 0 15px; /* Add padding for smaller screens */
+}
 .chat-box {
-  height: 400px;
+  height: 400px; /* Fixed height for chat box */
   overflow-y: auto;
   background: #fff8e1;
   display: flex;
@@ -35,10 +52,18 @@
   border-top-right-radius: 0;
   margin-left: auto;
 }
+#quick-replies {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px 0;
+}
 #quick-replies button {
   background-color: #fff3cd;
   border-color: #ffc107;
   color: #212529;
+  padding: 5px 10px; /* Smaller padding for buttons */
+  font-size: 12px; /* Smaller font size */
 }
 #quick-replies button:hover {
   background-color: #ffc107;
@@ -67,4 +92,159 @@
 #stop-btn:hover {
   background-color: #c82333;
   border-color: #bd2130;
+}
+/* Robot Animation Area */
+.robot-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  background-color: #f4f4f4;
+  padding: 10px;
+  gap: 10px;
+}
+.robot-svg {
+  width: 80px;
+  height: 80px;
+}
+.robot-thinking .gear {
+  animation: rotate 2s linear infinite;
+}
+.robot-thinking .glow {
+  animation: pulse 1.5s ease-in-out infinite;
+}
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes pulse {
+  0%, 100% {
+    opacity: 0.4;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+.robot-text {
+  font-family: 'Courier New', Courier, monospace; /* Robotic font */
+  font-weight: bold;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.robot-jazz {
+  color: #ff0000; /* Red to match robot body */
+}
+.robot-bot {
+  color: #ffc107; /* Yellow to match robot accents */
+}
+/* Input Area */
+.input-area {
+  padding: 10px 0;
+  background-color: transparent; /* Remove white background */
+  border-top: 1px solid #ddd;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .container {
+    padding: 0 10px;
+  }
+  .chat-box {
+    height: 300px; /* Reduce height on smaller screens */
+    padding: 10px;
+  }
+  .chat-bubble {
+    padding: 8px 12px;
+    max-width: 85%; /* Allow more width on smaller screens */
+    font-size: 14px;
+  }
+  .bot img {
+    width: 16px;
+    height: 16px;
+    margin-right: 6px;
+  }
+  .robot-area {
+    height: 80px; /* Reduce height */
+    gap: 8px;
+    padding: 5px;
+  }
+  .robot-svg {
+    width: 50px; /* Scale down robot */
+    height: 50px;
+  }
+  .robot-text {
+    font-size: 14px; /* Scale down text */
+  }
+  #quick-replies {
+    gap: 5px;
+    padding: 5px 0;
+  }
+  #quick-replies button {
+    padding: 4px 8px;
+    font-size: 10px;
+  }
+  .input-area {
+    padding: 5px 0;
+  }
+  #user-input {
+    font-size: 14px;
+  }
+  .btn-primary, #stop-btn {
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 0 5px;
+  }
+  .chat-box {
+    height: 250px; /* Further reduce height */
+    padding: 8px;
+  }
+  .chat-bubble {
+    padding: 6px 10px;
+    max-width: 90%;
+    font-size: 12px;
+  }
+  .bot img {
+    width: 14px;
+    height: 14px;
+    margin-right: 5px;
+  }
+  .robot-area {
+    height: 60px; /* Further reduce height */
+    gap: 5px;
+    padding: 5px;
+  }
+  .robot-svg {
+    width: 40px; /* Further scale down robot */
+    height: 40px;
+  }
+  .robot-text {
+    font-size: 12px; /* Further scale down text */
+  }
+  #quick-replies {
+    gap: 4px;
+    padding: 4px 0;
+  }
+  #quick-replies button {
+    padding: 3px 6px;
+    font-size: 9px;
+  }
+  .input-area {
+    padding: 4px 0;
+  }
+  #user-input {
+    font-size: 12px;
+  }
+  .btn-primary, #stop-btn {
+    padding: 6px 10px;
+    font-size: 12px;
+  }
 }

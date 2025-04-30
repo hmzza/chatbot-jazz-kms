@@ -10,12 +10,10 @@
         .attr('alt', 'Jazz Logo')
         .css({ width: '20px', height: '20px', marginRight: '8px' });
       
-      // Format the text: bold and bullet points
+      // Restore original formatting logic
       let formattedText = text
-        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-        .replace(/\n\* /g, '<br>• ')  // Convert "newline + * " to "<br>• "
-        .replace(/^\* /g, '• ')       // If the text starts with "* "
-        .replace(/\n/g, '<br>');      // Replace remaining newlines
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>') // Bold text
+        .replace(/\n/g, '<br>'); // New lines to <br>
       
       const messageContent = $('<span>').html(formattedText);
       bubble.append(logo).append(messageContent);
@@ -28,6 +26,14 @@
     return bubble;
   }
 
+  function startTypingAnimation() {
+    $('#robotArea').addClass('robot-thinking');
+  }
+
+  function stopTypingAnimation() {
+    $('#robotArea').removeClass('robot-thinking');
+  }
+
   function sendMessage() {
     const input = $('#user-input');
     const userMsg = input.val().trim();
@@ -36,10 +42,11 @@
     appendMessage(userMsg, 'user');
     input.val('');
 
-    // Show the stop button
+    // Show the stop button and start typing animation
     $('#stop-btn').show();
     $('#send-btn').prop('disabled', true);
     $('#user-input').prop('disabled', true);
+    startTypingAnimation();
 
     const bubble = $('<div>').addClass('chat-bubble').addClass('bot');
     const logo = $('<img>')
@@ -75,9 +82,7 @@
             // Apply final formatting for the complete message
             let formattedText = fullResponse
               .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-              .replace(/\n\* /g, '<br>• ')  // Convert "newline + * " to "<br>• "
-              .replace(/^\* /g, '• ')       // If the text starts with "* "
-              .replace(/\n/g, '<br>');      // Replace remaining newlines
+              .replace(/\n/g, '<br>');
             
             messageContent.html(formattedText);
             resetUI();
@@ -88,7 +93,6 @@
           fullResponse += chunk;
           
           // During streaming, show with simple formatting
-          // (new lines will work, but we'll save full formatting for the end)
           let streamingText = fullResponse.replace(/\n/g, '<br>');
           messageContent.html(streamingText);
           
@@ -130,6 +134,7 @@
     $('#send-btn').prop('disabled', false);
     $('#user-input').prop('disabled', false);
     $('#user-input').focus();
+    stopTypingAnimation();
   }
 
   function sendQuickReply(message) {
