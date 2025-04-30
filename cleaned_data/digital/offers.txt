@@ -1,0 +1,44 @@
+CATEGORY: DIGITAL
+
+TYPE: OFFERS
+
+TOTAL ENTRIES: 2
+
+--------------------------------------------------------------------------------
+
+
+
+📦 OFFER: Test Offer 1
+------------------------------------------------------------
+Category: Digital
+Incentives: 1
+Validity: 1
+Time Duration: 1
+Is Recursive: 1
+Deposit Info: 1
+Subscription Code: 1
+Unsubscription Code: 1
+Information Code: 1
+Offer Category: Prepaid
+Charges: 1
+Offer Type: I don't have updated information about this.
+Main Header: Digital
+
+
+📦 OFFER: Test Offer 1
+------------------------------------------------------------
+Category: Digital
+Incentives: 1
+Validity: 1
+Time Duration: 1
+Is Recursive: 1
+Deposit Info: 1
+Subscription Code: 1
+Unsubscription Code: 1
+Information Code: 1
+Offer Category: Prepaid
+Charges: 1
+Offer Type: I don't have updated information about this.
+Main Header: Digital
+
+

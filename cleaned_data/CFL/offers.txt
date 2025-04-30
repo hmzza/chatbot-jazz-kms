@@ -1,0 +1,112 @@
+CATEGORY: CFL
+
+TYPE: OFFERS
+
+TOTAL ENTRIES: 6
+
+--------------------------------------------------------------------------------
+
+
+
+📦 OFFER: Test Offer 1
+------------------------------------------------------------
+Category: CFL
+Incentives: Test
+Validity: Test
+Time Duration: Test
+Is Recursive: Test
+Deposit Info: Test
+Subscription Code: Test
+Unsubscription Code: Test
+Information Code: Test
+Offer Category: Prepaid
+Charges: Test
+Offer Type: I don't have updated information about this.
+Main Header: CFL
+
+
+📦 OFFER: Test
+------------------------------------------------------------
+Category: CFL
+Incentives: 1
+Validity: 1
+Time Duration: 1
+Is Recursive: recursive
+Deposit Info: 24 hourd
+Subscription Code: 1
+Unsubscription Code: 9
+Information Code: 1
+Offer Category: Prepaid
+Charges: 10
+Offer Type: I don't have updated information about this.
+Main Header: CFL
+
+
+📦 OFFER: test
+------------------------------------------------------------
+Category: CFL
+Incentives: test
+Validity: test
+Time Duration: teste
+Is Recursive: test
+Deposit Info: test
+Subscription Code: t
+Unsubscription Code: te
+Information Code: te
+Offer Category: Prepaid
+Charges: tes
+Offer Type: I don't have updated information about this.
+Main Header: CFL
+
+
+📦 OFFER: test
+------------------------------------------------------------
+Category: CFL
+Incentives: test
+Validity: test
+Time Duration: teste
+Is Recursive: test
+Deposit Info: test
+Subscription Code: t
+Unsubscription Code: te
+Information Code: te
+Offer Category: Prepaid
+Charges: tes
+Offer Type: I don't have updated information about this.
+Main Header: CFL
+
+
+📦 OFFER: test
+------------------------------------------------------------
+Category: CFL
+Incentives: test
+Validity: test
+Time Duration: teste
+Is Recursive: test
+Deposit Info: test
+Subscription Code: t
+Unsubscription Code: te
+Information Code: te
+Offer Category: Prepaid
+Charges: tes
+Offer Type: I don't have updated information about this.
+Main Header: CFL
+
+
+📦 OFFER: ROX Test product _1 
+------------------------------------------------------------
+Category: CFL
+Incentives: I don't have updated information about this.
+Validity: I don't have updated information about this.
+Time Duration: I don't have updated information about this.
+Is Recursive: I don't have updated information about this.
+Deposit Info: I don't have updated information about this.
+Subscription Code: I don't have updated information about this.
+Unsubscription Code: I don't have updated information about this.
+Information Code: I don't have updated information about this.
+Offer Category: Prepaid
+Charges: I don't have updated information about this.
+Offer Type: I don't have updated information about this.
+Main Header: CFL
+
+
