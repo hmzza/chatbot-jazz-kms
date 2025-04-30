@@ -16,7 +16,7 @@ body {
   padding: 0 15px; /* Add padding for smaller screens */
 }
 .chat-box {
-  height: 400px; /* Fixed height for chat box */
+  height: 60%; /* Fixed height for chat box */
   overflow-y: auto;
   background: #fff8e1;
   display: flex;
