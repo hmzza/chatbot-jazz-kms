@@ -1,0 +1,1803 @@
+CATEGORY: CFL
+TYPE: SOP
+TOTAL ENTRIES: 32
+--------------------------------------------------------------------------------
+
+TYPE: SOP
+
+ID: 5510
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Customer didn't Find/Understand Information (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at Call Center</h1>
+
+<p style="margin-left:40px">All such cases where customer did not find or understand information related to CC/IVR, CFL agent to apologize to customer first and note down customer concern in Medallia by guiding relevant information</p>
+
+Submission Channel: 1050
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 1065
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li>Need to check from customer if he/she can talk easily</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 5504
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Long Waiting Time On Call (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p style="margin-left:40px">All such cases where customer have to wait long in queue: After listening to customer concern, CFL agent to apologize to customer by saying</p>
+
+<p style="margin-left:40px"><strong>&ldquo;Respected sir/madam our frontend agents are busy to serve customers that is why your call has been answered with delay&quot; </strong></p>
+
+<p style="margin-left:40px">So that customer feels satisfied.</p>
+
+<p style="margin-left:40px">In the end, agent should assure customer that their feedback is important/valuable in improving Jorazz services along with noting down customers concern in Medallia which will be shared by CEM at the end of month to the concerns</p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 1065
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li>To make sure that the customer can talk easily</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 5512
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Customer didn't Find Exit from Agent (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at Call Center</h1>
+
+<p style="margin-left:40px">All such cases where customer did not find exit to the agent via CC/IVR, CFL agent to apologize to customer first and will note down customer&#39;s concern in Medallia by guiding IVR call flow</p>
+
+Submission Channel: 1050
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 1065
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li>Need to check from customer if he/she can talk easily</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 5514
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Impossible to Reach Call Center (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at Call Center</h1>
+
+<p style="margin-left:40px">All such cases where customer feels impossible to reach call center, agent to apologize to customer first and will note down customer&#39;s concern in Medallia by guiding relevant information</p>
+
+<p>&nbsp;</p>
+
+Submission Channel: 1050
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 1065
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li>Need to check if customer can easily talk</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 7700
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Refusal to Provide Services (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p>All such cases where customer is not the owner of the number and asking for information without any verification, CFL agent to apologize customer first and note down customer concern in Medallia by guiding relevant information, If required level of verification can be provided by customer and then&nbsp;follow up until resolution.</p>
+
+Submission Channel: 1050
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li>Need to check from customer if he/she can talk easily</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 7870
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Dissatisfied with decision within the Procedure (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p>When customer complaints in NPS survey about dissatisfaction of any CC Jazz related process, and thinks that he/she has&nbsp;a better idea of another alternate process which cannot be implemented due to system reservation.</p>
+
+<p>All such cases customer is dissatisfied with the decision within the procedure, CFL agent to apologize to customer first and note down customer concern in Medallia by guiding relevant information.</p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li>Need to check from customer if he/she can talk easily</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 7872
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Customer Complains in NPS about CC/Procedures/Others (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer complains about CC / Procedures / Other, CFL agent to apologize to customer first and note down customer concern in Medallia by guiding relevant information &amp; where required agent will follow up if any task / SR has been processed until resolution along with guiding the exact process so that customer will understand</span></span></p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <p><span style="font-size:12.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Need to check from customer if he/she can talk easily</span></span></p>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 7897
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Customer Doesn't Understand Tariff Conditions (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer complains about product mechanics/deductions, CFL agent to apologize to customer first and note down customer concern in Medallia by guiding relevant information. In case of deduction related compliant, agent will follow up where service deactivation required and inform customer via call accordingly</span></span></p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <p><span style="font-size:12.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Situational based handling&nbsp;by CFL agent </span></span></p>
+
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 7903
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: On & Off-net Call (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer complains about on/off net minutes incentive increase or decrease suggestion/ compliant, CFL agent to apologize to customer first and note down customer concern in Medallia by guiding relevant information.</span></span></p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li><span style="font-size:12.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Situational based handling&nbsp;by CFL agent </span></span></li>
+</ul>
+
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 7921
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Competitors have Better Offers (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is existing Jazz user and comparing our products with competition and coming with complaints/suggestions, CFL agent to apologize to customer first and note down customer concern in Medallia by guiding relevant information.</span></span></p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Situational based&nbsp;handling&nbsp;by CFL agent </span></span></li>
+</ul>
+
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 7927
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: NPS Survey about Mobile Internet (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is complaining that data incentive is in-sufficient, data bundle is costly, base rate charges, CFL agent to apologize to customer first and note down customer concern in Medallia by guiding relevant information. </span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">In case of verification that customer complaint is valid, agent will make the adjustment complaint &amp; call customer for follow up where adjustments is required.</span></span></p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Situational based handling&nbsp;by CFL agent </span></span></li>
+</ul>
+
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 7933
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: International or Roaming Charges (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is complaining/suggesting that international dialing and international roaming is expensive, CFL agent to apologize to customer first and note down customer concern in Medallia by guiding relevant information. </span></span></p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+<p style="text-align:justify">&nbsp;</p>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>Situational based handling by CFL agent</li>
+</ul>
+
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 7939
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Customer doesn't Understand Charges (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Processs at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is complaining about all those products which Jazz is offering but he did not know that Jazz is offering, CFL agent to apologize to customer first and note down customer concern in Medallia by guiding relevant information. </span></span></p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>&nbsp;Situational based handling by CFL agent</li>
+</ul>
+
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 9052
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Procedures (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer complaints about CC / Procedures / Other, CFL agent to apologize to customer first and note down customer concern in Medallia by guiding relevant information &amp; where required agent will follow up if any task / SR has been processed until resolution along with guiding the exact process so that customer will understand</span></span></p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 9058
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Mobile Internet (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is complaining that data incentive is in-sufficient, data bundle is costly, base rate charges, CFL agent to apologize to customer first and note down customer concern in Medallia by guiding relevant information. In case of verification that customer complaint is valid, agent will make the adjustment complaint &amp; call customer for follow up where adjustments is required.</span></span></p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 9064
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: CPA, Content Services (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is complaining about balance deduction CFL agent to apologize to customer first and check his/her number status and in case of any subscription we need to guide customer accordingly, if customer request to deactivate the services which were consuming balance, along with noting down customer concern in Medallia followed by deactivation of the specific subscription and inform customer via call. </span></span></p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+<p style="text-align:justify">&nbsp;</p>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 9070
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Re-pricing (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is complaining about revise pricing policy and advise us to switch back to old price with respect to value of money he/she is paying, CFL agent to apologize first and note down customer concern in Medallia by guiding relevant information. </span></span></p>
+
+<p>&nbsp;</p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 9076
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Deliverability or Intelligibility (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">All such cases where customer is complaining about not receiving sms notifications, receiving late, does not understand sms notification, CFL agent to apologize first and note down customer concern in</span></span> <span style="font-size:12.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Medallia by guiding relevant information</span></span></p>
+
+Submission Channel: 1050,1055,32
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 9082
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: CVM Campaigns/Special Offers, Offer Validity (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is complaining about incomplete information of promo offered, tariff plan was not according to the need and broadcasted wrong message to the customer by Jazz marketing, CFL agent apologizes first and notes down customer concern in Medallia along with asking customer to share details through whatsapp received via sms with CFL team, CFL team then sends details of the complaint received from customer to CEM team, CEM team forwards the complaint to marketing and waits for their feedback, once feedback is received it is routed back to CFL team for loop closure via call. </span></span></p>
+
+Submission Channel: 2062
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 9084
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: SPAM from Internal Companies (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is complaining about receiving:</span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black">Obnoxious calls/sms </span>CFL agent apologizes first and notes down customer concern in Medallia along with handling customer as per obnoxious caller process guidelines. </span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black">Fraudulent calls/sms </span>(Jazz Cash realted Only) &nbsp;agent apologizes first and notes down customer concern in Medallia along with making complaint in <u>Efront</u><u><span style="font-family:Wingdings">&agrave;</span></u><u>MFS</u><u><span style="font-family:Wingdings">&agrave;</span></u><u>Fake Call</u> and guide customer accordingly for closing the loop. </span></span></p>
+
+Submission Channel: I don't have updated information about this.
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <ul>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Efront<span style="font-family:Wingdings">&agrave;</span>MFS<span style="font-family:Wingdings">&agrave;</span>Fake Call </span></span></li>
+</ul>
+
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+<p style="text-align:justify">&nbsp;</p>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 9086
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Product & Price (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is complaining about:</span></span></p>
+
+<ul>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Desired PRBT tune/code, CFL agent to apologize first and note down customer concern in Medallia by guiding relevant information</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">When customer complaints about unavailability of new number of his/her own choice, then CFL agent apologizes first and notes down customer concern in Medallia by guiding relevant information</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Customer complaints that he/she don&rsquo;t know charges of new sale, then CFL agent apologizes first and notes down customer concern in Medallia by guiding relevant information</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Customer is not satisfied with the pricing of new number, CFL agent apologizes first and notes down customer concern in Medallia by guiding relevant information</span></span></li>
+</ul>
+
+Submission Channel: 1050,1055,32
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 9092
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: SPAM from Operator (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is complaining about:</span></span></p>
+
+<ul>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">When customer complaints that he/she is receiving unwanted marketing messages/calls CFL agent apologizes first and notes down customer concern in Medallia by following &ldquo;Marketing Call &amp; SMS/SMS Advertiser&rdquo; process guidelines available at Mobics and close the loop.</span></span></li>
+</ul>
+
+Submission Channel: 2062
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 9094
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Incorrect Work (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is complaining about above scenarios CFL agent apologizes first and notes down customer concern in Medallia along with Processing Relevant complaint as per related scenario, CFL Agent will follow up until issue has been resolved (where applicable).</span></span></p>
+
+Submission Channel: 2062
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 9096
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Bill Correctness (CFL)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is complaining about above scenario CFL agent apologizes first and notes down customer concern in Medallia along with Processing Relevant complaint as per related scenario, CFL Agent will follow up until issue has been resolved.</span></span></p>
+
+Submission Channel: 1050,1055,32
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 9138
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Warid Business to Individual Process-Franchise Channel
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Warid
+Complaint Description: <div>
+<table align="left">
+	<tbody>
+		<tr>
+			<td style="vertical-align:top">
+			<p style="margin-left:4px; margin-right:15px"><span style="font-size:11pt"><span style="line-height:90%"><span style="font-family:Calibri,sans-serif"><span style="color:black">Keeping in view the current COVID-19 situation we have devised below process to support our business customers to visit nearest franchise to process <strong>Warid Business to Individual movement</strong>. Franchise channel </span>from now onwards<span style="color:black"> will facilitate such customers as per</span> below<span style="color:black"> process for Warid Business to Individual movement</span> in addition to already shared <strong>Jazz <span style="color:black">Business to Individual</span></strong><span style="color:black"> process.</span></span></span></span></p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+Submission Channel: 41
+Escalation Level: I don't have updated information about this.
+Created By: usman.javed1
+Type (SOP/Complaint): SOP
+Verification Status: 28
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: Franchise
+Category: Postpaid
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 13272
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Mobile/Charges/Payment Problems
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is complaining about&nbsp;scenario, CFL agent to&nbsp;apologize first and note down customer concern in Medallia along with processing billing adjustment complaint in Siebel as per defined SOP.&nbsp;In case of complaint raised, CFL agent will follow up until issue has been resolved.</span></span></p>
+
+Submission Channel: 1050,1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Situational based&nbsp;handling by CFL agent </span></span></li>
+</ul>
+
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 13278
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Agent Knowledge and Courtesy Related Issues 
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <h1>Process at All Channels</h1>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">All such cases where customer is having issue related to agent courtesy and knowledge will be handled by CFL agent on call upfront so that customer feels satisfied.&nbsp;For this CFL agent will apologize fist after listening to the customer&#39;s&nbsp;concern, along with providing information to the customer, that the issue will be shared and discuss with the relevant teams and agent will be trained &amp; coached accordingly, along with noting down concern in Medallia which will be shared by CEM at the end of Month to the concerns and close the loop upfront.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">For overcharging related scenarios, CFL agent will accommodate customer by providing him complimentary waiver through E-front only in those case where no feedback received from relevant POC (To: experience center manager/FSE Cc: Area manager/TSS) in two business days after E-mail by CFL team and close the loop</span></span></span></p>
+
+Submission Channel: 1055,32,36
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): SOP
+Verification Status: 6074
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Need to check from customer if he/she can talk easily</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li style="text-align:justify"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">CFL team to send escalation emails to the respective ECM (For Experience Center) only &amp; Respective FSEs keeping ASMs and TSS in the loop for franchise related complaints only</span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">Situational based&nbsp;handling&nbsp;by CFL agent</span></span></span></span></li>
+</ul>
+
+View Type: ExperienceCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15867
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Franchise Voice of customer - (FVOC)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <p>In order to improve customer&nbsp;experience at franchise centers, Voice of customer related to customers visit is captured via calling customer from outbound channel.</p>
+
+<ul>
+	<li>Survey call will be performed on <span style="background-color:#f1c40f">DAY -1</span> data of customer visit to franchise.</li>
+	<li>Every calling agent is responsible for his/her calling data on FVOC portal. Data to be shared till 10:00 am everyday.</li>
+</ul>
+
+<p><span style="font-size:16px"><em><strong>Franchise survey mechanics:&nbsp;</strong></em></span></p>
+
+<ul>
+	<li><span style="font-size:14px">30 surveys per franchise per month</span></li>
+	<li><span style="font-size:14px">10 surveys per franchise per week</span></li>
+	<li><span style="font-size:14px">2&nbsp;surveys per franchise per day</span></li>
+</ul>
+
+<p><span style="font-size:16px"><em><strong>Key milestones captured in FVOC:</strong></em></span></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:453px">
+	<tbody>
+		<tr>
+			<td><strong>Information Area</strong></td>
+			<td>&nbsp;</td>
+			<td><strong>Answer</strong></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Issue Resolution</td>
+			<td>&nbsp;</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Agent behavior&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Agent provided correct Info</td>
+			<td>&nbsp;</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Visit Satisfaction&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Score out of 10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Franchise Clean&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Franchise Temperature appropriate</td>
+			<td>&nbsp;</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Franchise seating sufficient</td>
+			<td>&nbsp;</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Survey Questionare:</strong></p>
+
+<p><strong>Assalam u Alaikum. Main Jazz se _____ baat kar raha/rahi hoon. Humaray record k mutabiq aap ______(Agent to narrate date) ko _______(Agent to narrate activity as per system) k lye Jazz ki Franchise pe gaye thay/gayi thay/thi. Hum isi silsilay me aap se kuch sawalaat ka mukhtasiran jawab lena chahtay hain. Kia aap say is waqt baat hosakti hai ? (Single response)</strong></p>
+
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes --&gt; Go to Q1</p>
+
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No --&gt; Ask for suitable time &amp; contact later</p>
+
+<p>Q1. <strong>Aap jis maqsad k liye Franchise gaye kia wo maqsad pura huwa ?</strong></p>
+
+<ul>
+	<li>Yes</li>
+	<li>No</li>
+	<li>Yaad nahi</li>
+</ul>
+
+<p>Q2. <strong>Kia aap numaenday ke rawayay / bartao se khush hain ?</strong></p>
+
+<ul>
+	<li>Yes</li>
+	<li>No</li>
+	<li>Yaad nahi</li>
+</ul>
+
+<p>Q3. <strong>Kia Numaenday ne aap ko aap ke kaam ke silsilay me sahi maloomat di ?</strong></p>
+
+<ul>
+	<li>Yes</li>
+	<li>No</li>
+	<li>Yaad nahi</li>
+</ul>
+
+<p>Q4. <strong>Majomooi toor pe bataye ke aap Franchise pe janay ke tajarbay se kitna mutmeen hain ? 0 se le kar 10 ke darmiyaan score den jahan 0 ka matlab &quot;bilkul mutmaeen nahi&quot; aur 10 ka matlab &quot;behad mutmaeen&quot;</strong></p>
+
+<p>Q5. <strong>Baraye meharbani bataye ke Franchise majmooi toor pe saaf suthri thi ?</strong></p>
+
+<ul>
+	<li>Yes</li>
+	<li>No</li>
+	<li>Yaad nahi</li>
+</ul>
+
+<p>Q6.<strong> Kia ander temperature /darja hararat munasib tha (buhat ziada thandak / garmi to nahi thi) ?</strong></p>
+
+<ul>
+	<li>Yes</li>
+	<li>No</li>
+	<li>Yaad nahi</li>
+</ul>
+
+<p>Q7. <strong>Kia andar bethnay ki jaga munasib thi ?</strong></p>
+
+<ul>
+	<li>Yes</li>
+	<li>No</li>
+	<li>Yaad nahi</li>
+</ul>
+
+<p><strong>Comments:</strong></p>
+
+<ul>
+	<li>Agent to note down customer comments in comments section related to reasons for low score for first 4 questions (&ldquo;No&rdquo; in Q1 or Q2 or Q3 or low score =&lt; 6 in Q4).</li>
+	<li>In case &ldquo;No&rdquo; in Q1 &amp; Q2 Agent to note down reason for low score for Q1 &amp; then for Q2 in comments separately. Same goes for Q3 &amp; Q4.</li>
+	<li>Agent to cross-question respondent if they give bad ratings against any of the first 4 questions &amp; if the reason is not related to front end channels&#39; domain (Network, Products etc.) then in that case, Agent will ask customers again about their rating while explaining that rating is related to issue resolution / Agent behavior / correct info / satisfactory service of the channel.</li>
+	<li>In case of &ldquo;No&rdquo; in Q1 or Q2 or Q3 or low score =&lt; 6 in Q4 &amp; after proper inquiry by agent as given above, Agent to lock complaint on system (efront) &amp; send email to relevant channel stakeholder as given in Franchise hierarchy.</li>
+	<li>Agent however will facilitate customer &amp; close loop in case customer has issue with Network or Product or in case customer requests Agent for performing system related activity (e.g. bundle subscription or un-subscription). Agent should have access to system &amp; relevant tools. If customer provides related information / authentication, then in such a scenario Agent should perform such system related activity &amp; customer should be facilitated by providing the required information or execution of his/her request or complaint.</li>
+	<li>For the above points, Agents should mention in comments in defined format that loop was closed along with related details.</li>
+	<li>Comments to be added as per generic format attached (CFLRemarksRestructuring.xlsx).
+	<ul>
+		<li>CFL Remarks Restructuring document&nbsp;contains generic reference guidelines to enter comments in the predefined&nbsp;format.</li>
+		<li>CFL agents will choose and write exact remarks as mentioned in Column D according to the scenario of customer dissatisfaction against comments sections of of Q1,Q2,Q3,Q4,Q5,Q6,Q7.</li>
+		<li>For understanding of the scenario, CFL agents may refer to the details mentioned in Column F.</li>
+		<li>CFL agent will also mention&nbsp;detailed remarks (Customer Issue + Resolution Provided) in Overal Comments section.&nbsp;</li>
+	</ul>
+	</li>
+</ul>
+
+<p>End. Humay apna keemti waqt denay ka buhat shukriya, Allah Hafiz</p>
+
+<ul>
+	<li>Email sent to relevant channel stakeholder (Yes/No) &lt;in case any of response &ldquo;No&rdquo; in Q1, Q2, Q3 or score less than or equal to 6 in Q4&gt;</li>
+	<li>Complaint locked on Efront (Yes/No) &lt;in case any of response &ldquo;No&rdquo; in Q1, Q2, Q3 or score less than or equal to 6 in Q4&gt;</li>
+</ul>
+
+<p><span style="font-size:16px"><em><strong>F-VOC to be conducted on below portal:</strong></em></span></p>
+
+<p><a href="https://cemdev.jazz.com.pk:8305/Surveys">https://cemdev.jazz.com.pk:8305/Surveys</a></p>
+
+Submission Channel: 1058
+Escalation Level: I don't have updated information about this.
+Created By: mehroz.fatima
+Type (SOP/Complaint): SOP
+Verification Status: 1062
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>Agent must check Memos for BVS activities, in case verified &amp; completed call will be made&nbsp;to customer.</li>
+	<li>Before month closure actual completetion &amp; shortfall is mapped against activity recieved &amp; completion ratio.</li>
+	<li>No compensation will be given against over achieved completed surveys.</li>
+	<li>All loop closure related to customer complaints&nbsp;request will be entertained by outbound calling team.</li>
+	<li>In cases where acknowledgment time has not lapsed the CFL agent will complete the survey and call back the customer again after acknowledgment time has lapsed to confirm the status of the issue and launch complain if required.</li>
+	<li>
+	<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Incase where customer tells the dissatisfaction reasons which are:</p>
+
+	<p>o&nbsp;&nbsp; Not in control of the agent (Network, Pricing, etc) and</p>
+
+	<p>o&nbsp;&nbsp; Customer has not discussed those at the time of interaction</p>
+
+	<p>The CFL agent will educate the customers that the highlighted issue is not in agents control and will ask for the ratings again. Ratings will be accordingly marked after educating the customer. CFL agent will also follow process for resolution of highlighted complaints in such cases.</p>
+	</li>
+	<li>
+	<p>Incase the data is&nbsp;unavailable the agents shall cater previous data to meet the targets set.</p>
+	</li>
+</ul>
+
+View Type: Franchise
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15868
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Experience Center Voice of customer- (EVOC)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <p>In order to improve customer&nbsp;experience at Experience centers, Voice of customer related to customers visit is captured via calling customer from outbound channel.</p>
+
+<ul>
+	<li>Survey call will be performed on&nbsp;<span style="background-color:#f1c40f">DAY -1</span>&nbsp;data of customer visit to franchise.</li>
+	<li>Every calling agent is responsible for his/her calling data on EVOC portal. Data to be shared till <strong><span style="background-color:#f1c40f">10:30 am</span></strong> everyday.</li>
+</ul>
+
+<p><em><strong>Experience center survey mechanics:&nbsp;</strong></em></p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>30 surveys per Experience center per month</li>
+	<li>10 surveys per Experience center per week</li>
+	<li>2&nbsp;surveys per Experience center per day</li>
+</ul>
+
+<p><em><strong>Key milestones captured in EVOC:</strong></em></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td><strong>Information Area</strong></td>
+			<td>&nbsp;</td>
+			<td><strong>Answer</strong></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Issue Resolution</td>
+			<td>&nbsp;</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Agent behavior&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Agent provided correct Info</td>
+			<td>&nbsp;</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Visit Satisfaction&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Score out of 10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Experience center Clean&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Experience center Temperature appropriate</td>
+			<td>&nbsp;</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Experience center seating sufficient</td>
+			<td>&nbsp;</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><strong>Survey Questionare:</strong></p>
+
+<p>&nbsp;</p>
+
+<p>Intro. <strong>Assalam u Alaikum. Main Jazz se _____ baat kar raha/rahi hoon. Humaray record k mutabiq aap ______(Agent to narrate date) ko _______(Agent to narrate activity as per system) k lye Jazz ki Experience Center pe gaye thay/gayi thay/thi. Hum isi silsilay me aap se kuch sawalaat ka mukhtasiran jawab lena chahtay hain. Kia aap say is waqt baat hosakti hai ? (Single response)</strong></p>
+
+<ul>
+	<li>Yes --&gt; Go to Q1</li>
+	<li>No --&gt; Ask for suitable time &amp; contact later</li>
+</ul>
+
+<p>Q1. <strong>Aap jis maqsad k liye Experience Center gaye kia wo maqsad pura huwa ?</strong></p>
+
+<ul>
+	<li>Yes</li>
+	<li>No</li>
+	<li>Yaad nahi</li>
+</ul>
+
+<p>Q2. <strong>Kia aap numaenday ke rawayay / bartao se khush hain ?</strong></p>
+
+<ul>
+	<li>Yes</li>
+	<li>No</li>
+	<li>Yaad nahi</li>
+</ul>
+
+<p>Q3. <strong>Kia Numaenday ne aap ko aap ke kaam ke silsilay me sahi maloomat di</strong> ?</p>
+
+<ul>
+	<li>Yes</li>
+	<li>No</li>
+	<li>Yaad nahi</li>
+</ul>
+
+<p>Q4. <strong>Majomooi toor pe bataye ke aap Experience Center pe janay ke tajarbay se kitna mutmeen hain ? 0 se le kar 10 ke darmiyaan score den jahan 0 ka matlab &quot;bilkul mutmaeen nahi&quot; aur 10 ka matlab &quot;behad mutmaeen&quot;</strong></p>
+
+<p>Q5.<strong> Baraye meharbani bataye ke Experience Center majmooi toor pe saaf suthri thi ?</strong></p>
+
+<ul>
+	<li>Yes</li>
+	<li>No</li>
+	<li>Yaad nahi</li>
+</ul>
+
+<p>Q6.<strong> Kia ander temperature /darja hararat munasib tha (buhat ziada thandak / garmi to nahi thi) ?</strong></p>
+
+<ul>
+	<li>Yes</li>
+	<li>No</li>
+	<li>Yaad nahi</li>
+</ul>
+
+<p>Q7. <strong>Kia andar bethnay ki jaga munasib thi ?</strong></p>
+
+<ul>
+	<li>Yes</li>
+	<li>No</li>
+	<li>Yaad nahi</li>
+</ul>
+
+<p>Comments:</p>
+
+<ul>
+	<li>Agent to note down customer comments in comments section related to reasons for low score for first 4 questions (&ldquo;No&rdquo; in Q1 or Q2 or Q3 or low score =&lt; 6 in Q4).</li>
+	<li>In case &ldquo;No&rdquo; in Q1 &amp; Q2 Agent to note down reason for low score for Q1 &amp; then for Q2 in comments separately. Same goes for Q3 &amp; Q4.</li>
+	<li>Agent to cross-question respondent if they give bad ratings against any of the first 4 questions &amp; if the reason is not related to front end channels&#39; domain (Network, Products etc.) then in that case, Agent will ask customers again about their rating while explaining that rating is related to issue resolution / Agent behavior / correct info / satisfactory service of the channel.</li>
+	<li>In case of &ldquo;No&rdquo; in Q1 or Q2 or Q3 or low score =&lt; 6 in Q4 &amp; after proper inquiry by agent as given above, Agent to lock complaint on system (efront) &amp; send email to relevant channel stakeholder as given in Experience Center hierarchy.</li>
+	<li>&nbsp;Agent however will facilitate customer &amp; close loop in case customer has issue with Network or Product or in case customer requests Agent for performing system related activity (e.g. bundle subscription or un-subscription). Agent should have access to system &amp; relevant tools. If customer provides related information / authentication, then in such a scenario Agent should perform such system related activity &amp; customer should be facilitated by providing the required information or execution of his/her request or complaint.</li>
+	<li>For the above points, Agents should mention in comments in defined format that loop was closed along with related details.</li>
+	<li>Comments to be added as per generic format attached (CFLRemarksRestructuring.xlsx).
+	<ul>
+		<li>CFL Remarks Restructuring document&nbsp;contains generic reference guidelines to enter comments in the predefined&nbsp;format.</li>
+		<li>CFL agents will choose and write exact remarks as mentioned in Column D according to the scenario of customer dissatisfaction against comments sections of of Q1,Q2,Q3,Q4,Q5,Q6,Q7.</li>
+		<li>For undersanding of the scenario, CFL agents may refer to the details mentioned in Column F.</li>
+		<li>CFL agent will also mention&nbsp;detailed remarks (Customer Issue + Resolution Provided) in Overal Comments section.&nbsp;</li>
+	</ul>
+	</li>
+</ul>
+
+<p>End. Humay apna keemti waqt denay ka buhat shukriya, Allah Hafiz</p>
+
+<ul>
+	<li>Email sent to relevant channel stakeholder (Yes/No) &lt;in case any of response &ldquo;No&rdquo; in Q1, Q2, Q3 or score less than or equal to 6 in Q4&gt;</li>
+	<li>Complaint locked on Efront (Yes/No) &lt;in case any of response &ldquo;No&rdquo; in Q1, Q2, Q3 or score less than or equal to 6 in Q4&gt;</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><em><strong>E-VOC to be conducted on below portal:</strong></em></p>
+
+<p><a href="https://cemdev.jazz.com.pk:8001/">https://cemdev.jazz.com.pk:8001/</a></p>
+
+Submission Channel: 1058
+Escalation Level: I don't have updated information about this.
+Created By: mehroz.fatima
+Type (SOP/Complaint): SOP
+Verification Status: 1062
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>Agent must check memos in CSRTB for BVS activities. In case its verified &amp; completed, call will be made to customer.&nbsp;</li>
+	<li>Before month closure actual completetion &amp; shortfall is mapped against activity recieved &amp; completion ratio.</li>
+	<li>No compensation will be given against over achieved completed surveys.</li>
+	<li>All loop closure related to customer complaints&nbsp;request will be entertained by outbound calling team.</li>
+	<li>In cases where acknowledgment time has not lapsed the CFL agent will complete the survey and call back the customer again after acknowledgment time has lapsed to confirm the status of the issue and launch complain if required.</li>
+	<li>
+	<p>Incase where customer tells the dissatisfaction reasons which are:</p>
+
+	<p>o&nbsp;&nbsp; Not in control of the agent (Network, Pricing, etc) and</p>
+
+	<p>o&nbsp;&nbsp; Customer has not discussed those at the time of interaction</p>
+
+	<p>The CFL agent will educate the customers that the highlighted issue is not in agents control and will ask for the ratings again. Ratings will be accordingly marked after educating the customer. CFL agent will also follow process for resolution of highlighted complaints in such cases.</p>
+	</li>
+	<li>
+	<p>Incase the data in unavailable the agents shall cater previous data to meet the targets set.</p>
+	</li>
+</ul>
+
+View Type: ExperienceCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15873
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Backend Team Voice of customer- (EVOC)
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <p>&nbsp;</p>
+
+<p>In order to improve customer&nbsp;experience at backend, Voice of customer related to customers visit is captured via calling customer from outbound channel.</p>
+
+<ul>
+	<li>Survey call will be performed on&nbsp;<span style="background-color:#f1c40f">DAY -1</span>&nbsp;data of customer visit to franchise</li>
+	<li>Every calling agent is responsible for his/her calling data on BE-VOC portal. Data to be shared till&nbsp;<strong>10:00&nbsp;am</strong>&nbsp;everyday</li>
+	<li>Survey covers
+	<ul>
+		<li>
+		<p>Helpdesk &amp; Operational Management (Back Office In house)</p>
+		</li>
+		<li>
+		<p>Mobile Number Portability (Back Office In house)</p>
+		</li>
+		<li>
+		<p>Digital Financial Services (Back Office In house)</p>
+		</li>
+		<li>
+		<p>Communication (Back Office In house)</p>
+		</li>
+		<li>
+		<p>Network Complaint Unit (Vendor)</p>
+		</li>
+		<li>
+		<p>Postpaid Operations &amp; Financial management (Vendor)</p>
+		</li>
+		<li>
+		<p>Prepaid Financial Management (Vendor)</p>
+		</li>
+		<li>
+		<p>&nbsp;Core Operations &amp; Audit (Back Office In house</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p><em><strong>Channels inclded in survey:</strong></em></p>
+
+<ul>
+	<li>Core CPS</li>
+	<li>EmailTopia</li>
+	<li>SuperOffice</li>
+</ul>
+
+<p><em><strong>Tasks covered in Survey:</strong></em></p>
+
+<ul>
+	<li>4G/LTE Slow Browsing/Streaming specific location</li>
+	<li>Account Administration</li>
+	<li>Activate the Customer Account from Dormant</li>
+	<li>Activation Complaints</li>
+	<li>Balance Inquiry</li>
+	<li>Bill Not Received/Duplicate Bill Complaint</li>
+	<li>Billing Adjustment</li>
+	<li>Billing Info</li>
+	<li>Call Setup Fee Info</li>
+	<li>Cellular Complaint</li>
+	<li>Coverage Complaint - No Indoor signals</li>
+	<li>Coverage Complaint - No Outdoor signals</li>
+	<li>Creator Tab</li>
+	<li>Data Bundle Complaint -Daily Social Bundle</li>
+	<li>Dead On Arrival Call</li>
+	<li>Email Update</li>
+	<li>HLR related - OMT Tab</li>
+	<li>Hybrid Bundle Act/Deact - Others (Hybrid)</li>
+	<li>IN Related Comp (Insuficient Bal&nbsp; Balance Inq&nbsp; Recharge comp)</li>
+	<li>Incentive related Complaint</li>
+	<li>International roaming Act/Deact</li>
+	<li>JazzWorld App Complaint</li>
+	<li>Ownership confirmation</li>
+	<li>Prepaid Adjustment Complaint</li>
+	<li>Prepaid Package Info</li>
+	<li>Recharge incentive complaint</li>
+	<li>Recharge info</li>
+	<li>Retailer Complaints</li>
+	<li>Tower related</li>
+	<li>Usage/Balance Related - Base Rate Internet Charging</li>
+	<li>Usage/Balance Related - Bundle Subscription Confirmation</li>
+	<li>Usage/Balance Related - VAS Deduction(Data/non-Data)</li>
+	<li>Usage/Balance Related-Base Rate Internet Charging</li>
+	<li>Value Added Services</li>
+	<li>Zero Balance Complaint</li>
+</ul>
+
+<p><em><strong>Backend Team survey mechanics:</strong></em></p>
+
+<ul>
+	<li>20 completed surveys per day per Team</li>
+	<li>150 completed surveys per week per Team</li>
+	<li>500 completed surveys per month per Team</li>
+</ul>
+
+<p><em><strong>Key Milestones captured in BE(VOC):</strong></em></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:514px">
+	<tbody>
+		<tr>
+			<td>&nbsp;Issue Resolution (Yes/No)</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>&nbsp;Agent behavior (Score out of 10)</td>
+			<td>Score out of 10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>NPS (Score out of 10)</td>
+			<td>Score out of 10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Reason for detraction</td>
+			<td>CFL (Closed Feedback Loop) Learnings</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><em><strong>Survey Questionare:</strong></em></p>
+
+<p>Intro. AOA, Jazz Se (Agent Name) Bat kar raha/rahi hon, Sir/Madam Apny (Date &amp; Time) ko Complaint note down karwai thi (Narrate complaint name from BE VOC portal), Sir/Madam is ke mutalik aap ki raye jananay k liay call ki hy, Ager ap masroof na hon to aap se baat ho sakti hai?</p>
+
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes --&gt; Go to Q1</p>
+
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No --&gt; Ask for suitable time &amp; contact later</p>
+
+<p>Q1. <strong>Buhat Shukriya, Sir/Madam Apne jo complaint karwae thi (Narrate complaint name from BE VOC portal) kya ap ka masla hal ho gya hy?</strong></p>
+
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes --&gt; Go to Q2</p>
+
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No --&gt; Agent will sort out customer&#39;s issue and note down all details in BE VOC portal with relevant Work codes given in portal drop down menu along with Remarks</p>
+
+<p>(Where Backend agent called customer and informed about customer&#39;s problem/resolution)</p>
+
+<p>Q2. <strong>Sir/Madam Ap is experience ki bunyad pe jis mien hamary backend agent ne aap ka masla hal kiya ap un ke rawaieye se kitna mutmaeen hain? 0 se 10 ke darmiyan score dijiye jahan 0 ka matlb buht bura or 10 ka matlb buht acha (Where Backend agent communicated with customer via call &amp; informed about customer&#39;s problem/resolution)</strong></p>
+
+<p>OR</p>
+
+<p>Q2. 2.<strong>Sir/Madam Ap ke is experience ki bunyad pe jis mien hamary backend agent ne aap ka masla hal kiya ap un se kitna mutmain hain? 0 se 10 ke darmiyan score dijiye jahan 0 ka matlb buht bura or 10 ka matlb buht acha (where backend agent did not communicate with customer via call &amp; only sent ISMS)</strong></p>
+
+<ul>
+	<li>If customer rates bad in agent KPI score (less than or equal to 8) due to system limitations (network related or due to any XYZ issue), CFL agent will communicate once to the customer that your issue is unsorted due to (narrate customer&#39;s problem like network expansion or any XYZ reason) and backend agent has correctly catered your concern, Now Please re confirm your scoring in Agent KPI. CFL agent will punch scoring in BE VOC accordingly.</li>
+	<li>&lt;if score 0 to 8 in Agent KPI then CFL Agent will note down all details in BE-VOC portal with relevant Work codes given in portal drop down menu along with Remarks</li>
+</ul>
+
+<p>Q3. <strong>Sir/Madam Ap ke is experience ki bunyad pe jis mien hamary backend agent ne aap ka masla hal kiya, Kya ap apny dostoon or rishtidaron ko Jazz istimal karny ka mashwara dena chahengay/gi? 0 se 10 ke darmiyan score dijiye Jahan 0 ka matlab bilkul mashwara nahi dengay/gi or 10 ka matlab zaroor mashwara dengay/gi</strong></p>
+
+<ul>
+	<li>&nbsp;&lt;if score 0 to 8 in NPS then CFL Agent will note down all details in BE-VOC portal with relevant Work codes given in portal drop down menu along with Remarks</li>
+</ul>
+
+<p>Further points:</p>
+
+<ul>
+	<li>Agent will facilitate customer &amp; close loop in case customer has issue with Network or Product or in case customer requests Agent for performing system related activity (e.g. bundle subscription or un-subscription) &amp; Agent should have access to system &amp; customer provides related information / authentication, then in such a scenario Agent should perform such system related activity &amp; customer should be facilitated by providing the required information or execution of his/her request or complaint.</li>
+	<li>For the above Agents should mention in comments in defined format that loop was closed along with related details.</li>
+</ul>
+
+<p>End. Humay apna keemti waqt denay ka buhat shukriya, Allah Hafiz</p>
+
+<p><strong>BE(VOC)&nbsp; Portal Link:</strong></p>
+
+<p>&nbsp;<a href="https://cemapp.jazz.com.pk:8317/#_blank">https://cemapp.jazz.com.pk:8317/</a></p>
+
+Submission Channel: 1058
+Escalation Level: I don't have updated information about this.
+Created By: mehroz.fatima
+Type (SOP/Complaint): SOP
+Verification Status: 6106
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>Before month closure actual completetion &amp; shortfall is mapped against activity recieved &amp; completion ratio.</li>
+	<li>No compensation will be given against over achieved completed surveys.</li>
+	<li>All loop closure related to customer complaints&nbsp;request will be entertained by outbound calling team.</li>
+	<li>In cases where acknowledgment time has not lapsed the CFL agent will complete the survey and call back the customer again after acknowledgment time has lapsed to confirm the status of the issue and launch complain if required.</li>
+	<li>
+	<p>Incase where customer tells the dissatisfaction reasons which are:</p>
+
+	<p>o&nbsp;&nbsp; Not in control of the agent (Network, Pricing, etc) and</p>
+
+	<p>o&nbsp;&nbsp; Customer has not discussed those at the time of interaction</p>
+
+	<p>The CFL agent will educate the customers that the highlighted issue is not in agents control and will ask for the ratings again. Ratings will be accordingly marked after educating the customer. CFL agent will also follow process for resolution of highlighted complaints in such cases.</p>
+	</li>
+	<li>
+	<p>Incase the data in unavailable the agents shall cater previous data to meet the targets set.</p>
+	</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 17810
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Test Urdu Text
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <p>&nbsp;</p>
+
+<ul>
+	<li>???? ?? ????????? ?? ?????? ??? ??? ??? ?? ???? ??? ???????</li>
+	<li>CPS ?? <em>????????? ?????</em> ??? ??? ????????? ???? ?????</li>
+	<li>??? ???? ?? ??? ????????? ????? ???</li>
+	<li>??? ????????? ??? ??? ?? ?? ???? ???? ???? ?? ?? Service Now ??? ????? ??? ?????</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>???? ?? ????????? ?? ?????? ??? ??? ??? ?? ???? ??? ???????</li>
+	<li>?? ?? ??? ?? <em>????????? ?????</em> ??? ??? ????????? ???? ?????</li>
+	<li>??? ???? ?? ??? ????????? ????? ???</li>
+	<li>??? ????????? ??? ??? ?? ?? ???? ???? ???? ?? ?? <em>???? ???</em> ??? ????? ??? ?????</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>4o</p>
+
+Submission Channel: 27
+Escalation Level: I don't have updated information about this.
+Created By: shahid.mehmood
+Type (SOP/Complaint): SOP
+Verification Status: 6116
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: BackEndTeam
+Category: Prepaid
+SOP Status: I don't have updated information about this.
+
+
+TYPE: SOP
+
+ID: 17834
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Callperks Mechanics & Complaint Handling
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <p><span style="font-size:12.0pt"><span style="font-family:&quot;Aptos&quot;,sans-serif">CALLPERKS:</span></span></p>
+
+<p><span style="font-size:12.0pt"><span style="font-family:&quot;Aptos&quot;,sans-serif">When a subscriber (Party A) makes an outgoing call, instead of hearing the usual call connecting tone or a personalized RRBT, they hear an audio announcement/promotion until the receiving party (Party B) answers the call.</span></span></p>
+
+Submission Channel: 27,1050,2065
+Escalation Level: I don't have updated information about this.
+Created By: mehroz.fatima
+Type (SOP/Complaint): SOP
+Verification Status: 6171
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif"><strong>Points Redemption</strong></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">1. Logging In:<br />
+Users can access the CallPerks website (<a href="http://www.callperks.com.pk" style="color:blue; text-decoration:underline" target="_new">www.callperks.com.pk</a>) by entering their mobile phone number. They will receive a one-time password (OTP) via SMS (using Jazz OTP Authenticator) to securely log in.</span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">2. Viewing Points:<br />
+Once logged in, users can see their total accumulated points on a personalized dashboard.</span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">3. Exploring Rewards:<br />
+Users can browse through a variety of rewards organized into categories for easy access. These categories include:</span></span></p>
+
+<ul>
+	<li><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">Jazz Bundles</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">Mobile Top-ups</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">E-Vouchers</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">Other Promotional Offers</span></span></li>
+</ul>
+
+<p><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">4. Redeeming Rewards:<br />
+To redeem points, users can:</span></span></p>
+
+<ul>
+	<li><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">Select their desired rewards.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">Add them to their cart.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">Proceed to checkout and confirm the purchase using their available points<strong>.</strong></span></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif"><strong>Types of Rewards</strong></span></span></p>
+
+<ul>
+	<li><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">Rewards include Jazz Bundles, e-vouchers for online retailers (e.g., Daraz, Khaadi), and other promotional offers. The rewards catalog is updated regularly.</span></span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">Complaints &amp; FAQS</span></span></p>
+
+<ul>
+	<li><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">Information, including terms and conditions, privacy policies, and FAQs, can be found on the CallPerks website (<a href="http://www.callperks.com.pk" style="color:blue; text-decoration:underline" target="_new">www.callperks.com.pk</a>)</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">You can check your points balance by logging into the CallPerks website (<a href="http://www.callperks.com.pk" style="color:blue; text-decoration:underline" target="_new">www.callperks.com.pk</a>) using your mobile number and OTP (one-time password).</span></span></li>
+	<li><span style="font-size:12pt"><span style="color:black"><span style="font-family:Aptos,sans-serif"><span style="font-size:11.0pt"><span style="background-color:yellow"><span style="font-family:&quot;Calibri&quot;,sans-serif">In case of subscription/unsubscription failure or website Is not working POC would be</span></span></span></span></span></span></li>
+</ul>
+
+<p style="margin-left:48px"><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif"><span style="font-size:11.0pt"><span style="background-color:yellow"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="color:black">Level 1: Salman Hafeez from TonePerks&nbsp;</span></span></span></span></span></span></p>
+
+<p style="margin-left:96px"><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif"><span style="font-size:11.0pt"><span style="background-color:yellow"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="color:black"><a href="mailto:salman.hafeez@toneperks.com" style="color:blue; text-decoration:underline">salman.hafeez@toneperks.com</a><br />
+Level 2: Hamna Aleem&nbsp;<br />
+<a href="mailto:hamna.aleem@jazz.com.pk" style="color:blue; text-decoration:underline">hamna.aleem@jazz.com.pk</a><br />
+Level 3 Escalation: Muddassar Ali<br />
+<a href="mailto:muddassar.ali@jazz.com.pk" style="color:blue; text-decoration:underline">muddassar.ali@jazz.com.pk</a></span></span></span></span></span></span></p>
+
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: <p><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif"><strong>Reward</strong></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif">Participants in the CallPerks program can earn points by listening to announcements or promotions during outgoing calls.</span></span></p>
+
+<ul>
+	<li><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif"><strong>Earning Points</strong>:<br />
+	Every time a participant listens to an ad or promotion for at least 3 seconds, they earn 10 points.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif"><strong>Daily Limit:</strong><br />
+	Users can earn points for up to 30 ads per day, which equals a maximum of 300 points daily. After reaching this limit, no additional points will be given for more ads.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Aptos,sans-serif"><strong>Point Expiry</strong>:<br />
+	Points are valid for 365 days. If they are not used within this period, they will expire and be removed from the user&#39;s account.</span></span></li>
+</ul>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: I don't have updated information about this.
+
+

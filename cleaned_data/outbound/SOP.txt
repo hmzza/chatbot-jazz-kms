@@ -1,0 +1,557 @@
+CATEGORY: OUTBOUND
+TYPE: SOP
+TOTAL ENTRIES: 7
+--------------------------------------------------------------------------------
+
+TYPE: SOP
+
+ID: 17760
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Post to Pre Conversion Information - Outbound Handling
+------------------------------------------------------------
+Main Header: Outbound
+Network Provider: Jazz
+Complaint Description: <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">This process covers guidelines for postpaid OB calls where customer wants to convert their postpaid number to prepaid.&nbsp;</span></span></p>
+
+Submission Channel: 3082
+Escalation Level: I don't have updated information about this.
+Created By: ruqqia.bibi1
+Type (SOP/Complaint): SOP
+Verification Status: 6187
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <ul>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">For CRM segment, if customer wants to convert postpaid number to prepaid, agent will probe customers&rsquo; issue and resolve upfront. </span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">For other segments, agent will guide customer to <span style="background-color:yellow">visit the nearest Experience Center or Franchise for conversion along with original CNIC.</span></span></span></li>
+</ul>
+
+Checklist Items: <ul>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">90 days Postpaid Network Life.</span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Clearance of total outstanding dues.</span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">One-time charges: Rs.200.</span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Original Customer along with CNIC.</span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Default package will be Champion.</span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">FAT of Rs. 50 will be posted to the customer valid for 25 days.</span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Incase Postpaid number is active on Waiver then Total Outstanding Balance should be cleared.</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 17761
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Add-On Bolt-On Information - Outbound Handling
+------------------------------------------------------------
+Main Header: Outbound
+Network Provider: Jazz
+Complaint Description: <p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="color:#333333">This process covers guidelines for handling customers who want to take information regarding add-on/bolt-on on their postpaid number.</span></span></span></span></p>
+
+Submission Channel: 3082
+Escalation Level: I don't have updated information about this.
+Created By: ruqqia.bibi1
+Type (SOP/Complaint): SOP
+Verification Status: 6187
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="color:#333333">Agent will guide to use; </span></span></span></span></p>
+
+<ul>
+	<li>SIMOSA App</li>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="color:#333333">Below self-service to the customer from their Jazz postpaid number. For prices, agent can refer to the offers section in KMS.&nbsp;</span></span></span></span></li>
+</ul>
+
+<table cellspacing="0" class="Table" style="border-collapse:collapse; width:456px">
+	<tbody>
+		<tr>
+			<td style="background-color:yellow; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:35px; width:136px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Once-Off Offer</span></span></strong></span></span></p>
+			</td>
+			<td style="background-color:yellow; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:35px; width:146px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Data Volume (Generic)</span></span></strong></span></span></p>
+			</td>
+			<td style="background-color:yellow; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:35px; width:174px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Subscription String</span></span></strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; width:136px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Data Add On 1</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; width:146px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">1 GB</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; width:174px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">*446*1*2#</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; width:136px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Data Add On 2</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; width:146px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">2 GB</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; width:174px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">*446*1*2#</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:136px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Data Add On 3</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:146px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">4 GB</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:174px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">*446*1*2#</span></span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellspacing="0" class="Table" style="border-collapse:collapse; width:512px">
+	<tbody>
+		<tr>
+			<td style="background-color:yellow; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:21px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">BOLT-On</span></span></strong></span></span></p>
+			</td>
+			<td style="background-color:yellow; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:21px; width:144px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Data Volume (Generic)</span></span></strong></span></span></p>
+			</td>
+			<td style="background-color:yellow; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:21px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Data Volume (Social)</span></span></strong></span></span></p>
+			</td>
+			<td style="background-color:yellow; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:21px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Subscription String</span></span></strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:35px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Monthly WhatsApp</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; width:144px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">&nbsp;</span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">6 GB*</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">*446*1*1#</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Monthly Browser</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; width:144px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">1 GB</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">&nbsp;</span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">*446*1*1#</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Monthly Streamer</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; width:144px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">4 GB</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">&nbsp;</span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">*446*1*1#</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Monthly Premium</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:144px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">10 GB</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">&nbsp;</span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">*446*1*1#</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Monthly Supreme</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:144px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">20 GB</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">&nbsp;</span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">*446*1*1#</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Monthly Super</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:144px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">28 GB</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">&nbsp;</span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">*446*1*1#</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">Monthly Ultimate</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:144px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">55 GB</span></span></span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">&nbsp;</span></span></p>
+			</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:123px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:#333333">*446*1*1#</span></span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Postpaid
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 17762
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Bill Adjustment (Financial Movement) - Outbound Handling
+------------------------------------------------------------
+Main Header: Outbound
+Network Provider: Jazz
+Complaint Description: <p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="color:#333333">This process covers guidelines for handling postpaid customers who want to adjust/update their security deposit or bill amount. </span></span></span></span></p>
+
+Submission Channel: 3082
+Escalation Level: I don't have updated information about this.
+Created By: ruqqia.bibi1
+Type (SOP/Complaint): SOP
+Verification Status: 6132
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="color:#333333">Agent will create below Super Office Case</span></span></span></span></p>
+
+<table cellspacing="0" class="Table" style="border-collapse:collapse; margin-left:135px; width:369px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:20px; width:195px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="color:black">Type</span></strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; width:174px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="color:black">Billing Adjustment</span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:195px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="color:black">Area</span></strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:174px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="color:black">Financial Movement</span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:2px; width:195px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="color:black">Sub Area (to be selected as per request)</span></strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:2px; width:174px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="color:black">Bill To Deposit / Transfer of Payment</span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><strong><span style="color:#333333">TAT:</span></strong><span style="color:#333333"> 4 Hours</span></span></span></span></p>
+
+Checklist Items: I don't have updated information about this.
+Required Questions: <ul>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">Check Credit Limit &ndash; It should not be less than security deposit.</span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">Number should be active &ndash; No adjustment or activity will be performed if number is blocked on Fraud tag. </span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">Check access level for the number - Minimum requirements for ISD/IR should be checked.</span></span></span></span>
+	<ul style="list-style-type:circle">
+		<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">CSRTB&nbsp;&rarr; Contracts&nbsp;&rarr; barring window&nbsp;&rarr; Click on &quot;Bolt-on_IDD tab&quot;&nbsp;&rarr; check in front of &quot;International&quot;</span></span></span></span></li>
+		<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">CSRTB&nbsp;&rarr; Contracts&nbsp;&rarr; barring window &rarr; Click on &quot;Roaming&quot;&nbsp;&rarr; check in front of &quot;IR&quot;</span></span></span></span></li>
+	</ul>
+	</li>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">Maximum total of Rs. 5,000&nbsp;Bill to Deposit can be processed in last 28 days.</span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">More than 5,000 can be processed only if payment is received through cash.</span></span></span></span></li>
+</ul>
+
+Important Points: <ul>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">Only overpayment can be adjusted in deposit for Bill to Deposit.</span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">In Bill to Deposit, credit limit is auto updated in CSRTB after adjustment. </span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">Same CLI is mandatory for financial adjustment account related activities where adjustment is required from Bill to Deposit. </span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">If there are more than one number on the same name &amp; CNIC then we can forward Financial Adjustment within the same or two accounts from any of the numbers of that ownership.</span></span></span></span></li>
+</ul>
+
+View Type: CallCenter
+Category: Postpaid
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 17763
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Bill Related Information - Outbound Handling
+------------------------------------------------------------
+Main Header: Outbound
+Network Provider: Jazz
+Complaint Description: <p>This process covers guidelines for handling customers who want information regarding their postpaid bill.</p>
+
+Submission Channel: 3082
+Escalation Level: I don't have updated information about this.
+Created By: ruqqia.bibi1
+Type (SOP/Complaint): SOP
+Verification Status: 6187
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <ul>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Agent will guide customer by consulting CSRTB regarding</span></span>
+	<ul style="list-style-type:circle">
+		<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Unbilled Amount - If customer asks for ongoing months usage</span></span></li>
+		<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Last Invoice Amount - if customer asks for last month bill amount</span></span></li>
+		<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Total Debt Amount - If customer asks for total bill amount</span></span></li>
+		<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Any additional subscribed service.</span></span></li>
+	</ul>
+	</li>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Customers are billed on 2nd of every month. </span></span></li>
+</ul>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="background-color:yellow">Note:</span></strong><span style="background-color:yellow"> To check bill information in the future, agent will also guide customer regarding self-service channels i.e., SIMOSA, Jazz WhatsApp or USSD *446# for postpaid </span></span></span></p>
+
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Postpaid
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 17766
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Order Related Handling - Outbound
+------------------------------------------------------------
+Main Header: Outbound
+Network Provider: Jazz
+Complaint Description: <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">This process covers guidelines for handling order related issues in system. </span></span></p>
+
+Submission Channel: ,3082
+Escalation Level: I don't have updated information about this.
+Created By: ruqqia.bibi1
+Type (SOP/Complaint): SOP
+Verification Status: I don't have updated information about this.
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <ul>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="color:#333333">Agent will acknowledge complaint after 4 hours. Guide customer that order will be auto executed within 4 hours. </span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif"><span style="background-color:white">All Failed cases will be auto catered by relevant team (Ericson-MS) with 4 hours of failure.</span></span></span></span></span></li>
+</ul>
+
+Checklist Items: I don't have updated information about this.
+Required Questions: <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Verify MEMOS against the order</span></span></p>
+
+<ul>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">Failed (order execution failed) - <strong><span style="color:#ffc000">Orange icon</span></strong></span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">Requested (order execution in process) - <strong><span style="color:#1f3864">Blue icon</span></strong></span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="color:#333333"><span style="font-family:Calibri,sans-serif">Fulfilled (order executed)&nbsp;- <strong><span style="color:#538135">Green icon</span></strong></span></span></span></span></li>
+</ul>
+
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: I don't have updated information about this.
+
+
+TYPE: SOP
+
+ID: 17767
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Network Related Complaint(s) - Outbound Handling
+------------------------------------------------------------
+Main Header: Outbound
+Network Provider: Jazz
+Complaint Description: <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">This process covers guidelines to handle customers facing network related issues.</span></span></p>
+
+Submission Channel: 3082
+Escalation Level: I don't have updated information about this.
+Created By: ruqqia.bibi1
+Type (SOP/Complaint): SOP
+Verification Status: 6187
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Agent will guide customer SIMOSA app as per below for network related complaints. However, if customer still insists agent will provide remedy as per scenarios given.</span></span></p>
+
+<table cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:none; width:644px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:26px; vertical-align:top; width:214px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Incoming/Outgoing SMS</strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:26px; vertical-align:top; width:215px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Data Complaints</strong></span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:26px; vertical-align:top; width:215px">
+			<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Incoming/Outgoing Call Complaints</strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:162px; vertical-align:top; width:214px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 1: </strong>Download/Login SIMOSA App</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 2: </strong>Go to Support<strong> </strong></span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 3: </strong>Click<strong> &ldquo;</strong>Submit a Complaint&rdquo;</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 4: </strong>Select<strong> </strong>&ldquo;I am facing a Jazz Network Issue&rdquo;</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 5:</strong> Select &ldquo;SMS&rdquo;</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 6: </strong>Select<strong> </strong>&ldquo;Outgoing or Incoming SMS&rdquo; (as per issue)</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 7: </strong>Select related issue</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 8: </strong>Add relevant details and Click Submit</span></span></p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:162px; vertical-align:top; width:215px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 1: </strong>Download/Login SIMOSA App</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 2: </strong>Go to Support<strong> </strong></span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 3: </strong>Click<strong> &ldquo;</strong>Submit a Complaint&rdquo;</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 4: </strong>Select<strong> </strong>&ldquo;I am facing a Jazz Network Issue&rdquo;</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 5:</strong> Select &ldquo;Mobile Internet&rdquo;</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 6: </strong>Select<strong> </strong>&ldquo;3G Internet OR 4G LTE&rdquo;</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 7: </strong>Select related issue</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 8: </strong>Add relevant details and Click Submit</span></span></p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:162px; vertical-align:top; width:215px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 1: </strong>Download/Login SIMOSA App</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 2: </strong>Go to Support<strong> </strong></span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 3: </strong>Click<strong> &ldquo;</strong>Submit a Complaint&rdquo;</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 4: </strong>Select<strong> </strong>&ldquo;I am facing a Jazz Network Issue&rdquo;</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 5: </strong>Select &ldquo;Calls/Quality of Service&rdquo;</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 6: </strong>Select related issue</span></span></p>
+
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Step 7: </strong>Add relevant details and Click Submit</span></span></p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="background-color:yellow">For any <strong>Known Issue of Network</strong> &ndash; No complaint will be taken in this regard and provided statements from Helpdesk will be used</span>.</span></span></p>
+
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 17768
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Online Payment Not Posted - Outbound Handling
+------------------------------------------------------------
+Main Header: Outbound
+Network Provider: Jazz
+Complaint Description: <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">This process covers guidelines for handling customers who complaint regarding their online payments not posted.</span></span></p>
+
+Submission Channel: 3082
+Escalation Level: I don't have updated information about this.
+Created By: ruqqia.bibi1
+Type (SOP/Complaint): SOP
+Verification Status: 6187
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: I don't have updated information about this.
+Required Questions: <ul>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="color:#333333">Agent will probe payment date &amp; time from customer and verify payment via CRM.</span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="color:#333333">If payment is made within 24 hours, complaint will not be acknowledged, and agent will ask customer to wait for 24 hours.</span></span></span></span></li>
+</ul>
+
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Both
+SOP Status: I don't have updated information about this.
+
+

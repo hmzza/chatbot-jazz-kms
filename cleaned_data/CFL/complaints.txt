@@ -1,0 +1,110 @@
+CATEGORY: CFL
+TYPE: COMPLAINTS
+TOTAL ENTRIES: 3
+--------------------------------------------------------------------------------
+
+TYPE: COMPLAINT
+
+ID: 13342
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Testing 3 Nov
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <p>Test</p>
+
+Submission Channel: 1050,1055
+Escalation Level: I don't have updated information about this.
+Created By: FATIMA.ZAHEER
+Type (SOP/Complaint): Complaint
+Verification Status: 6093
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <p>test</p>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: CallCenter
+Category: Prepaid
+SOP Status: Active
+
+
+TYPE: COMPLAINT
+
+ID: 14278
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Merchant Promo Complaint
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">In case merchant calls at helpline and complaints that specific promo, incentive/cashback not posted </span></span></p>
+
+<h2><span style="font-size:14pt"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><u><strong>Process at Call Center</strong></u> </span></span></h2>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Merchant calls at helpline 8000/4444 and complaints that he has not received Promo/incentive of any specific campaign/Promo/offer agent after verifying the checklist should ensure that either this complaint is related to instant promo or offline promo and raise customer complaint in efront as mentioned under below scenarios accordingly </span></span></p>
+
+Submission Channel: 34
+Escalation Level: I don't have updated information about this.
+Created By: waqas.khan
+Type (SOP/Complaint): Complaint
+Verification Status: 2067
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <ul>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Mentioned in Scenarios&nbsp;</span></span></li>
+</ul>
+
+Checklist Items: <ul>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Check eligibility list 1<sup>st</sup> updated at KMS</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Secondly check qualify list before taking compliant at KMS</span></span></li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">In case merchant number is available in eligibility list and promo incentive not posted and TAT is lapsed we need to take complaint on customer request </span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Only genuine complaints to be raised with Sara Murad via email with TAT of 1 working (cut-off time 1pm) Complaints raised after 1 pm on a working day, will be catered on next working day</span></span></li>
+</ul>
+
+View Type: CallCenter
+Category: Both
+SOP Status: Active
+
+
+TYPE: COMPLAINT
+
+ID: 15793
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: test
+------------------------------------------------------------
+Main Header: CFL
+Network Provider: Jazz
+Complaint Description: I don't have updated information about this.
+Submission Channel: 1052
+Escalation Level: I don't have updated information about this.
+Created By: arifa.saeed
+Type (SOP/Complaint): Complaint
+Verification Status: 3070
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: Franchise
+Category: Both
+SOP Status: Expired
+
+

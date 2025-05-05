@@ -1,0 +1,831 @@
+CATEGORY: SOCIALMEDIA
+TYPE: SOP
+TOTAL ENTRIES: 13
+--------------------------------------------------------------------------------
+
+TYPE: SOP
+
+ID: 15795
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Billing Information
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>In case&nbsp;customer reach out over social media&nbsp;to inquire about bill of his/her number following will be the guidliness.</p>
+
+Submission Channel: 1052
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): SOP
+Verification Status: 6106
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: <p>Incase customer asks about bill payment methods then agent need to guide as per below:</p>
+
+<p><strong>Payment methods:</strong></p>
+
+<ul>
+	<li>Guide customer about payment methods he/she can use for billing</li>
+</ul>
+
+<ol>
+	<li>Jazz World</li>
+	<li>Cash</li>
+	<li>Credit/Debit&nbsp;Card</li>
+	<li>Jazz Cash</li>
+	<li>Scratch Card</li>
+	<li>Direct Debit</li>
+	<li>Online payment through bank</li>
+</ol>
+
+<ul>
+	<li>Customer can recharge or pay bill through jazz world with different mediums.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>Incase customer inquire about to&nbsp;get his/her dplicate bill details then agent need to guide as per below:</p>
+
+<p><strong>Duplicate Bill</strong>:&nbsp;</p>
+
+<ul>
+	<li>Customer can get 7 days history thourgh jazz world App</li>
+	<li>Guide customer that invoice is sent by Jazz on registered&nbsp;email adress.</li>
+</ul>
+
+<p>Incase customer inquire about LPF details then agent need to guide as per below:</p>
+
+<p><strong>Late Payment Fee:</strong></p>
+
+<p>LPF is charged who have not cleared their billed balance as per due date.</p>
+
+View Type: BackEndTeam
+Category: Postpaid
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15796
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Tax Certificate Info
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Customers contacts via social media to get information about tax certificate then agent need to&nbsp;follow below guidelines to facilitate customers.</p>
+
+Submission Channel: 1052
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): SOP
+Verification Status: 6106
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>Tax certificates can be requested for last 5 financial years</li>
+	<li>Tax certificates will be issued to customers as per ownership information in our system</li>
+	<li>Customers can also view and download his last 5 year Tax certificate from Jazz WorldApp, WhatsApp under the head of account settings.</li>
+	<li>In case the ownership has changed during the fiscal year, tax certificate will be issued to the new customer for full year.</li>
+	<li>If customer&rsquo;s address has changed after fiscal year closing, old address will appear in the tax certificate</li>
+	<li>In case number is expired or deactivated, tax certificate will be issued provided the customer&rsquo;s information still exists in our system (for full year)</li>
+	<li>For Port out numbers Tax Certificate can be taken from main Jazz office only</li>
+	<li>Tax certificates can be requested for last 5 financial years</li>
+	<li>Tax certificates will be issued to customers as per ownership information in our system</li>
+	<li>Customers can also view and download his last 5 year Tax certificate from Jazz WorldApp, WhatsApp under the head of account settings.</li>
+	<li>In case the ownership has changed during the fiscal year, tax certificate will be issued to the new customer for full year.</li>
+	<li>If customer&rsquo;s address has changed after fiscal year closing, old address will appear in the tax certificate</li>
+	<li>In case number is expired or deactivated, tax certificate will be issued provided the customer&rsquo;s information still exists in our system (for full year)</li>
+	<li>For Port out numbers Tax Certificate can be taken from main Jazz office only</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15798
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Balance Deduction & usage related info
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>In case customer contact via social media&nbsp;to get the information about usage or deduction related info of his/her number then below handling will be followed.</p>
+
+Submission Channel: 1052
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): SOP
+Verification Status: 6106
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>
+	<p>Agent will guide SIMOSA&nbsp; (jazz world app) self service&nbsp;to customer for future reference.&nbsp;</p>
+	</li>
+	<li>You can view your usage &amp; active bundle details via SIMOSA (Jazz World App). Simply click on the given link from your mobile &amp; navigate to &ldquo;Usage Details&rdquo; section. Link: <a href="https://jazzapp.page.link/dlhp">https://jazzapp.page.link/dlhp</a></li>
+	<li>Keep track of your balance effortlessly! Open SIMOSA (Jazz World App) by clicking on given link from your mobile &amp; your available balance will be displayed on the home screen. Link: <a href="https://jazzapp.page.link/dlhp">https://jazzapp.page.link/dlhp</a></li>
+	<li>Interested to see our other exciting bundles? Just click on the given link from your mobile &amp; check out &#39;Packages&#39; section on SIMOSA ( Jazz World)&nbsp;&nbsp;for exploring loads of options. Link: <a href="https://jazzapp.page.link/dlhp">https://jazzapp.page.link/dlhp</a></li>
+	<li>You can also view [product/service name] details via SIMOSA ( Jazz World App). Simply click on the given link from your mobile. Link: <a href="https://jazzapp.page.link/dlhp">https://jazzapp.page.link/dlhp</a></li>
+	<li>Explore a world of services with our SIMOSA ( Jazz World App)! Click on the given link from your mobile to discover a variety of packages just for you. Link: <a href="https://jazzapp.page.link/dlhp">https://jazzapp.page.link/dlhp</a></li>
+	<li>Activating any bundle was never this easy! Simply click on the given link from your mobile &amp; go to &ldquo;Package&rdquo; section to activate the package of your choice. Link: <a href="https://jazzapp.page.link/dlhp">https://jazzapp.page.link/dlhp</a></li>
+	<li>Customers can now check&nbsp;the <strong>Usage History</strong> option in the self-service menus (*444# for prepaid and *446# for postpaid customers) to check&nbsp;last 10 transactions, including Calls, SMS, and Data, with proper validation and following instructions will be given:
+	<p><strong>Select Duration:</strong></p>
+	</li>
+	<li>Last 24 Hours</li>
+	<li>Last 7 Days<br />
+	<strong>Select Usage Categories:</strong></li>
+	<li>Calls</li>
+	<li>SMS</li>
+	<li>Data</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Prepaid
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15801
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Balance Share & Jazz Advance
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Customers contacts via social media to get information about jazz balance share and jazz advance&nbsp;then agent need to&nbsp;follow below guidelines to facilitate customers.</p>
+
+Submission Channel: 1052
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): SOP
+Verification Status: 6106
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>Prepaid Maximum sending amount limit for party A will be Rs.500/day which can be transferred in a single transaction or&nbsp;as many transaction&nbsp;till threshold (500/Day)</li>
+	<li>Maximum receiving limit for party B will be Rs.2500/day</li>
+	<li>Service Charges of Rs.Rs7.50/transaction will apply for prepaid</li>
+	<li>Customer can avail prepaid to prepaid balance share facility from day 1 if he recharged his account</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Prepaid
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15802
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Jazz World App Related Info
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Incase customer contacts Jazz via social media and want to get info about services, features, offers or bundles activated through Jazz World App. then we will follow below guidelines</p>
+
+Submission Channel: 1052
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): SOP
+Verification Status: 6106
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <ul>
+	<li>If customer activated any bundle through USSD then bundle expiry will not be visible on jazz world app . Agent can facilitate customer to check expiry through CSRTB or guide USSD code for self-check.</li>
+	<li>For future reference it is mandatory to ask customer that he can activate bundle through jazz world app for expiry visibility&nbsp;</li>
+	<li>If a customer complaints&nbsp;that incorrect balance issue has faced at Jazz World app then we need to ask&nbsp;customer to switch their mobile phone&rsquo;s Airplane Mode ON/OFF</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <p><strong>Feature:</strong></p>
+
+<ul>
+	<li>Check Balance</li>
+</ul>
+
+<p>o&nbsp;&nbsp; Prepaid Account balance</p>
+
+<p>o&nbsp;&nbsp; &nbsp;Postpaid Bill</p>
+
+<p>o&nbsp;&nbsp; Postpaid Credit Limit</p>
+
+<p>o&nbsp;&nbsp; Remaining Balance</p>
+
+<p>o&nbsp;&nbsp; Remaining Credit Limit</p>
+
+<ul>
+	<li>Subscribed Offers &amp; Bundles</li>
+	<li>Subscribed Favorite Offers, Bundles &amp; VAS</li>
+	<li>Recharge Their Account And Pay Their Bill via:</li>
+</ul>
+
+<p>o&nbsp;&nbsp; Jazz Cash Account</p>
+
+<p>o&nbsp;&nbsp; Credit/Debit Card</p>
+
+<p>o&nbsp;&nbsp; Scratch Card</p>
+
+<ul>
+	<li>View their Call, SMS &amp; Data usage history</li>
+</ul>
+
+<p>o&nbsp;&nbsp; 1 day</p>
+
+<p>o&nbsp;&nbsp; 7 days</p>
+
+<ul>
+	<li>&nbsp;Buy SIM</li>
+	<li>&nbsp;Check &amp; Subscribe To Recommended Offers</li>
+	<li>Add Multiple Numbers (Max 5)</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>Agent will guide jazz world app self service&nbsp;to customer for future reference.&nbsp;</p>
+
+<ul>
+	<li>You can view your usage &amp; active bundle details via Jazz World App. Simply click on the given link from your mobile &amp; navigate to &ldquo;Usage Details&rdquo; section. Link: <a href="https://jazzapp.page.link/dlhp">https://jazzapp.page.link/dlhp</a></li>
+	<li>Keep track of your balance effortlessly! Open Jazz World App by clicking on given link from your mobile &amp; your available balance will be displayed on the home screen. Link: <a href="https://jazzapp.page.link/dlhp">https://jazzapp.page.link/dlhp</a></li>
+	<li>Interested to see our other exciting bundles? Just click on the given link from your mobile &amp; check out &#39;Packages&#39; section on Jazz World App for exploring loads of options. Link: <a href="https://jazzapp.page.link/dlhp">https://jazzapp.page.link/dlhp</a></li>
+	<li>You can also view [product/service name] details via Jazz World App. Simply click on the given link from your mobile. Link: <a href="https://jazzapp.page.link/dlhp">https://jazzapp.page.link/dlhp</a></li>
+	<li>Explore a world of services with our Jazz World App! Click on the given link from your mobile to discover a variety of packages just for you. Link: <a href="https://jazzapp.page.link/dlhp">https://jazzapp.page.link/dlhp</a></li>
+	<li>Activating any bundle was never this easy! Simply click on the given link from your mobile &amp; go to &ldquo;Package&rdquo; section to activate the package of your choice. Link: <a href="https://jazzapp.page.link/dlhp">https://jazzapp.page.link/dlhp</a></li>
+</ul>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15804
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Change of SIM
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Customers contacts via social media and want to get information about duplicate sim then agent will follow the below guidelines:</p>
+
+Submission Channel: 1052
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): SOP
+Verification Status: 6115
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p>When customer contacts through social media via Wall or comment then agent need to ask customer please contact us via DM. Incase customer contact via DM and want to get info about duplicate sim&nbsp;then agent need to follow below mentioned handling</p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>Guide customer to visit Jazz Experience Center, Franchise Center or Retailer shop for Change of SIM</li>
+	<li>if customer want to get duplicate sim from office guide as per following details (SMS to 7089)
+	<ul>
+		<li>For Prepaid, guide customer to visit either Business Center, Franchise Center or Retailer</li>
+		<li>For Postpaid, guide customer to visit nearest Business Center or Franchise Center &amp; retailer.</li>
+		<li>Note that sensitive customers Postpaid sim change cant &nbsp;be performed on retailer devices.(Emp, B2B, Ex pmcl)</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Agent provide information and close&nbsp;the chat.</p>
+
+Checklist Items: <p>Presence of Original customer for biometric verification along with CNIC number.</p>
+
+<ul>
+	<li>&nbsp;Before processing 3G to 4G SIM replacement, we need to guide customer to back up SIM contacts (on phone or on Gmail or Cloud account). This is mandatory to inform to ensure that customers don&rsquo;t lose their old contacts after SIM change.</li>
+	<li>&nbsp;SIM replacement will be processed once old SIM contacts are backed up or if customer agrees to proceed without backing up SIM contacts.&nbsp;</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>8 hours check is applicable for same CNIC same type of BVS
+	<ul>
+		<li>For example: If change of SIM Biometric&nbsp;verification is successfully performed by a customer then next change of SIM of any number can be performed&nbsp;by same customer after 8 hours</li>
+		<li>Please guide this check if customer wants to get Change of SIM of more than 1 connection.</li>
+		<li>Charges for change of SIM are Rs.550</li>
+	</ul>
+	</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15805
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Jazz 4G devices Info
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Customers contacts via social media and complaint about jazz 4G device info then agent will follow the below handling:&nbsp;&nbsp;</p>
+
+Submission Channel: 1052
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): SOP
+Verification Status: 6106
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p>When customer contacts through social media via Wall or comment then agent need to ask customer please contact us via DM. Incase customer contact via DM and inquire about jazz 4G devices details then agent need to follow below mentioned handling:&nbsp;</p>
+
+<ul>
+	<li>Agent need to ask customer to visit any nearest retailer, franchise or experiace center to purchase device.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>For&nbsp;MBB 3 Day 8GB:&nbsp;</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/DataOffer/Index/1712</p>
+
+<p><strong>For&nbsp;MBB Weekly Bundle 25GB:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/DataOffer/Index/1708</p>
+
+<p><strong>For&nbsp;MBB Monthly Mega Bundle:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/DataOffer/Index/1696</p>
+
+<p><strong>For&nbsp;Monthly Internet - Heavy:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/DataOffer/Index/1692</p>
+
+<p><strong>For&nbsp;MBB Reactivation Weekly Offer:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/DataOffer/Index/1688</p>
+
+<p><strong>For&nbsp;MBB 6 Months 75GB Bundle (100GB Now):</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/DataOffer/Index/1461</p>
+
+<p><strong>For&nbsp;MBB 3 Months 36GB Bundle (65GB Now):</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/DataOffer/Index/1453</p>
+
+<p><strong>For&nbsp;MBB LBC South Offer (Only for Jazz):</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/DataOffer/Index/163</p>
+
+<p><strong>For&nbsp;Monthly Regular:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/DataOffer/Index/79</p>
+
+<p><strong>For&nbsp;MBB Welcome Back Offer :&nbsp;</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/DataOffer/Index/130</p>
+
+<p><strong>For&nbsp;MBB Monthly Basic :</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/DataOffer/Index/55</p>
+
+<p>&nbsp;</p>
+
+<p>Agent provide information and close&nbsp;the chat.</p>
+
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>To Activate/Deactivate MIFI/Dongle package user can access jazz.wifi application or use URL 192.168.1.1</li>
+	<li>Bundles are once off , simply subscribe via retailer menu or MBB menu&nbsp;*6363#</li>
+	<li>Customer can also use Jazz Cash to recharge his device</li>
+	<li>To check the details related to wingle, mifi and home wifi devices prices agent can check details on below link</li>
+</ul>
+
+<p>https://cemdev.jazz.com.pk:909/Device/DataDevice</p>
+
+<ul>
+	<li>For&nbsp;Jazz Home Delivery Service details agent can see details on below link</li>
+</ul>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/14066</p>
+
+View Type: BackEndTeam
+Category: Prepaid
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15808
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: E-SIM activation process info
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Incase customer contacts Jazz via social media and want to get info about Esim activation process info. then we will follow below guidelines</p>
+
+Submission Channel: 1052
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): SOP
+Verification Status: 6115
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p>When customer contacts through social media via Wall or comment then agent need to ask customer please contact us via DM. Incase customer contact via DM and inquire about E sim activation process related&nbsp;details&nbsp;then agent need to handle as per below:</p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>Guide customer to visit neasrest Jazz Experience Center or Franchise Center for eSIM issuance</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>Agent provide information and close&nbsp;the chat.</p>
+
+Checklist Items: <ul>
+	<li>Except watches, all handsets which generically have e-sim capability supports Jazz e-sim as well.</li>
+	<li>E-sim working is dependent on handset compatibility as well as a working wifi/internet connection at the time of enabling on handset.</li>
+	<li>E-SIM can now be&nbsp;issued to WARID customers by franchises &amp; experience centers.</li>
+	<li>It is mandatory for agent to ask customer before issuing E-sim that it will be the customer&#39;s responsibility if the handset is carrier-locked. We will not acknowledged any complaint in this regard.</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>E-SIM will be charged to Business Customer as well. charges of E sim are 2000/-</li>
+	<li>SIM is an advanced SIM technology which is embedded in your phone to activate your mobile number without having to insert a physical SIM</li>
+	<li>Apart from digital registration / activation, eSIM will work exactly like a regular SIM with respect to connectivity</li>
+	<li>Apple watch or any other gadgets that does not support Jazz esim is&nbsp;customer&#39;s responsibility</li>
+	<li>Kindly ask customer not to share their QR code with anyone, Customer can save QR Scan by capturing through phone camera and sharing on their own email address if required</li>
+	<li>if customer Primary/Physical and digital both IMEIs are PTA compliant but still while installing the profile error is occurred related to carrier or any issue in eSIM activation then we will follow activation complaint--&gt;change of SIM handling.</li>
+	<li>QR is scannable via phone</li>
+	<li>There is no limit for e-sim scanning as long as QR code is properly removed/deleted from previous handset.</li>
+	<li>In case handset is stolen, customer will have to purchase e-sim again.</li>
+	<li>Incase customer will change handset then customer needs to delete E sim from previous device before scanning in new handset</li>
+	<li>Employees can get FOC ESIM on their official number only.</li>
+	<li>For&nbsp;Jazz Home Delivery Service details agent can see details on below link</li>
+</ul>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/14066</p>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15809
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: VoLTE act/ De-act Info 
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Incase customer contacts Jazz via social media and want to get info about VOLTE activation or deactivation process info. then we will follow below guidelines</p>
+
+Submission Channel: 1052
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): SOP
+Verification Status: 2067
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: <ul>
+	<li>FAQ&#39;s are attached</li>
+</ul>
+
+Service Request Activity: <p>When customer contacts through social media via Wall or comment then agent need to ask customer please contact us via DM. Incase customer contact via DM and inquire about VOLTE&nbsp;activation or deactivation process related&nbsp;details&nbsp;then agent need to handle as per below:</p>
+
+<p>&nbsp;</p>
+
+<p><strong>VoLTE Activation:</strong></p>
+
+<p>In case we receive any request for VoLTE activation at call center&nbsp;below process will be followed</p>
+
+<ul>
+	<li>Agent will guide all pre-requisites for VoLTE service as mentioned in Checklist</li>
+	<li>VoLTE will be activated&nbsp;in CSRTB: Go to CSRTB&rarr;Enter MSISDN in contracts&rarr;In barring window click on VAS&rarr;VoLTE&nbsp;</li>
+	<li>Guide customer that auto notification will be pushed once VoLTE will be subscribed</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>VoLTE Deactivation:</strong></p>
+
+<p>In case we receive any request for VoLTE deactivation at call center&nbsp;below process will be followed</p>
+
+<ul>
+	<li>VoLTE will be deactivated&nbsp;in CSRTB: Go to CSRTB&rarr;Enter MSISDN in contracts&rarr;In barring window click on VAS&rarr;&nbsp;VoLTE&nbsp;</li>
+	<li>Guide customer that auto notification will be pushed once VoLTE will be subscribed</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>Agent provide information and close&nbsp;the chat.</p>
+
+Checklist Items: <ul>
+	<li>To check handset compatibility with VolTE consult ADM
+	<ul>
+		<li>Check ADM--&gt;VoLTE--&gt;Support--&gt;Yes/No
+		<ul>
+			<li>Request will be launched&nbsp;<strong>only if&nbsp;</strong>handset(visible in ADM) is mentioned&nbsp;<strong>Yes</strong>&nbsp;in above fieled</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Service is committed on IPHONE X and above models
+	<ul>
+		<li>There will no separate sign of HD on IOS handset during call like android sets, only LTE will be written and data will be connected</li>
+	</ul>
+	</li>
+	<li>VoLTE service is available for all Postpaid and Prepaid service classes</li>
+	<li>VoLTE will be visible in CSRTB: Go to CSRTB&rarr;Enter MSISDN in contracts&rarr;In barring window click on VAS&rarr;Check if VoLTE is active</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>The number should be installed in the VoLTE enabled handset and VoLTE enabled in handset settings to use this service</li>
+	<li>In case any customer wants to deactivate VoLTE service or is complaining regarding USSD/Short code /CLI issue *(where VoLTE service is active) We will guide customer to deactivate/disable VoLTE service</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15810
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Port IN/Port OUT Info
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Incase customer contacts Jazz via social media and want to get info about MNP port in or port out info . then we will follow below guidelines:</p>
+
+<p>In case customer faces any delay or MNP gets rejected, below are the Pre &amp; Post NPR initiation rejection reasons.</p>
+
+Submission Channel: 1052
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): SOP
+Verification Status: 6106
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <ul>
+	<li>As per respective scenario.</li>
+</ul>
+
+Checklist Items: <ul>
+	<li>Number should be active at the time of Port In/Out&nbsp;request</li>
+	<li>60 days passed after activation or change of ownership at Donor</li>
+	<li>Check that number is eligible for Port In or not through MNP Eligibility portal available in eFront</li>
+	<li>Warid to Jazz Port-In facility is no more available</li>
+	<li>Charges for Prepaid MNP are 300&nbsp;rs, Postpaid MNP will be charged as per deposit</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <p><strong>Rejection Reason codes &amp; description</strong></p>
+
+<ul>
+	<li>Reasons can bee seen in CSRTB --&gt; MNP DASHBOARD --&gt; ENTER NUMBER</li>
+</ul>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>Rejection code</strong></p>
+			</td>
+			<td>
+			<p><strong>Description</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>R01A</p>
+			</td>
+			<td>
+			<p>Contractual obligations</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>R02A</p>
+			</td>
+			<td>
+			<p>One or more requested Number(s) is / are NOT primary Number(s)</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>R03A</p>
+			</td>
+			<td>
+			<p>One or more requested numbers are terminated / Disconnected</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>R04A</p>
+			</td>
+			<td>
+			<p>One or more requested number(s) / SIM(s) blocked</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>R06A</p>
+			</td>
+			<td>
+			<p>Balance outstanding</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>R08A</p>
+			</td>
+			<td>
+			<p>Pending action - Change MSISDN</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>R08B</p>
+			</td>
+			<td>
+			<p>Pending action - Change of ownership</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15816
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Digit 4G Handset Info 
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Incase customer contacts Jazz via social media and want to get info about jazz digit 4g handset then we will follow below guidelines:</p>
+
+Submission Channel: 1053
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): SOP
+Verification Status: 6106
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <ul>
+	<li>As per Scenario</li>
+</ul>
+
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15824
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Data Coverage Info
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>If customer contacts&nbsp;social media&nbsp;for data coverage related&nbsp;information, then agent need to follow below handling:</p>
+
+Submission Channel: 2058
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): SOP
+Verification Status: 2067
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p>When customer contacts through social media via Wall or comment then agent need to ask customer please contact us via DM where personal infromation invloves general information can be provided on wall or comment. Incase customer inquire about data coverage related&nbsp;details&nbsp;then agent need to provide information as per below:</p>
+
+<ul>
+	<li>Probe customer exact location and error message on data usage&nbsp;</li>
+	<li>Agent will check location on konnect portal for coverage related info&nbsp;</li>
+	<li>Probe customer exact location &amp; mark on Coverage Map by dragging the Circle/PIN on customer&rsquo;s exact location</li>
+	<li>Red, grey, crossed, broader area &amp; blue site colors have known outages</li>
+	<li>If site color is Green then asked customer there is no issue at your location&nbsp;</li>
+	<li>Restriction of searching Cell Sites and Areas without MSISDN
+	<ul>
+		<li>Any location on Konnect will not be searched without entering MSISDN. Ensure the enter MSISDN/problematic CLI along with Cell Site/Area to search on Konnect</li>
+		<li>Problematic site code field will now have a suggested site code dropdown</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Agent provide the details and close the chat.</p>
+
+Checklist Items: <ul>
+	<li>Investigate&nbsp;Error message heard / displayed</li>
+	<li>Probe customer exact location &amp; mark on Coverage Map by dragging the Circle/PIN on customer&rsquo;s exact location</li>
+	<li>Site KPIs is shown once we move the Circle/PIN to the nearest site</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: SOP
+
+ID: 15848
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Social Media Process Guideline
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>In case customer contact via social media so agent need to follow the social media guideline document.&nbsp;</p>
+
+Submission Channel: 2058
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): SOP
+Verification Status: 6106
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+

@@ -1,0 +1,1395 @@
+CATEGORY: SOCIALMEDIA
+TYPE: COMPLAINTS
+TOTAL ENTRIES: 12
+--------------------------------------------------------------------------------
+
+TYPE: COMPLAINT
+
+ID: 1086
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Test Process
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Lorem ipsum dolor sit amet, no docendi senserit intellegebat his. In per atqui hendrerit omittantur, latine adipiscing eum no. Solum sonet eum cu. Mundi vocent adversarium sea id. Cum quodsi causae malorum an, cum summo constituto ea. Pri eu tibique interesset, et qui case fastidii, has te alterum oporteat.<br />
+&nbsp;</p>
+
+Submission Channel: 1044
+Escalation Level: I don't have updated information about this.
+Created By: azeeg4u
+Type (SOP/Complaint): Complaint
+Verification Status: 1063
+Point of Contact: 1232133
+Frequently Asked Questions: <p>Lorem ipsum dolor sit amet, no docendi senserit intellegebat his. In per atqui hendrerit omittantur, latine adipiscing eum no. Solum sonet eum cu. Mundi vocent adversarium sea id. Cum quodsi causae malorum an, cum summo constituto ea. Pri eu tibique interesset, et qui case fastidii, has te alterum oporteat.<br />
+&nbsp;</p>
+
+<p>Lorem ipsum dolor sit amet, no docendi senserit intellegebat his. In per atqui hendrerit omittantur, latine adipiscing eum no. Solum sonet eum cu. Mundi vocent adversarium sea id. Cum quodsi causae malorum an, cum summo constituto ea. Pri eu tibique interesset, et qui case fastidii, has te alterum oporteat.<br />
+&nbsp;</p>
+
+Service Request Activity: <p>Lorem ipsum dolor sit amet, no docendi senserit intellegebat his. In per atqui hendrerit omittantur, latine adipiscing eum no. Solum sonet eum cu. Mundi vocent adversarium sea id. Cum quodsi causae malorum an, cum summo constituto ea. Pri eu tibique interesset, et qui case fastidii, has te alterum oporteat.<br />
+&nbsp;</p>
+
+Checklist Items: <p>Lorem ipsum dolor sit amet, no docendi senserit intellegebat his. In per atqui hendrerit omittantur, latine adipiscing eum no. Solum sonet eum cu. Mundi vocent adversarium sea id. Cum quodsi causae malorum an, cum summo constituto ea. Pri eu tibique interesset, et qui case fastidii, has te alterum oporteat.<br />
+&nbsp;</p>
+
+Required Questions: <p>Lorem ipsum dolor sit amet, no docendi senserit intellegebat his. In per atqui hendrerit omittantur, latine adipiscing eum no. Solum sonet eum cu. Mundi vocent adversarium sea id. Cum quodsi causae malorum an, cum summo constituto ea. Pri eu tibique interesset, et qui case fastidii, has te alterum oporteat.<br />
+&nbsp;</p>
+
+Important Points: <p>Lorem ipsum dolor sit amet, no docendi senserit intellegebat his. In per atqui hendrerit omittantur, latine adipiscing eum no. Solum sonet eum cu. Mundi vocent adversarium sea id. Cum quodsi causae malorum an, cum summo constituto ea. Pri eu tibique interesset, et qui case fastidii, has te alterum oporteat.<br />
+&nbsp;</p>
+
+View Type: BackEndTeam
+Category: Postpaid
+SOP Status: Active
+
+
+TYPE: COMPLAINT
+
+ID: 15800
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Balance Deduction
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Customers contacts via social media and complaint about deduction where customer claims that he has&nbsp;wrongly charged/over deducted&nbsp;in VAS services.</p>
+
+Submission Channel: 1052
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): Complaint
+Verification Status: 2067
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: <p><strong>Checklist for VAS Deduction</strong></p>
+
+<ul>
+	<li>Jazztune activated by customer, service charged but not activated, customer claimed reversal of amount
+	<ul>
+		<li>Check Usage/Fee for deduction in consumption tab</li>
+		<li>In failure cases where amount is charged
+		<ol>
+			<li>Reversal is processed</li>
+		</ol>
+		</li>
+	</ul>
+	</li>
+	<li>Jazztune deactivated but amount still charged on daily/weekly basis
+	<ul>
+		<li>For daily deduction service cases check if 24 hours passed of the power tools complaint completion &amp; weekly charges respectively</li>
+		<li>Slypee, DOB and all other VAS etc. charged after deactivation
+		<ul>
+			<li>Check if Power tool case is created in Super Offce for the force deactivation of that VAS service</li>
+			<li>For daily deduction service cases check if 24 hours passed power tool case completion &amp; weekly charges respectively</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: BackEndTeam
+Category: Prepaid
+SOP Status: Active
+
+
+TYPE: COMPLAINT
+
+ID: 15817
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Port in/Port Out Complaint
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>In case customer wants to&nbsp;Port In to Jazz or complaints related to Port in to Jazz or Port out from Jazz then we will follow below guidelines over the socail media&nbsp;</p>
+
+Submission Channel: 3067
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): Complaint
+Verification Status: 2067
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: <p><strong>MNP Port-Out Complaint</strong></p>
+
+<ul>
+	<li>No Outstanding balance (Jazz Advance)&nbsp;
+	<ul>
+		<li>Incase Port Out is rejected due to Jazz Advance and customer pays Jazz Advance then wait for 15 minutes to re-attempt port in at recepient operator</li>
+		<li>incase port in at recepient operator is reattempted before 15 minutes after returning Jazz Avance then port out request may be rejected again</li>
+	</ul>
+	</li>
+	<li>Where Port-out request is rejected due to pending dues against related account (If related account exists)
+	<ul>
+		<li>In this case, please check if dues are cleared against subjected number as well as related numbers at the time of port-out. Always ask customers to keep their bills cleared to avoid any rejection</li>
+	</ul>
+	</li>
+	<li>Rejected on Contractual obligation/SIM Block/Change of Ownership cases where tagging NOT found in CSRTB
+	<ul>
+		<li>For contractual obligation, please always check if any tagging in updated against any number. Kindly also check if number is on blocked stage during port-out process. In addition, do check if any ownership change activity was performed in last 60 days.</li>
+	</ul>
+	</li>
+	<li>TAT lapsed Port out cases where MNP Team needs to coordinate with IT (e.g. NPR stuck cases)
+	<ul>
+		<li>Lead delay or stuck issue will only be observed in case of any technical issue.</li>
+	</ul>
+	</li>
+	<li>For valid Port Out cases where customer is not getting response from 667 after performing all checks
+	<ul>
+		<li>Please ensure if customer has cleared advance balance and other related checks are not implemented.</li>
+	</ul>
+	</li>
+	<li>Where MNP PORT-OUT status confirmation is requested
+	<ul>
+		<li>Send keyword STATUS Space Mobile number at short code 76367, Charges Rs. 2.50+tax/SMS. If still customer is not getting response, then need to escalate it to your respective ASM to raise with MNP Team.</li>
+	</ul>
+	</li>
+	<li>Valid complaint where no reasons identified
+	<ul>
+		<li>Create case &ldquo;Siebel Complaint &ndash; MNP&rdquo; in Super Office&nbsp;</li>
+		<li>Mention the complete rejection reason/port out issue&nbsp;</li>
+		<li>&nbsp;MNP team will guide the solution to customer through iSMS&nbsp;
+		<ul>
+			<li>&nbsp;MNP Reinitiate (Port out)
+			<ul>
+				<li>Dear customer, your port out issue has been resolved at our end , kindly reinitiate fresh MNP request. Inconvenience is regretted. Thank you</li>
+			</ul>
+			</li>
+			<li>MNP Resolved
+			<ul>
+				<li>Dear customer, your Number has been released from our end . MNP cycle will be completed within next 24 hours.Thank you</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>MNP Port-In Complaint</strong></p>
+
+<ul>
+	<li>Where MNP PORT-IN status confirmation is requested
+	<ul>
+		<li>Send keyword STATUS Space Mobile number at short code 76367, Charges Rs. 2.50+tax/SMS. If still customer is not getting response, then need to escalate it to your respective ASM to raise with MNP Team.</li>
+	</ul>
+	</li>
+	<li>To check if number is eligible for port-in
+	<ul>
+		<li>Number port in eligibility can be checked via eFront/ieFront</li>
+	</ul>
+	</li>
+	<li>For valid port in cases where customer is not getting response from 76300 after performing all checks
+	<ul>
+		<li>Please ensure if customer has cleared advance balance and other related checks are not implemented. 76300 message should be exactly as on 667 response message. 76300 needs to be done on same day. 667 needs to be done before 76300.</li>
+	</ul>
+	</li>
+	<li>For postpaid port In cases &ndash; NPR not found after order submission and status is open in CSRTB. MNP team will not contact customer in this scenario
+	<ul>
+		<li>This issue occurs whenever requests not triggered at gateway due to stuck at interim level and that&rsquo;s needs to be manually rectify by IT&nbsp;</li>
+	</ul>
+	</li>
+	<li>In case of post to pre or vice versa port-in requests
+	<ul>
+		<li>If customer is porting in with different connection type, this error occurs. We must see following points before escalating</li>
+		<li>1) Check from customer if he has other connection type at donor end and we are initiating with same type or not &nbsp;</li>
+		<li>2) Share complete 667 sms solution 3) Ensure fresh 667 and 763xx sms service are used.</li>
+	</ul>
+	</li>
+</ul>
+
+Service Request Activity: <p>When customer contacts through social media and complaint about MNP port in port out issue then we will follow the below mentioned handling:&nbsp;</p>
+
+<p><strong>MNP Complaint Handling:</strong></p>
+
+<p><strong>Port in visibility</strong>: Check port in request from Order tab for consulting Port in requests as order will be generate after BVS verification and request initiation</p>
+
+<p><strong>Port Out visibility</strong>: MNP port out tab is available at subscription level for request details</p>
+
+<p><strong>Port In Complaint Handling:</strong></p>
+
+<p>Please note that we need to make MNP Port IN &amp; Port Out complaints against the below heads and sub reasons only in Super Office. Reasons can be checked in mnp dashboard of CSRTB. Detail of every reason is also mentioned below for better understanding.</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>Complaint Head</strong></p>
+			</td>
+			<td>
+			<p><strong>Reason</strong></p>
+			</td>
+			<td>
+			<p><strong>Description</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-In Complaint</p>
+			</td>
+			<td>
+			<p>Data Rectification Required in CRM</p>
+			</td>
+			<td>
+			<p>If port in request is rejected due to data mismatch, Name, CNIC, IMSI or Donor and manual rectification is required in CSRTB.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-In Complaint</p>
+			</td>
+			<td>
+			<p>HLR Creation Issue after MNP</p>
+			</td>
+			<td>
+			<p>If Jazz number is not working and active on HLR after port in or donor sim is also blocked</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-In Complaint</p>
+			</td>
+			<td>
+			<p>Manual NPR triggering in CSRTB</p>
+			</td>
+			<td>
+			<p>Whenever manual fresh port in request is required in CRM or option is not available in system for request retriggering</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-In Complaint</p>
+			</td>
+			<td>
+			<p>Connection Type Mismatch Issue</p>
+			</td>
+			<td>
+			<p>If request is rejected on donor connection type mismatch issue and manual rectification is required in CRM</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-In Complaint</p>
+			</td>
+			<td>
+			<p>Lead Delay/Stuck Issue</p>
+			</td>
+			<td>
+			<p>In case port in request is not completed within TAT or MNP cycle is stuck/Failed in orders on further responses</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-In Complaint</p>
+			</td>
+			<td>
+			<p>MTC Issue</p>
+			</td>
+			<td>
+			<p>If customer is not receiving incoming calls after successful port in in CSRTB</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-In Complaint</p>
+			</td>
+			<td>
+			<p>No Reply from 667</p>
+			</td>
+			<td>
+			<p>Customer wants to port in or not getting response from OMO against 667 sms for initiating the MNP process in Jazz</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-In Complaint</p>
+			</td>
+			<td>
+			<p>No Reply from 76300</p>
+			</td>
+			<td>
+			<p>For Port in request initiation, if customer is not getting response from 76300 sms code for Biometric verifications</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-In Complaint</p>
+			</td>
+			<td>
+			<p>Port In Duplicate lead in CRM</p>
+			</td>
+			<td>
+			<p>While reinitiating the fresh MNP request if getting error &ldquo;port in request is already ongoing&rdquo; or last request is stuck/failed in orders of CSRTB &nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-In Complaint</p>
+			</td>
+			<td>
+			<p>Data not available in CRM</p>
+			</td>
+			<td>
+			<p>After port in if customer data is not found in CRM at contract level for further executions like change of package plan, blocking etc.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><strong>Port out Complaint handling:</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>MNP Port-Out Complaint</p>
+			</td>
+			<td>
+			<p>Activation Date Revision Request</p>
+			</td>
+			<td>
+			<p>In case customer is getting wrong activation date in 667 sms response for port out as a donor and rectification is required in 667 sms response and CRM</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-Out Complaint</p>
+			</td>
+			<td>
+			<p>Rejection on requested/Related outstanding bill</p>
+			</td>
+			<td>
+			<p>If port out request is rejected on balance outstanding against requested &amp; related number dues and no issue found in CSRTB</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-Out Complaint</p>
+			</td>
+			<td>
+			<p>Lead Delay/Stuck Issue</p>
+			</td>
+			<td>
+			<p>In case port out request is not completed within TAT or port out lead is stuck/Failed in Memos of CSRTB</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-Out Complaint</p>
+			</td>
+			<td>
+			<p>No Reply from 667</p>
+			</td>
+			<td>
+			<p>For initiating the port out request from Jazz if customer is not getting response from 667 sms and no issue found in CSRTB regarding number status &amp; Jazz advance loan</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>MNP Port-Out Complaint</p>
+			</td>
+			<td>
+			<p>Rejected on Contractual obligation/SIM Block/COO</p>
+			</td>
+			<td>
+			<p>If port out request is rejected on contractual reason, Sim blocked status and pending action change of ownership and no issue found in CRM</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>TAT against all port-in complaints will remain same i.e. 2 business hours (Mon-Fri 9:00AM to 5:00PM) except MTC Issue which will remains 8 business hours</p>
+
+<ul>
+	<li>MNP Disputed Port-Out Cases Handling
+	<ul>
+		<li>Whenever any customer is complaining that he has been forced to port out fraudulently (wrong commitment, without customer consent etc.) to any network then we need to guide cusotmer to visit nearest Jazz office to submit below documents and lodge complaint.
+		<ul>
+			<li>CNIC ( scanned copy front / back)</li>
+			<li>Customer written application to port back number with same signatures as CNIC)</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+Checklist Items: <ul>
+	<li>Number should be active</li>
+	<li>60 days passed after activation or change of ownership at Donor</li>
+	<li>Warid to Jazz Port-In facility is no more available</li>
+	<li>Prepaid MNP charges are 300rs, Postpaid MNP will be charged as per deposit</li>
+	<li>Where we are initiating Port In request it is mandatory to guide customer that you can check MNP status of your request against any number by sending specified message on short code i.e. status &lt;space&gt; &lt;number&gt; and send it to 76367 e.g. (status 03001122334 to 76367)</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>Confirm if the number has passed the minimum subscription period, In case activation date is less than 60 days old there will be no response from 76300
+	<ul>
+		<li>a) After activation</li>
+		<li>b) Last port in</li>
+	</ul>
+	</li>
+	<li>667 reply should not be tempered/edited in any way before it is sent to 76300 -&nbsp;Charges for sending sms to 76300 are Rs.2+tax/SMS</li>
+	<li>NPR should not be initiated in case there is no response from 76300 otherwise it will be deemed as bypassed and request will be rejected by donor</li>
+	<li>Send keyword NETWORK &lt;Space&gt; Mobile number at short code 76367 - charges 2.50+tax/SMS to check currnt network</li>
+	<li>Send keyword STATUS &lt;Space&gt; Mobile number at short code 76367 - charges 2.50+tax/SMS to check status of number on network</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: COMPLAINT
+
+ID: 15825
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Data Complaints
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Below complaint handing needs to be followed if customer contacts via social media for Data browsing related complaints.</p>
+
+Submission Channel: 2058
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): Complaint
+Verification Status: 2067
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p>When customer contacts through social media via Wall or comment then agent need to ask customer please contact us via DM where personal infromation invloves general information can be provided on wall or comment. Incase customer complaints about data related&nbsp;then agent need to handle customer as per below:</p>
+
+<p>&nbsp;</p>
+
+<p><strong>For Complaint:</strong></p>
+
+<ul>
+	<li>Go to super office &rarr; search customer number and create case&nbsp;</li>
+	<li>Type: Cellular Complaint</li>
+	<li>Area: DATA</li>
+	<li>Sub Area: Select relevant header as per complaint (e.g No browsing all locations/ DATA fluctuation etc)</li>
+</ul>
+
+<p>Note: For QoS Complaint, follow&nbsp;respective handling available on KMS</p>
+
+<p><strong>Note</strong>: While making case it is mandatory for call center agent&nbsp;to guide customer&nbsp;that he/she may receive call same day till 10 pm or next day if Case&nbsp;is created after 6 pm</p>
+
+Checklist Items: <p>While handling data complaints first agent&nbsp;need to follow the below mentioned checklist:</p>
+
+<ul>
+	<li>Customer Fail to Access Internet</li>
+	<li>Customer is facing No Browsing/Slow Browsing/Streaming issue</li>
+	<li>Data Barring not active</li>
+	<li>Handset settings / APN should be verified</li>
+	<li>Network Mode is Auto</li>
+	<li>Jazz SIM should be selected from sim card manager option as default on data</li>
+	<li>Coverage from Konnect</li>
+	<li>All type of data complaints should be catered through Konnect</li>
+	<li>Network Mode is Auto</li>
+	<li>Jazz SIM should be selected from sim card manager option as default on data</li>
+	<li>Coverage from Konnect</li>
+	<li>All type of data complaints should be catered through Konnect</li>
+	<li>Network Mode is Auto</li>
+	<li>Jazz SIM should be selected from sim card manager option as default on data</li>
+	<li>Coverage from Konnect</li>
+	<li>All type of data complaints should be catered through Konnect</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<table align="left" border="1" cellspacing="0">
+	<tbody>
+		<tr>
+			<td rowspan="2">
+			<p><strong>Coverage Map Color Matrix</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>Description</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>Handling</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>Important Note&nbsp;</strong></p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+			<p><strong>DARK GREEN</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>Full Coverage Area</strong>&nbsp; - Both indoor/outdoor complaints will be catered</p>
+			</td>
+			<td>
+			<p>CCR will cater both&nbsp;<strong>indoor /outdoor</strong>&nbsp;coverage complaints and will forward case to NCU as per existing process</p>
+			</td>
+			<td>
+			<p>No complaint will be entertained for indoor issues which is being faced for more than&nbsp;<strong>15</strong>&nbsp;<strong>days.</strong></p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>TAT :</strong>&nbsp;2 hour for call back(Mention the same location in case which is being searched in Map in answer 3 field)</p>
+			</td>
+			<td>
+			<p><strong>work code: pertaining to customer query</strong></p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+			<p><strong>LIGHT GREEN</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>Normal Coverage Area</strong>&nbsp;- Both indoor/outdoor complaints will be catered</p>
+			</td>
+			<td rowspan="2">
+			<p>CCR will cater both indoor /outdoor coverage complaints and will forward case to NCU as per existing process&nbsp;<strong>TAT 2hour</strong>&nbsp;for call back(Mention the same location in case which is being searched in Map in answer 3 field)</p>
+			</td>
+			<td>
+			<p>No complaint will be entertained for indoor issues which is being faced for more than&nbsp;<strong>15</strong>&nbsp;<strong>days</strong></p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>work code: pertaining to customer query</strong></p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="3">
+			<p><strong>YELLOW</strong></p>
+			</td>
+			<td rowspan="3">
+			<p><strong>Low Indoor Coverage Area</strong>&nbsp;-&nbsp; Only valid for outdoor issues to be routed in technology domain</p>
+			</td>
+			<td>
+			<p>CCR will not entertain indoor Coverage complaint, but will only log work code in Konnect as per existing process, CCR will politely guide customer about low coverage in that area informing that we are trying to extend coverage as soon as possible</p>
+			</td>
+			<td rowspan="3">
+			<p><strong>work code: pertaining to customer query</strong></p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p>CCR will cater outdoor coverage complaints and will forward case to NCU as per existing process</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>TAT :</strong>&nbsp;NO timeline</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+			<p><strong>&nbsp;BROWN</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>Low Indoor/Outdoor Coverage Area</strong>&nbsp;- Invalid for both Indoor/outdoor Complaints</p>
+			</td>
+			<td>
+			<p>CCR will not entertain complaint, but will only log work code in Konnect as per existing process, CCR will politely guide customer about low coverage in that area informing that we are trying to extend coverage as soon as possible &nbsp;</p>
+			</td>
+			<td rowspan="2">
+			<p><strong>work code: pertaining to customer query</strong></p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>TAT :</strong>&nbsp;NO timeline</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+			<p><strong>WHITE</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>NO Coverage</strong></p>
+			</td>
+			<td>
+			<p>CCR will not entertain complaint but will only lock work code in Konnect as per existing process, CCR will politely guide customer about&nbsp;<strong>No coverage</strong>&nbsp;in that area informing that we are trying to provide coverage in these areas as soon as possible</p>
+			</td>
+			<td rowspan="2">
+			<p><strong>work code: pertaining to customer query</strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>Don&rsquo;t use search by customer location for prepaid numbers since we have very limited search count available against location and we can also use Postpaid Data CDR for searching data</li>
+	<li>We need to mention/ask customer&rsquo;s other contact number in all complaints &rarr; We need to guide customer about 0308-4400333 call back NDC</li>
+	<li>Where customer location is of any areas of Azad Kashmir/Rawla Koat then there is no need to consult Static Map/SSO Portal however we can launch the complaint by mentioning exact location after verifying complete check list</li>
+	<li>We have observed few complaints where there is No Balance/No remaining MB&rsquo;s but we have acknowledged the complaint so we need to check Balance/Remaining MB&rsquo;s first properly</li>
+	<li>If customer facing issue regarding video downloading need to check customer balance as downloading will be charged on base rate while having Social bundle, Monthly sms bundle data</li>
+	<li>In few cases we are guiding customer to remove Cache/Cookies and restart handset without system consultation</li>
+	<li>If customer is facing issue regarding specific application we should guide customer to reset/reinstall application (WhatsApp, FB, You Tube etc.)</li>
+	<li><span style="font-size:11.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">To use Mobile hotspot, APN &ldquo;Jazz&rdquo; is required to be entered in the respective field within the respective settings in handset </span></span>
+	<ul>
+		<li>
+		<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><u>Step by Step Process (iPhone):</u></span></span></p>
+
+		<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Mobile Service &gt;Mobile Data Network&gt; Mobile Data-Under Personal Hotspot</span></span></p>
+		</li>
+		<li>
+		<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">please also note APN i.e., &ldquo;Jazz&rdquo; needs to be mentioned both under Mobile Data APN &amp; Personal Hotspot APN (available at same page)</span></span></p>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: COMPLAINT
+
+ID: 15826
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Digit 4G Complaints
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Incase customer contacts us via social media and complaint about jazz Digit 4g handset related then agent will need to follow the below mentioned handling:</p>
+
+Submission Channel: 3067
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): Complaint
+Verification Status: 2067
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p>When customer contacts through social media via Wall or comment then agent need to ask customer please contact us via DM where personal infromation invloves&nbsp;general information can be provided on wall or comment. Incase customer complaint about jazz Digit 4G handset&nbsp;then agent need to provide information as per below:</p>
+
+<p>&nbsp;</p>
+
+<p><strong>For&nbsp;Jazz Digit 4G Offer De-Tagging:&nbsp;</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/15488</p>
+
+<p>F<strong>or&nbsp;Jazz Digit4G Handset Warranty Claim &amp; Hardware Issues:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/15421</p>
+
+<p><strong>For&nbsp;Jazz Digit4G Handset- Checking Paired Number :</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/15414</p>
+
+<p><strong>For&nbsp;Jazz Digit4G Handset Restoration Complaint Handling :</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/15379</p>
+
+<p><strong>For&nbsp;Jazz Digit4G Handset Dead on Arrival (DOA) :</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/15376</p>
+
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>Digit 4g Exit plan&nbsp;<strong>*6464#</strong>&nbsp;has been discontinued.Please guide the customers accordingly</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Prepaid
+SOP Status: Active
+
+
+TYPE: COMPLAINT
+
+ID: 15827
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: VoLTE Complaint
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Incase customer contact us via social media&nbsp;and asks for VoLTE services activation/deactivation or complaint&nbsp;&nbsp;then below guidelines will be followed:</p>
+
+Submission Channel: 2058
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): Complaint
+Verification Status: 2067
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p>When customer contacts through social media via Wall or comment then agent need to ask customer please contact us via DM where personal infromation invloves general information can be provided on wall or comment. Incase customer complaint about VOLTE then agent need to provide information as per below:</p>
+
+<p><strong>VoLTE Activation:</strong></p>
+
+<p>In case we will receive any complaint via social media then below process will be followed</p>
+
+<ul>
+	<li>Agent will guide all pre-requisites for VoLTE service as mentioned in Checklist</li>
+	<li>Launch below case in Super Office:
+	<ul>
+		<li>Type: Value Added Services</li>
+		<li>Area: VoLTE Activation</li>
+		<li>Sub Area: Prepaid/Postpaid</li>
+		<li>Handset Model:</li>
+		<li>Handset Maker</li>
+	</ul>
+	</li>
+	<li>Guide customer that auto notification will be pushed once VoLTE will be subscribed</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>VoLTE Deactivation:</strong></p>
+
+<ul>
+	<li>In case any customer wants to deactivate VoLTE service or is complaining regarding USSD/Short code /CLI issue *(where VoLTE service is active) We will guide customer to deactivate/disable VoLTE option from handset</li>
+	<li>VoLTE service will not be deactivated in CSRTB in any case</li>
+</ul>
+
+Checklist Items: <ul>
+	<li>Apple/iPhone handsets are not eligible for Jazz VoLTE for now. Guide customer accordingly</li>
+	<li>VoLTE service is available for all Postpaid and Prepaid service classes</li>
+	<li>VoLTE will be visible in CSRTB: Go to CSRTB&rarr;Enter MSISDN in contracts&rarr;In barring window click on Others&rarr;Check if VoLTE is active</li>
+	<li>To check handset compatibility with VolTE consult ADM
+	<ul>
+		<li>Check ADM--&gt;VoLTE--&gt;Support--&gt;Yes/No
+		<ul>
+			<li>Request will be launched&nbsp;<strong>only if&nbsp;</strong>handset(visible in ADM) is mentioned&nbsp;<strong>Yes</strong>&nbsp;in above fieled</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>The number should be installed in the VoLTE enabled handset and VoLTE enabled in handset settings to use this service</li>
+	<li>VOLTE service has no effect on USSD dialing</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: COMPLAINT
+
+ID: 15829
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Jazz 4G devices Complaints
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>In case customer contact via social media and&nbsp;complaints about MBB or jazz devices, then we will follow below guidelines over the socail media&nbsp;</p>
+
+Submission Channel: 2058
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): Complaint
+Verification Status: 2067
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p>When customer contacts through social media via Wall or comment then agent need to ask customer please contact us via DM where personal infromation invloves general information can be provided on wall or comment. Incase customer complaint about MBB or jazz devices then agent need to handle customer&nbsp;as per below:</p>
+
+<p>&nbsp;</p>
+
+<p><strong>For&nbsp;MBB Data Browsing Related Complaint :</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/13711</p>
+
+<p><strong>For&nbsp;MBB Dongle Complaint Handling:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/14121</p>
+
+<p><strong>For&nbsp;MBB Reactivation Offer:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/15576</p>
+
+<p><strong>For&nbsp;Adjustment Posting for MBB Users (Within Warranty):</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/13594</p>
+
+<p>&nbsp;</p>
+
+Checklist Items: <ul>
+	<li>Ensure Incentive availability in relevant device SIM</li>
+	<li>Customer must have one commercial recharge in his MBB MSISDN (through jazz load minimum of Rs.100)</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>After resetting the device, it is mandatory to guide user that device user name and password will set automatically as default which is mentioned on device under the battery area</li>
+	<li>After resetting the device, it is mandatory to guide user that device user name and password will set automatically as default which is mentioned on device under the battery area</li>
+	<li>To Activate/Deactivate MIFI/Dongle package user can access jazz.wifi application or use URL 192.168.1.1</li>
+	<li>Bundles are once off</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: COMPLAINT
+
+ID: 15830
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Duplicate sim Complaint
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Incase customer contacts Jazz via social media and complaint about that after change of sim his/her sim is not active,&nbsp;then we will follow below guidelines:</p>
+
+Submission Channel: 2064
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): Complaint
+Verification Status: 18
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p>When customer contacts through social media via Wall or comment then agent need to ask customer please contact us via DM where personal infromation invloves general information can be provided on wall or comment. Incase customer complaint that&nbsp;after change of sim his/her sim is not active or not working, then agent need to provide information as per below:</p>
+
+<p>&nbsp;</p>
+
+<p><strong>For change of sim complaint Handling:&nbsp;</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/13929</p>
+
+Checklist Items: <ul>
+	<li>Verify from Memos against the number if order is
+	<ul>
+		<li>Failed (order execution failed) - Orange icon</li>
+		<li>Requested (order execution in process)&nbsp; - Blue icon</li>
+		<li>Fulfilled (order executed)&nbsp; - Green icon</li>
+	</ul>
+	</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>All Failed cases will be auto catered by relevant team (Ericson-MS) with 4 hours of failure.</li>
+	<li>Order number should be mentioned in Order ID field for clarification of complaint</li>
+	<li>Incase Change of Sim Order is in &quot;requested&quot; Status and number is not active, we will create case in super office&nbsp;as per above guidelines&nbsp;</li>
+	<li>Notes are mandatory to be filled in all the cases for required actions.</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: COMPLAINT
+
+ID: 15831
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Balance Share/Jazz Advance Complaint
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Incase customer contacts Jazz via social media and complaint about jazz advance and jazz balance share,then we will follow below guidelines:</p>
+
+Submission Channel: 2058
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): Complaint
+Verification Status: 2067
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p>When customer contacts through social media via Wall or comment then agent need to ask customer please contact us via DM where personal infromation invloves general information can be provided on wall or comment. Incase customer complaint about jazz advance and jazz balance share then agent need to provide information as per below:</p>
+
+<p>&nbsp;</p>
+
+<p><strong>For Balance Share Complaint Handling:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/15479</p>
+
+<p><strong>For Jazz Advance Complaint Handling:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/15684</p>
+
+Checklist Items: <ul>
+	<li>Number should be&nbsp;<strong>Prepaid</strong></li>
+	<li>Number should be&nbsp;<strong>active</strong>&nbsp;in CSRTB</li>
+	<li><strong>Sufficient balance&nbsp;</strong>is available for sharing</li>
+	<li>Check details in&nbsp;<strong>Financials Tab</strong>&nbsp;(for any transaction)</li>
+	<li>Check loan counter in CSRTB for already availed loans&nbsp;</li>
+	<li>Check error message on dialing *112#</li>
+	<li>Number is pre-loaded SIM</li>
+	<li>Check incase same issue is faced in history and complaint is processed&nbsp;</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>Prepaid Noncommercial packages cannot avail Jazz Advance facility</li>
+	<li>In case of low balance, IVR will only provide information of Jazz advance loan&nbsp;</li>
+	<li>In case of P2P complaint, activity will be launched against party B number. Mentioning sender number is mandatory in note pad if amount is not reversed back in party A</li>
+	<li>P2P parameters will not be sent for reset if number is eligible for any Bonus on Recharge promo.</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Prepaid
+SOP Status: Active
+
+
+TYPE: COMPLAINT
+
+ID: 15847
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Network/Low Coverage Complaint
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>In case customer contact via social media and&nbsp;complaints about Network/Low Coverage, then we will follow below guidelines over the socail media&nbsp;</p>
+
+Submission Channel: 3067
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): Complaint
+Verification Status: 18
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <ul>
+	<li>To create activity in super office for QOS complaints:
+	<ul>
+		<li>Type: Area Specific Complaints</li>
+		<li>Area: Voice/ Coverage/ DATA/ Availability</li>
+		<li>Sub Area: Select relevant header as per customer complaint</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Note</strong>: While making case it is mandatory for agent to guide customer&nbsp;that he/she may receive call same day till 10 pm or next day if Case&nbsp;is created after 6 pm</p>
+
+Checklist Items: <ul>
+	<li>Investigate&nbsp;Error message heard / displayed</li>
+	<li>Duration of issue faced by the customer</li>
+	<li>Probe if the issue is being faced indoor or outdoor, for low indoor cases where customer is facing issue for more than 15 days no complaint will be acknowledged, however if duration is less than 15 days we will move to next probing question</li>
+	<li>Issue faced on making call on specific number or all numbers?
+	<ul>
+		<li>Specific number, party B needs to contact help line for assistance</li>
+	</ul>
+	</li>
+	<li>Consult&nbsp;Customer Konnect&rdquo; to check coverage prediction &amp; site status</li>
+	<li>Location (specific/all)</li>
+	<li>Specific Location
+	<ul>
+		<li>If other customers on same location do not have any issue, guide customer to try changing handset, if issue persist get the SIM changed for uninterrupted services</li>
+		<li>Handset / SIM change should be verified from ADM and CSRTB (orders)</li>
+	</ul>
+	</li>
+	<li>All location
+	<ul>
+		<li>QOS issue at every location, guide customer to try changing handset, if issue persist get the SIM changed for uninterrupted services</li>
+		<li>Handset / SIM change should be verified from ADM and CSRTB (orders)</li>
+	</ul>
+	</li>
+</ul>
+
+<table align="left" border="1" cellspacing="0">
+	<tbody>
+		<tr>
+			<td rowspan="2">
+			<p><strong>Coverage Map Color Matrix</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>Description</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>Handling</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>Important Note&nbsp;</strong></p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+			<p><strong>DARK GREEN</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>Full Coverage Area</strong>&nbsp; - Both indoor/outdoor complaints will be catered</p>
+			</td>
+			<td>
+			<p>CCR will cater both&nbsp;<strong>indoor /outdoor</strong>&nbsp;coverage complaints and will forward case&nbsp;to NCU as per existing process</p>
+			</td>
+			<td>
+			<p>No complaint will be entertained for indoor issues which is being faced for more than&nbsp;<strong>15</strong>&nbsp;<strong>days.</strong></p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>TAT :</strong>&nbsp;2 hour for call back(Mention the same location in case&nbsp;which is being searched in Map in answer 3 field)</p>
+			</td>
+			<td>
+			<p><strong>work code: pertaining to customer query</strong></p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+			<p><strong>LIGHT GREEN</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>Normal Coverage Area</strong>&nbsp;- Both indoor/outdoor complaints will be catered</p>
+			</td>
+			<td rowspan="2">
+			<p>CCR will cater both indoor /outdoor coverage complaints and will forward case&nbsp;to NCU as per existing process&nbsp;<strong>TAT 2hour</strong>&nbsp;for call back(Mention the same location in case&nbsp;which is being searched in Map in answer 3 field)</p>
+			</td>
+			<td>
+			<p>No complaint will be entertained for indoor issues which is being faced for more than&nbsp;<strong>15</strong>&nbsp;<strong>days</strong></p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>work code: pertaining to customer query</strong></p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="3">
+			<p><strong>YELLOW</strong></p>
+			</td>
+			<td rowspan="3">
+			<p><strong>Low Indoor Coverage Area</strong>&nbsp;-&nbsp; Only valid for outdoor issues to be routed in technology domain</p>
+			</td>
+			<td>
+			<p>CCR will not entertain indoor Coverage complaint, but will only log work code in Konnect as per existing process, CCR will politely guide customer about low coverage in that area informing that we are trying to extend coverage as soon as possible</p>
+			</td>
+			<td rowspan="3">
+			<p><strong>work code: pertaining to customer query</strong></p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p>CCR will cater outdoor coverage complaints and will forward case&nbsp;to NCU as per existing process</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>TAT :</strong>&nbsp;NO timeline</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+			<p><strong>&nbsp;BROWN</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>Low Indoor/Outdoor Coverage Area</strong>&nbsp;- Invalid for both Indoor/outdoor Complaints</p>
+			</td>
+			<td>
+			<p>CCR will not entertain complaint, but will only log work code in Konnect&nbsp;as per existing process, CCR will politely guide customer about low coverage in that area informing that we are trying to extend coverage as soon as possible &nbsp;</p>
+			</td>
+			<td rowspan="2">
+			<p><strong>work code: pertaining to customer query</strong></p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>TAT :</strong>&nbsp;NO timeline</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+			<p><strong>WHITE</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>NO Coverage</strong></p>
+			</td>
+			<td>
+			<p>CCR will not entertain complaint but will only lock work code in Konnect&nbsp;as per existing process, CCR will politely guide customer about&nbsp;<strong>No coverage</strong>&nbsp;in that area informing that we are trying to provide coverage in these areas as soon as possible</p>
+			</td>
+			<td rowspan="2">
+			<p><strong>work code: pertaining to customer query</strong></p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>TAT:</strong>&nbsp;No timeline</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>&nbsp;</h3>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>Handling for network issues like Signal, Call Drop, Call Connectivity issues etc. faced due to Power Failure issues only:
+	<ul>
+		<li>As per our current practice ; after probing if we identified that issue is due to power failure only (network issue is faced only during WAPDA outage) then we will inform customer upfront that issue is being faced due to prolonged power failure and will be resolved when overall situation gets better.&nbsp;</li>
+	</ul>
+	</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Both
+SOP Status: Active
+
+
+TYPE: COMPLAINT
+
+ID: 15849
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Balance Recharge Complaint
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>Incase customer contact social media and has sufficient balance to make calls/SMS however insufficient balance tone during call/ message received then we will follow below guidelines.&nbsp;</p>
+
+Submission Channel: 3067
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): Complaint
+Verification Status: 18
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p>When customer contacts through social media via Wall or comment then agent need to ask customer please contact us via DM where personal infromation invloves general information can be provided on wall or comment. Incase customer complaint about insufficent balance&nbsp;then agent need to handle customer&nbsp;as per below:</p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>
+	<p>Go to super office &rarr; click on customers and search number &rarr; click on create case</p>
+
+	<ul>
+		<li>Type: cellular complaint</li>
+		<li>Area: subscription &amp; charging</li>
+		<li>Sub area: Insufficient balance</li>
+	</ul>
+	</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong><span style="color:#000000">For&nbsp;<span style="font-size:11.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Scratch Card Blocking/Replacement Process:</span></span></span></strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/13662</p>
+
+<p><strong><span style="color:#000000">For&nbsp;<span style="font-size:11.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Card Recharging Complaint:</span></span></span></strong></p>
+
+<p><span style="color:#000000"><span style="font-size:11.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">https://cemdev.jazz.com.pk:909/SOP/Index/13723</span></span></span></p>
+
+Checklist Items: <ul>
+	<li>No Issue at Konnect page &amp; coverage</li>
+	<li>Confirm if handset restarted</li>
+	<li><strong>To check if bundle is active:</strong>&nbsp;CSRTB&nbsp;&agrave;&nbsp;Barring window&nbsp;&agrave;&nbsp;Data / Voice / Mix / Other&nbsp;&agrave;&nbsp;Active Options&nbsp;&agrave;&nbsp;Enabled</li>
+</ul>
+
+<ul>
+	<li>If Customer call over the helpline and complaint regarding any bundle subscription or insufficient balance IVR played on outgoing activity then attempt IN provisioning first from CRM if bundle subscribed successfully then guide customer that your bundle is activated else if not then we will follow the below remedies against mentioned errors.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<table border="1" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>Errors</strong></p>
+			</td>
+			<td>
+			<p><strong>Front End Resolution</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>An error occurred at IN&nbsp;/ Insufficient IVR Played on outgoing</p>
+			</td>
+			<td>
+			<p>Guide customer to turn off data for 3 minutes and wait until the Data sign disappeared from screen and then turn on the Data to get rid of the said issue and guide for the future prospective as well</p>
+
+			<p><strong>Or</strong></p>
+
+			<p>Guide customer to restart his/her handset and try again</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Subscriber has insufficient balance to perform this activity</p>
+			</td>
+			<td>
+			<p>Guide customer to check his/her balance and guide required balance for specific bundle/offer</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Subscriber precondition not met on IN. Some other Service/Product required for selected Service/Product</p>
+			</td>
+			<td>
+			<p>Check 3G / 4G parameters in CSRTB ( Subscription Window &rarr; Connection type) and HLR for bundle activation issue. GPRS base service need to be activated before the activation Data bundle</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Errors in Jazz Advance</p>
+			</td>
+			<td>
+			<p>Add Jazz advance service first and then need to add Loan product respectively</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+Required Questions: <ul>
+	<li>Duration of Complaint</li>
+	<li>City</li>
+	<li>Message received</li>
+	<li>Exact Location(mention location in details but no need to check coverage page for this)</li>
+</ul>
+
+Important Points: <ul>
+	<li>
+	<p>We need to guide alternate turn off data for 3 minutes and wait until the Data sign disappeared from screen and then turn on the Data to get rid of the said issue and guide for the future prospective as well or restart the handset and try again.</p>
+	</li>
+	<li>If the customer is complaining about the difference of balance (*111# and 123 IVR and as per CSRTB it&rsquo;s different), no message confirmation is required in this case. We need to mention the exact difference in balance. The alternate remedy will be Hard Reset/restart handset and will forward an immediate complaint&nbsp;</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Prepaid
+SOP Status: Active
+
+
+TYPE: COMPLAINT
+
+ID: 15850
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: Balance Deduction Complaints 
+------------------------------------------------------------
+Main Header: SocialMedia
+Network Provider: Jazz
+Complaint Description: <p>In case customer contact via social media and&nbsp;complaints about balance deduction related details, then we will follow below guidelines over the socail media&nbsp;</p>
+
+Submission Channel: 2058
+Escalation Level: I don't have updated information about this.
+Created By: sabeeha.riaz
+Type (SOP/Complaint): Complaint
+Verification Status: 18
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: <p>When customer contacts through social media via Wall or comment then agent need to ask customer please contact us via DM where personal infromation invloves general information can be provided on wall or comment. Incase customer complaint about balance deduction related, then agent need to provide information as per below:</p>
+
+<p>&nbsp;</p>
+
+<p><strong>For&nbsp;Jazz Adjustment - Wrong Deduction on Calls/SMS:&nbsp;</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/13619</p>
+
+<p><strong>For&nbsp;Jazz Adjustment VAS Features:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/13609</p>
+
+<p><strong>For&nbsp;Jazz Adjustment - Wrong Deduction on Data:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/14112</p>
+
+<p><strong>For&nbsp;Jazz Adjustment Balance Not Posted:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/13957</p>
+
+<p><strong>For&nbsp;Jazz Adjustment - Package Plan Related :</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/13772</p>
+
+<p><strong>For&nbsp;Jazz Adjustment - Subscription Charges Issue:</strong></p>
+
+<p>https://cemdev.jazz.com.pk:909/SOP/Index/13775</p>
+
+Checklist Items: <ul>
+	<li>Check bundle visibility in CSRTB</li>
+	<li>Confirm date &amp; time of subscription:</li>
+	<li>Check missing min</li>
+	<li>Check missing SMS</li>
+	<li>Missing MBs</li>
+	<li>Check if any known issue persists</li>
+</ul>
+
+Required Questions: I don't have updated information about this.
+Important Points: <ul>
+	<li>It is mandatory to guide the customer that updates on all App should be set to WIFI only otherwise he/she will be charged as per tariff upon data usage for APP updates at background Handling not updated</li>
+	<li>Jazz load reference ID can be of 7 to 18 digits</li>
+	<li>While loading card for first time. If customer receives message &ldquo;card number incorrect / try again later&rdquo; and 2nd time customer is receiving message &ldquo;Card already charged&rdquo; we need to guide customer to visit the same place from where the card was purchased</li>
+	<li>Bill Adjustment is completed with the notes of &ldquo;posting done&rdquo; or &ldquo;mentioned posting date is Lapsed&rdquo; but required amount is still not posted in customer&rsquo;s account then we will create another SR for Bill Adjustment mentioning details in notes &ndash; TAT: as defined above</li>
+	<li>If customer&rsquo;s balance is deducted without usage with a tag &ldquo;Recharge by bookkeeping&rdquo; then while forwarding complaint we also need to guide customer to recharge his account via IVR so that the posting of adjustment could be processed</li>
+</ul>
+
+View Type: BackEndTeam
+Category: Prepaid
+SOP Status: Active
+
+

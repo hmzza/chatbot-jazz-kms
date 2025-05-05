@@ -1,0 +1,34 @@
+CATEGORY: CNC
+TYPE: SOP
+TOTAL ENTRIES: 1
+--------------------------------------------------------------------------------
+
+TYPE: SOP
+
+ID: 15980
+
+--------------------------------------------------------------------------------
+
+
+
+📋 ENTRY: CNC SOP Test
+------------------------------------------------------------
+Main Header: CNC
+Network Provider: Jazz
+Complaint Description: I don't have updated information about this.
+Submission Channel: 1044
+Escalation Level: I don't have updated information about this.
+Created By: usman.zeb1
+Type (SOP/Complaint): SOP
+Verification Status: 6115
+Point of Contact: I don't have updated information about this.
+Frequently Asked Questions: I don't have updated information about this.
+Service Request Activity: I don't have updated information about this.
+Checklist Items: I don't have updated information about this.
+Required Questions: I don't have updated information about this.
+Important Points: I don't have updated information about this.
+View Type: BackEndTeam
+Category: Prepaid
+SOP Status: Expired
+
+
