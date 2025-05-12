@@ -12,3 +12,79 @@ faiss-cpu
 sentence-transformers
 torch
 ollama
+
+
+# requirements.txt
+# This file lists the Python dependencies required to run the JazzBot application.
+# The versions are pinned to those installed on the original system as of May 12, 2025.
+# Follow the setup instructions below to install and run the application.
+
+# Flask: Web framework for creating the chat API and serving the interface
+Flask==3.1.0
+
+# langchain-community: Community-contributed integrations for LangChain (e.g., FAISS, Ollama)
+langchain-community==0.3.21
+
+# langchain: Core LangChain library for building the chatbot logic and retrieval
+langchain==0.3.23
+
+# sentence-transformers: Library for generating embeddings using pre-trained models (used for HuggingFaceEmbeddings)
+sentence-transformers==4.1.0
+
+# huggingface-hub: Interface to download models from Hugging Face (required by sentence-transformers)
+huggingface-hub==0.30.2
+
+# faiss-cpu: CPU version of FAISS for efficient vector similarity search
+faiss-cpu==1.10.0
+
+# torch: PyTorch library, required by sentence-transformers for model inference
+torch==2.6.0
+
+# ollama: Python client for interacting with the Ollama LLM server
+ollama==0.4.7
+
+# python-dotenv: Load environment variables from a .env file (useful for API keys or configuration)
+python-dotenv==1.1.0
+
+# numpy: Numerical operations library, required by faiss-cpu and sentence-transformers
+numpy==2.2.4
+
+# requests: HTTP library, used indirectly by huggingface-hub
+requests==2.32.3
+
+
+
+# ----------------------------------
+# SETUP INSTRUCTIONS
+# ----------------------------------
+# 1. Ensure you have Python 3.8+ installed on your system.
+# 2. Create a virtual environment (optional but recommended):
+#    - On Unix/MacOS: python -m venv venv
+#    - On Windows: python -m venv venv
+# 3. Activate the virtual environment:
+#    - On Unix/MacOS: source venv/bin/activate
+#    - On Windows: venv\Scripts\activate
+# 4. Install the dependencies:
+#    pip install -r requirements.txt
+#    - If you encounter version conflicts (e.g., with torch), install manually with specific versions:
+#      pip install torch==2.6.0
+# 5. Install additional system dependencies (if needed):
+#    - For faiss-cpu: Ensure a C++ compiler (e.g., g++) is installed.
+#    - For sentence-transformers and torch: Ensure compatible CUDA libraries if using GPU (optional).
+# 6. Start the Ollama server (required for the LLM):
+#    - Follow Ollama installation instructions at https://ollama.com/docs
+#    - Run: ollama serve
+# 7. Run the application:
+#    python app.py
+# 8. Access the chat interface in your browser at http://0.0.0.0:6066
+# 9. (Optional) Create a .env file for environment variables if using python-dotenv:
+#    - Example: API_KEY=your_api_key
+#    - Load it in app.py with: from dotenv import load_dotenv; load_dotenv()
+
+# ----------------------------------
+# NOTES
+# ----------------------------------
+# - The torch version (2.6.0) is CPU-only. For GPU support, adjust the version and install with CUDA:
+#   pip install torch==2.6.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
+# - If dependencies fail to install, check for compatibility issues and adjust versions in this file.
+# - Ensure the 'cleaned_data' directory exists or is created as per the code logic.
