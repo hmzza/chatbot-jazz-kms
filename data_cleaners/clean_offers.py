@@ -3,8 +3,7 @@ clean_offers.py - Cleans and formats offers data with category-based sorting
 
 This script processes the raw offers CSV file and formats it for the chatbot,
 creating separate output files based on the MainHeader category.
-"""
-
+""" 
 import pandas as pd
 import os
 
