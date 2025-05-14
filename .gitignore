@@ -11,3 +11,4 @@ qdrant_data/
 Thumbs.db
 .env
 faiss_index_hash.txt
+faiss_index/
