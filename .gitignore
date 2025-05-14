@@ -1,0 +1,13 @@
+venv/
+ENV/
+env/
+pycache/
+*.py[cod]
+*$py.class
+faiss_index/
+dbstore/
+qdrant_data/
+.DS_Store
+Thumbs.db
+.env
+faiss_index_hash.txt
