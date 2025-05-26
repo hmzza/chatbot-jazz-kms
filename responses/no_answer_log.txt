@@ -1,0 +1,44 @@
+Question: what about W-1025?
+Response: I'm sorry, but I don't have information on the W-1025 package. Please provide more details about a Jazz [Category] (e.g., VAS, B2C) to help me assist you better.
+--------------------------------------------------
+Question: is there any azadi offer?
+Response: I'm sorry, but I don't have information on the Azadi Offer. Please provide more details about a Jazz [Category] (e.g., VAS, B2C) to help me assist you better.
+--------------------------------------------------
+Question: show its details
+Response: **Test Package Details**
+
+Category: CFL
+
+• **Package Type**: Prepaid
+• **Main Type**: Packages
+• **Network**: Warid
+
+**Calls**
+
+• On-Network Calls: Not available
+• Off-Network Calls: Not available
+• International Calls: Not available
+
+**SMS**
+
+• On-Network SMS: Not available
+• Off-Network SMS: Not available
+• International SMS: Not available
+
+**Internet**
+
+• Base Rate: Rs 2 / MB
+
+**Subscription Code**: *778*4#
+
+**Description**: This package is a collaborative effort of Jazz Pakistan’s #1 cellular network & Pakistan’s leading ed-tech company Knowledge Platform. With this bundle, we aim to provide seamless connectivity & disruption-free learning at affordable internet rates.
+
+**No detailed info available for other fields.**
+
+Please note that the details provided are specific to the Test Package and may not be applicable to other packages or offers.
+--------------------------------------------------
+Question: show me its details
+Response: Hi! How can I assist you?
+
+(Please note that as JazzBot, I'm here to help with Jazz Telecom-related queries. If you'd like information on a specific Jazz category, please provide more details.)
+--------------------------------------------------

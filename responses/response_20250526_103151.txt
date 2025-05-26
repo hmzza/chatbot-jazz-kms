@@ -1,0 +1,6 @@
+Question: i want information about "Jazz Budget" package
+Response: Hi! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?
+
+I'd be happy to help! Could you please specify what type of Jazz service you're looking for? For example: B2C packages, B2B solutions, data offers, voice plans, or SMS bundles?
+Category: whatsapp
+Timestamp: 2025-05-26T10:31:51.567210

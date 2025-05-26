@@ -1,0 +1,4 @@
+Question: aoa
+Response: Hi! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?
+Category: Unknown
+Timestamp: 2025-05-26T10:30:02.033175

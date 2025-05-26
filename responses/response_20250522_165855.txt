@@ -1,0 +1,13 @@
+Question: i want complete details of champion package
+Response: Hi!
+
+The Champion Package II is a prepaid package offered by Jazz Telecom Pakistan for B2C customers. Here are the key features:
+
+* On-Network Calls: Rs 3.50/Minute Incl Tax
+* Off-Network Calls: Rs 3.50/Minute Incl Tax
+* On-Network SMS: Rs 2.5/SMS
+* Off-Network SMS: Rs 2.5/SMS
+
+Would you like more details?
+Category: whatsapp
+Timestamp: 2025-05-22T16:58:55.469772

@@ -1,0 +1,11 @@
+Question: show W-699 package
+Response: Here are the details of the W-699 (DBSS Package):
+
+**Category:** B2C
+**Package Type:** Postpaid
+**Main Type:** Packages
+**Network:** Warid
+
+**On-Network Calls:** Rs 2.2+tax/min
+**Off-Network Calls:** Rs 2.2+tax/min
+**On-Network SMS:** Rs 0.75+tax

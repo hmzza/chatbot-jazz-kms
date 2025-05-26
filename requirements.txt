@@ -1,59 +1,19 @@
-flask
-qdrant-client
-langchain-community
-langchainhub
-sentence-transformers
-huggingface-hub
-python-dotenv
+Flask==3.1.0 # Web API and UI rendering
+langchain==0.3.23 # Core LLM + RAG framework
+langchain-community==0.3.21 # Community integrations (FAISS, Ollama)
+langchain-huggingface==0.0.6 # Use HuggingFaceEmbeddings correctly
 
-langchain
-langchain-huggingface
-faiss-cpu
-sentence-transformers
-torch
-ollama
-
-
-# requirements.txt
-# This file lists the Python dependencies required to run the JazzBot application.
-# The versions are pinned to those installed on the original system as of May 12, 2025.
-# Follow the setup instructions below to install and run the application.
-
-# Flask: Web framework for creating the chat API and serving the interface
-Flask==3.1.0
-
-# langchain-community: Community-contributed integrations for LangChain (e.g., FAISS, Ollama)
-langchain-community==0.3.21
-
-# langchain: Core LangChain library for building the chatbot logic and retrieval
-langchain==0.3.23
-
-# sentence-transformers: Library for generating embeddings using pre-trained models (used for HuggingFaceEmbeddings)
-sentence-transformers==4.1.0
-
-# huggingface-hub: Interface to download models from Hugging Face (required by sentence-transformers)
-huggingface-hub==0.30.2
-
-# faiss-cpu: CPU version of FAISS for efficient vector similarity search
-faiss-cpu==1.10.0
-
-# torch: PyTorch library, required by sentence-transformers for model inference
-torch==2.6.0
-
-# ollama: Python client for interacting with the Ollama LLM server
-ollama==0.4.7
-
-# python-dotenv: Load environment variables from a .env file (useful for API keys or configuration)
-python-dotenv==1.1.0
-
-# numpy: Numerical operations library, required by faiss-cpu and sentence-transformers
-numpy==2.2.4
-
-# requests: HTTP library, used indirectly by huggingface-hub
-requests==2.32.3
-
-
-
+sentence-transformers==4.1.0 # Embedding generation
+huggingface-hub==0.30.2 # Downloads from HuggingFace
+faiss-cpu==1.10.0 # Vector similarity search (CPU version)
+torch==2.6.0 # Required by sentence-transformers
+numpy==2.2.4 # Used by FAISS, Torch
+requests==2.32.3 # API calls & model downloads
+ollama==0.4.7 # LLM server interface (local llama3)
+python-dotenv==1.1.0 # Load config from .env file
+tqdm # Nice loading progress bars
+orjson # Fast JSON parser (used by LangChain)
+pydantic==2.11.4 # Used by LangChain internally
 # ----------------------------------
 # SETUP INSTRUCTIONS
 # ----------------------------------

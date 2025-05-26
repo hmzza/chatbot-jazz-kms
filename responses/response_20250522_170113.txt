@@ -1,0 +1,8 @@
+Question: generate cpp code for hello world
+Response: I'm JazzBot, your Jazz Telecom assistant. I can help you with information related to Jazz Telecom Pakistan, but I'm not a programming expert. The knowledge base doesn't have any C++ code or programming-related information.
+
+However, if you're looking for general information about Jazz Telecom Pakistan's offers and packages, I'd be happy to assist you. For example, we have B2C (Business-to-Consumer) postpaid offers like Dest-100 m-Initial, which provides data consumption in a list of attached countries & operators.
+
+Would you like more details on our B2C postpaid offers?
+Category: Unknown
+Timestamp: 2025-05-22T17:01:13.682722
