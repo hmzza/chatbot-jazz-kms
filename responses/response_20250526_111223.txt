@@ -1,0 +1,8 @@
+Question: Packages
+Response: Hi!
+
+We have a variety of packages to suit your needs. For B2C customers, we offer the Jazz Budget package with rates starting from Rs.3.50/60 sec for on-network calls. We also have Postpaid Hybrid Bolt ONs for B2C customers.
+
+Would you like more details?
+Category: Unknown
+Timestamp: 2025-05-26T11:12:23.101348

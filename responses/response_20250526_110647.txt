@@ -1,0 +1,11 @@
+Question: what is best offer for me?
+Response: Hi!
+
+I'd be happy to help you find the best offer for you! Based on our knowledge base, we have two offers that might interest you:
+
+* Monthly Premium Discounted Offer (B2C): This offer provides 5GB of data at a charge of Rs.472.99 (Excl Tax).
+* 2GB Add-On / 2000 MB Add-On (B2C): This add-on offers 2GB of data at a charge of Rs.436.6 (Excl Tax).
+
+Would you like more details?
+Category: Unknown
+Timestamp: 2025-05-26T11:06:47.065405

@@ -7,11 +7,14 @@ This improved version fixes critical issues:
 - Fixed follow-up detection and conversation flow
 - Improved memory management
 - Enhanced error handling
+- Fixed langchain_ollama import issue
+- FIXED: Proper streaming response with typing effect
 """
 
 from flask import Flask, request, render_template, Response, session, g
-from langchain_ollama import OllamaLLM  # Updated import
-from langchain.embeddings import HuggingFaceEmbeddings
+# Updated import to use the correct LangChain community package
+from langchain_community.llms import Ollama  # Fixed import
+from langchain_community.embeddings import HuggingFaceEmbeddings  # Updated import
 from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -412,7 +415,7 @@ def build_retriever() -> Tuple[Optional[object], Optional[object]]:
         chunks = splitter.split_documents(docs)
         logger.info(f"Created {len(chunks)} chunks from {len(docs)} documents")
         
-        # Initialize embeddings with updated import
+        # Initialize embeddings with correct import
         embeddings = HuggingFaceEmbeddings(
             model_name=config.EMBEDDING_MODEL,
             model_kwargs={'device': 'cpu'},
@@ -485,7 +488,8 @@ except Exception as e:
     embeddings = None
 
 try:
-    llm = OllamaLLM(model=config.LLM_MODEL, temperature=config.LLM_TEMPERATURE)  # Updated
+    # Fixed LLM initialization using correct import
+    llm = Ollama(model=config.LLM_MODEL, temperature=config.LLM_TEMPERATURE)
     logger.info("LLM initialized successfully")
 except Exception as e:
     logger.error(f"Error initializing LLM: {e}")
@@ -503,7 +507,7 @@ def index():
 
 @app.route("/chat", methods=["POST"])
 def chat():
-    """Enhanced chat endpoint with fixed streaming"""
+    """Enhanced chat endpoint with FIXED streaming for typing effect"""
     try:
         data = request.get_json()
         user_input = data.get("message", "").strip()
@@ -537,11 +541,22 @@ def chat():
         
         logger.info(f"Query analysis - Greeting: {is_greeting}, Follow-up: {is_followup}, Categories: {detected_categories}")
         
-        # Handle greeting
+        # Handle greeting with streaming effect
         if is_greeting:
             response = "Hi! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
-            memory_manager.add_exchange(user_input, response, None)
-            return Response(response, mimetype='text/plain')
+            
+            def stream_greeting():
+                words = response.split()
+                for i, word in enumerate(words):
+                    if i == 0:
+                        yield word
+                    else:
+                        yield f" {word}"
+                    time.sleep(0.05)  # Small delay for typing effect
+                # Update memory after streaming
+                memory_manager.add_exchange(user_input, response, None)
+            
+            return Response(stream_greeting(), mimetype='text/plain')
         
         # Document retrieval
         docs = []
@@ -593,31 +608,60 @@ def chat():
         
         logger.info(f"Generated prompt length: {len(prompt)} characters")
         
-        # Stream response with proper context handling
+        # FIXED: Stream response with proper word-by-word streaming
         def generate():
             full_response = []
             start_time = time.time()
             
             try:
-                for chunk in llm.stream(prompt):
-                    if time.time() - start_time > config.STREAM_TIMEOUT:
-                        logger.warning("Streaming timeout reached")
-                        break
-                    
-                    full_response.append(chunk)
-                    yield chunk
-                    
-                    # Check word limit
-                    current_text = "".join(full_response)
-                    if len(current_text.split()) > config.MAX_RESPONSE_WORDS:
-                        logger.info("Response word limit reached")
-                        break
+                # Try to use streaming if available
+                try:
+                    # Check if the LLM supports streaming
+                    if hasattr(llm, 'stream'):
+                        logger.info("Using LLM streaming")
+                        for chunk in llm.stream(prompt):
+                            if chunk:
+                                full_response.append(chunk)
+                                yield chunk
+                                time.sleep(0.02)  # Small delay for better typing effect
+                    else:
+                        # Fallback: Get full response and simulate streaming
+                        logger.info("Simulating streaming (LLM doesn't support native streaming)")
+                        response = llm.invoke(prompt)
+                        full_response.append(response)
                         
+                        # Stream word by word for typing effect
+                        words = response.split()
+                        for i, word in enumerate(words):
+                            if i == 0:
+                                yield word
+                            else:
+                                yield f" {word}"
+                            time.sleep(0.08)  # Typing effect delay
+                            
+                except Exception as stream_error:
+                    logger.warning(f"Streaming failed, using invoke: {stream_error}")
+                    # Final fallback: use invoke and simulate streaming
+                    response = llm.invoke(prompt)
+                    full_response.append(response)
+                    
+                    # Stream character by character for better typing effect
+                    for char in response:
+                        yield char
+                        if char in [' ', '.', '!', '?', '\n']:
+                            time.sleep(0.05)  # Pause at word/sentence boundaries
+                        else:
+                            time.sleep(0.01)  # Regular typing speed
+                    
             except Exception as e:
-                logger.error(f"Error in streaming: {e}")
+                logger.error(f"Error in generation: {e}")
                 error_msg = "I apologize, but I encountered an error processing your request. Please try again."
                 full_response = [error_msg]
-                yield error_msg
+                
+                # Stream error message
+                for char in error_msg:
+                    yield char
+                    time.sleep(0.03)
                 return
             
             # Post-processing - this happens after streaming completes
@@ -646,7 +690,15 @@ def chat():
         
     except Exception as e:
         logger.error(f"Chat error: {e}")
-        return Response("I apologize, but I encountered an unexpected error. Please try again.", mimetype='text/plain')
+        # Stream error message for consistency
+        error_msg = "I apologize, but I encountered an unexpected error. Please try again."
+        
+        def stream_error():
+            for char in error_msg:
+                yield char
+                time.sleep(0.03)
+        
+        return Response(stream_error(), mimetype='text/plain')
 
 @app.route("/admin/upload", methods=["POST"])
 def admin_upload():
@@ -734,4 +786,4 @@ def not_found(error):
 
 if __name__ == "__main__":
     logger.info("Starting JazzBot Flask application...")
-    app.run(debug=True, host="0.0.0.0", port=6061)
+    app.run(debug=True, host="0.0.0.0", port=6060)

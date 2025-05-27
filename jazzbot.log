@@ -551,3 +551,304 @@
 2025-05-26 10:42:19,716 - INFO - Vectorstore initialized successfully
 2025-05-26 10:42:19,747 - INFO - LLM initialized successfully
 2025-05-26 10:42:19,749 - INFO - Starting JazzBot Flask application...
+2025-05-26 10:52:37,348 - INFO - Initializing JazzBot...
+2025-05-26 10:52:37,360 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-26 10:52:37,375 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-26 10:52:37,389 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-26 10:52:37,389 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-26 10:52:37,390 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-26 10:52:37,391 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-26 10:52:37,391 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-26 10:52:37,391 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-26 10:52:37,392 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-26 10:52:37,393 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-26 10:52:37,393 - INFO - Total documents loaded: 10
+2025-05-26 10:52:37,424 - INFO - Created 4086 chunks from 10 documents
+2025-05-26 10:52:39,753 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-26 10:52:44,009 - INFO - Reusing existing FAISS index
+2025-05-26 10:52:44,012 - INFO - Loading faiss.
+2025-05-26 10:52:44,046 - INFO - Successfully loaded faiss.
+2025-05-26 10:52:44,048 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-05-26 10:52:44,057 - INFO - Vectorstore initialized successfully
+2025-05-26 10:52:44,059 - INFO - LLM initialized successfully
+2025-05-26 10:52:44,060 - INFO - Starting JazzBot Flask application...
+2025-05-26 10:52:44,094 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6060
+ * Running on http://10.124.66.118:6060
+2025-05-26 10:52:44,094 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 10:52:44,095 - INFO -  * Restarting with stat
+2025-05-26 10:52:44,475 - INFO - Initializing JazzBot...
+2025-05-26 10:52:44,487 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-26 10:52:44,501 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-26 10:52:44,514 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-26 10:52:44,515 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-26 10:52:44,515 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-26 10:52:44,516 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-26 10:52:44,516 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-26 10:52:44,516 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-26 10:52:44,516 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-26 10:52:44,516 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-26 10:52:44,516 - INFO - Total documents loaded: 10
+2025-05-26 10:52:44,549 - INFO - Created 4086 chunks from 10 documents
+2025-05-26 10:52:46,433 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-26 10:52:51,001 - INFO - Reusing existing FAISS index
+2025-05-26 10:52:51,003 - INFO - Loading faiss.
+2025-05-26 10:52:51,028 - INFO - Successfully loaded faiss.
+2025-05-26 10:52:51,031 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-05-26 10:52:51,042 - INFO - Vectorstore initialized successfully
+2025-05-26 10:52:51,043 - INFO - LLM initialized successfully
+2025-05-26 10:52:51,044 - INFO - Starting JazzBot Flask application...
+2025-05-26 10:52:51,053 - WARNING -  * Debugger is active!
+2025-05-26 10:52:51,063 - INFO -  * Debugger PIN: 287-830-706
+2025-05-26 10:52:52,202 - INFO - 127.0.0.1 - - [26/May/2025 10:52:52] "GET / HTTP/1.1" 200 -
+2025-05-26 10:52:52,217 - INFO - 127.0.0.1 - - [26/May/2025 10:52:52] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-05-26 10:52:52,218 - INFO - 127.0.0.1 - - [26/May/2025 10:52:52] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-05-26 10:52:52,247 - INFO - 127.0.0.1 - - [26/May/2025 10:52:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 10:52:52,752 - INFO - 127.0.0.1 - - [26/May/2025 10:52:52] "GET /static/assets/Jazz-Company-logo-.png HTTP/1.1" 200 -
+2025-05-26 10:52:58,765 - INFO - Processing query: aoa
+2025-05-26 10:52:58,766 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 10:52:58,889 - INFO - Retrieved 6 relevant documents
+2025-05-26 10:52:58,889 - INFO - Generated prompt length: 4095 characters
+2025-05-26 10:53:14,398 - INFO - 127.0.0.1 - - [26/May/2025 10:53:14] "POST /chat HTTP/1.1" 200 -
+2025-05-26 10:53:14,403 - INFO - Added to memory: Q='aoa...', Category=None
+2025-05-26 10:53:14,403 - INFO - Generated response length: 83 characters
+2025-05-26 10:53:19,289 - INFO - 127.0.0.1 - - [26/May/2025 10:53:19] "GET / HTTP/1.1" 200 -
+2025-05-26 10:53:19,318 - INFO - 127.0.0.1 - - [26/May/2025 10:53:19] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-05-26 10:53:19,318 - INFO - 127.0.0.1 - - [26/May/2025 10:53:19] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-05-26 10:53:19,840 - INFO - 127.0.0.1 - - [26/May/2025 10:53:19] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-05-26 10:53:21,798 - INFO - Processing query: aoa
+2025-05-26 10:53:21,799 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 10:53:21,834 - INFO - Retrieved 6 relevant documents
+2025-05-26 10:53:21,835 - INFO - Generated prompt length: 4095 characters
+2025-05-26 10:53:23,246 - INFO - 127.0.0.1 - - [26/May/2025 10:53:23] "POST /chat HTTP/1.1" 200 -
+2025-05-26 10:53:23,247 - INFO - Added to memory: Q='aoa...', Category=None
+2025-05-26 10:53:23,248 - INFO - Generated response length: 83 characters
+2025-05-26 10:53:25,853 - INFO - Processing query: aoa
+2025-05-26 10:53:25,853 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 10:53:25,866 - INFO - Retrieved 6 relevant documents
+2025-05-26 10:53:25,867 - INFO - Generated prompt length: 4095 characters
+2025-05-26 10:53:27,257 - INFO - 127.0.0.1 - - [26/May/2025 10:53:27] "POST /chat HTTP/1.1" 200 -
+2025-05-26 10:53:27,258 - INFO - Added to memory: Q='aoa...', Category=None
+2025-05-26 10:53:27,259 - INFO - Generated response length: 83 characters
+2025-05-26 10:53:36,911 - INFO - Processing query: show me some best top 2 offers from B2C
+2025-05-26 10:53:36,912 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: ['B2C']
+2025-05-26 10:53:36,937 - INFO - Retrieved 6 relevant documents
+2025-05-26 10:53:36,937 - INFO - Generated prompt length: 2658 characters
+2025-05-26 10:53:45,834 - INFO - 127.0.0.1 - - [26/May/2025 10:53:45] "POST /chat HTTP/1.1" 200 -
+2025-05-26 10:53:45,835 - INFO - Added to memory: Q='show me some best top 2 offers from B2C...', Category=B2C
+2025-05-26 10:53:45,835 - INFO - Generated response length: 323 characters
+2025-05-26 10:59:13,356 - INFO - Processing query: do have any information about jazz rox?
+2025-05-26 10:59:13,358 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 10:59:13,387 - INFO - Retrieved 6 relevant documents
+2025-05-26 10:59:13,388 - INFO - Generated prompt length: 4523 characters
+2025-05-26 10:59:27,759 - INFO - 127.0.0.1 - - [26/May/2025 10:59:27] "POST /chat HTTP/1.1" 200 -
+2025-05-26 10:59:27,762 - INFO - Added to memory: Q='do have any information about jazz rox?...', Category=None
+2025-05-26 10:59:27,763 - INFO - Generated response length: 316 characters
+2025-05-26 10:59:31,747 - INFO - Processing query: hi
+2025-05-26 10:59:31,748 - INFO - Query analysis - Greeting: True, Follow-up: False, Categories: []
+2025-05-26 10:59:31,748 - INFO - Added to memory: Q='hi...', Category=None
+2025-05-26 10:59:31,749 - INFO - 127.0.0.1 - - [26/May/2025 10:59:31] "POST /chat HTTP/1.1" 200 -
+2025-05-26 10:59:38,622 - INFO - Processing query: are there any offer for youtube
+2025-05-26 10:59:38,623 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: ['youtube']
+2025-05-26 10:59:38,654 - INFO - Retrieved 1 relevant documents
+2025-05-26 10:59:38,654 - INFO - Generated prompt length: 1857 characters
+2025-05-26 10:59:45,109 - INFO - 127.0.0.1 - - [26/May/2025 10:59:45] "POST /chat HTTP/1.1" 200 -
+2025-05-26 10:59:45,111 - INFO - Added to memory: Q='are there any offer for youtube...', Category=youtube
+2025-05-26 10:59:45,112 - INFO - Generated response length: 245 characters
+2025-05-26 10:59:55,455 - INFO - 127.0.0.1 - - [26/May/2025 10:59:55] "GET / HTTP/1.1" 200 -
+2025-05-26 10:59:55,490 - INFO - 127.0.0.1 - - [26/May/2025 10:59:55] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-05-26 10:59:55,490 - INFO - 127.0.0.1 - - [26/May/2025 10:59:55] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-05-26 10:59:56,012 - INFO - 127.0.0.1 - - [26/May/2025 10:59:56] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-05-26 11:00:07,497 - INFO - Processing query: is there any offer related to facebook
+2025-05-26 11:00:07,498 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: ['facebook']
+2025-05-26 11:00:07,538 - INFO - Retrieved 6 relevant documents
+2025-05-26 11:00:07,538 - INFO - Generated prompt length: 4269 characters
+2025-05-26 11:00:18,732 - INFO - 127.0.0.1 - - [26/May/2025 11:00:18] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:00:18,735 - INFO - Added to memory: Q='is there any offer related to facebook...', Category=facebook
+2025-05-26 11:00:18,736 - INFO - Generated response length: 345 characters
+2025-05-26 11:04:39,170 - INFO -  * Detected change in '/Users/hamza/Work-Jazz/Projects/Jazz-ChatBot/chatbot-jazz-kms/app.py', reloading
+2025-05-26 11:04:39,795 - INFO -  * Restarting with stat
+2025-05-26 11:04:40,313 - INFO - Initializing JazzBot...
+2025-05-26 11:04:40,326 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-26 11:04:40,341 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-26 11:04:40,356 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-26 11:04:40,356 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-26 11:04:40,357 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-26 11:04:40,358 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-26 11:04:40,359 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-26 11:04:40,359 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-26 11:04:40,360 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-26 11:04:40,360 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-26 11:04:40,360 - INFO - Total documents loaded: 10
+2025-05-26 11:04:40,392 - INFO - Created 4086 chunks from 10 documents
+2025-05-26 11:04:42,762 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-26 11:04:47,636 - INFO - Reusing existing FAISS index
+2025-05-26 11:04:47,639 - INFO - Loading faiss.
+2025-05-26 11:04:47,675 - INFO - Successfully loaded faiss.
+2025-05-26 11:04:47,679 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-05-26 11:04:47,691 - INFO - Vectorstore initialized successfully
+2025-05-26 11:04:47,693 - INFO - LLM initialized successfully
+2025-05-26 11:04:47,694 - INFO - Starting JazzBot Flask application...
+2025-05-26 11:04:47,703 - WARNING -  * Debugger is active!
+2025-05-26 11:04:47,711 - INFO -  * Debugger PIN: 287-830-706
+2025-05-26 11:04:50,516 - INFO - 127.0.0.1 - - [26/May/2025 11:04:50] "GET / HTTP/1.1" 200 -
+2025-05-26 11:04:50,543 - INFO - 127.0.0.1 - - [26/May/2025 11:04:50] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-05-26 11:04:50,543 - INFO - 127.0.0.1 - - [26/May/2025 11:04:50] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-05-26 11:04:51,057 - INFO - 127.0.0.1 - - [26/May/2025 11:04:51] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-05-26 11:04:53,071 - INFO - Processing query: hi
+2025-05-26 11:04:53,072 - INFO - Query analysis - Greeting: True, Follow-up: False, Categories: []
+2025-05-26 11:04:53,072 - INFO - 127.0.0.1 - - [26/May/2025 11:04:53] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:04:53,786 - INFO - Added to memory: Q='hi...', Category=None
+2025-05-26 11:04:54,796 - INFO - Processing query: aoa
+2025-05-26 11:04:54,797 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 11:04:54,927 - INFO - Retrieved 6 relevant documents
+2025-05-26 11:04:54,927 - INFO - Generated prompt length: 4196 characters
+2025-05-26 11:04:54,927 - INFO - Using LLM streaming
+2025-05-26 11:05:00,215 - INFO - 127.0.0.1 - - [26/May/2025 11:05:00] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:05:01,521 - INFO - Added to memory: Q='aoa...', Category=None
+2025-05-26 11:05:01,521 - INFO - Generated response length: 83 characters
+2025-05-26 11:05:07,154 - INFO - Processing query: show me best package
+2025-05-26 11:05:07,155 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 11:05:07,184 - INFO - Retrieved 6 relevant documents
+2025-05-26 11:05:07,185 - INFO - Generated prompt length: 4856 characters
+2025-05-26 11:05:07,185 - INFO - Using LLM streaming
+2025-05-26 11:05:13,450 - INFO - 127.0.0.1 - - [26/May/2025 11:05:13] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:05:20,260 - INFO - Added to memory: Q='show me best package...', Category=None
+2025-05-26 11:05:20,261 - INFO - Generated response length: 389 characters
+2025-05-26 11:05:59,297 - INFO - 127.0.0.1 - - [26/May/2025 11:05:59] "GET / HTTP/1.1" 200 -
+2025-05-26 11:05:59,314 - INFO - 127.0.0.1 - - [26/May/2025 11:05:59] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-05-26 11:05:59,314 - INFO - 127.0.0.1 - - [26/May/2025 11:05:59] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-05-26 11:05:59,829 - INFO - 127.0.0.1 - - [26/May/2025 11:05:59] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-05-26 11:06:37,750 - INFO - Processing query: what is best offer for me?
+2025-05-26 11:06:37,752 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 11:06:37,782 - INFO - Retrieved 6 relevant documents
+2025-05-26 11:06:37,782 - INFO - Generated prompt length: 2785 characters
+2025-05-26 11:06:37,782 - INFO - Using LLM streaming
+2025-05-26 11:06:41,254 - INFO - 127.0.0.1 - - [26/May/2025 11:06:41] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:06:47,064 - INFO - Added to memory: Q='what is best offer for me?...', Category=None
+2025-05-26 11:06:47,065 - INFO - Generated response length: 377 characters
+2025-05-26 11:06:53,864 - INFO - Processing query: yes
+2025-05-26 11:06:53,865 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 11:06:53,889 - INFO - Retrieved 6 relevant documents
+2025-05-26 11:06:53,889 - INFO - Generated prompt length: 3084 characters
+2025-05-26 11:06:53,890 - INFO - Using LLM streaming
+2025-05-26 11:06:58,129 - INFO - 127.0.0.1 - - [26/May/2025 11:06:58] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:07:03,570 - INFO - Added to memory: Q='yes...', Category=None
+2025-05-26 11:07:03,572 - INFO - Generated response length: 391 characters
+2025-05-26 11:07:36,642 - INFO - Processing query: what is best package for data usage
+2025-05-26 11:07:36,643 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: ['data']
+2025-05-26 11:07:36,664 - INFO - Retrieved 6 relevant documents
+2025-05-26 11:07:36,664 - INFO - Generated prompt length: 2852 characters
+2025-05-26 11:07:36,665 - INFO - Using LLM streaming
+2025-05-26 11:07:40,148 - INFO - 127.0.0.1 - - [26/May/2025 11:07:40] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:07:44,865 - INFO - Added to memory: Q='what is best package for data usage...', Category=data
+2025-05-26 11:07:44,865 - INFO - Generated response length: 357 characters
+2025-05-26 11:08:05,003 - INFO - Processing query: and for B2B ?
+2025-05-26 11:08:05,005 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: ['B2B']
+2025-05-26 11:08:05,037 - INFO - Retrieved 6 relevant documents
+2025-05-26 11:08:05,037 - INFO - Generated prompt length: 2733 characters
+2025-05-26 11:08:05,037 - INFO - Using LLM streaming
+2025-05-26 11:08:09,126 - INFO - 127.0.0.1 - - [26/May/2025 11:08:09] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:08:11,762 - INFO - Added to memory: Q='and for B2B ?...', Category=B2B
+2025-05-26 11:08:11,763 - INFO - Generated response length: 210 characters
+2025-05-26 11:08:37,846 - INFO - Processing query: AOA
+2025-05-26 11:08:37,848 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 11:08:37,867 - INFO - Retrieved 6 relevant documents
+2025-05-26 11:08:37,868 - INFO - Generated prompt length: 4196 characters
+2025-05-26 11:08:37,868 - INFO - Using LLM streaming
+2025-05-26 11:08:43,653 - INFO - 127.0.0.1 - - [26/May/2025 11:08:43] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:08:45,112 - INFO - Added to memory: Q='AOA...', Category=None
+2025-05-26 11:08:45,113 - INFO - Generated response length: 83 characters
+2025-05-26 11:09:12,937 - INFO - Processing query: How is weather outside
+2025-05-26 11:09:12,938 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 11:09:12,988 - INFO - Retrieved 6 relevant documents
+2025-05-26 11:09:12,988 - INFO - Generated prompt length: 3159 characters
+2025-05-26 11:09:12,988 - INFO - Using LLM streaming
+2025-05-26 11:09:17,093 - INFO - 127.0.0.1 - - [26/May/2025 11:09:17] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:09:20,270 - INFO - Added to memory: Q='How is weather outside...', Category=None
+2025-05-26 11:09:20,271 - INFO - Generated response length: 255 characters
+2025-05-26 11:09:26,808 - INFO - Processing query: great
+2025-05-26 11:09:26,808 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 11:09:26,819 - INFO - Retrieved 6 relevant documents
+2025-05-26 11:09:26,819 - INFO - Generated prompt length: 2498 characters
+2025-05-26 11:09:26,819 - INFO - Using LLM streaming
+2025-05-26 11:09:29,743 - INFO - 127.0.0.1 - - [26/May/2025 11:09:29] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:09:30,830 - INFO - Added to memory: Q='great...', Category=None
+2025-05-26 11:09:30,831 - INFO - Generated response length: 71 characters
+2025-05-26 11:09:52,708 - INFO - Processing query: help me find a good voice package for international calls
+2025-05-26 11:09:52,709 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: ['voice']
+2025-05-26 11:09:52,729 - INFO - Retrieved 6 relevant documents
+2025-05-26 11:09:52,729 - INFO - Generated prompt length: 4966 characters
+2025-05-26 11:09:52,729 - INFO - Using LLM streaming
+2025-05-26 11:10:00,469 - INFO - 127.0.0.1 - - [26/May/2025 11:10:00] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:10:06,733 - INFO - Added to memory: Q='help me find a good voice package for internationa...', Category=voice
+2025-05-26 11:10:06,735 - INFO - Generated response length: 361 characters
+2025-05-26 11:12:00,308 - INFO - Processing query: Data Offers
+2025-05-26 11:12:00,310 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: ['data']
+2025-05-26 11:12:00,334 - INFO - Retrieved 6 relevant documents
+2025-05-26 11:12:00,334 - INFO - Generated prompt length: 3168 characters
+2025-05-26 11:12:00,334 - INFO - Using LLM streaming
+2025-05-26 11:12:04,222 - INFO - 127.0.0.1 - - [26/May/2025 11:12:04] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:12:10,076 - INFO - Added to memory: Q='Data Offers...', Category=data
+2025-05-26 11:12:10,077 - INFO - Generated response length: 401 characters
+2025-05-26 11:12:13,141 - INFO - Processing query: Packages
+2025-05-26 11:12:13,143 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 11:12:13,167 - INFO - Retrieved 6 relevant documents
+2025-05-26 11:12:13,167 - INFO - Generated prompt length: 4866 characters
+2025-05-26 11:12:13,167 - INFO - Using LLM streaming
+2025-05-26 11:12:19,267 - INFO - 127.0.0.1 - - [26/May/2025 11:12:19] "POST /chat HTTP/1.1" 200 -
+2025-05-26 11:12:23,100 - INFO - Added to memory: Q='Packages...', Category=None
+2025-05-26 11:12:23,101 - INFO - Generated response length: 255 characters
+2025-05-26 14:42:06,772 - INFO - 127.0.0.1 - - [26/May/2025 14:42:06] "GET / HTTP/1.1" 200 -
+2025-05-26 14:42:06,789 - INFO - 127.0.0.1 - - [26/May/2025 14:42:06] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-05-26 14:42:06,789 - INFO - 127.0.0.1 - - [26/May/2025 14:42:06] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-05-26 14:42:07,310 - INFO - 127.0.0.1 - - [26/May/2025 14:42:07] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-05-26 17:15:29,863 - INFO - Processing query: hello kya haal hay
+2025-05-26 17:15:29,865 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 17:15:29,914 - INFO - Retrieved 6 relevant documents
+2025-05-26 17:15:29,915 - INFO - Generated prompt length: 4969 characters
+2025-05-26 17:15:29,916 - INFO - Using LLM streaming
+2025-05-26 17:15:44,034 - INFO - 127.0.0.1 - - [26/May/2025 17:15:44] "POST /chat HTTP/1.1" 200 -
+2025-05-26 17:15:45,497 - INFO - Added to memory: Q='hello kya haal hay...', Category=None
+2025-05-26 17:15:45,499 - INFO - Generated response length: 86 characters
+2025-05-26 17:15:52,758 - INFO - Processing query: can u type in roman urdu?
+2025-05-26 17:15:52,760 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 17:15:52,943 - INFO - Retrieved 6 relevant documents
+2025-05-26 17:15:52,943 - INFO - Generated prompt length: 3674 characters
+2025-05-26 17:15:52,943 - INFO - Using LLM streaming
+2025-05-26 17:15:57,854 - INFO - 127.0.0.1 - - [26/May/2025 17:15:57] "POST /chat HTTP/1.1" 200 -
+2025-05-26 17:16:01,109 - INFO - Added to memory: Q='can u type in roman urdu?...', Category=None
+2025-05-26 17:16:01,113 - INFO - Generated response length: 285 characters
+2025-05-26 17:16:16,965 - INFO - Processing query: mujhe koi acha sa package batao
+2025-05-26 17:16:16,965 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 17:16:16,996 - INFO - Retrieved 6 relevant documents
+2025-05-26 17:16:16,996 - INFO - Generated prompt length: 4934 characters
+2025-05-26 17:16:16,996 - INFO - Using LLM streaming
+2025-05-26 17:16:24,873 - INFO - 127.0.0.1 - - [26/May/2025 17:16:24] "POST /chat HTTP/1.1" 200 -
+2025-05-26 17:16:31,000 - INFO - Added to memory: Q='mujhe koi acha sa package batao...', Category=None
+2025-05-26 17:16:31,004 - INFO - Generated response length: 353 characters
+2025-05-26 17:16:40,016 - INFO - Processing query: koi sasta package batao
+2025-05-26 17:16:40,017 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-05-26 17:16:40,041 - INFO - Retrieved 6 relevant documents
+2025-05-26 17:16:40,041 - INFO - Generated prompt length: 4946 characters
+2025-05-26 17:16:40,041 - INFO - Using LLM streaming
+2025-05-26 17:16:48,337 - INFO - 127.0.0.1 - - [26/May/2025 17:16:48] "POST /chat HTTP/1.1" 200 -
+2025-05-26 17:16:52,251 - INFO - Added to memory: Q='koi sasta package batao...', Category=None
+2025-05-26 17:16:52,253 - INFO - Generated response length: 251 characters
+2025-05-26 17:24:33,053 - INFO - Processing query: mujhe jawab roman urdu mai dein
+2025-05-26 17:24:33,055 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: ['whatsapp']
+2025-05-26 17:24:33,080 - INFO - Retrieved 6 relevant documents
+2025-05-26 17:24:33,080 - INFO - Generated prompt length: 4055 characters
+2025-05-26 17:24:33,080 - INFO - Using LLM streaming
+2025-05-26 17:24:41,814 - INFO - 127.0.0.1 - - [26/May/2025 17:24:41] "POST /chat HTTP/1.1" 200 -
+2025-05-26 17:24:52,111 - INFO - Added to memory: Q='mujhe jawab roman urdu mai dein...', Category=whatsapp
+2025-05-26 17:24:52,112 - INFO - Generated response length: 399 characters
+2025-05-26 17:25:42,117 - INFO - Processing query: mujhe roman english mai jawab do
+2025-05-26 17:25:42,119 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: ['whatsapp']
+2025-05-26 17:25:42,142 - INFO - Retrieved 6 relevant documents
+2025-05-26 17:25:42,143 - INFO - Generated prompt length: 2666 characters
+2025-05-26 17:25:42,143 - INFO - Using LLM streaming
+2025-05-26 17:25:45,410 - INFO - 127.0.0.1 - - [26/May/2025 17:25:45] "POST /chat HTTP/1.1" 200 -
+2025-05-26 17:25:49,490 - INFO - Added to memory: Q='mujhe roman english mai jawab do...', Category=whatsapp
+2025-05-26 17:25:49,492 - INFO - Generated response length: 311 characters

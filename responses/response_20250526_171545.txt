@@ -1,0 +1,4 @@
+Question: hello kya haal hay
+Response: As-salamu alaykum! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?
+Category: Unknown
+Timestamp: 2025-05-26T17:15:45.498901
