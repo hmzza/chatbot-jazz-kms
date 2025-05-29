@@ -1,0 +1,11 @@
+Question: suggest a monthly offer
+Response: Hi!
+
+I'd be happy to help you with that! Based on our knowledge base, here are some B2C monthly offers:
+
+* Mahana Aala Offer (Monthly Freedom South Generic): 50GB data, 3000 Jazz minutes, 500 other network minutes, and 3000 SMS for PKR 1478.
+* Monthly Star (Old name: Monthly Hybrid Offer): 25GB data, 3000 on-net minutes, 500 off-net minutes, 3000 SMS, and more for PKR 1565.
+
+Would you like more details?
+Category: postpaid
+Timestamp: 2025-05-27T17:37:11.861337

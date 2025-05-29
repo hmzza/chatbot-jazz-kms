@@ -1,0 +1,11 @@
+Question: is there any youtube offer?
+Response: Hi!
+
+Yes, we have YouTube-specific offers for our B2C customers. We have a few options:
+
+* 5 GB YouTube only bundle (Offer ID: 92) - PKR 80.0
+* Daily YouTube bundle (Offer ID: 93) - 1.5 GB (YouTube + Facebook + Whatsapp) for 24 hours
+
+Would you like more details?
+Category: youtube
+Timestamp: 2025-05-27T13:34:13.256351

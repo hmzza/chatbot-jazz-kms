@@ -1,7 +1,1 @@
-pycache/
-*.py[cod]
-*$py.class
-dbstore/
-.DS_Store
-Thumbs.db
 faiss_index_hash.txt
