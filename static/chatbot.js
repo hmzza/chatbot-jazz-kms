@@ -2,65 +2,65 @@
   let currentController = null; // Store the AbortController
 
   function appendMessage(text, sender) {
-    let bubble = $('<div>').addClass('chat-bubble').addClass(sender);
+    let bubble = $("<div>").addClass("chat-bubble").addClass(sender);
 
-    if (sender === 'bot') {
-      const logo = $('<img>')
-        .attr('src', 'static/assets/Jazz-Company-logo-.png')
-        .attr('alt', 'Jazz Logo')
-        .css({ width: '20px', height: '20px', marginRight: '8px' });
-      
+    if (sender === "bot") {
+      const logo = $("<img>")
+        .attr("src", "static/assets/Jazz-Company-logo-.png")
+        .attr("alt", "Jazz Logo")
+        .css({ width: "20px", height: "20px", marginRight: "8px" });
+
       // Restore original formatting logic
       let formattedText = text
-        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>') // Bold text
-        .replace(/\n/g, '<br>'); // New lines to <br>
-      
-      const messageContent = $('<span>').html(formattedText);
+        .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>") // Bold text
+        .replace(/\n/g, "<br>"); // New lines to <br>
+
+      const messageContent = $("<span>").html(formattedText);
       bubble.append(logo).append(messageContent);
     } else {
       bubble.text(text);
     }
-    
-    $('#chat-box').append(bubble);
-    $('#chat-box').scrollTop($('#chat-box')[0].scrollHeight);
+
+    $("#chat-box").append(bubble);
+    $("#chat-box").scrollTop($("#chat-box")[0].scrollHeight);
     return bubble;
   }
 
   function startTypingAnimation() {
-    $('#robotArea').addClass('robot-thinking');
+    $("#robotArea").addClass("robot-thinking");
   }
 
   function stopTypingAnimation() {
-    $('#robotArea').removeClass('robot-thinking');
+    $("#robotArea").removeClass("robot-thinking");
   }
 
   function sendMessage() {
-    const input = $('#user-input');
+    const input = $("#user-input");
     const userMsg = input.val().trim();
     if (!userMsg) return;
 
-    appendMessage(userMsg, 'user');
-    input.val('');
+    appendMessage(userMsg, "user");
+    input.val("");
 
     // Show the stop button and start typing animation
-    $('#stop-btn').show();
-    $('#send-btn').prop('disabled', true);
-    $('#user-input').prop('disabled', true);
+    $("#stop-btn").show();
+    $("#send-btn").prop("disabled", true);
+    $("#user-input").prop("disabled", true);
     startTypingAnimation();
 
-    const bubble = $('<div>').addClass('chat-bubble').addClass('bot');
-    const logo = $('<img>')
-      .attr('src', 'static/assets/Jazz-Company-logo-.png')
-      .attr('alt', 'Jazz Logo')
-      .css({ width: '20px', height: '20px', marginRight: '8px' });
-    
-    const messageContent = $('<span>');
+    const bubble = $("<div>").addClass("chat-bubble").addClass("bot");
+    const logo = $("<img>")
+      .attr("src", "static/assets/Jazz-Company-logo-.png")
+      .attr("alt", "Jazz Logo")
+      .css({ width: "20px", height: "20px", marginRight: "8px" });
+
+    const messageContent = $("<span>");
     bubble.append(logo).append(messageContent);
-    $('#chat-box').append(bubble);
-    $('#chat-box').scrollTop($('#chat-box')[0].scrollHeight);
+    $("#chat-box").append(bubble);
+    $("#chat-box").scrollTop($("#chat-box")[0].scrollHeight);
 
     // Store the complete response
-    let fullResponse = '';
+    let fullResponse = "";
 
     // Create a new AbortController
     currentController = new AbortController();
@@ -70,56 +70,59 @@
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ message: userMsg }),
-      signal: signal // Add the signal to allow aborting
+      signal: signal, // Add the signal to allow aborting
     })
-    .then(response => {
-      const reader = response.body.getReader();
-      const decoder = new TextDecoder();
-      
-      function processStream() {
-        return reader.read().then(({ done, value }) => {
-          if (done) {
-            // Apply final formatting for the complete message
-            let formattedText = fullResponse
-              .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-              .replace(/\n/g, '<br>');
-            
-            messageContent.html(formattedText);
-            resetUI();
-            return;
-          }
-          
-          const chunk = decoder.decode(value, { stream: true });
-          fullResponse += chunk;
-          
-          // During streaming, show with simple formatting
-          let streamingText = fullResponse.replace(/\n/g, '<br>');
-          messageContent.html(streamingText);
-          
-          $('#chat-box').scrollTop($('#chat-box')[0].scrollHeight);
-          
-          return processStream();
-        });
-      }
+      .then((response) => {
+        const reader = response.body.getReader();
+        const decoder = new TextDecoder();
 
-      return processStream().catch(err => {
-        if (err.name === 'AbortError') {
-          messageContent.html(fullResponse.replace(/\n/g, '<br>') + "<br><em>[Response stopped]</em>");
+        function processStream() {
+          return reader.read().then(({ done, value }) => {
+            if (done) {
+              // Apply final formatting for the complete message
+              let formattedText = fullResponse
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+                .replace(/\n/g, "<br>");
+
+              messageContent.html(formattedText);
+              resetUI();
+              return;
+            }
+
+            const chunk = decoder.decode(value, { stream: true });
+            fullResponse += chunk;
+
+            // During streaming, show with simple formatting
+            let streamingText = fullResponse.replace(/\n/g, "<br>");
+            messageContent.html(streamingText);
+
+            $("#chat-box").scrollTop($("#chat-box")[0].scrollHeight);
+
+            return processStream();
+          });
+        }
+
+        return processStream().catch((err) => {
+          if (err.name === "AbortError") {
+            messageContent.html(
+              fullResponse.replace(/\n/g, "<br>") +
+                "<br><em>[Response stopped]</em>"
+            );
+          } else {
+            messageContent.html("Error: " + err.message);
+          }
+          resetUI();
+        });
+      })
+      .catch((error) => {
+        if (error.name === "AbortError") {
+          // Do nothing special, already handled
         } else {
-          messageContent.html("Error: " + err.message);
+          bubble.remove();
+          appendMessage("Error: " + error.message, "bot");
         }
         resetUI();
       });
-    })
-    .catch(error => {
-      if (error.name === 'AbortError') {
-        // Do nothing special, already handled
-      } else {
-        bubble.remove();
-        appendMessage("Error: " + error.message, 'bot');
-      }
-      resetUI();
-    });
   }
 
   function stopResponse() {
@@ -130,15 +133,15 @@
   }
 
   function resetUI() {
-    $('#stop-btn').hide();
-    $('#send-btn').prop('disabled', false);
-    $('#user-input').prop('disabled', false);
-    $('#user-input').focus();
+    $("#stop-btn").hide();
+    $("#send-btn").prop("disabled", false);
+    $("#user-input").prop("disabled", false);
+    $("#user-input").focus();
     stopTypingAnimation();
   }
 
   function sendQuickReply(message) {
-    $('#user-input').val(message);
+    $("#user-input").val(message);
     sendMessage();
   }
 
@@ -149,17 +152,19 @@
 
   $(document).ready(function () {
     // Hide stop button initially
-    $('#stop-btn').hide();
-    
+    $("#stop-btn").hide();
+
     setTimeout(() => {
       appendMessage(
         "Hello! I'm your Jazz Support Bot powered by AI. How can I help you today?",
-        'bot'
+        "bot"
       );
     }, 500);
 
-    document.getElementById("user-input").addEventListener("keypress", function (e) {
-      if (e.key === "Enter") sendMessage();
-    });
+    document
+      .getElementById("user-input")
+      .addEventListener("keypress", function (e) {
+        if (e.key === "Enter") sendMessage();
+      });
   });
 })();
