@@ -1424,3 +1424,383 @@
 2025-05-29 12:15:23,455 - INFO - Query analysis - Greeting: True, Follow-up: False, Categories: []
 2025-05-29 12:15:23,455 - INFO - 127.0.0.1 - - [29/May/2025 12:15:23] "POST /chat HTTP/1.1" 200 -
 2025-05-29 12:15:24,158 - INFO - Added to memory: Q='hi...', Category=None
+2025-05-29 12:17:29,717 - INFO - Initializing JazzBot...
+2025-05-29 12:17:29,738 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:17:29,757 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:17:29,774 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:17:29,775 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:17:29,776 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:17:29,777 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:17:29,778 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:17:29,779 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:17:29,779 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:17:29,779 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:17:29,779 - INFO - Total documents loaded: 10
+2025-05-29 12:17:29,811 - INFO - Created 4086 chunks from 10 documents
+2025-05-29 12:17:55,965 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-29 12:18:00,578 - INFO - Reusing existing FAISS index
+2025-05-29 12:18:00,579 - ERROR - Error loading existing index: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2025-05-29 12:18:00,579 - INFO - Building new FAISS index...
+2025-05-29 12:18:33,337 - ERROR - Error building retriever: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2025-05-29 12:18:33,347 - ERROR - Vectorstore initialization failed
+2025-05-29 12:18:33,351 - INFO - LLM initialized successfully
+2025-05-29 12:18:33,351 - INFO - Starting JazzBot Flask application...
+2025-05-29 12:39:44,746 - INFO - Initializing JazzBot...
+2025-05-29 12:39:44,762 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:39:44,777 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:39:44,791 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:39:44,792 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:39:44,793 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:39:44,794 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:39:44,794 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:39:44,794 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:39:44,795 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:39:44,795 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:39:44,795 - INFO - Total documents loaded: 10
+2025-05-29 12:39:44,827 - INFO - Created 4086 chunks from 10 documents
+2025-05-29 12:39:46,950 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-29 12:39:50,444 - INFO - Building new FAISS index...
+2025-05-29 12:40:23,220 - ERROR - Error building retriever: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2025-05-29 12:40:23,229 - ERROR - Vectorstore initialization failed
+2025-05-29 12:40:23,231 - INFO - LLM initialized successfully
+2025-05-29 12:40:23,232 - INFO - Starting JazzBot Flask application...
+2025-05-29 12:40:42,266 - INFO - Initializing JazzBot...
+2025-05-29 12:40:42,280 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:40:42,296 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:40:42,309 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:40:42,310 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:40:42,311 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:40:42,312 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:40:42,312 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:40:42,312 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:40:42,313 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:40:42,313 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:40:42,313 - INFO - Total documents loaded: 10
+2025-05-29 12:40:42,345 - INFO - Created 4086 chunks from 10 documents
+2025-05-29 12:40:44,051 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-29 12:40:47,589 - INFO - Building new FAISS index...
+2025-05-29 12:41:20,280 - ERROR - Error building retriever: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2025-05-29 12:41:20,291 - ERROR - Vectorstore initialization failed
+2025-05-29 12:41:20,293 - INFO - LLM initialized successfully
+2025-05-29 12:41:20,294 - INFO - Starting JazzBot Flask application...
+2025-05-29 12:41:21,263 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6065
+ * Running on http://172.20.10.5:6065
+2025-05-29 12:41:21,263 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 12:41:21,265 - INFO -  * Restarting with stat
+2025-05-29 12:41:21,680 - INFO - Initializing JazzBot...
+2025-05-29 12:41:21,698 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:41:21,713 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:41:21,728 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:41:21,728 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:41:21,729 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:41:21,730 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:41:21,731 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:41:21,731 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:41:21,732 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:41:21,732 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:41:21,732 - INFO - Total documents loaded: 10
+2025-05-29 12:41:21,765 - INFO - Created 4086 chunks from 10 documents
+2025-05-29 12:41:23,653 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-29 12:41:28,955 - INFO - Building new FAISS index...
+2025-05-29 12:42:04,170 - ERROR - Error building retriever: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2025-05-29 12:42:04,181 - ERROR - Vectorstore initialization failed
+2025-05-29 12:42:04,184 - INFO - LLM initialized successfully
+2025-05-29 12:42:04,185 - INFO - Starting JazzBot Flask application...
+2025-05-29 12:42:04,196 - WARNING -  * Debugger is active!
+2025-05-29 12:42:04,213 - INFO -  * Debugger PIN: 106-199-270
+2025-05-29 12:42:28,550 - INFO - 127.0.0.1 - - [29/May/2025 12:42:28] "GET / HTTP/1.1" 200 -
+2025-05-29 12:42:28,571 - INFO - 127.0.0.1 - - [29/May/2025 12:42:28] "GET /static/chatbot.css HTTP/1.1" 200 -
+2025-05-29 12:42:28,571 - INFO - 127.0.0.1 - - [29/May/2025 12:42:28] "GET /static/chatbot.js HTTP/1.1" 200 -
+2025-05-29 12:42:28,581 - INFO - 127.0.0.1 - - [29/May/2025 12:42:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-29 12:42:29,086 - INFO - 127.0.0.1 - - [29/May/2025 12:42:29] "GET /static/assets/Jazz-Company-logo-.png HTTP/1.1" 200 -
+2025-05-29 12:42:33,310 - INFO - 127.0.0.1 - - [29/May/2025 12:42:33] "POST /chat HTTP/1.1" 200 -
+2025-05-29 12:44:35,352 - INFO -  * Detected change in '/Users/hamza/Work-Jazz/Projects/Jazz-ChatBot/chatbot-jazz-kms/app.py', reloading
+2025-05-29 12:44:35,762 - INFO -  * Restarting with stat
+2025-05-29 12:44:36,171 - INFO - Initializing JazzBot...
+2025-05-29 12:44:36,187 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:44:36,202 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:44:36,216 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:44:36,217 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:44:36,218 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:44:36,219 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:44:36,219 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:44:36,219 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:44:36,220 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:44:36,220 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:44:36,220 - INFO - Total documents loaded: 10
+2025-05-29 12:44:36,253 - INFO - Created 4086 chunks from 10 documents
+2025-05-29 12:44:38,164 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-29 12:44:53,907 - INFO - Building new FAISS index...
+2025-05-29 12:46:43,477 - INFO - Initializing JazzBot...
+2025-05-29 12:46:43,566 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:46:43,583 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:46:43,598 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:46:43,598 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:46:43,599 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:46:43,600 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:46:43,600 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:46:43,601 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:46:43,601 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:46:43,601 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:46:43,601 - INFO - Total documents loaded: 10
+2025-05-29 12:46:43,601 - ERROR - Error building retriever: name 'RecursiveCharacterTextSplitter' is not defined with traceback Traceback (most recent call last):
+  File "/Users/hamza/Work-Jazz/Projects/Jazz-ChatBot/chatbot-jazz-kms/app.py", line 50, in build_retriever
+    splitter = RecursiveCharacterTextSplitter(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'RecursiveCharacterTextSplitter' is not defined
+
+2025-05-29 12:46:43,602 - ERROR - Vectorstore initialization failed. Check logs and ensure cleaned_data contains valid files.
+2025-05-29 12:46:43,602 - ERROR - Error initializing LLM: name 'Ollama' is not defined with traceback Traceback (most recent call last):
+  File "/Users/hamza/Work-Jazz/Projects/Jazz-ChatBot/chatbot-jazz-kms/app.py", line 120, in <module>
+    llm = Ollama(model=config.LLM_MODEL, temperature=config.LLM_TEMPERATURE)
+          ^^^^^^
+NameError: name 'Ollama' is not defined
+
+2025-05-29 12:46:43,602 - INFO - Starting JazzBot Flask application...
+2025-05-29 12:46:51,242 - INFO - Initializing JazzBot...
+2025-05-29 12:46:51,317 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:46:51,332 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:46:51,346 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:46:51,346 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:46:51,347 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:46:51,348 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:46:51,348 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:46:51,349 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:46:51,349 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:46:51,349 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:46:51,349 - INFO - Total documents loaded: 10
+2025-05-29 12:46:51,349 - ERROR - Error building retriever: name 'RecursiveCharacterTextSplitter' is not defined with traceback Traceback (most recent call last):
+  File "/Users/hamza/Work-Jazz/Projects/Jazz-ChatBot/chatbot-jazz-kms/app.py", line 50, in build_retriever
+    splitter = RecursiveCharacterTextSplitter(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'RecursiveCharacterTextSplitter' is not defined
+
+2025-05-29 12:46:51,349 - ERROR - Vectorstore initialization failed. Check logs and ensure cleaned_data contains valid files.
+2025-05-29 12:46:51,350 - ERROR - Error initializing LLM: name 'Ollama' is not defined with traceback Traceback (most recent call last):
+  File "/Users/hamza/Work-Jazz/Projects/Jazz-ChatBot/chatbot-jazz-kms/app.py", line 120, in <module>
+    llm = Ollama(model=config.LLM_MODEL, temperature=config.LLM_TEMPERATURE)
+          ^^^^^^
+NameError: name 'Ollama' is not defined
+
+2025-05-29 12:46:51,350 - INFO - Starting JazzBot Flask application...
+2025-05-29 12:46:51,370 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6060
+ * Running on http://172.20.10.5:6060
+2025-05-29 12:46:51,370 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 12:46:51,371 - INFO -  * Restarting with stat
+2025-05-29 12:46:51,444 - INFO - Initializing JazzBot...
+2025-05-29 12:46:51,500 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:46:51,515 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:46:51,528 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:46:51,528 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:46:51,529 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:46:51,530 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:46:51,530 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:46:51,530 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:46:51,530 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:46:51,530 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:46:51,530 - INFO - Total documents loaded: 10
+2025-05-29 12:46:51,530 - ERROR - Error building retriever: name 'RecursiveCharacterTextSplitter' is not defined with traceback Traceback (most recent call last):
+  File "/Users/hamza/Work-Jazz/Projects/Jazz-ChatBot/chatbot-jazz-kms/app.py", line 50, in build_retriever
+    splitter = RecursiveCharacterTextSplitter(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'RecursiveCharacterTextSplitter' is not defined
+
+2025-05-29 12:46:51,530 - ERROR - Vectorstore initialization failed. Check logs and ensure cleaned_data contains valid files.
+2025-05-29 12:46:51,531 - ERROR - Error initializing LLM: name 'Ollama' is not defined with traceback Traceback (most recent call last):
+  File "/Users/hamza/Work-Jazz/Projects/Jazz-ChatBot/chatbot-jazz-kms/app.py", line 120, in <module>
+    llm = Ollama(model=config.LLM_MODEL, temperature=config.LLM_TEMPERATURE)
+          ^^^^^^
+NameError: name 'Ollama' is not defined
+
+2025-05-29 12:46:51,531 - INFO - Starting JazzBot Flask application...
+2025-05-29 12:46:51,544 - WARNING -  * Debugger is active!
+2025-05-29 12:46:51,549 - INFO -  * Debugger PIN: 106-199-270
+2025-05-29 12:47:00,642 - INFO -  * Detected change in '/Users/hamza/Work-Jazz/Projects/Jazz-ChatBot/chatbot-jazz-kms/app.py', reloading
+2025-05-29 12:47:00,678 - INFO -  * Restarting with stat
+2025-05-29 12:47:01,009 - INFO - Initializing JazzBot...
+2025-05-29 12:47:01,022 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:47:01,037 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:47:01,051 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:47:01,051 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:47:01,052 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:47:01,053 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:47:01,053 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:47:01,053 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:47:01,053 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:47:01,053 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:47:01,053 - INFO - Total documents loaded: 10
+2025-05-29 12:47:01,086 - INFO - Created 4086 chunks from 10 documents
+2025-05-29 12:47:02,999 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-29 12:47:19,058 - INFO - Building new FAISS index...
+2025-05-29 12:47:51,966 - ERROR - Error building retriever: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2025-05-29 12:47:51,976 - ERROR - Vectorstore initialization failed
+2025-05-29 12:47:51,979 - INFO - LLM initialized successfully
+2025-05-29 12:47:51,980 - INFO - Starting JazzBot Flask application...
+2025-05-29 12:47:51,989 - WARNING -  * Debugger is active!
+2025-05-29 12:47:52,005 - INFO -  * Debugger PIN: 106-199-270
+2025-05-29 12:50:16,482 - INFO -  * Detected change in '/Users/hamza/Work-Jazz/Projects/Jazz-ChatBot/chatbot-jazz-kms/app.py', reloading
+2025-05-29 12:50:16,894 - INFO -  * Restarting with stat
+2025-05-29 12:50:17,279 - INFO - Initializing JazzBot...
+2025-05-29 12:50:17,294 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:50:17,309 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:50:17,323 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:50:17,323 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:50:17,324 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:50:17,325 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:50:17,325 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:50:17,325 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:50:17,326 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:50:17,326 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:50:17,326 - INFO - Total documents loaded: 10
+2025-05-29 12:50:17,358 - INFO - Created 4086 chunks from 10 documents
+2025-05-29 12:50:19,241 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-29 12:50:25,974 - INFO - Initializing JazzBot...
+2025-05-29 12:50:25,986 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:50:26,001 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:50:26,015 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:50:26,015 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:50:26,016 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:50:26,017 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:50:26,017 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:50:26,018 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:50:26,018 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:50:26,018 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:50:26,018 - INFO - Total documents loaded: 10
+2025-05-29 12:50:26,050 - INFO - Created 4086 chunks from 10 documents
+2025-05-29 12:50:27,789 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-29 12:50:32,529 - INFO - Building new FAISS index...
+2025-05-29 12:51:07,318 - ERROR - Error building retriever: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2025-05-29 12:51:07,328 - ERROR - Vectorstore initialization failed
+2025-05-29 12:51:07,331 - INFO - LLM initialized successfully
+2025-05-29 12:51:07,332 - INFO - Starting JazzBot Flask application...
+2025-05-29 12:51:39,846 - INFO - Initializing JazzBot...
+2025-05-29 12:51:39,859 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:51:39,875 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:51:39,889 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:51:39,890 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:51:39,890 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:51:39,892 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:51:39,892 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:51:39,892 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:51:39,892 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:51:39,893 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:51:39,893 - INFO - Total documents loaded: 10
+2025-05-29 12:51:39,926 - INFO - Created 4086 chunks from 10 documents
+2025-05-29 12:51:41,897 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-29 12:51:48,389 - INFO - Building new FAISS index...
+2025-05-29 12:52:27,322 - ERROR - Error building retriever: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2025-05-29 12:52:27,333 - ERROR - Vectorstore initialization failed
+2025-05-29 12:52:27,336 - INFO - LLM initialized successfully
+2025-05-29 12:52:27,338 - INFO - Starting JazzBot Flask application...
+2025-05-29 12:52:27,360 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6068
+ * Running on http://172.20.10.5:6068
+2025-05-29 12:52:27,360 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 12:52:27,360 - INFO -  * Restarting with stat
+2025-05-29 12:52:27,781 - INFO - Initializing JazzBot...
+2025-05-29 12:52:27,793 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:52:27,809 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:52:27,823 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:52:27,823 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:52:27,824 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:52:27,825 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:52:27,825 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:52:27,826 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:52:27,826 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:52:27,826 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:52:27,826 - INFO - Total documents loaded: 10
+2025-05-29 12:52:27,859 - INFO - Created 4086 chunks from 10 documents
+2025-05-29 12:52:29,795 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-29 12:52:34,028 - INFO - Building new FAISS index...
+2025-05-29 12:53:10,479 - ERROR - Error building retriever: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2025-05-29 12:53:10,490 - ERROR - Vectorstore initialization failed
+2025-05-29 12:53:10,492 - INFO - LLM initialized successfully
+2025-05-29 12:53:10,493 - INFO - Starting JazzBot Flask application...
+2025-05-29 12:53:10,502 - WARNING -  * Debugger is active!
+2025-05-29 12:53:10,519 - INFO -  * Debugger PIN: 106-199-270
+2025-05-29 12:53:10,552 - INFO - 127.0.0.1 - - [29/May/2025 12:53:10] "GET / HTTP/1.1" 200 -
+2025-05-29 12:53:10,575 - INFO - 127.0.0.1 - - [29/May/2025 12:53:10] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-05-29 12:53:10,575 - INFO - 127.0.0.1 - - [29/May/2025 12:53:10] "GET /static/chatbot.js HTTP/1.1" 200 -
+2025-05-29 12:53:10,606 - INFO - 127.0.0.1 - - [29/May/2025 12:53:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-29 12:53:11,113 - INFO - 127.0.0.1 - - [29/May/2025 12:53:11] "GET /static/assets/Jazz-Company-logo-.png HTTP/1.1" 200 -
+2025-05-29 12:53:13,001 - INFO - 127.0.0.1 - - [29/May/2025 12:53:13] "POST /chat HTTP/1.1" 200 -
+2025-05-29 12:54:41,164 - INFO -  * Detected change in '/Users/hamza/Work-Jazz/Projects/Jazz-ChatBot/chatbot-jazz-kms/app.py', reloading
+2025-05-29 12:54:41,515 - INFO -  * Restarting with stat
+2025-05-29 12:54:41,911 - INFO - Initializing JazzBot...
+2025-05-29 12:54:41,924 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:54:41,939 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:54:41,953 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:54:41,954 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:54:41,954 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:54:41,955 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:54:41,956 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:54:41,956 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:54:41,956 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:54:41,957 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:54:41,957 - INFO - Total documents loaded: 10
+2025-05-29 12:54:41,989 - INFO - Created 4086 chunks from 10 documents
+2025-05-29 12:54:43,897 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-29 12:55:03,425 - INFO - Initializing JazzBot...
+2025-05-29 12:55:03,437 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:55:03,452 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:55:03,466 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:55:03,466 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:55:03,467 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:55:03,468 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:55:03,468 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:55:03,469 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:55:03,469 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:55:03,469 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:55:03,469 - INFO - Total documents loaded: 10
+2025-05-29 12:55:03,501 - INFO - Created 4086 chunks from 10 documents
+2025-05-29 12:55:05,726 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-29 12:55:10,752 - INFO - Building new FAISS index...
+2025-05-29 12:55:43,336 - INFO - Loading faiss.
+2025-05-29 12:55:43,359 - INFO - Successfully loaded faiss.
+2025-05-29 12:55:43,361 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-05-29 12:55:43,432 - INFO - FAISS index built and saved successfully
+2025-05-29 12:55:43,433 - INFO - Vectorstore initialized successfully
+2025-05-29 12:55:43,435 - INFO - LLM initialized successfully
+2025-05-29 12:55:43,436 - INFO - Starting JazzBot Flask application...
+2025-05-29 12:55:43,449 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://172.20.10.5:6061
+2025-05-29 12:55:43,449 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 12:55:43,450 - INFO -  * Restarting with stat
+2025-05-29 12:55:43,864 - INFO - Initializing JazzBot...
+2025-05-29 12:55:43,876 - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-05-29 12:55:43,891 - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-05-29 12:55:43,905 - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-05-29 12:55:43,905 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-05-29 12:55:43,905 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-05-29 12:55:43,906 - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-05-29 12:55:43,906 - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-05-29 12:55:43,907 - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-05-29 12:55:43,907 - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-05-29 12:55:43,907 - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-05-29 12:55:43,907 - INFO - Total documents loaded: 10
+2025-05-29 12:55:43,940 - INFO - Created 4086 chunks from 10 documents
+2025-05-29 12:55:45,970 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-29 12:55:51,739 - INFO - Reusing existing FAISS index
+2025-05-29 12:55:51,743 - INFO - Loading faiss.
+2025-05-29 12:55:51,762 - INFO - Successfully loaded faiss.
+2025-05-29 12:55:51,765 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-05-29 12:55:51,773 - INFO - Vectorstore initialized successfully
+2025-05-29 12:55:51,775 - INFO - LLM initialized successfully
+2025-05-29 12:55:51,775 - INFO - Starting JazzBot Flask application...
+2025-05-29 12:55:51,786 - WARNING -  * Debugger is active!
+2025-05-29 12:55:51,796 - INFO -  * Debugger PIN: 287-830-706
+2025-05-29 12:55:56,579 - INFO - 127.0.0.1 - - [29/May/2025 12:55:56] "GET / HTTP/1.1" 200 -
+2025-05-29 12:55:56,591 - INFO - 127.0.0.1 - - [29/May/2025 12:55:56] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-05-29 12:55:56,592 - INFO - 127.0.0.1 - - [29/May/2025 12:55:56] "GET /static/chatbot.js HTTP/1.1" 200 -
+2025-05-29 12:55:57,134 - INFO - 127.0.0.1 - - [29/May/2025 12:55:57] "GET /static/assets/Jazz-Company-logo-.png HTTP/1.1" 200 -
+2025-05-29 12:56:00,580 - INFO - Processing query: hi
+2025-05-29 12:56:00,582 - INFO - Query analysis - Greeting: True, Follow-up: False, Categories: []
+2025-05-29 12:56:00,582 - INFO - 127.0.0.1 - - [29/May/2025 12:56:00] "POST /chat HTTP/1.1" 200 -
+2025-05-29 12:56:01,286 - INFO - Added to memory: Q='hi...', Category=None
