@@ -1,2 +1,0 @@
-Question: What are the steps for handling incoming calls barring issues in B2C?
-Response: 

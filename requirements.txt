@@ -1,50 +1,99 @@
-Flask==3.1.0 # Web API and UI rendering
-langchain==0.3.23 # Core LLM + RAG framework
-langchain-community==0.3.21 # Community integrations (FAISS, Ollama)
-langchain-huggingface==0.0.6 # Use HuggingFaceEmbeddings correctly
+# Web API and UI rendering
+Flask==3.1.1
+Werkzeug==3.1.3
+Jinja2==3.1.6
+itsdangerous==2.2.0
+MarkupSafe==3.0.2
+click==8.2.1
 
-sentence-transformers==4.1.0 # Embedding generation
-huggingface-hub==0.30.2 # Downloads from HuggingFace
-faiss-cpu==1.10.0 # Vector similarity search (CPU version)
-torch==2.6.0 # Required by sentence-transformers
-numpy==2.2.4 # Used by FAISS, Torch
-requests==2.32.3 # API calls & model downloads
-ollama==0.4.7 # LLM server interface (local llama3)
-python-dotenv==1.1.0 # Load config from .env file
-tqdm # Nice loading progress bars
-orjson # Fast JSON parser (used by LangChain)
-pydantic==2.11.4 # Used by LangChain internally
+# LangChain and related packages for LLM and RAG
+langchain==0.3.25
+langchain-community==0.3.24  # Already installed
+langchain-core==0.3.62  # Already installed
+langchain-text-splitters==0.3.8  # Already installed
+langchain-huggingface==0.2.0  # Updated to latest stable version
+pydantic==2.11.5
+orjson==3.10.18
+jsonpatch==1.33
+jsonpointer==3.0.0
+langsmith==0.3.43
+tenacity==9.1.2
+requests==2.32.3
+PyYAML==6.0.2
+SQLAlchemy==2.0.41
+aiohttp==3.12.4
+yarl==1.20.0
+multidict==6.4.4
+async-timeout==4.0.3
+aiosignal==1.3.2
+frozenlist==1.6.0
+
+# Embeddings and vector store
+sentence-transformers==4.1.0
+huggingface-hub==0.32.2
+faiss-cpu==1.11.0
+numpy==2.2.6
+scikit-learn==1.6.1
+scipy==1.15.3
+tokenizers==0.21.1
+transformers==4.52.3
+safetensors==0.5.3
+filelock==3.18.0
+tqdm==4.67.1
+
+# PyTorch for sentence-transformers
+torch==2.7.0
+fsspec==2025.5.1
+mpmath==1.3.0
+sympy==1.14.0
+networkx==3.4.2
+
+# Ollama for Llama3 model
+ollama==0.4.7
+
+# Environment and configuration
+python-dotenv==1.1.0
+
+# Logging and utilities
+colorama==0.4.6
+typing_extensions==4.13.2
+typing-inspect==0.9.0
+mypy_extensions==1.1.0
+dataclasses-json==0.6.7
+marshmallow==3.26.1
+packaging==24.2
+charset-normalizer==3.4.2
+idna==3.10
+urllib3==2.4.0
+certifi==2025.4.26
+
 # ----------------------------------
 # SETUP INSTRUCTIONS
 # ----------------------------------
-# 1. Ensure you have Python 3.8+ installed on your system.
-# 2. Create a virtual environment (optional but recommended):
-#    - On Unix/MacOS: python -m venv venv
-#    - On Windows: python -m venv venv
-# 3. Activate the virtual environment:
-#    - On Unix/MacOS: source venv/bin/activate
-#    - On Windows: venv\Scripts\activate
-# 4. Install the dependencies:
+# 1. Ensure Python 3.8+ is installed (3.13 detected in your environment).
+# 2. Ensure you are in the correct virtual environment where langchain-community==0.3.24, langchain-core==0.3.62, and langchain-text-splitters==0.3.8 are installed.
+# 3. Install dependencies:
 #    pip install -r requirements.txt
-#    - If you encounter version conflicts (e.g., with torch), install manually with specific versions:
-#      pip install torch==2.6.0
-# 5. Install additional system dependencies (if needed):
+#    - If version conflicts occur (e.g., with torch), install manually:
+#      pip install torch==2.7.0
+# 4. Install system dependencies (if needed):
 #    - For faiss-cpu: Ensure a C++ compiler (e.g., g++) is installed.
-#    - For sentence-transformers and torch: Ensure compatible CUDA libraries if using GPU (optional).
-# 6. Start the Ollama server (required for the LLM):
-#    - Follow Ollama installation instructions at https://ollama.com/docs
+#    - For sentence-transformers: Ensure compatible CUDA libraries for GPU (optional).
+# 5. Start the Ollama server for Llama3:
+#    - Follow instructions at https://ollama.ai/docs
 #    - Run: ollama serve
-# 7. Run the application:
+# 6. Run the application:
 #    python app.py
-# 8. Access the chat interface in your browser at http://0.0.0.0:6066
-# 9. (Optional) Create a .env file for environment variables if using python-dotenv:
-#    - Example: API_KEY=your_api_key
-#    - Load it in app.py with: from dotenv import load_dotenv; load_dotenv()
+# 7. Access the chat interface at http://0.0.0.0:6067
+# 8. (Optional) Create a .env file for environment variables:
+#    - Example: SECRET_KEY=your_secret_key_here_change_in_production
+#    - Load in app.py with: from dotenv import load_dotenv; load_dotenv()
 
 # ----------------------------------
 # NOTES
 # ----------------------------------
-# - The torch version (2.6.0) is CPU-only. For GPU support, adjust the version and install with CUDA:
-#   pip install torch==2.6.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
-# - If dependencies fail to install, check for compatibility issues and adjust versions in this file.
-# - Ensure the 'cleaned_data' directory exists or is created as per the code logic.
+# - The torch version (2.7.0) is CPU-only. For GPU support, install with CUDA:
+#    pip install torch==2.7.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
+# - Ensure the 'cleaned_data', 'faiss_index', and 'responses' directories exist or are created as per app.py.
+# - If dependency installation fails, check for compatibility issues and adjust versions.
+# - The port is set to 6067 to match app.py.

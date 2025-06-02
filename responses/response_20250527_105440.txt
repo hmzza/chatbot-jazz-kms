@@ -1,8 +1,0 @@
-Question: show details of Har Second Offer
-Response: Hi!
-
-The Har Second Offer is a B2C package that offers 4 Paisa/Second (On-Net/off-net) for 1 day with a time duration of 24 hours. It's not recursive and requires a deposit of Rs. 0.60.
-
-Would you like more details?
-Category: Unknown
-Timestamp: 2025-05-27T10:54:40.824658

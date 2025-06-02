@@ -1,8 +1,0 @@
-Question: show some best of the offers from B2C
-Response: Hi!
-
-We don't have updated information about specific offers for our B2C category at this moment. However, we do offer a range of exciting packages and deals for our individual customers.
-
-Would you like more details?
-Category: B2C
-Timestamp: 2025-05-26T10:40:16.135770

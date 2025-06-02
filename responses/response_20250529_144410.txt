@@ -1,0 +1,8 @@
+Question: Data Offers
+Response: Hi!
+
+We have several data offers for our customers. For B2C customers, we offer the Monthly Internet - Heavy package with 180 GB of data and charges in Rs. We also have the All in One - Budget (448 1#) package with 4GB of data and charges in Rs. Additionally, we have the Knowledge Bundle package with 10GB of E-Learning on our Knowledge Platform only for a validity period of 30 days.
+
+Would you like more details?
+Category: data
+Timestamp: 2025-05-29T14:44:10.535015

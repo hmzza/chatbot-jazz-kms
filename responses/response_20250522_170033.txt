@@ -1,8 +1,0 @@
-Question: What is the capital of Pak
-Response: Hi! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?
-
-The capital of Pakistan is Islamabad.
-
-Would you like more details?
-Category: Unknown
-Timestamp: 2025-05-22T17:00:33.726535

@@ -1,4 +1,0 @@
-Question: Tell me more
-Response: Hi again! Since our previous conversation, I've checked our knowledge base for information on SMS packages. Unfortunately, it seems we don't have updated information on this topic. If you're looking for package details, I can suggest checking our website or contacting our customer support team directly. Would you like more details?
-Category: Unknown
-Timestamp: 2025-05-22T17:00:08.324953

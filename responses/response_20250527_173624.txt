@@ -1,8 +1,0 @@
-Question: show me the best offer for facebook and whatsapp
-Response: Hi!
-
-For Facebook and WhatsApp, I recommend our Daily Social Bundle (B2C). It offers 1.5 GB of data for YouTube, Facebook, and WhatsApp at PKR 27 (inc tax) with a validity of 24 hours.
-
-Would you like more details?
-Category: facebook
-Timestamp: 2025-05-27T17:36:24.599733

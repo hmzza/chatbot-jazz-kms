@@ -1,0 +1,11 @@
+Question: list top 5 best offers that you have
+Response: Hi!
+
+As your Jazz Telecom assistant, I'd be happy to provide you with the top 5 best offers we have for our B2C customers:
+
+• Daily Snapchat Offer (B2C): Enjoy 1GB of data and unlimited Snapchat usage for just Rs. 15!
+• Monthly Browser Recursive Offer (B2C): Get 10GB of data, 1000 minutes, and 500 SMS for just Rs. 599!
+
+Would you like more details?
+Category: Unknown
+Timestamp: 2025-05-29T15:09:37.122264

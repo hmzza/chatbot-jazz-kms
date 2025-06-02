@@ -1,8 +1,0 @@
-Question: what is best package for data usage
-Response: Hi!
-
-For B2C customers, our top recommendation for heavy data users is the "Monthly Internet - Heavy" offer (Category: B2C). This postpaid plan offers 180 GB of consumable data at an affordable rate. If you're looking for a prepaid option, we have another "Monthly Internet - Heavy" offer that provides the same amount of data.
-
-Would you like more details?
-Category: data
-Timestamp: 2025-05-26T11:07:44.865809

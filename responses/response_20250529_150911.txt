@@ -1,0 +1,10 @@
+Question: show some details
+Response: I'd be happy to provide more information!
+
+We have some exciting data offers for our B2C customers. For instance, we have a Weekly Whatsapp Bundle that provides 25MB of data at a base rate of 1/MB.
+
+Additionally, we also offer the Super Night Offer - Gujranwala, which provides 5000 MBs of data at a base rate of 5/MB.
+
+Would you like more details?
+Category: Unknown
+Timestamp: 2025-05-29T15:09:11.512023

@@ -1,0 +1,10 @@
+Question: show 3 day offer
+Response: I apologize, but it seems that we don't have any offers with a duration of exactly 3 days in our knowledge base. However, I can suggest some options for you.
+
+For B2C customers, we have the "Har Second Offer" which provides 4 Paisa per second on-net and off-net, valid for 24 hours. It's not recursive, but it might be a good option for short-term usage.
+
+Alternatively, our "Monthly Social Plus - New Sale Discounted Offer" is available for B2C customers. Although the validity period is X+29 days, you can still consider it if your needs are not limited to just 3 days.
+
+Would you like more details?
+Category: Unknown
+Timestamp: 2025-05-29T16:10:18.745411
