@@ -1,0 +1,6 @@
+Question: i want cheapest offer
+Response: Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?
+
+The cheapest B2C offer available is the "10GB (24hr) + 10GB (1am-9am)" prepaid consumable data package for Rs.339.13 (excluding tax). Would you like more details?
+Category: whatsapp
+Timestamp: 2025-06-03T12:01:05.293449

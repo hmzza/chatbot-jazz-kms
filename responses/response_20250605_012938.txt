@@ -1,0 +1,4 @@
+Question: do you have any youtube related offers
+Response: I've got some great news for you! We have a few YouTube-related offers in our B2C category. For instance, offer 92 provides 5 GB of data usable only for YouTube, valid for 7 days with a subscription code of 570#. Additionally, we have the Daily YouTube bundle (offer 93) that offers 1.5 GB of data for YouTube, Facebook, and WhatsApp, valid for 24 hours with a subscription code of 968# or 114 5#. Would you like more details?
+Category: youtube
+Timestamp: 2025-06-05T01:29:38.925732

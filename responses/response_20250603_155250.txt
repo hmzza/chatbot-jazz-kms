@@ -1,0 +1,11 @@
+Question: is there any youtube offer?
+Response: Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?
+
+Yes, we have YouTube offers available in our B2C category!
+
+* Offer 92: Get 5 GB data usable only for YouTube with a validity of 7 days and charges at PKR 80.0.
+* Offer 93: Enjoy 1.5 GB data (YouTube + Facebook + WhatsApp) with a validity of 24 hours.
+
+Would you like more details?
+Category: youtube
+Timestamp: 2025-06-03T15:52:50.059020

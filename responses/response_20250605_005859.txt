@@ -1,0 +1,11 @@
+Question: do u have any youtube related offers
+Response: Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?
+
+We have two YouTube-related offers for you:
+
+* 92 Offer: Get 5 GB data usable only for YouTube with a validity of 7 days and charges at PKR 80.0.
+* Daily YouTube Bundle (Offer ID 93): Enjoy 1.5 GB data for YouTube, Facebook, and WhatsApp with a validity of 24 hours.
+
+Would you like more details?
+Category: youtube
+Timestamp: 2025-06-05T00:58:59.432865

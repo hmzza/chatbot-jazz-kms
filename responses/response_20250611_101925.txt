@@ -1,0 +1,10 @@
+Question: I want to see some Packages
+Response: I'd be happy to help!
+
+We have several packages available. For individual customers (B2C), we offer the Postpaid Hybrid Bolt ONs package.
+
+For Jazz Rox, we have a prepaid package with rates for on-network and off-network calls, SMS, and international SMS.
+
+Would you like more details?
+Category: whatsapp
+Timestamp: 2025-06-11T10:19:25.925421

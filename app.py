@@ -137,6 +137,7 @@ class ConversationMemory:
     def get_last_response(self) -> str:
         """Get the last response"""
         memory = self.get_memory()
+        print(f"memory: {memory}")
         return memory[-1]["answer"] if memory else ""
 
     def clear_memory(self):
@@ -261,7 +262,7 @@ class QueryAnalyzer:
     """Enhanced query analysis"""
 
     GREETING_PATTERNS = [
-        r"^(hi|hello|hey|salam|assalam|good\s+(morning|afternoon|evening))$",
+        r"^(hi|hello|hey|aoa|salam|assalam|good\s+(morning|afternoon|evening))$",
         r"^(how\s+are\s+you|what\'s\s+up)$",
     ]
 
@@ -305,7 +306,9 @@ class QueryAnalyzer:
                 "more info",
             ]
         )
-        return is_followup_pattern and has_details_offer
+        return is_followup_pattern
+
+    # and has_details_offer
 
     @classmethod
     def extract_package_name(cls, text: str) -> Optional[str]:
@@ -390,7 +393,7 @@ INSTRUCTIONS:
 - Specify category when mentioning packages (B2C, B2B, etc.)
 - If you have detailed info available, end with "Would you like more details?"
 - Be specific about what's available
-- For user input like AOA or aoa or Assalam o alaikum: "Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
+
 
 USER REQUEST: {user_input}"""
 
@@ -407,10 +410,13 @@ INSTRUCTIONS:
 - For specific queries: "I'd be happy to help! Could you please specify what type of Jazz service you're looking for? For example: B2C packages, B2B solutions, data offers, voice plans, or SMS bundles?"
 - Keep response under 50 words
 - Be helpful and guide the user to provide more specific information
-- For user input like AOA or aoa or Assalam o alaikum: "Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
+
 
 USER REQUEST: {user_input}"""
 
+
+# - For user input like AOA or aoa or Assalam o alaikum: "Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
+# - For user input like AOA or aoa or Assalam o alaikum: "Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
 
 # Initialize global components
 memory_manager = ConversationMemory()
@@ -549,6 +555,7 @@ def index():
 def chat():
     """Enhanced chat endpoint with FIXED streaming for typing effect"""
     try:
+        print("Chat Function Called!!")
         data = request.get_json()
         user_input = data.get("message", "").strip()
 
@@ -591,7 +598,7 @@ def chat():
 
         # Handle greeting with streaming effect
         if is_greeting:
-            response = "Hi! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
+            response = "Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
 
             def stream_greeting():
                 words = response.split()
@@ -613,6 +620,7 @@ def chat():
         try:
             if is_followup:
                 package_name = query_analyzer.extract_package_name(last_response)
+                print(last_response)
                 search_query = (
                     f"{package_name} {primary_category or ''}".strip()
                     if package_name
@@ -668,6 +676,7 @@ def chat():
 
         # FIXED: Stream response with proper word-by-word streaming
         def generate():
+            print("Generate Function Called!!")
             full_response = []
             start_time = time.time()
 
@@ -729,14 +738,16 @@ def chat():
 
             # Update memory in a separate thread to avoid context issues
             def update_memory():
+
+                print("Update Memory Function Called!!")
                 try:
                     # Use Flask's test request context for memory update
                     with app.test_request_context():
                         # Simulate session for memory update
-                        from flask import session as test_session
+                        # from flask import session as test_session
 
                         if hasattr(thread_local, "chat_memory"):
-                            test_session["chat_memory"] = thread_local.chat_memory
+                            session["chat_memory"] = thread_local.chat_memory
 
                         memory_manager.add_exchange(
                             user_input, complete_response, primary_category
@@ -866,4 +877,4 @@ def not_found(error):
 
 if __name__ == "__main__":
     logger.info("Starting JazzBot Flask application...")
-    app.run(debug=True, host="0.0.0.0", port=6069)
+    app.run(debug=True, host="0.0.0.0", port=6061)

@@ -1,0 +1,6 @@
+Question: yes
+Response: Hello! I'm JazzBot, your helpful assistant for Jazz Telecom Pakistan. 
+
+I can provide information on our offers and packages. For B2C customers, we have the Daily YouTube bundle offer. You can subscribe to this package by dialing 968# or 1145#. To unsubscribe, dial 9684# or 11454#. Would you like more details?
+Category: Unknown
+Timestamp: 2025-06-05T01:13:44.231281

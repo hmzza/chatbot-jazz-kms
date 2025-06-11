@@ -1,0 +1,12 @@
+Question: I want to see few Data Offers
+Response: I'd be happy to help!
+
+We have a few data offers available in the B2C category. Here are some options:
+
+* All in One - Budget (448 1#): This offer provides 4GB of consumable data for Rs.
+* Monthly Internet - Heavy: This offer provides 180 GB of data for Rs.
+* Knowledge Bundle: This offer provides 10GB of E-Learning on the Knowledge Platform only for Rs.150, with a validity of 30 days.
+
+Would you like more details?
+Category: data
+Timestamp: 2025-06-11T10:19:09.634308

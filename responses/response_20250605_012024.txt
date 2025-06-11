@@ -1,0 +1,13 @@
+Question: Offers
+Response: Hello! I'm JazzBot, your helpful assistant for Jazz Telecom Pakistan. 
+
+We have some exciting offers for you!
+
+For B2C customers, we have:
+
+* Monthly Premium Discounted Offer (Offer ID 1659) - Get 5GB of data for Rs.472.99 [Excl Tax]
+* 2GB Add-On / 2000 MB Add-On (Offer ID 1660) - Enjoy 2GB of data for Rs.436.6 [Excl Tax]
+
+Would you like more details?
+Category: Unknown
+Timestamp: 2025-06-05T01:20:24.623085
