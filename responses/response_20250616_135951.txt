@@ -1,0 +1,4 @@
+Question: Can you tell me about the news?
+Response: I'm happy to help! However, I don't have any information about news in my knowledge base. It seems that my training data only includes information about Jazz Telecom Pakistan packages (B2C). If you're looking for news-related information, I'd be happy to try and find it for you or suggest some reliable sources where you can get the latest updates!
+Category: Unknown
+Timestamp: 2025-06-16T13:59:51.789280

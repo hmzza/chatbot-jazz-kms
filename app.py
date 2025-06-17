@@ -29,6 +29,36 @@ import logging
 from typing import List, Dict, Optional, Tuple
 from dataclasses import dataclass
 import threading
+# from googletrans_new import Translator
+from indicnlp.transliterate.unicode_transliterate import ItransTransliterator
+from translatepy import Translator
+
+from langdetect import detect, DetectorFactory
+import re
+
+DetectorFactory.seed = 0  # Ensures reproducibility for langdetect
+
+
+# Configure Indic NLP resources path
+from indicnlp import common
+common.set_resources_path('/path-to-indic-nlp-resources')  # Replace with your actual path
+
+# Initialize the translator
+translator = Translator()
+
+def translate_to_roman_urdu(text: str) -> str:
+    """Translate text to Urdu and convert it to Roman Urdu using Indic NLP."""
+    try:
+        # Translate text to Urdu
+        translated = translator.translate(text, "Urdu")
+        urdu_text = translated.result
+        
+        # Transliterate Urdu script to Roman script
+        roman_urdu = ItransTransliterator.to_itrans(urdu_text, 'ur')
+        return roman_urdu
+    except Exception as e:
+        print(f"Error: {e}")
+        return text  # Fallback to the original text
 
 # Configure logging
 logging.basicConfig(
@@ -241,15 +271,21 @@ class CategoryDetector:
 
     @classmethod
     def detect_categories(cls, query: str) -> List[str]:
-        """Detect multiple categories from query"""
+        """Detect multiple categories from the query"""
         query_lower = query.lower()
-        detected = []
+        detected_categories = []
 
+        # Match query against predefined keywords for categories
         for category, keywords in cls.CATEGORY_KEYWORDS.items():
             if any(keyword in query_lower for keyword in keywords):
-                detected.append(category)
+                detected_categories.append(category)
 
-        return detected
+        # Special check for Roman Urdu detection
+        if query_analyzer.is_roman_urdu(query):
+            detected_categories.append("Roman Urdu")
+
+        return detected_categories
+
 
     @classmethod
     def detect_primary_category(cls, query: str) -> Optional[str]:
@@ -269,9 +305,9 @@ class QueryAnalyzer:
     FOLLOWUP_PATTERNS = [
         r"^(yes|yeah|yep|sure|ok|okay)$",
         r"^(show\s+me\s+)?(more\s+)?(details?|info)",
-        r"^(tell\s+me\s+more|give\s+me\s+more)",
-        r"^(what\s+about|how\s+about)",
-        r"^(can\s+you\s+explain|explain\s+more)",
+        r"^(tell\s+me\s+more|give\s+me\s+more)$",
+        r"^(what\s+about|how\s+about)$",
+        r"^(can\s+you\s+explain|explain\s+more)$",
     ]
 
     PACKAGE_EXTRACTION_PATTERNS = [
@@ -279,6 +315,23 @@ class QueryAnalyzer:
         r"(facebook|youtube|whatsapp|instagram)\s+(?:premium\s+|daily\s+|weekly\s+|monthly\s+)?(?:offer|bundle|package)",
         r"(?:jazz\s+)?(super\s+card|smart\s+bundle)",
     ]
+
+    @staticmethod
+    def is_roman_urdu(text: str) -> bool:
+        try:
+            lang = detect(text)
+            # If detected language is English, return False
+            if lang == "en":
+                return False
+            else:
+                return True  # Assume Roman Urdu if not English
+        except:
+            # Fallback logic for unclassifiable texts
+            roman_urdu_patterns = [
+                r"\b(kia|kaise|ker|mujhe|ap|mein|ka)\b",  # Common Roman Urdu words
+                r"[a-zA-Z]+(?![.])"  # Non-English, Roman script pattern
+            ]
+            return any(re.search(pattern, text.lower()) for pattern in roman_urdu_patterns)
 
     @classmethod
     def is_greeting(cls, query: str) -> bool:
@@ -307,8 +360,6 @@ class QueryAnalyzer:
             ]
         )
         return is_followup_pattern
-
-    # and has_details_offer
 
     @classmethod
     def extract_package_name(cls, text: str) -> Optional[str]:
@@ -344,6 +395,22 @@ CORE PRINCIPLES:
 - Use bullet points for detailed information
 - Don't make up information if not in the knowledge base"""
 
+        # Handle Roman Urdu detection
+        if query_analyzer.is_roman_urdu(user_input):
+            return f"""{base_instructions}
+
+CONVERSATION HISTORY:
+{memory_context}
+
+SITUATION: Roman Urdu query detected.
+
+INSTRUCTIONS:
+- Respond in Roman Urdu instead of English.
+- Provide concise information, just like in English.
+
+USER REQUEST: {user_input}"""
+
+        # Handle follow-up with package name
         if is_followup and package_name:
             return f"""{base_instructions}
 
@@ -553,7 +620,7 @@ def index():
 
 @app.route("/chat", methods=["POST"])
 def chat():
-    """Enhanced chat endpoint with FIXED streaming for typing effect"""
+    """Enhanced chat endpoint with Roman Urdu support and improved streaming"""
     try:
         print("Chat Function Called!!")
         data = request.get_json()
@@ -576,7 +643,6 @@ def chat():
 
         logger.info(f"Processing query: {user_input}")
 
-        # Copy session data to thread local before streaming
         try:
             if "chat_memory" in session:
                 thread_local.chat_memory = session["chat_memory"].copy()
@@ -585,18 +651,17 @@ def chat():
         except:
             thread_local.chat_memory = []
 
-        # Analyze query
         is_greeting = query_analyzer.is_greeting(user_input)
+        is_roman_urdu = query_analyzer.is_roman_urdu(user_input)
         last_response = memory_manager.get_last_response()
         is_followup = query_analyzer.is_followup(user_input, last_response)
         detected_categories = category_detector.detect_categories(user_input)
         primary_category = detected_categories[0] if detected_categories else None
 
         logger.info(
-            f"Query analysis - Greeting: {is_greeting}, Follow-up: {is_followup}, Categories: {detected_categories}"
+            f"Query analysis - Greeting: {is_greeting}, Roman Urdu: {is_roman_urdu}, Follow-up: {is_followup}, Categories: {detected_categories}"
         )
 
-        # Handle greeting with streaming effect
         if is_greeting:
             response = "Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
 
@@ -607,38 +672,30 @@ def chat():
                         yield word
                     else:
                         yield f" {word}"
-                    time.sleep(0.05)  # Small delay for typing effect
-                # Update memory after streaming
+                    time.sleep(0.05)
                 memory_manager.add_exchange(user_input, response, None)
 
             return Response(stream_greeting(), mimetype="text/plain")
 
-        # Document retrieval
         docs = []
         package_name = None
 
         try:
             if is_followup:
                 package_name = query_analyzer.extract_package_name(last_response)
-                print(last_response)
                 search_query = (
                     f"{package_name} {primary_category or ''}".strip()
                     if package_name
                     else user_input
                 )
-                logger.info(f"Follow-up search for package: {package_name}")
             else:
                 search_query = user_input
 
-            # Enhanced search
             docs = vectorstore.similarity_search(search_query, k=config.SEARCH_K)
-
-            # Filter out discontinued offers
             docs = [
                 doc for doc in docs if "discontinued" not in doc.page_content.lower()
             ]
 
-            # For follow-ups, ensure package name match
             if is_followup and package_name:
                 docs = [
                     doc
@@ -646,13 +703,10 @@ def chat():
                     if package_name.lower() in doc.page_content.lower()
                 ]
 
-            logger.info(f"Retrieved {len(docs)} relevant documents")
-
         except Exception as e:
             logger.error(f"Search error: {e}")
             docs = []
 
-        # Build context
         context_parts = []
         for doc in docs:
             if doc.page_content.strip():
@@ -662,7 +716,6 @@ def chat():
         context = "\n\n".join(context_parts)
         memory_context = memory_manager.get_context_string()
 
-        # Generate prompt
         prompt = prompt_engine.build_context_prompt(
             context=context,
             memory_context=memory_context,
@@ -674,78 +727,66 @@ def chat():
 
         logger.info(f"Generated prompt length: {len(prompt)} characters")
 
-        # FIXED: Stream response with proper word-by-word streaming
         def generate():
             print("Generate Function Called!!")
             full_response = []
             start_time = time.time()
 
             try:
-                # Try to use streaming if available
                 try:
-                    # Check if the LLM supports streaming
                     if hasattr(llm, "stream"):
-                        logger.info("Using LLM streaming")
                         for chunk in llm.stream(prompt):
                             if chunk:
                                 full_response.append(chunk)
                                 yield chunk
-                                time.sleep(0.02)  # Small delay for better typing effect
+                                time.sleep(0.02)
                     else:
-                        # Fallback: Get full response and simulate streaming
-                        logger.info(
-                            "Simulating streaming (LLM doesn't support native streaming)"
-                        )
                         response = llm.invoke(prompt)
                         full_response.append(response)
-
-                        # Stream word by word for typing effect
                         words = response.split()
                         for i, word in enumerate(words):
                             if i == 0:
                                 yield word
                             else:
                                 yield f" {word}"
-                            time.sleep(0.08)  # Typing effect delay
+                            time.sleep(0.08)
 
                 except Exception as stream_error:
                     logger.warning(f"Streaming failed, using invoke: {stream_error}")
-                    # Final fallback: use invoke and simulate streaming
                     response = llm.invoke(prompt)
                     full_response.append(response)
 
-                    # Stream character by character for better typing effect
                     for char in response:
                         yield char
                         if char in [" ", ".", "!", "?", "\n"]:
-                            time.sleep(0.05)  # Pause at word/sentence boundaries
+                            time.sleep(0.05)
                         else:
-                            time.sleep(0.01)  # Regular typing speed
+                            time.sleep(0.01)
 
             except Exception as e:
                 logger.error(f"Error in generation: {e}")
                 error_msg = "I apologize, but I encountered an error processing your request. Please try again."
                 full_response = [error_msg]
-
-                # Stream error message
                 for char in error_msg:
                     yield char
                     time.sleep(0.03)
                 return
 
-            # Post-processing - this happens after streaming completes
             complete_response = "".join(full_response).strip()
+            roman_urdu_translation = ""
 
-            # Update memory in a separate thread to avoid context issues
-            def update_memory():
-
-                print("Update Memory Function Called!!")
+            if query_analyzer.is_roman_urdu(user_input):
                 try:
-                    # Use Flask's test request context for memory update
-                    with app.test_request_context():
-                        # Simulate session for memory update
-                        # from flask import session as test_session
+                    roman_urdu_translation = translate_to_roman_urdu(complete_response)
+                except Exception as translation_error:
+                    logger.error(f"Error during translation: {translation_error}")
 
+            if roman_urdu_translation:
+                yield f"\n\nTranslation (Roman Urdu): {roman_urdu_translation}"
+
+            def update_memory():
+                try:
+                    with app.test_request_context():
                         if hasattr(thread_local, "chat_memory"):
                             session["chat_memory"] = thread_local.chat_memory
 
@@ -753,20 +794,15 @@ def chat():
                             user_input, complete_response, primary_category
                         )
                         save_response(user_input, complete_response, primary_category)
-                        logger.info(
-                            f"Generated response length: {len(complete_response)} characters"
-                        )
                 except Exception as e:
                     logger.error(f"Error updating memory: {e}")
 
-            # Run memory update in background
             threading.Thread(target=update_memory, daemon=True).start()
 
         return Response(generate(), mimetype="text/plain")
 
     except Exception as e:
         logger.error(f"Chat error: {e}")
-        # Stream error message for consistency
         error_msg = (
             "I apologize, but I encountered an unexpected error. Please try again."
         )
@@ -781,7 +817,7 @@ def chat():
 
 @app.route("/admin/upload", methods=["POST"])
 def admin_upload():
-    """Enhanced admin upload endpoint"""
+    """Enhanced admin upload endpoint with Roman Urdu support"""
     global vectorstore, embeddings
 
     try:
@@ -807,6 +843,20 @@ def admin_upload():
 
         logger.info(f"File uploaded: {file_path}")
 
+        # Special handling for Roman Urdu category
+        if category.lower() == "roman urdu":
+            logger.info("Processing Roman Urdu content")
+            with open(file_path, "r", encoding="utf-8") as f:
+                content = f.read()
+
+            # Add preprocessing for Roman Urdu if required (e.g., normalization)
+            content = preprocess_roman_urdu(content)
+
+            # Save the preprocessed file
+            with open(file_path, "w", encoding="utf-8") as f:
+                f.write(content)
+            logger.info("Roman Urdu preprocessing complete")
+
         # Rebuild index
         if os.path.exists(config.INDEX_PATH):
             import shutil
@@ -830,6 +880,26 @@ def admin_upload():
     except Exception as e:
         logger.error(f"Upload error: {e}")
         return Response(f"Upload failed: {str(e)}", status=500)
+
+
+def preprocess_roman_urdu(content: str) -> str:
+    """
+    Normalize Roman Urdu text by handling common inconsistencies or typos.
+    Placeholder for further text cleaning or processing logic.
+    """
+    # Example normalization steps
+    replacements = {
+        "krdo": "kar do",
+        "acha": "acha",
+        "theek": "thik",
+        "han": "haan",
+        "nai": "nahi",
+        # Add more mappings as needed
+    }
+
+    for key, value in replacements.items():
+        content = content.replace(key, value)
+    return content
 
 
 @app.route("/admin/clear_memory", methods=["POST"])

@@ -3755,3 +3755,1820 @@ NameError: name 'Ollama' is not defined
 2025-06-11 10:19:22,498 - INFO - 127.0.0.1 - - [11/Jun/2025 10:19:22] "POST /chat HTTP/1.1" 200 -
 2025-06-11 10:19:25,925 - INFO - Added to memory: Q='I want to see some Packages...', Category=whatsapp
 2025-06-11 10:19:25,925 - INFO - Generated response length: 285 characters
+2025-06-12 14:22:44,681 - INFO - Initializing JazzBot...
+2025-06-12 14:22:44,748 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-12 14:22:44,820 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-12 14:22:44,888 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-12 14:22:44,898 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-12 14:22:44,906 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-12 14:22:44,917 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-12 14:22:44,926 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-12 14:22:44,936 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-12 14:22:44,949 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-12 14:22:44,962 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-12 14:22:44,962 - INFO - Total documents loaded: 10
+2025-06-12 14:22:45,053 - INFO - Created 4086 chunks from 10 documents
+2025-06-12 14:23:27,014 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-12 14:23:38,547 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-12 14:23:50,671 - INFO - Building new FAISS index...
+2025-06-12 14:25:50,537 - INFO - Loading faiss with AVX2 support.
+2025-06-12 14:25:51,184 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-12 14:25:51,235 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 14:25:51,436 - INFO - FAISS index built and saved successfully
+2025-06-12 14:25:51,438 - INFO - Vectorstore initialized successfully
+2025-06-12 14:25:51,490 - INFO - LLM initialized successfully
+2025-06-12 14:25:51,496 - INFO - Starting JazzBot Flask application...
+2025-06-12 14:25:51,707 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://192.168.245.176:6061
+2025-06-12 14:25:51,708 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-12 14:25:51,721 - INFO -  * Restarting with stat
+2025-06-12 14:25:53,967 - INFO - Initializing JazzBot...
+2025-06-12 14:25:54,018 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-12 14:25:54,081 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-12 14:25:54,140 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-12 14:25:54,141 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-12 14:25:54,141 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-12 14:25:54,142 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-12 14:25:54,143 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-12 14:25:54,144 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-12 14:25:54,147 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-12 14:25:54,152 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-12 14:25:54,153 - INFO - Total documents loaded: 10
+2025-06-12 14:25:54,249 - INFO - Created 4086 chunks from 10 documents
+2025-06-12 14:26:02,983 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-12 14:26:09,121 - INFO - Reusing existing FAISS index
+2025-06-12 14:26:09,124 - INFO - Loading faiss with AVX2 support.
+2025-06-12 14:26:09,147 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-12 14:26:09,153 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 14:26:09,200 - INFO - Vectorstore initialized successfully
+2025-06-12 14:26:09,204 - INFO - LLM initialized successfully
+2025-06-12 14:26:09,206 - INFO - Starting JazzBot Flask application...
+2025-06-12 14:26:09,216 - WARNING -  * Debugger is active!
+2025-06-12 14:26:09,236 - INFO -  * Debugger PIN: 298-878-916
+2025-06-12 14:27:39,869 - INFO - 127.0.0.1 - - [12/Jun/2025 14:27:39] "GET / HTTP/1.1" 200 -
+2025-06-12 14:27:40,224 - INFO - 127.0.0.1 - - [12/Jun/2025 14:27:40] "GET /static/chatbot.css HTTP/1.1" 200 -
+2025-06-12 14:27:40,278 - INFO - 127.0.0.1 - - [12/Jun/2025 14:27:40] "GET /static/chatbot.js HTTP/1.1" 200 -
+2025-06-12 14:27:40,923 - INFO - 127.0.0.1 - - [12/Jun/2025 14:27:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-12 14:27:41,188 - INFO - 127.0.0.1 - - [12/Jun/2025 14:27:41] "GET /static/assets/Jazz-Company-logo-.png HTTP/1.1" 200 -
+2025-06-12 14:27:52,538 - INFO - Processing query: Hello, what can u help me with
+2025-06-12 14:27:52,540 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-06-12 14:27:52,612 - INFO - Retrieved 6 relevant documents
+2025-06-12 14:27:52,612 - INFO - Generated prompt length: 3721 characters
+2025-06-12 14:27:52,613 - INFO - Using LLM streaming
+2025-06-12 14:27:54,775 - WARNING - Streaming failed, using invoke: Ollama call failed with status code 404. Maybe your model is not found and you should pull the model with `ollama pull llama3`.
+2025-06-12 14:27:56,796 - ERROR - Error in generation: Ollama call failed with status code 404. Maybe your model is not found and you should pull the model with `ollama pull llama3`.
+2025-06-12 14:27:56,796 - INFO - 127.0.0.1 - - [12/Jun/2025 14:27:56] "POST /chat HTTP/1.1" 200 -
+2025-06-12 14:28:20,678 - INFO - Processing query: Hello
+2025-06-12 14:28:20,679 - INFO - Query analysis - Greeting: True, Follow-up: False, Categories: []
+2025-06-12 14:28:20,679 - INFO - 127.0.0.1 - - [12/Jun/2025 14:28:20] "POST /chat HTTP/1.1" 200 -
+2025-06-12 14:28:21,389 - INFO - Added to memory: Q='Hello...', Category=None
+2025-06-12 14:28:29,778 - INFO - Processing query: What can you help me
+2025-06-12 14:28:29,778 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-06-12 14:28:29,791 - INFO - Retrieved 6 relevant documents
+2025-06-12 14:28:29,792 - INFO - Generated prompt length: 4216 characters
+2025-06-12 14:28:29,792 - INFO - Using LLM streaming
+2025-06-12 14:28:31,911 - WARNING - Streaming failed, using invoke: Ollama call failed with status code 404. Maybe your model is not found and you should pull the model with `ollama pull llama3`.
+2025-06-12 14:28:33,954 - ERROR - Error in generation: Ollama call failed with status code 404. Maybe your model is not found and you should pull the model with `ollama pull llama3`.
+2025-06-12 14:28:33,955 - INFO - 127.0.0.1 - - [12/Jun/2025 14:28:33] "POST /chat HTTP/1.1" 200 -
+2025-06-12 14:28:41,824 - INFO - Processing query: Suggest youtube offer
+2025-06-12 14:28:41,825 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: ['youtube']
+2025-06-12 14:28:41,935 - INFO - Retrieved 1 relevant documents
+2025-06-12 14:28:41,936 - INFO - Generated prompt length: 1402 characters
+2025-06-12 14:28:41,936 - INFO - Using LLM streaming
+2025-06-12 14:28:43,949 - WARNING - Streaming failed, using invoke: Ollama call failed with status code 404. Maybe your model is not found and you should pull the model with `ollama pull llama3`.
+2025-06-12 14:28:45,968 - ERROR - Error in generation: Ollama call failed with status code 404. Maybe your model is not found and you should pull the model with `ollama pull llama3`.
+2025-06-12 14:28:45,968 - INFO - 127.0.0.1 - - [12/Jun/2025 14:28:45] "POST /chat HTTP/1.1" 200 -
+2025-06-12 14:34:26,523 - INFO - Initializing JazzBot...
+2025-06-12 14:34:26,571 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-12 14:34:26,631 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-12 14:34:26,686 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-12 14:34:26,688 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-12 14:34:26,688 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-12 14:34:26,690 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-12 14:34:26,691 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-12 14:34:26,692 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-12 14:34:26,695 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-12 14:34:26,699 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-12 14:34:26,699 - INFO - Total documents loaded: 10
+2025-06-12 14:34:26,790 - INFO - Created 4086 chunks from 10 documents
+2025-06-12 14:34:34,520 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-12 14:34:39,984 - INFO - Building new FAISS index...
+2025-06-12 14:36:33,630 - INFO - Loading faiss with AVX2 support.
+2025-06-12 14:36:33,660 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-12 14:36:33,668 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 14:36:33,801 - INFO - FAISS index built and saved successfully
+2025-06-12 14:36:33,803 - INFO - Vectorstore initialized successfully
+2025-06-12 14:36:33,811 - INFO - LLM initialized successfully
+2025-06-12 14:36:33,813 - INFO - Starting JazzBot Flask application...
+2025-06-12 14:36:33,843 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://192.168.245.176:6061
+2025-06-12 14:36:33,843 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-12 14:36:33,845 - INFO -  * Restarting with stat
+2025-06-12 14:36:35,694 - INFO - Initializing JazzBot...
+2025-06-12 14:36:35,774 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-12 14:36:35,875 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-12 14:36:35,970 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-12 14:36:35,971 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-12 14:36:35,972 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-12 14:36:35,973 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-12 14:36:35,974 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-12 14:36:35,976 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-12 14:36:35,980 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-12 14:36:35,986 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-12 14:36:35,987 - INFO - Total documents loaded: 10
+2025-06-12 14:36:36,136 - INFO - Created 4086 chunks from 10 documents
+2025-06-12 14:36:41,880 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-12 14:36:47,605 - INFO - Reusing existing FAISS index
+2025-06-12 14:36:47,608 - INFO - Loading faiss with AVX2 support.
+2025-06-12 14:36:47,630 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-12 14:36:47,638 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 14:36:47,681 - INFO - Vectorstore initialized successfully
+2025-06-12 14:36:47,685 - INFO - LLM initialized successfully
+2025-06-12 14:36:47,687 - INFO - Starting JazzBot Flask application...
+2025-06-12 14:36:47,696 - WARNING -  * Debugger is active!
+2025-06-12 14:36:47,705 - INFO -  * Debugger PIN: 298-878-916
+2025-06-12 14:37:11,314 - INFO - 127.0.0.1 - - [12/Jun/2025 14:37:11] "GET / HTTP/1.1" 200 -
+2025-06-12 14:37:11,633 - INFO - 127.0.0.1 - - [12/Jun/2025 14:37:11] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-12 14:37:11,651 - INFO - 127.0.0.1 - - [12/Jun/2025 14:37:11] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-12 14:37:12,200 - INFO - 127.0.0.1 - - [12/Jun/2025 14:37:12] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-12 14:37:16,450 - INFO - Processing query: hi
+2025-06-12 14:37:16,451 - INFO - Query analysis - Greeting: True, Follow-up: False, Categories: []
+2025-06-12 14:37:16,452 - INFO - 127.0.0.1 - - [12/Jun/2025 14:37:16] "POST /chat HTTP/1.1" 200 -
+2025-06-12 14:37:17,161 - INFO - Added to memory: Q='hi...', Category=None
+2025-06-12 14:38:02,013 - INFO - Processing query: suggest some youtube offers
+2025-06-12 14:38:02,014 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: ['youtube']
+2025-06-12 14:38:02,155 - INFO - Retrieved 1 relevant documents
+2025-06-12 14:38:02,155 - INFO - Generated prompt length: 1408 characters
+2025-06-12 14:38:02,155 - INFO - Using LLM streaming
+2025-06-12 14:38:04,277 - WARNING - Streaming failed, using invoke: Ollama call failed with status code 404. Maybe your model is not found and you should pull the model with `ollama pull llama3`.
+2025-06-12 14:38:06,410 - ERROR - Error in generation: Ollama call failed with status code 404. Maybe your model is not found and you should pull the model with `ollama pull llama3`.
+2025-06-12 14:38:06,410 - INFO - 127.0.0.1 - - [12/Jun/2025 14:38:06] "POST /chat HTTP/1.1" 200 -
+2025-06-12 14:39:18,192 - INFO - Initializing JazzBot...
+2025-06-12 14:39:18,242 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-12 14:39:18,303 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-12 14:39:18,361 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-12 14:39:18,361 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-12 14:39:18,362 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-12 14:39:18,363 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-12 14:39:18,364 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-12 14:39:18,365 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-12 14:39:18,367 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-12 14:39:18,370 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-12 14:39:18,370 - INFO - Total documents loaded: 10
+2025-06-12 14:39:18,459 - INFO - Created 4086 chunks from 10 documents
+2025-06-12 14:39:24,050 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-12 14:39:28,641 - INFO - Reusing existing FAISS index
+2025-06-12 14:39:28,644 - INFO - Loading faiss with AVX2 support.
+2025-06-12 14:39:28,663 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-12 14:39:28,670 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 14:39:28,770 - INFO - Vectorstore initialized successfully
+2025-06-12 14:39:28,774 - INFO - LLM initialized successfully
+2025-06-12 14:39:28,776 - INFO - Starting JazzBot Flask application...
+2025-06-12 14:39:28,791 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://192.168.245.176:6061
+2025-06-12 14:39:28,792 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-12 14:39:28,793 - INFO -  * Restarting with stat
+2025-06-12 14:39:30,225 - INFO - Initializing JazzBot...
+2025-06-12 14:39:30,275 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-12 14:39:30,338 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-12 14:39:30,399 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-12 14:39:30,400 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-12 14:39:30,401 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-12 14:39:30,402 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-12 14:39:30,403 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-12 14:39:30,404 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-12 14:39:30,406 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-12 14:39:30,410 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-12 14:39:30,410 - INFO - Total documents loaded: 10
+2025-06-12 14:39:30,498 - INFO - Created 4086 chunks from 10 documents
+2025-06-12 14:39:36,201 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-12 14:39:41,878 - INFO - Reusing existing FAISS index
+2025-06-12 14:39:41,881 - INFO - Loading faiss with AVX2 support.
+2025-06-12 14:39:41,904 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-12 14:39:41,910 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-12 14:39:41,936 - INFO - Vectorstore initialized successfully
+2025-06-12 14:39:41,940 - INFO - LLM initialized successfully
+2025-06-12 14:39:41,942 - INFO - Starting JazzBot Flask application...
+2025-06-12 14:39:41,954 - WARNING -  * Debugger is active!
+2025-06-12 14:39:41,962 - INFO -  * Debugger PIN: 298-878-916
+2025-06-12 14:39:50,060 - INFO - 127.0.0.1 - - [12/Jun/2025 14:39:50] "GET / HTTP/1.1" 200 -
+2025-06-12 14:39:50,373 - INFO - 127.0.0.1 - - [12/Jun/2025 14:39:50] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-12 14:39:50,380 - INFO - 127.0.0.1 - - [12/Jun/2025 14:39:50] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-12 14:39:50,934 - INFO - 127.0.0.1 - - [12/Jun/2025 14:39:50] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-12 14:39:58,711 - INFO - Processing query: hi
+2025-06-12 14:39:58,713 - INFO - Query analysis - Greeting: True, Follow-up: False, Categories: []
+2025-06-12 14:39:58,714 - INFO - 127.0.0.1 - - [12/Jun/2025 14:39:58] "POST /chat HTTP/1.1" 200 -
+2025-06-12 14:39:59,423 - INFO - Added to memory: Q='hi...', Category=None
+2025-06-12 14:40:10,165 - INFO - Processing query: suggest some youtube  offers
+2025-06-12 14:40:10,166 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: ['youtube']
+2025-06-12 14:40:10,201 - INFO - Retrieved 1 relevant documents
+2025-06-12 14:40:10,201 - INFO - Generated prompt length: 1409 characters
+2025-06-12 14:40:10,202 - INFO - Using LLM streaming
+2025-06-12 14:40:37,451 - WARNING - Streaming failed, using invoke: Ollama call failed with status code 500. Details: {"error":"llama runner process has terminated: cudaMalloc failed: out of memory"}
+2025-06-12 14:41:24,241 - INFO - 127.0.0.1 - - [12/Jun/2025 14:41:24] "POST /chat HTTP/1.1" 200 -
+2025-06-12 14:41:30,395 - INFO - Added to memory: Q='suggest some youtube  offers...', Category=youtube
+2025-06-12 14:41:30,399 - INFO - Generated response length: 304 characters
+2025-06-12 14:41:43,703 - INFO - Processing query: suggest snapchat offer
+2025-06-12 14:41:43,706 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-06-12 14:41:44,199 - INFO - Retrieved 6 relevant documents
+2025-06-12 14:41:44,201 - INFO - Generated prompt length: 2529 characters
+2025-06-12 14:41:44,202 - INFO - Using LLM streaming
+2025-06-12 14:41:51,961 - INFO - 127.0.0.1 - - [12/Jun/2025 14:41:51] "POST /chat HTTP/1.1" 200 -
+2025-06-12 14:42:20,344 - INFO - Added to memory: Q='suggest snapchat offer...', Category=None
+2025-06-12 14:42:20,349 - INFO - Generated response length: 143 characters
+2025-06-12 14:44:52,494 - INFO - Processing query: hello
+2025-06-12 14:44:52,582 - INFO - Query analysis - Greeting: True, Follow-up: False, Categories: []
+2025-06-12 14:44:52,582 - INFO - 127.0.0.1 - - [12/Jun/2025 14:44:52] "POST /chat HTTP/1.1" 200 -
+2025-06-12 14:44:53,291 - INFO - Added to memory: Q='hello...', Category=None
+2025-06-12 14:44:56,368 - INFO - Processing query: I want to see few Offers
+2025-06-12 14:44:56,368 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: ['whatsapp']
+2025-06-12 14:44:56,485 - INFO - Retrieved 6 relevant documents
+2025-06-12 14:44:56,487 - INFO - Generated prompt length: 4529 characters
+2025-06-12 14:44:56,488 - INFO - Using LLM streaming
+2025-06-12 14:45:32,714 - INFO - 127.0.0.1 - - [12/Jun/2025 14:45:32] "POST /chat HTTP/1.1" 200 -
+2025-06-12 14:46:21,825 - INFO - Added to memory: Q='I want to see few Offers...', Category=whatsapp
+2025-06-12 14:46:21,828 - INFO - Generated response length: 374 characters
+2025-06-12 14:49:47,533 - INFO - Processing query: what can u help me with
+2025-06-12 14:49:47,535 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-06-12 14:49:48,023 - INFO - Retrieved 6 relevant documents
+2025-06-12 14:49:48,027 - INFO - Generated prompt length: 3434 characters
+2025-06-12 14:49:48,028 - INFO - Using LLM streaming
+2025-06-12 14:49:57,171 - INFO - 127.0.0.1 - - [12/Jun/2025 14:49:57] "POST /chat HTTP/1.1" 200 -
+2025-06-16 13:53:51,343 - INFO - Initializing JazzBot...
+2025-06-16 13:53:51,406 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 13:53:51,481 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 13:53:51,548 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 13:53:51,562 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 13:53:51,574 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 13:53:51,589 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 13:53:51,606 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 13:53:51,618 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 13:53:51,642 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 13:53:51,658 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 13:53:51,658 - INFO - Total documents loaded: 10
+2025-06-16 13:53:51,751 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 13:54:44,413 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 13:54:56,070 - INFO - Reusing existing FAISS index
+2025-06-16 13:54:56,099 - INFO - Loading faiss with AVX2 support.
+2025-06-16 13:54:56,601 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 13:54:56,636 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 13:54:56,692 - INFO - Vectorstore initialized successfully
+2025-06-16 13:54:56,738 - INFO - LLM initialized successfully
+2025-06-16 13:54:56,741 - INFO - Starting JazzBot Flask application...
+2025-06-16 13:54:56,967 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://192.168.248.129:6061
+2025-06-16 13:54:56,967 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-16 13:54:56,979 - INFO -  * Restarting with stat
+2025-06-16 13:54:59,095 - INFO - Initializing JazzBot...
+2025-06-16 13:54:59,146 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 13:54:59,208 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 13:54:59,266 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 13:54:59,266 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 13:54:59,267 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 13:54:59,268 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 13:54:59,269 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 13:54:59,270 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 13:54:59,272 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 13:54:59,276 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 13:54:59,277 - INFO - Total documents loaded: 10
+2025-06-16 13:54:59,414 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 13:55:08,373 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 13:55:15,097 - INFO - Reusing existing FAISS index
+2025-06-16 13:55:15,101 - INFO - Loading faiss with AVX2 support.
+2025-06-16 13:55:15,140 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 13:55:15,151 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 13:55:15,197 - INFO - Vectorstore initialized successfully
+2025-06-16 13:55:15,206 - INFO - LLM initialized successfully
+2025-06-16 13:55:15,209 - INFO - Starting JazzBot Flask application...
+2025-06-16 13:55:15,230 - WARNING -  * Debugger is active!
+2025-06-16 13:55:15,248 - INFO -  * Debugger PIN: 298-878-916
+2025-06-16 13:55:20,446 - INFO - 127.0.0.1 - - [16/Jun/2025 13:55:20] "GET / HTTP/1.1" 200 -
+2025-06-16 13:55:21,767 - INFO - 127.0.0.1 - - [16/Jun/2025 13:55:21] "GET /static/chatbot.css HTTP/1.1" 200 -
+2025-06-16 13:55:21,899 - INFO - 127.0.0.1 - - [16/Jun/2025 13:55:21] "GET /static/chatbot.js HTTP/1.1" 200 -
+2025-06-16 13:55:22,706 - INFO - 127.0.0.1 - - [16/Jun/2025 13:55:22] "GET /static/assets/Jazz-Company-logo-.png HTTP/1.1" 200 -
+2025-06-16 13:55:22,840 - INFO - 127.0.0.1 - - [16/Jun/2025 13:55:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-16 13:55:32,633 - INFO - Processing query: hello, what can you help me with?
+2025-06-16 13:55:32,638 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-06-16 13:55:33,091 - INFO - Retrieved 6 relevant documents
+2025-06-16 13:55:33,092 - INFO - Generated prompt length: 4169 characters
+2025-06-16 13:55:33,093 - INFO - Using LLM streaming
+2025-06-16 13:55:43,171 - INFO - 127.0.0.1 - - [16/Jun/2025 13:55:43] "POST /chat HTTP/1.1" 200 -
+2025-06-16 13:56:27,683 - INFO - Processing query: Kia ap meri madad ker sakte hain?
+2025-06-16 13:56:27,685 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-06-16 13:56:28,030 - INFO - Retrieved 6 relevant documents
+2025-06-16 13:56:28,038 - INFO - Generated prompt length: 3583 characters
+2025-06-16 13:56:28,049 - INFO - Using LLM streaming
+2025-06-16 13:56:36,889 - INFO - 127.0.0.1 - - [16/Jun/2025 13:56:36] "POST /chat HTTP/1.1" 200 -
+2025-06-16 13:57:37,164 - INFO - Added to memory: Q='Kia ap meri madad ker sakte hain?...', Category=None
+2025-06-16 13:57:37,171 - INFO - Generated response length: 352 characters
+2025-06-16 13:57:48,022 - INFO - Processing query: kia ap mujhe khabron ke baray mein bta sakte hain?
+2025-06-16 13:57:48,040 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-06-16 13:57:48,048 - INFO - 127.0.0.1 - - [16/Jun/2025 13:57:48] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-16 13:57:48,683 - INFO - Retrieved 6 relevant documents
+2025-06-16 13:57:48,685 - INFO - Generated prompt length: 3762 characters
+2025-06-16 13:57:48,686 - INFO - Using LLM streaming
+2025-06-16 13:57:57,625 - INFO - 127.0.0.1 - - [16/Jun/2025 13:57:57] "POST /chat HTTP/1.1" 200 -
+2025-06-16 13:58:36,473 - INFO - Added to memory: Q='kia ap mujhe khabron ke baray mein bta sakte hain?...', Category=None
+2025-06-16 13:58:36,494 - INFO - Generated response length: 262 characters
+2025-06-16 13:58:53,742 - INFO - Processing query: Can you tell me about the news?
+2025-06-16 13:58:53,753 - INFO - Query analysis - Greeting: False, Follow-up: False, Categories: []
+2025-06-16 13:58:54,563 - INFO - Retrieved 6 relevant documents
+2025-06-16 13:58:54,566 - INFO - Generated prompt length: 3656 characters
+2025-06-16 13:58:54,574 - INFO - Using LLM streaming
+2025-06-16 13:59:04,190 - INFO - 127.0.0.1 - - [16/Jun/2025 13:59:04] "POST /chat HTTP/1.1" 200 -
+2025-06-16 13:59:51,771 - INFO - Added to memory: Q='Can you tell me about the news?...', Category=None
+2025-06-16 13:59:51,790 - INFO - Generated response length: 349 characters
+2025-06-16 14:38:38,671 - INFO - Initializing JazzBot...
+2025-06-16 14:38:38,729 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 14:38:38,801 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 14:38:38,861 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 14:38:38,863 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 14:38:38,866 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 14:38:38,867 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 14:38:38,869 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 14:38:38,871 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 14:38:38,874 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 14:38:38,879 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 14:38:38,879 - INFO - Total documents loaded: 10
+2025-06-16 14:38:38,982 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 14:38:41,622 - INFO - FakeTensor cache stats:
+2025-06-16 14:38:41,623 - INFO -   cache_hits: 0
+2025-06-16 14:38:41,623 - INFO -   cache_misses: 0
+2025-06-16 14:48:24,269 - INFO - Initializing JazzBot...
+2025-06-16 14:48:24,318 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 14:48:24,380 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 14:48:24,440 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 14:48:24,441 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 14:48:24,442 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 14:48:24,443 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 14:48:24,443 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 14:48:24,444 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 14:48:24,446 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 14:48:24,450 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 14:48:24,450 - INFO - Total documents loaded: 10
+2025-06-16 14:48:24,543 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 14:51:27,381 - INFO - Initializing JazzBot...
+2025-06-16 14:51:27,432 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 14:51:27,495 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 14:51:27,553 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 14:51:27,553 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 14:51:27,554 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 14:51:27,555 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 14:51:27,555 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 14:51:27,557 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 14:51:27,559 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 14:51:27,563 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 14:51:27,564 - INFO - Total documents loaded: 10
+2025-06-16 14:51:27,655 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 14:51:37,527 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 14:51:43,802 - INFO - Reusing existing FAISS index
+2025-06-16 14:51:43,808 - INFO - Loading faiss with AVX2 support.
+2025-06-16 14:51:43,923 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 14:51:43,931 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 14:51:43,960 - INFO - Vectorstore initialized successfully
+2025-06-16 14:51:43,967 - INFO - LLM initialized successfully
+2025-06-16 14:51:43,970 - INFO - Starting JazzBot Flask application...
+2025-06-16 14:51:43,999 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://192.168.248.129:6061
+2025-06-16 14:51:43,999 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-16 14:51:44,002 - INFO -  * Restarting with stat
+2025-06-16 14:51:45,618 - INFO - Initializing JazzBot...
+2025-06-16 14:51:45,667 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 14:51:45,728 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 14:51:45,786 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 14:51:45,786 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 14:51:45,787 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 14:51:45,788 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 14:51:45,788 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 14:51:45,789 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 14:51:45,791 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 14:51:45,795 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 14:51:45,795 - INFO - Total documents loaded: 10
+2025-06-16 14:51:45,887 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 14:51:51,851 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 14:51:56,815 - INFO - Reusing existing FAISS index
+2025-06-16 14:51:56,818 - INFO - Loading faiss with AVX2 support.
+2025-06-16 14:51:56,837 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 14:51:56,843 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 14:51:56,867 - INFO - Vectorstore initialized successfully
+2025-06-16 14:51:56,871 - INFO - LLM initialized successfully
+2025-06-16 14:51:56,873 - INFO - Starting JazzBot Flask application...
+2025-06-16 14:51:56,883 - WARNING -  * Debugger is active!
+2025-06-16 14:51:56,897 - INFO -  * Debugger PIN: 298-878-916
+2025-06-16 14:51:59,841 - INFO - 127.0.0.1 - - [16/Jun/2025 14:51:59] "GET / HTTP/1.1" 200 -
+2025-06-16 14:52:00,118 - INFO - 127.0.0.1 - - [16/Jun/2025 14:52:00] "GET /static/chatbot.css HTTP/1.1" 200 -
+2025-06-16 14:52:00,129 - INFO - 127.0.0.1 - - [16/Jun/2025 14:52:00] "GET /static/chatbot.js HTTP/1.1" 200 -
+2025-06-16 14:52:00,669 - INFO - 127.0.0.1 - - [16/Jun/2025 14:52:00] "GET /static/assets/Jazz-Company-logo-.png HTTP/1.1" 200 -
+2025-06-16 14:52:05,857 - INFO - Processing query: what can you help me with
+2025-06-16 14:52:05,859 - INFO - Query analysis - Greeting: False, Roman Urdu: False, Follow-up: False, Categories: []
+2025-06-16 14:52:06,226 - INFO - Retrieved 6 relevant documents
+2025-06-16 14:52:06,226 - INFO - Generated prompt length: 3630 characters
+2025-06-16 14:52:06,227 - INFO - Using LLM streaming
+2025-06-16 14:52:48,135 - INFO - 127.0.0.1 - - [16/Jun/2025 14:52:48] "POST /chat HTTP/1.1" 200 -
+2025-06-16 14:53:05,519 - INFO - Processing query: ap meri kia madad kersakte hain
+2025-06-16 14:53:05,524 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: []
+2025-06-16 14:53:06,123 - INFO - Retrieved 6 relevant documents
+2025-06-16 14:53:06,127 - INFO - Generated prompt length: 4141 characters
+2025-06-16 14:53:06,132 - INFO - Using LLM streaming
+2025-06-16 14:53:17,642 - INFO - 127.0.0.1 - - [16/Jun/2025 14:53:17] "POST /chat HTTP/1.1" 200 -
+2025-06-16 14:59:59,369 - INFO - Initializing JazzBot...
+2025-06-16 14:59:59,420 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 14:59:59,484 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 14:59:59,541 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 14:59:59,543 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 14:59:59,544 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 14:59:59,545 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 14:59:59,546 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 14:59:59,547 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 14:59:59,550 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 14:59:59,554 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 14:59:59,554 - INFO - Total documents loaded: 10
+2025-06-16 14:59:59,647 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 15:00:10,021 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 15:00:15,123 - INFO - Reusing existing FAISS index
+2025-06-16 15:00:15,128 - INFO - Loading faiss with AVX2 support.
+2025-06-16 15:00:15,252 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 15:00:15,262 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 15:00:15,289 - INFO - Vectorstore initialized successfully
+2025-06-16 15:00:15,296 - INFO - LLM initialized successfully
+2025-06-16 15:00:15,299 - INFO - Starting JazzBot Flask application...
+2025-06-16 15:00:15,331 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://192.168.248.129:6061
+2025-06-16 15:00:15,332 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-16 15:00:15,335 - INFO -  * Restarting with stat
+2025-06-16 15:00:16,854 - INFO - Initializing JazzBot...
+2025-06-16 15:00:16,914 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 15:00:16,990 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 15:00:17,053 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 15:00:17,054 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 15:00:17,054 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 15:00:17,055 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 15:00:17,056 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 15:00:17,057 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 15:00:17,058 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 15:00:17,062 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 15:00:17,063 - INFO - Total documents loaded: 10
+2025-06-16 15:00:17,160 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 15:00:23,370 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 15:00:28,057 - INFO - Reusing existing FAISS index
+2025-06-16 15:00:28,060 - INFO - Loading faiss with AVX2 support.
+2025-06-16 15:00:28,088 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 15:00:28,093 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 15:00:28,144 - INFO - Vectorstore initialized successfully
+2025-06-16 15:00:28,149 - INFO - LLM initialized successfully
+2025-06-16 15:00:28,154 - INFO - Starting JazzBot Flask application...
+2025-06-16 15:00:28,164 - WARNING -  * Debugger is active!
+2025-06-16 15:00:28,175 - INFO -  * Debugger PIN: 298-878-916
+2025-06-16 15:00:30,399 - INFO - 127.0.0.1 - - [16/Jun/2025 15:00:30] "GET / HTTP/1.1" 200 -
+2025-06-16 15:00:30,744 - INFO - 127.0.0.1 - - [16/Jun/2025 15:00:30] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-16 15:00:30,750 - INFO - 127.0.0.1 - - [16/Jun/2025 15:00:30] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-16 15:00:31,295 - INFO - 127.0.0.1 - - [16/Jun/2025 15:00:31] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-16 15:00:38,369 - INFO - Processing query: kia ap madad kersakte
+2025-06-16 15:00:38,371 - INFO - Query analysis - Greeting: False, Roman Urdu: False, Follow-up: False, Categories: []
+2025-06-16 15:00:38,636 - INFO - Retrieved 6 relevant documents
+2025-06-16 15:00:38,637 - INFO - Generated prompt length: 3762 characters
+2025-06-16 15:00:38,637 - INFO - Using LLM streaming
+2025-06-16 15:01:11,764 - INFO - 127.0.0.1 - - [16/Jun/2025 15:01:11] "POST /chat HTTP/1.1" 200 -
+2025-06-16 15:05:40,613 - INFO - Initializing JazzBot...
+2025-06-16 15:05:40,667 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 15:05:40,732 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 15:05:40,791 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 15:05:40,793 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 15:05:40,793 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 15:05:40,794 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 15:05:40,795 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 15:05:40,796 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 15:05:40,799 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 15:05:40,804 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 15:05:40,804 - INFO - Total documents loaded: 10
+2025-06-16 15:05:40,902 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 15:05:52,166 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 15:05:58,293 - INFO - Reusing existing FAISS index
+2025-06-16 15:05:58,298 - INFO - Loading faiss with AVX2 support.
+2025-06-16 15:05:58,444 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 15:05:58,456 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 15:05:58,491 - INFO - Vectorstore initialized successfully
+2025-06-16 15:05:58,503 - INFO - LLM initialized successfully
+2025-06-16 15:05:58,505 - INFO - Starting JazzBot Flask application...
+2025-06-16 15:05:58,548 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://192.168.248.129:6061
+2025-06-16 15:05:58,548 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-16 15:05:58,550 - INFO -  * Restarting with stat
+2025-06-16 15:06:00,932 - INFO - Initializing JazzBot...
+2025-06-16 15:06:00,986 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 15:06:01,050 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 15:06:01,107 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 15:06:01,108 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 15:06:01,108 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 15:06:01,109 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 15:06:01,110 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 15:06:01,111 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 15:06:01,113 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 15:06:01,118 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 15:06:01,118 - INFO - Total documents loaded: 10
+2025-06-16 15:06:01,216 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 15:06:11,232 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 15:06:16,864 - INFO - Reusing existing FAISS index
+2025-06-16 15:06:16,870 - INFO - Loading faiss with AVX2 support.
+2025-06-16 15:06:17,000 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 15:06:17,013 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 15:06:17,076 - INFO - Vectorstore initialized successfully
+2025-06-16 15:06:17,083 - INFO - LLM initialized successfully
+2025-06-16 15:06:17,088 - INFO - Starting JazzBot Flask application...
+2025-06-16 15:06:17,122 - WARNING -  * Debugger is active!
+2025-06-16 15:06:17,181 - INFO -  * Debugger PIN: 298-878-916
+2025-06-16 15:06:22,527 - INFO - 127.0.0.1 - - [16/Jun/2025 15:06:22] "GET / HTTP/1.1" 200 -
+2025-06-16 15:06:22,528 - INFO - 127.0.0.1 - - [16/Jun/2025 15:06:22] "GET / HTTP/1.1" 200 -
+2025-06-16 15:06:23,635 - INFO - 127.0.0.1 - - [16/Jun/2025 15:06:23] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-16 15:06:23,646 - INFO - 127.0.0.1 - - [16/Jun/2025 15:06:23] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-16 15:06:24,206 - INFO - 127.0.0.1 - - [16/Jun/2025 15:06:24] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-16 15:06:42,999 - INFO - Processing query: kia ap meri madad ker sakte
+2025-06-16 15:06:43,001 - INFO - Query analysis - Greeting: False, Roman Urdu: False, Follow-up: False, Categories: []
+2025-06-16 15:06:43,368 - INFO - Retrieved 6 relevant documents
+2025-06-16 15:06:43,368 - INFO - Generated prompt length: 3577 characters
+2025-06-16 15:06:43,369 - INFO - Using LLM streaming
+2025-06-16 15:07:11,341 - INFO - 127.0.0.1 - - [16/Jun/2025 15:07:11] "POST /chat HTTP/1.1" 200 -
+2025-06-16 15:07:34,970 - INFO - Processing query: Mujhe youtube offers ka btayein
+2025-06-16 15:07:34,978 - INFO - Query analysis - Greeting: False, Roman Urdu: False, Follow-up: False, Categories: ['youtube']
+2025-06-16 15:07:35,433 - INFO - Retrieved 1 relevant documents
+2025-06-16 15:07:35,434 - INFO - Generated prompt length: 1412 characters
+2025-06-16 15:07:35,441 - INFO - Using LLM streaming
+2025-06-16 15:07:39,616 - INFO - 127.0.0.1 - - [16/Jun/2025 15:07:39] "POST /chat HTTP/1.1" 200 -
+2025-06-16 15:08:13,480 - INFO - Added to memory: Q='Mujhe youtube offers ka btayein...', Category=youtube
+2025-06-16 15:08:13,543 - INFO - Generated response length: 261 characters
+2025-06-16 15:16:05,590 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-16 15:16:08,818 - INFO -  * Restarting with stat
+2025-06-16 15:16:16,333 - INFO - Initializing JazzBot...
+2025-06-16 15:16:16,394 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 15:16:16,466 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 15:16:16,533 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 15:16:16,541 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 15:16:16,551 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 15:16:16,560 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 15:16:16,569 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 15:16:16,579 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 15:16:16,591 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 15:16:16,605 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 15:16:16,606 - INFO - Total documents loaded: 10
+2025-06-16 15:16:16,700 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 15:17:13,270 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 15:17:22,866 - INFO - Reusing existing FAISS index
+2025-06-16 15:17:22,893 - INFO - Loading faiss with AVX2 support.
+2025-06-16 15:17:23,162 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 15:17:23,198 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 15:17:23,237 - INFO - Vectorstore initialized successfully
+2025-06-16 15:17:23,277 - INFO - LLM initialized successfully
+2025-06-16 15:17:23,278 - INFO - Starting JazzBot Flask application...
+2025-06-16 15:17:23,361 - WARNING -  * Debugger is active!
+2025-06-16 15:17:23,369 - INFO -  * Debugger PIN: 298-878-916
+2025-06-16 15:19:39,707 - INFO - 127.0.0.1 - - [16/Jun/2025 15:19:39] "GET / HTTP/1.1" 200 -
+2025-06-16 15:19:40,039 - INFO - 127.0.0.1 - - [16/Jun/2025 15:19:40] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-16 15:19:40,048 - INFO - 127.0.0.1 - - [16/Jun/2025 15:19:40] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-16 15:19:40,571 - INFO - 127.0.0.1 - - [16/Jun/2025 15:19:40] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-16 15:19:48,007 - INFO - Processing query: kia ap meri madad kersakte hain
+2025-06-16 15:19:48,009 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-16 15:19:48,276 - INFO - Retrieved 6 relevant documents
+2025-06-16 15:19:48,276 - INFO - Generated prompt length: 642 characters
+2025-06-16 15:19:48,276 - INFO - Using LLM streaming
+2025-06-16 15:20:23,041 - INFO - 127.0.0.1 - - [16/Jun/2025 15:20:22] "POST /chat HTTP/1.1" 200 -
+2025-06-16 15:21:00,632 - INFO - Added to memory: Q='kia ap meri madad kersakte hain...', Category=Roman Urdu
+2025-06-16 15:21:00,643 - INFO - Generated response length: 307 characters
+2025-06-16 15:21:57,367 - INFO - Processing query: mujhe youtube ke packages ke baaray mein btayein
+2025-06-16 15:21:57,374 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['youtube', 'Roman Urdu']
+2025-06-16 15:21:58,195 - INFO - Retrieved 6 relevant documents
+2025-06-16 15:21:58,197 - INFO - Generated prompt length: 659 characters
+2025-06-16 15:21:58,201 - INFO - Using LLM streaming
+2025-06-16 15:22:02,775 - INFO - 127.0.0.1 - - [16/Jun/2025 15:22:02] "POST /chat HTTP/1.1" 200 -
+2025-06-16 15:23:25,290 - INFO - Added to memory: Q='mujhe youtube ke packages ke baaray mein btayein...', Category=youtube
+2025-06-16 15:23:25,295 - INFO - Generated response length: 646 characters
+2025-06-16 15:23:34,230 - INFO - Processing query: kia ap mujhe ye urdu mein bta sakte hain
+2025-06-16 15:23:34,231 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-16 15:23:34,323 - INFO - Retrieved 6 relevant documents
+2025-06-16 15:23:34,326 - INFO - Generated prompt length: 651 characters
+2025-06-16 15:23:34,327 - INFO - Using LLM streaming
+2025-06-16 15:23:40,495 - INFO - 127.0.0.1 - - [16/Jun/2025 15:23:40] "POST /chat HTTP/1.1" 200 -
+2025-06-16 15:24:29,627 - INFO - Added to memory: Q='kia ap mujhe ye urdu mein bta sakte hain...', Category=Roman Urdu
+2025-06-16 15:24:29,649 - INFO - Generated response length: 228 characters
+2025-06-16 15:24:39,219 - INFO - Processing query: jazz roz mein baray mein btayein
+2025-06-16 15:24:39,220 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-16 15:24:39,438 - INFO - Retrieved 6 relevant documents
+2025-06-16 15:24:39,440 - INFO - Generated prompt length: 643 characters
+2025-06-16 15:24:39,441 - INFO - Using LLM streaming
+2025-06-16 15:24:44,955 - INFO - 127.0.0.1 - - [16/Jun/2025 15:24:44] "POST /chat HTTP/1.1" 200 -
+2025-06-16 15:25:02,261 - INFO - Processing query: Do you have offers in B2C?
+2025-06-16 15:25:02,341 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['B2C', 'Roman Urdu']
+2025-06-16 15:25:02,948 - INFO - Retrieved 6 relevant documents
+2025-06-16 15:25:02,953 - INFO - Generated prompt length: 637 characters
+2025-06-16 15:25:02,954 - INFO - Using LLM streaming
+2025-06-16 15:25:54,184 - INFO - Added to memory: Q='jazz roz mein baray mein btayein...', Category=Roman Urdu
+2025-06-16 15:25:54,189 - INFO - Generated response length: 667 characters
+2025-06-16 15:25:56,350 - INFO - 127.0.0.1 - - [16/Jun/2025 15:25:56] "POST /chat HTTP/1.1" 200 -
+2025-06-16 15:26:17,698 - INFO - Processing query: mein jazz rox ke baray mein poocha tha
+2025-06-16 15:26:17,699 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-16 15:26:17,776 - INFO - Retrieved 6 relevant documents
+2025-06-16 15:26:17,777 - INFO - Generated prompt length: 649 characters
+2025-06-16 15:26:17,778 - INFO - Using LLM streaming
+2025-06-16 15:26:23,462 - INFO - 127.0.0.1 - - [16/Jun/2025 15:26:23] "POST /chat HTTP/1.1" 200 -
+2025-06-16 15:27:19,682 - INFO - Added to memory: Q='mein jazz rox ke baray mein poocha tha...', Category=Roman Urdu
+2025-06-16 15:27:19,694 - INFO - Generated response length: 432 characters
+2025-06-16 15:42:16,531 - INFO - Initializing JazzBot...
+2025-06-16 15:42:16,584 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 15:42:16,647 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 15:42:16,706 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 15:42:16,709 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 15:42:16,710 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 15:42:16,712 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 15:42:16,714 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 15:42:16,715 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 15:42:16,718 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 15:42:16,723 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 15:42:16,723 - INFO - Total documents loaded: 10
+2025-06-16 15:42:16,857 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 15:45:06,490 - INFO - Initializing JazzBot...
+2025-06-16 15:45:06,538 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 15:45:06,602 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 15:45:06,660 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 15:45:06,661 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 15:45:06,662 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 15:45:06,663 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 15:45:06,664 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 15:45:06,665 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 15:45:06,667 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 15:45:06,670 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 15:45:06,671 - INFO - Total documents loaded: 10
+2025-06-16 15:45:06,765 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 15:45:08,735 - INFO - FakeTensor cache stats:
+2025-06-16 15:45:08,736 - INFO -   cache_hits: 0
+2025-06-16 15:45:08,736 - INFO -   cache_misses: 0
+2025-06-16 15:48:51,239 - INFO - Initializing JazzBot...
+2025-06-16 15:48:51,290 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 15:48:51,352 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 15:48:51,408 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 15:48:51,409 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 15:48:51,410 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 15:48:51,411 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 15:48:51,412 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 15:48:51,413 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 15:48:51,415 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 15:48:51,419 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 15:48:51,419 - INFO - Total documents loaded: 10
+2025-06-16 15:48:51,516 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 15:49:01,994 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 15:49:07,274 - INFO - Reusing existing FAISS index
+2025-06-16 15:49:07,281 - INFO - Loading faiss with AVX2 support.
+2025-06-16 15:49:07,394 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 15:49:07,404 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 15:49:07,434 - INFO - Vectorstore initialized successfully
+2025-06-16 15:49:07,492 - INFO - LLM initialized successfully
+2025-06-16 15:49:07,494 - INFO - Starting JazzBot Flask application...
+2025-06-16 15:49:07,532 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://192.168.248.129:6061
+2025-06-16 15:49:07,532 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-16 15:49:07,535 - INFO -  * Restarting with stat
+2025-06-16 15:49:09,306 - INFO - Initializing JazzBot...
+2025-06-16 15:49:09,357 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 15:49:09,425 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 15:49:09,488 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 15:49:09,490 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 15:49:09,490 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 15:49:09,491 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 15:49:09,492 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 15:49:09,493 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 15:49:09,495 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 15:49:09,499 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 15:49:09,499 - INFO - Total documents loaded: 10
+2025-06-16 15:49:09,604 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 15:49:15,845 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 15:49:20,860 - INFO - Reusing existing FAISS index
+2025-06-16 15:49:20,863 - INFO - Loading faiss with AVX2 support.
+2025-06-16 15:49:20,883 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 15:49:20,888 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 15:49:20,913 - INFO - Vectorstore initialized successfully
+2025-06-16 15:49:20,917 - INFO - LLM initialized successfully
+2025-06-16 15:49:20,919 - INFO - Starting JazzBot Flask application...
+2025-06-16 15:49:20,930 - WARNING -  * Debugger is active!
+2025-06-16 15:49:20,996 - INFO -  * Debugger PIN: 298-878-916
+2025-06-16 15:49:23,216 - INFO - 127.0.0.1 - - [16/Jun/2025 15:49:23] "GET / HTTP/1.1" 200 -
+2025-06-16 15:49:23,482 - INFO - 127.0.0.1 - - [16/Jun/2025 15:49:23] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-16 15:49:23,491 - INFO - 127.0.0.1 - - [16/Jun/2025 15:49:23] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-16 15:49:24,016 - INFO - 127.0.0.1 - - [16/Jun/2025 15:49:24] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-16 15:49:28,884 - INFO - Processing query: what is best offer of data
+2025-06-16 15:49:28,886 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['data', 'Roman Urdu']
+2025-06-16 15:49:29,195 - INFO - Retrieved 6 relevant documents
+2025-06-16 15:49:29,195 - INFO - Generated prompt length: 637 characters
+2025-06-16 15:49:29,196 - INFO - Using LLM streaming
+2025-06-16 15:50:10,186 - INFO - 127.0.0.1 - - [16/Jun/2025 15:50:10] "POST /chat HTTP/1.1" 200 -
+2025-06-16 15:51:07,364 - INFO - Added to memory: Q='what is best offer of data...', Category=data
+2025-06-16 15:51:07,371 - INFO - Generated response length: 565 characters
+2025-06-16 15:52:19,009 - INFO - Processing query: show me details of monthly X offer
+2025-06-16 15:52:19,019 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: True, Categories: ['postpaid', 'Roman Urdu']
+2025-06-16 15:52:19,096 - INFO - Follow-up search for package: None
+2025-06-16 15:52:19,850 - INFO - Retrieved 6 relevant documents
+2025-06-16 15:52:19,852 - INFO - Generated prompt length: 645 characters
+2025-06-16 15:52:19,858 - INFO - Using LLM streaming
+2025-06-16 15:52:26,454 - INFO - 127.0.0.1 - - [16/Jun/2025 15:52:26] "POST /chat HTTP/1.1" 200 -
+2025-06-16 15:53:11,475 - INFO - Added to memory: Q='show me details of monthly X offer...', Category=postpaid
+2025-06-16 15:53:11,480 - INFO - Generated response length: 248 characters
+2025-06-16 16:26:31,289 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-16 16:26:34,856 - INFO -  * Restarting with stat
+2025-06-16 16:26:37,486 - INFO - Initializing JazzBot...
+2025-06-16 16:26:37,536 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 16:26:37,602 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 16:26:37,663 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 16:26:37,666 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 16:26:37,667 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 16:26:37,669 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 16:26:37,670 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 16:26:37,672 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 16:26:37,674 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 16:26:37,679 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 16:26:37,680 - INFO - Total documents loaded: 10
+2025-06-16 16:26:37,777 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 16:26:47,596 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 16:26:53,128 - INFO - Reusing existing FAISS index
+2025-06-16 16:26:53,133 - INFO - Loading faiss with AVX2 support.
+2025-06-16 16:26:53,253 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 16:26:53,264 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 16:26:53,296 - INFO - Vectorstore initialized successfully
+2025-06-16 16:26:53,304 - INFO - LLM initialized successfully
+2025-06-16 16:26:53,307 - INFO - Starting JazzBot Flask application...
+2025-06-16 16:26:53,333 - WARNING -  * Debugger is active!
+2025-06-16 16:26:53,343 - INFO -  * Debugger PIN: 298-878-916
+2025-06-16 16:32:29,181 - INFO - Initializing JazzBot...
+2025-06-16 16:32:29,233 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 16:32:29,298 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 16:32:29,360 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 16:32:29,360 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 16:32:29,361 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 16:32:29,362 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 16:32:29,364 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 16:32:29,365 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 16:32:29,369 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 16:32:29,375 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 16:32:29,375 - INFO - Total documents loaded: 10
+2025-06-16 16:32:29,489 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 16:32:35,588 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 16:32:40,108 - INFO - Reusing existing FAISS index
+2025-06-16 16:32:40,111 - INFO - Loading faiss with AVX2 support.
+2025-06-16 16:32:40,207 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 16:32:40,212 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 16:32:40,238 - INFO - Vectorstore initialized successfully
+2025-06-16 16:32:40,241 - INFO - LLM initialized successfully
+2025-06-16 16:32:40,243 - INFO - Starting JazzBot Flask application...
+2025-06-16 16:32:40,266 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://10.124.64.157:6061
+2025-06-16 16:32:40,266 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-16 16:32:40,269 - INFO -  * Restarting with stat
+2025-06-16 16:32:41,895 - INFO - Initializing JazzBot...
+2025-06-16 16:32:41,945 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 16:32:42,009 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 16:32:42,074 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 16:32:42,075 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 16:32:42,075 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 16:32:42,076 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 16:32:42,077 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 16:32:42,078 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 16:32:42,080 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 16:32:42,085 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 16:32:42,085 - INFO - Total documents loaded: 10
+2025-06-16 16:32:42,184 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 16:32:48,067 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 16:32:52,717 - INFO - Reusing existing FAISS index
+2025-06-16 16:32:52,721 - INFO - Loading faiss with AVX2 support.
+2025-06-16 16:32:52,747 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 16:32:52,757 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 16:32:52,801 - INFO - Vectorstore initialized successfully
+2025-06-16 16:32:52,807 - INFO - LLM initialized successfully
+2025-06-16 16:32:52,813 - INFO - Starting JazzBot Flask application...
+2025-06-16 16:32:52,837 - WARNING -  * Debugger is active!
+2025-06-16 16:32:52,859 - INFO -  * Debugger PIN: 298-878-916
+2025-06-16 16:32:54,266 - INFO - 127.0.0.1 - - [16/Jun/2025 16:32:54] "GET / HTTP/1.1" 200 -
+2025-06-16 16:32:54,565 - INFO - 127.0.0.1 - - [16/Jun/2025 16:32:54] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-16 16:32:54,573 - INFO - 127.0.0.1 - - [16/Jun/2025 16:32:54] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-16 16:32:55,118 - INFO - 127.0.0.1 - - [16/Jun/2025 16:32:55] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-16 16:33:11,039 - INFO - Processing query: kia ap meri madad kersakte hain
+2025-06-16 16:33:11,041 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-16 16:33:11,305 - INFO - Retrieved 6 relevant documents
+2025-06-16 16:33:11,305 - INFO - Generated prompt length: 642 characters
+2025-06-16 16:33:11,360 - INFO - 127.0.0.1 - - [16/Jun/2025 16:33:11] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-06-16 16:33:11,408 - INFO - 127.0.0.1 - - [16/Jun/2025 16:33:11] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-16 16:33:11,422 - INFO - 127.0.0.1 - - [16/Jun/2025 16:33:11] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-16 16:33:11,504 - INFO - 127.0.0.1 - - [16/Jun/2025 16:33:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-16 16:33:11,506 - INFO - 127.0.0.1 - - [16/Jun/2025 16:33:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-16 16:37:24,266 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-16 16:37:34,619 - INFO - Initializing JazzBot...
+2025-06-16 16:37:34,698 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 16:37:34,795 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 16:37:34,885 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 16:37:34,888 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 16:37:34,890 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 16:37:34,893 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 16:37:34,894 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 16:37:34,897 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 16:37:34,901 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 16:37:34,908 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 16:37:34,908 - INFO - Total documents loaded: 10
+2025-06-16 16:37:35,115 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 16:37:47,722 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 16:37:55,211 - INFO - Reusing existing FAISS index
+2025-06-16 16:37:55,263 - INFO - Loading faiss with AVX2 support.
+2025-06-16 16:37:55,363 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 16:37:55,376 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 16:37:55,415 - INFO - Vectorstore initialized successfully
+2025-06-16 16:37:55,424 - INFO - LLM initialized successfully
+2025-06-16 16:37:55,427 - INFO - Starting JazzBot Flask application...
+2025-06-16 16:37:55,474 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://10.124.64.157:6061
+2025-06-16 16:37:55,474 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-16 16:37:55,478 - INFO -  * Restarting with stat
+2025-06-16 16:37:58,358 - INFO - Initializing JazzBot...
+2025-06-16 16:37:58,446 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 16:37:58,571 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 16:37:58,685 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 16:37:58,687 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 16:37:58,688 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 16:37:58,689 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 16:37:58,690 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 16:37:58,692 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 16:37:58,696 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 16:37:58,722 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 16:37:58,726 - INFO - Total documents loaded: 10
+2025-06-16 16:37:59,031 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 16:38:10,143 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 16:38:15,076 - INFO - Reusing existing FAISS index
+2025-06-16 16:38:15,083 - INFO - Loading faiss with AVX2 support.
+2025-06-16 16:38:15,159 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 16:38:15,238 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 16:38:15,348 - INFO - Vectorstore initialized successfully
+2025-06-16 16:38:15,361 - INFO - LLM initialized successfully
+2025-06-16 16:38:15,371 - INFO - Starting JazzBot Flask application...
+2025-06-16 16:38:15,446 - WARNING -  * Debugger is active!
+2025-06-16 16:38:15,524 - INFO -  * Debugger PIN: 298-878-916
+2025-06-16 16:38:19,063 - INFO - 127.0.0.1 - - [16/Jun/2025 16:38:19] "GET / HTTP/1.1" 200 -
+2025-06-16 16:38:19,683 - INFO - 127.0.0.1 - - [16/Jun/2025 16:38:19] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-16 16:38:19,715 - INFO - 127.0.0.1 - - [16/Jun/2025 16:38:19] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-16 16:38:20,373 - INFO - 127.0.0.1 - - [16/Jun/2025 16:38:20] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-16 16:38:25,625 - INFO - Processing query: hi
+2025-06-16 16:38:25,628 - INFO - Query analysis - Greeting: True, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-16 16:38:25,629 - INFO - 127.0.0.1 - - [16/Jun/2025 16:38:25] "POST /chat HTTP/1.1" 200 -
+2025-06-16 16:38:26,340 - INFO - Added to memory: Q='hi...', Category=None
+2025-06-16 16:38:29,746 - INFO - Processing query: kesay hain
+2025-06-16 16:38:29,747 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-16 16:38:30,204 - INFO - Retrieved 6 relevant documents
+2025-06-16 16:38:30,205 - INFO - Generated prompt length: 621 characters
+2025-06-16 16:38:30,206 - INFO - Using LLM streaming
+2025-06-16 16:39:15,928 - INFO - 127.0.0.1 - - [16/Jun/2025 16:39:15] "POST /chat HTTP/1.1" 200 -
+2025-06-16 16:40:07,927 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-16 16:40:23,409 - INFO -  * Restarting with stat
+2025-06-16 16:40:30,099 - INFO - Initializing JazzBot...
+2025-06-16 16:40:30,240 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 16:40:30,373 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 16:40:30,490 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 16:40:30,492 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 16:40:30,495 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 16:40:30,500 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 16:40:30,503 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 16:40:30,505 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 16:40:30,509 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 16:40:30,520 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 16:40:30,520 - INFO - Total documents loaded: 10
+2025-06-16 16:40:30,739 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 16:40:53,786 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 16:41:03,443 - INFO - Reusing existing FAISS index
+2025-06-16 16:41:03,451 - INFO - Loading faiss with AVX2 support.
+2025-06-16 16:41:03,587 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 16:41:03,603 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 16:41:03,664 - INFO - Vectorstore initialized successfully
+2025-06-16 16:41:03,678 - INFO - LLM initialized successfully
+2025-06-16 16:41:03,681 - INFO - Starting JazzBot Flask application...
+2025-06-16 16:41:03,729 - WARNING -  * Debugger is active!
+2025-06-16 16:41:03,748 - INFO -  * Debugger PIN: 298-878-916
+2025-06-16 16:41:08,777 - INFO - Processing query: best package btayein
+2025-06-16 16:41:08,781 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-16 16:41:09,150 - INFO - Retrieved 6 relevant documents
+2025-06-16 16:41:09,150 - INFO - Generated prompt length: 631 characters
+2025-06-16 16:41:09,151 - INFO - Using LLM streaming
+2025-06-16 16:41:14,871 - INFO - 127.0.0.1 - - [16/Jun/2025 16:41:14] "POST /chat HTTP/1.1" 200 -
+2025-06-16 16:57:24,723 - INFO - Processing query: I want to see some Packages
+2025-06-16 16:57:24,737 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['whatsapp', 'Roman Urdu']
+2025-06-16 16:57:25,459 - INFO - Retrieved 6 relevant documents
+2025-06-16 16:57:25,462 - INFO - Generated prompt length: 638 characters
+2025-06-16 16:57:25,467 - INFO - Using LLM streaming
+2025-06-16 16:58:04,427 - INFO - 127.0.0.1 - - [16/Jun/2025 16:58:04] "POST /chat HTTP/1.1" 200 -
+2025-06-16 17:02:27,817 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-16 17:02:33,860 - INFO -  * Restarting with stat
+2025-06-16 17:02:37,344 - INFO - Initializing JazzBot...
+2025-06-16 17:02:37,404 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 17:02:37,466 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 17:02:37,525 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 17:02:37,526 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 17:02:37,527 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 17:02:37,529 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 17:02:37,531 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 17:02:37,533 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 17:02:37,537 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 17:02:37,542 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 17:02:37,542 - INFO - Total documents loaded: 10
+2025-06-16 17:02:37,656 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 17:02:51,969 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 17:02:59,493 - INFO - Reusing existing FAISS index
+2025-06-16 17:02:59,501 - INFO - Loading faiss with AVX2 support.
+2025-06-16 17:02:59,649 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 17:02:59,659 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 17:02:59,698 - INFO - Vectorstore initialized successfully
+2025-06-16 17:02:59,720 - INFO - LLM initialized successfully
+2025-06-16 17:02:59,725 - INFO - Starting JazzBot Flask application...
+2025-06-16 17:02:59,750 - WARNING -  * Debugger is active!
+2025-06-16 17:02:59,763 - INFO -  * Debugger PIN: 298-878-916
+2025-06-16 17:03:03,730 - INFO - 127.0.0.1 - - [16/Jun/2025 17:03:03] "GET / HTTP/1.1" 200 -
+2025-06-16 17:03:04,384 - INFO - 127.0.0.1 - - [16/Jun/2025 17:03:04] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-16 17:03:04,389 - INFO - 127.0.0.1 - - [16/Jun/2025 17:03:04] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-16 17:03:04,941 - INFO - 127.0.0.1 - - [16/Jun/2025 17:03:04] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-16 17:03:11,377 - INFO - Processing query: hi how are you
+2025-06-16 17:03:11,382 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-16 17:03:11,878 - INFO - Retrieved 6 relevant documents
+2025-06-16 17:03:11,879 - INFO - Generated prompt length: 625 characters
+2025-06-16 17:03:11,879 - INFO - Using LLM streaming
+2025-06-16 17:03:16,907 - INFO - 127.0.0.1 - - [16/Jun/2025 17:03:16] "POST /chat HTTP/1.1" 200 -
+2025-06-16 17:03:29,059 - INFO - Translating response to Urdu
+2025-06-16 17:03:31,588 - INFO - Added to memory: Q='hi how are you...', Category=Roman Urdu
+2025-06-16 17:03:31,592 - INFO - Generated response length: 43 characters
+2025-06-16 17:03:41,149 - INFO - Processing query: tell me about premium offer
+2025-06-16 17:03:41,149 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-16 17:03:41,245 - INFO - Retrieved 6 relevant documents
+2025-06-16 17:03:41,246 - INFO - Generated prompt length: 638 characters
+2025-06-16 17:03:41,247 - INFO - Using LLM streaming
+2025-06-16 17:03:46,108 - INFO - 127.0.0.1 - - [16/Jun/2025 17:03:46] "POST /chat HTTP/1.1" 200 -
+2025-06-16 17:04:45,997 - INFO - Translating response to Urdu
+2025-06-16 17:04:47,481 - INFO - Added to memory: Q='tell me about premium offer...', Category=Roman Urdu
+2025-06-16 17:04:47,519 - INFO - Generated response length: 793 characters
+2025-06-16 17:05:25,773 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-16 17:05:32,459 - INFO -  * Restarting with stat
+2025-06-16 17:05:35,264 - INFO - Initializing JazzBot...
+2025-06-16 17:05:35,314 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-16 17:05:35,378 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-16 17:05:35,435 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-16 17:05:35,437 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-16 17:05:35,438 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-16 17:05:35,440 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-16 17:05:35,441 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-16 17:05:35,444 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-16 17:05:35,447 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-16 17:05:35,452 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-16 17:05:35,452 - INFO - Total documents loaded: 10
+2025-06-16 17:05:35,581 - INFO - Created 4086 chunks from 10 documents
+2025-06-16 17:05:48,750 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-16 17:05:56,556 - INFO - Reusing existing FAISS index
+2025-06-16 17:05:56,709 - INFO - Loading faiss with AVX2 support.
+2025-06-16 17:05:57,125 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-16 17:05:57,133 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-16 17:05:57,175 - INFO - Vectorstore initialized successfully
+2025-06-16 17:05:57,182 - INFO - LLM initialized successfully
+2025-06-16 17:05:57,184 - INFO - Starting JazzBot Flask application...
+2025-06-16 17:05:57,209 - WARNING -  * Debugger is active!
+2025-06-16 17:05:57,223 - INFO -  * Debugger PIN: 298-878-916
+2025-06-16 17:05:59,502 - INFO - 127.0.0.1 - - [16/Jun/2025 17:05:59] "GET / HTTP/1.1" 200 -
+2025-06-16 17:05:59,895 - INFO - 127.0.0.1 - - [16/Jun/2025 17:05:59] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-16 17:05:59,902 - INFO - 127.0.0.1 - - [16/Jun/2025 17:05:59] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-16 17:06:00,423 - INFO - 127.0.0.1 - - [16/Jun/2025 17:06:00] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-16 17:06:10,012 - INFO - Processing query: mujhe premium package ke baray mein btayein
+2025-06-16 17:06:10,014 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-16 17:06:10,444 - INFO - Retrieved 6 relevant documents
+2025-06-16 17:06:10,444 - INFO - Generated prompt length: 654 characters
+2025-06-16 17:06:10,445 - INFO - Using LLM streaming
+2025-06-16 17:06:16,337 - INFO - 127.0.0.1 - - [16/Jun/2025 17:06:16] "POST /chat HTTP/1.1" 200 -
+2025-06-16 17:07:10,177 - INFO - Translating response to Urdu
+2025-06-16 17:07:13,514 - INFO - Added to memory: Q='mujhe premium package ke baray mein btayein...', Category=Roman Urdu
+2025-06-16 17:07:13,518 - INFO - Generated response length: 456 characters
+2025-06-16 17:07:38,640 - INFO - Processing query: jazz rox kia hai
+2025-06-16 17:07:38,647 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-16 17:07:39,396 - INFO - Retrieved 6 relevant documents
+2025-06-16 17:07:39,398 - INFO - Generated prompt length: 627 characters
+2025-06-16 17:07:39,406 - INFO - Using LLM streaming
+2025-06-16 17:07:43,787 - INFO - 127.0.0.1 - - [16/Jun/2025 17:07:43] "POST /chat HTTP/1.1" 200 -
+2025-06-16 17:08:39,159 - INFO - Translating response to Urdu
+2025-06-16 17:08:40,481 - INFO - Added to memory: Q='jazz rox kia hai...', Category=Roman Urdu
+2025-06-16 17:08:40,497 - INFO - Generated response length: 513 characters
+2025-06-17 11:09:42,563 - INFO - Initializing JazzBot...
+2025-06-17 11:09:42,623 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:09:42,696 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:09:42,762 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:09:42,771 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:09:42,780 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:09:42,792 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:09:42,800 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:09:42,811 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:09:42,825 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:09:42,841 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:09:42,841 - INFO - Total documents loaded: 10
+2025-06-17 11:09:42,931 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:10:33,862 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:10:47,403 - INFO - Reusing existing FAISS index
+2025-06-17 11:10:47,433 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:10:47,925 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:10:47,969 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:10:48,009 - INFO - Vectorstore initialized successfully
+2025-06-17 11:10:48,057 - INFO - LLM initialized successfully
+2025-06-17 11:10:48,058 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:10:48,194 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://10.124.64.157:6061
+2025-06-17 11:10:48,194 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-17 11:10:48,202 - INFO -  * Restarting with stat
+2025-06-17 11:10:50,460 - INFO - Initializing JazzBot...
+2025-06-17 11:10:50,511 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:10:50,580 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:10:50,700 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:10:50,701 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:10:50,702 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:10:50,702 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:10:50,703 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:10:50,704 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:10:50,706 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:10:50,710 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:10:50,710 - INFO - Total documents loaded: 10
+2025-06-17 11:10:50,801 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:10:57,485 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:11:02,667 - INFO - Reusing existing FAISS index
+2025-06-17 11:11:02,670 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:11:02,837 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:11:02,842 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:11:02,863 - INFO - Vectorstore initialized successfully
+2025-06-17 11:11:02,866 - INFO - LLM initialized successfully
+2025-06-17 11:11:02,868 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:11:02,878 - WARNING -  * Debugger is active!
+2025-06-17 11:11:02,887 - INFO -  * Debugger PIN: 298-878-916
+2025-06-17 11:11:10,255 - INFO - 127.0.0.1 - - [17/Jun/2025 11:11:10] "GET / HTTP/1.1" 200 -
+2025-06-17 11:11:10,589 - INFO - 127.0.0.1 - - [17/Jun/2025 11:11:10] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 11:11:10,613 - INFO - 127.0.0.1 - - [17/Jun/2025 11:11:10] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 11:11:11,172 - INFO - 127.0.0.1 - - [17/Jun/2025 11:11:11] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 11:11:26,509 - INFO - Processing query: ap mujhe premium offer ke baray mein bta sakte hain
+2025-06-17 11:11:26,511 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:11:26,855 - INFO - Retrieved 6 relevant documents
+2025-06-17 11:11:26,855 - INFO - Generated prompt length: 662 characters
+2025-06-17 11:11:26,856 - INFO - Using LLM streaming
+2025-06-17 11:11:30,113 - WARNING - Streaming failed, using invoke: Ollama call failed with status code 500. Details: {"error":"model requires more system memory (3.4 GiB) than is available (3.0 GiB)"}
+2025-06-17 11:11:32,241 - ERROR - Error in generation: Ollama call failed with status code 500. Details: {"error":"model requires more system memory (3.4 GiB) than is available (3.0 GiB)"}
+2025-06-17 11:11:32,241 - INFO - 127.0.0.1 - - [17/Jun/2025 11:11:32] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:12:22,631 - INFO - Initializing JazzBot...
+2025-06-17 11:12:22,686 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:12:22,748 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:12:22,803 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:12:22,804 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:12:22,804 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:12:22,805 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:12:22,806 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:12:22,807 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:12:22,809 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:12:22,814 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:12:22,814 - INFO - Total documents loaded: 10
+2025-06-17 11:12:22,907 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:12:28,751 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:12:34,112 - INFO - Reusing existing FAISS index
+2025-06-17 11:12:34,115 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:12:34,301 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:12:34,350 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:12:34,378 - INFO - Vectorstore initialized successfully
+2025-06-17 11:12:34,383 - INFO - LLM initialized successfully
+2025-06-17 11:12:34,385 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:12:34,408 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://10.124.64.157:6061
+2025-06-17 11:12:34,408 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-17 11:12:34,410 - INFO -  * Restarting with stat
+2025-06-17 11:12:36,314 - INFO - Initializing JazzBot...
+2025-06-17 11:12:36,362 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:12:36,425 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:12:36,482 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:12:36,483 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:12:36,484 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:12:36,486 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:12:36,487 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:12:36,488 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:12:36,490 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:12:36,494 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:12:36,494 - INFO - Total documents loaded: 10
+2025-06-17 11:12:36,582 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:12:42,211 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:12:47,535 - INFO - Reusing existing FAISS index
+2025-06-17 11:12:47,538 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:12:47,709 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:12:47,714 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:12:47,741 - INFO - Vectorstore initialized successfully
+2025-06-17 11:12:47,745 - INFO - LLM initialized successfully
+2025-06-17 11:12:47,747 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:12:47,760 - WARNING -  * Debugger is active!
+2025-06-17 11:12:47,769 - INFO -  * Debugger PIN: 298-878-916
+2025-06-17 11:13:42,968 - INFO - 127.0.0.1 - - [17/Jun/2025 11:13:42] "GET / HTTP/1.1" 200 -
+2025-06-17 11:13:43,240 - INFO - 127.0.0.1 - - [17/Jun/2025 11:13:43] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 11:13:43,249 - INFO - 127.0.0.1 - - [17/Jun/2025 11:13:43] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 11:13:43,782 - INFO - 127.0.0.1 - - [17/Jun/2025 11:13:43] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 11:13:53,226 - INFO - Processing query: kia ap meri madad kersakte hain
+2025-06-17 11:13:53,228 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:13:53,292 - INFO - Retrieved 6 relevant documents
+2025-06-17 11:13:53,293 - INFO - Generated prompt length: 642 characters
+2025-06-17 11:13:53,293 - INFO - Using LLM streaming
+2025-06-17 11:13:56,237 - WARNING - Streaming failed, using invoke: Ollama call failed with status code 500. Details: {"error":"model requires more system memory (3.4 GiB) than is available (3.3 GiB)"}
+2025-06-17 11:13:58,810 - ERROR - Error in generation: Ollama call failed with status code 500. Details: {"error":"model requires more system memory (3.4 GiB) than is available (3.3 GiB)"}
+2025-06-17 11:13:58,810 - INFO - 127.0.0.1 - - [17/Jun/2025 11:13:58] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:17:01,595 - INFO - Initializing JazzBot...
+2025-06-17 11:17:01,652 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:17:01,721 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:17:01,784 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:17:01,792 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:17:01,803 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:17:01,813 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:17:01,825 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:17:01,838 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:17:01,853 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:17:01,866 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:17:01,866 - INFO - Total documents loaded: 10
+2025-06-17 11:17:01,960 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:17:53,251 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:18:06,586 - INFO - Reusing existing FAISS index
+2025-06-17 11:18:06,645 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:18:07,171 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:18:07,213 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:18:07,264 - INFO - Vectorstore initialized successfully
+2025-06-17 11:18:07,311 - INFO - LLM initialized successfully
+2025-06-17 11:18:07,315 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:18:07,447 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://10.124.64.157:6061
+2025-06-17 11:18:07,448 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-17 11:18:07,456 - INFO -  * Restarting with stat
+2025-06-17 11:18:10,793 - INFO - Initializing JazzBot...
+2025-06-17 11:18:10,855 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:18:10,930 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:18:10,998 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:18:10,999 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:18:11,000 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:18:11,001 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:18:11,002 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:18:11,003 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:18:11,006 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:18:11,013 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:18:11,013 - INFO - Total documents loaded: 10
+2025-06-17 11:18:11,129 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:18:22,298 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:18:28,224 - INFO - Reusing existing FAISS index
+2025-06-17 11:18:28,228 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:18:28,449 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:18:28,457 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:18:28,488 - INFO - Vectorstore initialized successfully
+2025-06-17 11:18:28,493 - INFO - LLM initialized successfully
+2025-06-17 11:18:28,496 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:18:28,511 - WARNING -  * Debugger is active!
+2025-06-17 11:18:28,618 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 11:18:34,100 - INFO - 127.0.0.1 - - [17/Jun/2025 11:18:34] "GET / HTTP/1.1" 200 -
+2025-06-17 11:18:34,102 - INFO - 127.0.0.1 - - [17/Jun/2025 11:18:34] "GET / HTTP/1.1" 200 -
+2025-06-17 11:18:34,104 - INFO - 127.0.0.1 - - [17/Jun/2025 11:18:34] "GET / HTTP/1.1" 200 -
+2025-06-17 11:18:34,418 - INFO - 127.0.0.1 - - [17/Jun/2025 11:18:34] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 11:18:34,432 - INFO - 127.0.0.1 - - [17/Jun/2025 11:18:34] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 11:18:34,488 - INFO - 127.0.0.1 - - [17/Jun/2025 11:18:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-17 11:18:34,998 - INFO - 127.0.0.1 - - [17/Jun/2025 11:18:34] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 11:18:45,787 - INFO - Processing query: kia ap mujhe premium offer ke baray mein bta sakte hain
+2025-06-17 11:18:45,790 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:18:46,139 - INFO - Retrieved 6 relevant documents
+2025-06-17 11:18:46,139 - INFO - Generated prompt length: 666 characters
+2025-06-17 11:18:46,140 - INFO - Using LLM streaming
+2025-06-17 11:19:20,178 - INFO - 127.0.0.1 - - [17/Jun/2025 11:19:20] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:19:59,302 - INFO - Translating response to Urdu
+2025-06-17 11:19:59,304 - ERROR - Error during translation: name 'translate_to_urdu' is not defined
+2025-06-17 11:19:59,663 - INFO - Added to memory: Q='kia ap mujhe premium offer ke baray mein bta sakte...', Category=Roman Urdu
+2025-06-17 11:19:59,683 - INFO - Generated response length: 573 characters
+2025-06-17 11:21:45,478 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-17 11:21:49,735 - INFO -  * Restarting with stat
+2025-06-17 11:21:52,657 - INFO - Initializing JazzBot...
+2025-06-17 11:21:52,707 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:21:52,769 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:21:52,828 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:21:52,830 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:21:52,831 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:21:52,833 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:21:52,834 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:21:52,835 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:21:52,838 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:21:52,842 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:21:52,842 - INFO - Total documents loaded: 10
+2025-06-17 11:21:52,931 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:22:02,673 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:22:09,541 - INFO - Reusing existing FAISS index
+2025-06-17 11:22:09,548 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:22:09,814 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:22:09,824 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:22:09,852 - INFO - Vectorstore initialized successfully
+2025-06-17 11:22:09,861 - INFO - LLM initialized successfully
+2025-06-17 11:22:09,863 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:22:09,889 - WARNING -  * Debugger is active!
+2025-06-17 11:22:09,906 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 11:22:14,175 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-17 11:22:15,198 - INFO -  * Restarting with stat
+2025-06-17 11:22:17,659 - INFO - Initializing JazzBot...
+2025-06-17 11:22:17,707 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:22:17,768 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:22:17,824 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:22:17,825 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:22:17,826 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:22:17,827 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:22:17,827 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:22:17,828 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:22:17,830 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:22:17,834 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:22:17,834 - INFO - Total documents loaded: 10
+2025-06-17 11:22:17,960 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:22:25,036 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:22:30,432 - INFO - Reusing existing FAISS index
+2025-06-17 11:22:30,439 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:22:30,766 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:22:30,773 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:22:30,813 - INFO - Vectorstore initialized successfully
+2025-06-17 11:22:30,820 - INFO - LLM initialized successfully
+2025-06-17 11:22:30,822 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:22:30,844 - WARNING -  * Debugger is active!
+2025-06-17 11:22:30,855 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 11:22:34,763 - INFO - 127.0.0.1 - - [17/Jun/2025 11:22:34] "GET / HTTP/1.1" 200 -
+2025-06-17 11:22:35,186 - INFO - 127.0.0.1 - - [17/Jun/2025 11:22:35] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 11:22:35,192 - INFO - 127.0.0.1 - - [17/Jun/2025 11:22:35] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 11:22:35,787 - INFO - 127.0.0.1 - - [17/Jun/2025 11:22:35] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 11:22:40,291 - INFO - Processing query: kia ap mujhe premium offer ke baray mein bta sakte hain
+2025-06-17 11:22:40,294 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:22:40,628 - INFO - Retrieved 6 relevant documents
+2025-06-17 11:22:40,629 - INFO - Generated prompt length: 666 characters
+2025-06-17 11:22:40,629 - INFO - Using LLM streaming
+2025-06-17 11:22:43,951 - INFO - 127.0.0.1 - - [17/Jun/2025 11:22:43] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:23:24,989 - INFO - Translating response to Roman Urdu
+2025-06-17 11:23:26,616 - INFO - Added to memory: Q='kia ap mujhe premium offer ke baray mein bta sakte...', Category=Roman Urdu
+2025-06-17 11:23:26,619 - INFO - Generated response length: 578 characters
+2025-06-17 11:30:43,041 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-17 11:30:45,115 - INFO -  * Restarting with stat
+2025-06-17 11:30:56,137 - INFO - Initializing JazzBot...
+2025-06-17 11:30:56,196 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:30:56,265 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:30:56,338 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:30:56,347 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:30:56,359 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:30:56,369 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:30:56,380 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:30:56,393 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:30:56,405 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:30:56,418 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:30:56,418 - INFO - Total documents loaded: 10
+2025-06-17 11:30:56,514 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:31:40,992 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:31:52,791 - INFO - Reusing existing FAISS index
+2025-06-17 11:31:52,815 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:31:53,248 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:31:53,286 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:31:53,364 - INFO - Vectorstore initialized successfully
+2025-06-17 11:31:53,409 - INFO - LLM initialized successfully
+2025-06-17 11:31:53,411 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:31:53,507 - WARNING -  * Debugger is active!
+2025-06-17 11:31:53,515 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 11:32:00,015 - INFO - 127.0.0.1 - - [17/Jun/2025 11:32:00] "GET / HTTP/1.1" 200 -
+2025-06-17 11:32:00,226 - INFO - 127.0.0.1 - - [17/Jun/2025 11:32:00] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 11:32:00,246 - INFO - 127.0.0.1 - - [17/Jun/2025 11:32:00] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 11:32:00,871 - INFO - 127.0.0.1 - - [17/Jun/2025 11:32:00] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 11:32:09,697 - INFO - Processing query: kia ap meri madad kersakte hain
+2025-06-17 11:32:09,699 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:32:09,932 - INFO - Retrieved 6 relevant documents
+2025-06-17 11:32:09,932 - INFO - Generated prompt length: 642 characters
+2025-06-17 11:32:09,933 - INFO - Using LLM streaming
+2025-06-17 11:32:40,588 - INFO - 127.0.0.1 - - [17/Jun/2025 11:32:40] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:33:32,803 - INFO - Added to memory: Q='kia ap meri madad kersakte hain...', Category=Roman Urdu
+2025-06-17 11:33:32,805 - INFO - Generated response length: 290 characters
+2025-06-17 11:36:37,716 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-17 11:36:40,786 - INFO -  * Restarting with stat
+2025-06-17 11:36:43,913 - INFO - Initializing JazzBot...
+2025-06-17 11:36:44,022 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:36:44,092 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:36:44,156 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:36:44,157 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:36:44,158 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:36:44,159 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:36:44,160 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:36:44,162 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:36:44,165 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:36:44,171 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:36:44,171 - INFO - Total documents loaded: 10
+2025-06-17 11:36:44,279 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:36:52,984 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:36:59,121 - INFO - Reusing existing FAISS index
+2025-06-17 11:36:59,127 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:36:59,237 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:36:59,244 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:36:59,423 - INFO - Vectorstore initialized successfully
+2025-06-17 11:36:59,432 - INFO - LLM initialized successfully
+2025-06-17 11:36:59,434 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:36:59,460 - WARNING -  * Debugger is active!
+2025-06-17 11:36:59,472 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 11:37:09,794 - INFO - 127.0.0.1 - - [17/Jun/2025 11:37:09] "GET / HTTP/1.1" 200 -
+2025-06-17 11:37:10,033 - INFO - 127.0.0.1 - - [17/Jun/2025 11:37:10] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 11:37:10,051 - INFO - 127.0.0.1 - - [17/Jun/2025 11:37:10] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 11:37:10,570 - INFO - 127.0.0.1 - - [17/Jun/2025 11:37:10] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 11:37:19,207 - INFO - Processing query: kia ap meri madad kersakte hain
+2025-06-17 11:37:19,209 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:37:19,520 - INFO - Retrieved 6 relevant documents
+2025-06-17 11:37:19,521 - INFO - Generated prompt length: 642 characters
+2025-06-17 11:37:19,521 - INFO - Using LLM streaming
+2025-06-17 11:37:23,152 - INFO - 127.0.0.1 - - [17/Jun/2025 11:37:23] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:37:50,081 - INFO - Added to memory: Q='kia ap meri madad kersakte hain...', Category=Roman Urdu
+2025-06-17 11:37:50,083 - INFO - Generated response length: 272 characters
+2025-06-17 11:38:45,725 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-17 11:38:46,971 - INFO -  * Restarting with stat
+2025-06-17 11:38:49,272 - INFO - Initializing JazzBot...
+2025-06-17 11:38:49,321 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:38:49,385 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:38:49,442 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:38:49,443 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:38:49,444 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:38:49,447 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:38:49,448 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:38:49,449 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:38:49,452 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:38:49,456 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:38:49,456 - INFO - Total documents loaded: 10
+2025-06-17 11:38:49,549 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:38:58,074 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:39:03,708 - INFO - Reusing existing FAISS index
+2025-06-17 11:39:03,714 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:39:03,745 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:39:03,757 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:39:03,929 - INFO - Vectorstore initialized successfully
+2025-06-17 11:39:03,936 - INFO - LLM initialized successfully
+2025-06-17 11:39:03,938 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:39:03,961 - WARNING -  * Debugger is active!
+2025-06-17 11:39:03,970 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 11:39:19,717 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-17 11:39:20,550 - INFO -  * Restarting with stat
+2025-06-17 11:39:22,340 - INFO - Initializing JazzBot...
+2025-06-17 11:39:22,388 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:39:22,450 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:39:22,505 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:39:22,506 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:39:22,506 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:39:22,508 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:39:22,508 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:39:22,510 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:39:22,512 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:39:22,516 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:39:22,516 - INFO - Total documents loaded: 10
+2025-06-17 11:39:22,610 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:39:28,530 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:39:33,737 - INFO - Reusing existing FAISS index
+2025-06-17 11:39:33,740 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:39:33,760 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:39:33,772 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:39:33,940 - INFO - Vectorstore initialized successfully
+2025-06-17 11:39:33,943 - INFO - LLM initialized successfully
+2025-06-17 11:39:33,945 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:39:33,956 - WARNING -  * Debugger is active!
+2025-06-17 11:39:33,966 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 11:39:49,628 - INFO - 127.0.0.1 - - [17/Jun/2025 11:39:49] "GET / HTTP/1.1" 200 -
+2025-06-17 11:39:49,851 - INFO - 127.0.0.1 - - [17/Jun/2025 11:39:49] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 11:39:49,872 - INFO - 127.0.0.1 - - [17/Jun/2025 11:39:49] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 11:39:50,409 - INFO - 127.0.0.1 - - [17/Jun/2025 11:39:50] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 11:39:57,718 - INFO - Processing query: kia ap meri madad kersakte hain
+2025-06-17 11:39:57,720 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:39:57,819 - INFO - Retrieved 6 relevant documents
+2025-06-17 11:39:57,820 - INFO - Generated prompt length: 642 characters
+2025-06-17 11:39:57,822 - INFO - Using LLM streaming
+2025-06-17 11:40:01,031 - INFO - 127.0.0.1 - - [17/Jun/2025 11:40:01] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:40:21,856 - INFO - Added to memory: Q='kia ap meri madad kersakte hain...', Category=Roman Urdu
+2025-06-17 11:40:21,858 - INFO - Generated response length: 228 characters
+2025-06-17 11:41:05,095 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-17 11:41:06,055 - INFO -  * Restarting with stat
+2025-06-17 11:41:08,496 - INFO - Initializing JazzBot...
+2025-06-17 11:41:08,543 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:41:08,607 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:41:08,665 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:41:08,665 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:41:08,666 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:41:08,667 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:41:08,668 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:41:08,669 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:41:08,671 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:41:08,676 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:41:08,676 - INFO - Total documents loaded: 10
+2025-06-17 11:41:08,769 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:41:14,553 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:41:19,844 - INFO - Reusing existing FAISS index
+2025-06-17 11:41:19,848 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:41:20,012 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:41:20,017 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:41:20,041 - INFO - Vectorstore initialized successfully
+2025-06-17 11:41:20,044 - INFO - LLM initialized successfully
+2025-06-17 11:41:20,046 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:41:20,056 - WARNING -  * Debugger is active!
+2025-06-17 11:41:20,064 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 11:41:23,260 - INFO - 127.0.0.1 - - [17/Jun/2025 11:41:23] "GET / HTTP/1.1" 200 -
+2025-06-17 11:41:23,474 - INFO - 127.0.0.1 - - [17/Jun/2025 11:41:23] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 11:41:23,485 - INFO - 127.0.0.1 - - [17/Jun/2025 11:41:23] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 11:41:24,001 - INFO - 127.0.0.1 - - [17/Jun/2025 11:41:24] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 11:41:32,074 - INFO - Processing query: kia ap meri madad kersakte hain
+2025-06-17 11:41:32,076 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:41:32,124 - INFO - Retrieved 6 relevant documents
+2025-06-17 11:41:32,124 - INFO - Generated prompt length: 642 characters
+2025-06-17 11:41:32,125 - INFO - Using LLM streaming
+2025-06-17 11:41:34,877 - INFO - 127.0.0.1 - - [17/Jun/2025 11:41:34] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:41:57,150 - INFO - Translating response to Urdu
+2025-06-17 11:41:59,950 - INFO - Added to memory: Q='kia ap meri madad kersakte hain...', Category=Roman Urdu
+2025-06-17 11:41:59,954 - INFO - Generated response length: 195 characters
+2025-06-17 11:42:10,765 - INFO - Processing query: mujhe jazz premium ke baray mein btayein
+2025-06-17 11:42:10,766 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:42:10,879 - INFO - Retrieved 0 relevant documents
+2025-06-17 11:42:10,879 - INFO - Generated prompt length: 651 characters
+2025-06-17 11:42:10,880 - INFO - Using LLM streaming
+2025-06-17 11:42:15,560 - INFO - 127.0.0.1 - - [17/Jun/2025 11:42:15] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:42:47,063 - INFO - Translating response to Urdu
+2025-06-17 11:42:48,276 - INFO - Added to memory: Q='mujhe jazz premium ke baray mein btayein...', Category=Roman Urdu
+2025-06-17 11:42:48,279 - INFO - Generated response length: 484 characters
+2025-06-17 11:44:15,316 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-17 11:44:16,184 - INFO -  * Restarting with stat
+2025-06-17 11:44:18,307 - INFO - Initializing JazzBot...
+2025-06-17 11:44:18,356 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:44:18,417 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:44:18,479 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:44:18,479 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:44:18,480 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:44:18,481 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:44:18,481 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:44:18,482 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:44:18,484 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:44:18,488 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:44:18,489 - INFO - Total documents loaded: 10
+2025-06-17 11:44:18,577 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:44:24,339 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:44:28,374 - INFO - Reusing existing FAISS index
+2025-06-17 11:44:28,376 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:44:28,554 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:44:28,559 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:44:28,581 - INFO - Vectorstore initialized successfully
+2025-06-17 11:44:28,584 - INFO - LLM initialized successfully
+2025-06-17 11:44:28,586 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:44:28,597 - WARNING -  * Debugger is active!
+2025-06-17 11:44:28,605 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 11:44:52,878 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-17 11:44:53,839 - INFO -  * Restarting with stat
+2025-06-17 11:44:55,908 - INFO - Initializing JazzBot...
+2025-06-17 11:44:55,955 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:44:56,013 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:44:56,070 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:44:56,071 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:44:56,072 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:44:56,073 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:44:56,074 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:44:56,075 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:44:56,077 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:44:56,081 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:44:56,081 - INFO - Total documents loaded: 10
+2025-06-17 11:44:56,176 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:45:01,959 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:45:06,024 - INFO - Reusing existing FAISS index
+2025-06-17 11:45:06,027 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:45:06,206 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:45:06,211 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:45:06,233 - INFO - Vectorstore initialized successfully
+2025-06-17 11:45:06,237 - INFO - LLM initialized successfully
+2025-06-17 11:45:06,239 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:45:06,249 - WARNING -  * Debugger is active!
+2025-06-17 11:45:06,259 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 11:45:10,716 - INFO - 127.0.0.1 - - [17/Jun/2025 11:45:10] "GET / HTTP/1.1" 200 -
+2025-06-17 11:45:10,912 - INFO - 127.0.0.1 - - [17/Jun/2025 11:45:10] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 11:45:10,947 - INFO - 127.0.0.1 - - [17/Jun/2025 11:45:10] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 11:45:11,479 - INFO - 127.0.0.1 - - [17/Jun/2025 11:45:11] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 11:45:25,300 - INFO - Processing query: mujhe jazz premium ke baray mein btayein
+2025-06-17 11:45:25,303 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:45:25,353 - INFO - Retrieved 0 relevant documents
+2025-06-17 11:45:25,353 - INFO - Generated prompt length: 651 characters
+2025-06-17 11:45:25,353 - INFO - Translating response to Urdu
+2025-06-17 11:45:25,380 - ERROR - Error during translation: cannot access local variable 'complete_response' where it is not associated with a value
+2025-06-17 11:45:25,381 - INFO - Using LLM streaming
+2025-06-17 11:45:28,048 - INFO - 127.0.0.1 - - [17/Jun/2025 11:45:28] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:45:49,566 - INFO - Translating response to Urdu
+2025-06-17 11:45:50,681 - INFO - Added to memory: Q='mujhe jazz premium ke baray mein btayein...', Category=Roman Urdu
+2025-06-17 11:45:50,683 - INFO - Generated response length: 337 characters
+2025-06-17 11:45:51,033 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-17 11:45:52,143 - INFO -  * Restarting with stat
+2025-06-17 11:45:55,471 - INFO - Initializing JazzBot...
+2025-06-17 11:45:55,556 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:45:55,654 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:45:55,745 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:45:55,746 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:45:55,747 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:45:55,748 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:45:55,749 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:45:55,750 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:45:55,754 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:45:55,761 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:45:55,762 - INFO - Total documents loaded: 10
+2025-06-17 11:45:55,908 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:46:06,236 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:46:11,776 - INFO - Reusing existing FAISS index
+2025-06-17 11:46:11,780 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:46:11,994 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:46:12,002 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:46:12,038 - INFO - Vectorstore initialized successfully
+2025-06-17 11:46:12,043 - INFO - LLM initialized successfully
+2025-06-17 11:46:12,046 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:46:12,064 - WARNING -  * Debugger is active!
+2025-06-17 11:46:12,079 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 11:48:17,015 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-17 11:48:17,996 - INFO -  * Restarting with stat
+2025-06-17 11:48:20,477 - INFO - Initializing JazzBot...
+2025-06-17 11:48:20,526 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:48:20,587 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:48:20,643 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:48:20,643 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:48:20,644 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:48:20,646 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:48:20,647 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:48:20,648 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:48:20,650 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:48:20,654 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:48:20,654 - INFO - Total documents loaded: 10
+2025-06-17 11:48:20,771 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:48:27,169 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:48:32,372 - INFO - Reusing existing FAISS index
+2025-06-17 11:48:32,375 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:48:32,550 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:48:32,555 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:48:32,577 - INFO - Vectorstore initialized successfully
+2025-06-17 11:48:32,581 - INFO - LLM initialized successfully
+2025-06-17 11:48:32,583 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:48:32,593 - WARNING -  * Debugger is active!
+2025-06-17 11:48:32,602 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 11:50:20,941 - INFO - 127.0.0.1 - - [17/Jun/2025 11:50:20] "GET / HTTP/1.1" 200 -
+2025-06-17 11:50:21,147 - INFO - 127.0.0.1 - - [17/Jun/2025 11:50:21] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 11:50:21,184 - INFO - 127.0.0.1 - - [17/Jun/2025 11:50:21] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 11:50:21,716 - INFO - 127.0.0.1 - - [17/Jun/2025 11:50:21] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 11:50:24,789 - INFO - Processing query: hello
+2025-06-17 11:50:24,791 - INFO - Query analysis - Greeting: True, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:50:24,792 - INFO - 127.0.0.1 - - [17/Jun/2025 11:50:24] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:50:25,500 - INFO - Added to memory: Q='hello...', Category=None
+2025-06-17 11:50:31,088 - INFO - Processing query: how can u help
+2025-06-17 11:50:31,089 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:50:31,399 - INFO - Retrieved 6 relevant documents
+2025-06-17 11:50:31,400 - INFO - Generated prompt length: 625 characters
+2025-06-17 11:50:31,400 - INFO - Using LLM streaming
+2025-06-17 11:50:34,956 - INFO - 127.0.0.1 - - [17/Jun/2025 11:50:34] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:50:58,897 - INFO - Translating response to Urdu
+2025-06-17 11:51:01,351 - INFO - Added to memory: Q='how can u help...', Category=Roman Urdu
+2025-06-17 11:51:01,353 - INFO - Generated response length: 276 characters
+2025-06-17 11:55:57,387 - INFO -  * Detected change in 'C:\\Users\\usman\\Downloads\\new kms chatbot\\chatbot-jazz-kms\\app.py', reloading
+2025-06-17 11:55:58,772 - INFO -  * Restarting with stat
+2025-06-17 11:56:01,340 - INFO - Initializing JazzBot...
+2025-06-17 11:56:01,389 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 11:56:01,450 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 11:56:01,504 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 11:56:01,505 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 11:56:01,506 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 11:56:01,507 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 11:56:01,508 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 11:56:01,509 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 11:56:01,511 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 11:56:01,515 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 11:56:01,515 - INFO - Total documents loaded: 10
+2025-06-17 11:56:01,603 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 11:56:07,295 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 11:56:12,488 - INFO - Reusing existing FAISS index
+2025-06-17 11:56:12,491 - INFO - Loading faiss with AVX2 support.
+2025-06-17 11:56:12,517 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 11:56:12,728 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 11:56:12,748 - INFO - Vectorstore initialized successfully
+2025-06-17 11:56:12,752 - INFO - LLM initialized successfully
+2025-06-17 11:56:12,754 - INFO - Starting JazzBot Flask application...
+2025-06-17 11:56:12,764 - WARNING -  * Debugger is active!
+2025-06-17 11:56:12,773 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 11:57:00,507 - INFO - 127.0.0.1 - - [17/Jun/2025 11:57:00] "GET / HTTP/1.1" 200 -
+2025-06-17 11:57:00,723 - INFO - 127.0.0.1 - - [17/Jun/2025 11:57:00] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 11:57:00,752 - INFO - 127.0.0.1 - - [17/Jun/2025 11:57:00] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 11:57:01,270 - INFO - 127.0.0.1 - - [17/Jun/2025 11:57:01] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 11:57:14,750 - INFO - Processing query: mujhe premium offer ke baray mein btayein please
+2025-06-17 11:57:14,752 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:57:14,914 - INFO - Generated prompt length: 659 characters
+2025-06-17 11:57:42,475 - INFO - 127.0.0.1 - - [17/Jun/2025 11:57:42] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:58:25,222 - INFO - Added to memory: Q='mujhe premium offer ke baray mein btayein please...', Category=Roman Urdu
+2025-06-17 11:58:53,212 - INFO - Processing query: What is Jazz Rox
+2025-06-17 11:58:53,213 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 11:58:53,282 - INFO - Generated prompt length: 627 characters
+2025-06-17 11:58:57,103 - INFO - 127.0.0.1 - - [17/Jun/2025 11:58:57] "POST /chat HTTP/1.1" 200 -
+2025-06-17 11:59:56,233 - INFO - Added to memory: Q='What is Jazz Rox...', Category=Roman Urdu
+2025-06-17 12:02:42,736 - INFO - Processing query: mujhe youtube dekhne ka buht shoq hai. usske mutaliq koi offer btayein ge please?
+2025-06-17 12:02:42,738 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['youtube', 'Roman Urdu']
+2025-06-17 12:02:42,933 - INFO - Generated prompt length: 692 characters
+2025-06-17 12:02:46,570 - INFO - 127.0.0.1 - - [17/Jun/2025 12:02:46] "POST /chat HTTP/1.1" 200 -
+2025-06-17 12:03:31,221 - INFO - Added to memory: Q='mujhe youtube dekhne ka buht shoq hai. usske mutal...', Category=youtube
+2025-06-17 13:46:31,891 - INFO - Initializing JazzBot...
+2025-06-17 13:46:31,965 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 13:46:32,044 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 13:46:32,110 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 13:46:32,118 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 13:46:32,120 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 13:46:32,123 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 13:46:32,125 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 13:46:32,135 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 13:46:32,150 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 13:46:32,163 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 13:46:32,164 - INFO - Total documents loaded: 10
+2025-06-17 13:46:32,252 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 13:47:18,040 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 13:47:28,101 - INFO - Reusing existing FAISS index
+2025-06-17 13:47:28,119 - INFO - Loading faiss with AVX2 support.
+2025-06-17 13:47:28,795 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 13:47:28,865 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 13:47:28,903 - INFO - Vectorstore initialized successfully
+2025-06-17 13:47:28,950 - INFO - LLM initialized successfully
+2025-06-17 13:47:28,952 - INFO - Starting JazzBot Flask application...
+2025-06-17 13:47:29,060 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://10.124.64.157:6061
+2025-06-17 13:47:29,060 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-17 13:47:29,069 - INFO -  * Restarting with stat
+2025-06-17 13:47:31,111 - INFO - Initializing JazzBot...
+2025-06-17 13:47:31,166 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 13:47:31,230 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 13:47:31,285 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 13:47:31,286 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 13:47:31,287 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 13:47:31,288 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 13:47:31,288 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 13:47:31,289 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 13:47:31,291 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 13:47:31,295 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 13:47:31,296 - INFO - Total documents loaded: 10
+2025-06-17 13:47:31,386 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 13:47:37,108 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 13:47:42,037 - INFO - Reusing existing FAISS index
+2025-06-17 13:47:42,043 - INFO - Loading faiss with AVX2 support.
+2025-06-17 13:47:42,211 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 13:47:42,217 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 13:47:42,239 - INFO - Vectorstore initialized successfully
+2025-06-17 13:47:42,242 - INFO - LLM initialized successfully
+2025-06-17 13:47:42,244 - INFO - Starting JazzBot Flask application...
+2025-06-17 13:47:42,257 - WARNING -  * Debugger is active!
+2025-06-17 13:47:42,267 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 13:48:21,949 - INFO - 127.0.0.1 - - [17/Jun/2025 13:48:21] "GET / HTTP/1.1" 200 -
+2025-06-17 13:48:22,232 - INFO - 127.0.0.1 - - [17/Jun/2025 13:48:22] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 13:48:22,240 - INFO - 127.0.0.1 - - [17/Jun/2025 13:48:22] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 13:48:22,846 - INFO - 127.0.0.1 - - [17/Jun/2025 13:48:22] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 13:48:29,916 - INFO - Processing query: hello how are you
+2025-06-17 13:48:30,721 - INFO - Query analysis - Greeting: False, Roman Urdu: False, Follow-up: False, Categories: []
+2025-06-17 13:48:31,011 - INFO - Generated prompt length: 999 characters
+2025-06-17 13:48:34,199 - WARNING - Streaming failed, using invoke: Ollama call failed with status code 500. Details: {"error":"model requires more system memory (3.4 GiB) than is available (3.3 GiB)"}
+2025-06-17 13:48:36,659 - ERROR - Error in generation: Ollama call failed with status code 500. Details: {"error":"model requires more system memory (3.4 GiB) than is available (3.4 GiB)"}
+2025-06-17 13:48:36,659 - INFO - 127.0.0.1 - - [17/Jun/2025 13:48:36] "POST /chat HTTP/1.1" 200 -
+2025-06-17 13:52:16,490 - INFO - Initializing JazzBot...
+2025-06-17 13:52:16,559 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 13:52:16,641 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 13:52:16,716 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 13:52:16,723 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 13:52:16,731 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 13:52:16,744 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 13:52:16,757 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 13:52:16,769 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 13:52:16,784 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 13:52:16,796 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 13:52:16,796 - INFO - Total documents loaded: 10
+2025-06-17 13:52:16,896 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 13:53:05,860 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 13:53:18,932 - INFO - Reusing existing FAISS index
+2025-06-17 13:53:18,979 - INFO - Loading faiss with AVX2 support.
+2025-06-17 13:53:19,556 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 13:53:19,595 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 13:53:19,643 - INFO - Vectorstore initialized successfully
+2025-06-17 13:53:19,696 - INFO - LLM initialized successfully
+2025-06-17 13:53:19,698 - INFO - Starting JazzBot Flask application...
+2025-06-17 13:53:19,856 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://10.124.64.157:6061
+2025-06-17 13:53:19,857 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-17 13:53:19,866 - INFO -  * Restarting with stat
+2025-06-17 13:53:25,049 - INFO - Initializing JazzBot...
+2025-06-17 13:53:25,123 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 13:53:25,224 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 13:53:25,288 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 13:53:25,289 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 13:53:25,289 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 13:53:25,290 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 13:53:25,292 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 13:53:25,293 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 13:53:25,295 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 13:53:25,300 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 13:53:25,300 - INFO - Total documents loaded: 10
+2025-06-17 13:53:25,445 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 13:53:32,444 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 13:53:37,274 - INFO - Reusing existing FAISS index
+2025-06-17 13:53:37,278 - INFO - Loading faiss with AVX2 support.
+2025-06-17 13:53:37,460 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 13:53:37,469 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 13:53:37,495 - INFO - Vectorstore initialized successfully
+2025-06-17 13:53:37,500 - INFO - LLM initialized successfully
+2025-06-17 13:53:37,502 - INFO - Starting JazzBot Flask application...
+2025-06-17 13:53:37,514 - WARNING -  * Debugger is active!
+2025-06-17 13:53:37,623 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 13:56:55,594 - INFO - 127.0.0.1 - - [17/Jun/2025 13:56:55] "GET / HTTP/1.1" 200 -
+2025-06-17 13:56:55,895 - INFO - 127.0.0.1 - - [17/Jun/2025 13:56:55] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 13:56:55,913 - INFO - 127.0.0.1 - - [17/Jun/2025 13:56:55] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 13:56:55,931 - INFO - 127.0.0.1 - - [17/Jun/2025 13:56:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-17 13:56:56,436 - INFO - 127.0.0.1 - - [17/Jun/2025 13:56:56] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 13:57:02,975 - INFO - Processing query: ap meri kia madad kersakte hain
+2025-06-17 13:57:03,770 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 13:57:04,120 - INFO - Generated prompt length: 642 characters
+2025-06-17 13:57:40,494 - INFO - 127.0.0.1 - - [17/Jun/2025 13:57:40] "POST /chat HTTP/1.1" 200 -
+2025-06-17 13:58:41,784 - INFO - Added to memory: Q='ap meri kia madad kersakte hain...', Category=Roman Urdu
+2025-06-17 13:59:15,478 - INFO - Processing query: How are you?
+2025-06-17 13:59:15,493 - INFO - Query analysis - Greeting: False, Roman Urdu: False, Follow-up: False, Categories: []
+2025-06-17 13:59:15,612 - INFO - Generated prompt length: 3969 characters
+2025-06-17 13:59:26,507 - INFO - 127.0.0.1 - - [17/Jun/2025 13:59:26] "POST /chat HTTP/1.1" 200 -
+2025-06-17 13:59:51,806 - INFO - Added to memory: Q='How are you?...', Category=None
+2025-06-17 14:05:28,539 - INFO - Initializing JazzBot...
+2025-06-17 14:05:28,602 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 14:05:28,673 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 14:05:28,738 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 14:05:28,746 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 14:05:28,756 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 14:05:28,765 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 14:05:28,774 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 14:05:28,785 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 14:05:28,795 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 14:05:28,809 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 14:05:28,810 - INFO - Total documents loaded: 10
+2025-06-17 14:05:28,897 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 14:06:16,892 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 14:06:25,967 - INFO - Reusing existing FAISS index
+2025-06-17 14:06:25,996 - INFO - Loading faiss with AVX2 support.
+2025-06-17 14:06:26,452 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 14:06:26,492 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 14:06:26,532 - INFO - Vectorstore initialized successfully
+2025-06-17 14:06:26,580 - INFO - LLM initialized successfully
+2025-06-17 14:06:26,583 - INFO - Starting JazzBot Flask application...
+2025-06-17 14:06:26,701 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6061
+ * Running on http://10.124.64.157:6061
+2025-06-17 14:06:26,701 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-17 14:06:26,711 - INFO -  * Restarting with stat
+2025-06-17 14:06:28,816 - INFO - Initializing JazzBot...
+2025-06-17 14:06:28,865 - INFO - Loaded 1 documents from cleaned_data\B2C\data_offers.txt
+2025-06-17 14:06:28,929 - INFO - Loaded 1 documents from cleaned_data\B2C\offers.txt
+2025-06-17 14:06:28,984 - INFO - Loaded 1 documents from cleaned_data\B2C\packages.txt
+2025-06-17 14:06:28,985 - INFO - Loaded 1 documents from cleaned_data\CFL\data_offers.txt
+2025-06-17 14:06:28,986 - INFO - Loaded 1 documents from cleaned_data\CFL\offers.txt
+2025-06-17 14:06:28,987 - INFO - Loaded 1 documents from cleaned_data\CFL\packages.txt
+2025-06-17 14:06:28,987 - INFO - Loaded 1 documents from cleaned_data\digital\offers.txt
+2025-06-17 14:06:28,989 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\data_offers.txt
+2025-06-17 14:06:28,992 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\offers.txt
+2025-06-17 14:06:28,996 - INFO - Loaded 1 documents from cleaned_data\jazz_rox\packages.txt
+2025-06-17 14:06:28,996 - INFO - Total documents loaded: 10
+2025-06-17 14:06:29,088 - INFO - Created 4086 chunks from 10 documents
+2025-06-17 14:06:35,082 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-06-17 14:06:39,616 - INFO - Reusing existing FAISS index
+2025-06-17 14:06:39,619 - INFO - Loading faiss with AVX2 support.
+2025-06-17 14:06:39,865 - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-17 14:06:39,880 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 14:06:39,937 - INFO - Vectorstore initialized successfully
+2025-06-17 14:06:39,942 - INFO - LLM initialized successfully
+2025-06-17 14:06:39,951 - INFO - Starting JazzBot Flask application...
+2025-06-17 14:06:39,970 - WARNING -  * Debugger is active!
+2025-06-17 14:06:39,981 - INFO -  * Debugger PIN: 980-051-242
+2025-06-17 14:06:42,537 - INFO - 127.0.0.1 - - [17/Jun/2025 14:06:42] "GET / HTTP/1.1" 200 -
+2025-06-17 14:06:42,904 - INFO - 127.0.0.1 - - [17/Jun/2025 14:06:42] "[36mGET /static/chatbot.css HTTP/1.1[0m" 304 -
+2025-06-17 14:06:42,934 - INFO - 127.0.0.1 - - [17/Jun/2025 14:06:42] "[36mGET /static/chatbot.js HTTP/1.1[0m" 304 -
+2025-06-17 14:06:43,451 - INFO - 127.0.0.1 - - [17/Jun/2025 14:06:43] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
+2025-06-17 14:06:50,167 - INFO - Processing query: ap ko kia kia maalooom hao
+2025-06-17 14:06:51,074 - INFO - Query analysis - Greeting: False, Roman Urdu: True, Follow-up: False, Categories: ['Roman Urdu']
+2025-06-17 14:06:51,221 - INFO - Generated prompt length: 611 characters
+2025-06-17 14:07:23,847 - INFO - 127.0.0.1 - - [17/Jun/2025 14:07:23] "POST /chat HTTP/1.1" 200 -
+2025-06-17 14:07:52,338 - INFO - Added to memory: Q='ap ko kia kia maalooom hao...', Category=Roman Urdu
+2025-06-17 14:15:01,522 - INFO - Processing query: What can you help me with
+2025-06-17 14:15:01,610 - INFO - Query analysis - Greeting: False, Roman Urdu: False, Follow-up: False, Categories: []
+2025-06-17 14:15:02,257 - INFO - Generated prompt length: 3630 characters
+2025-06-17 14:15:34,183 - INFO - 127.0.0.1 - - [17/Jun/2025 14:15:34] "POST /chat HTTP/1.1" 200 -
+2025-06-17 14:16:18,854 - INFO - Added to memory: Q='What can you help me with...', Category=None
+2025-06-17 15:10:22,750 - INFO - 127.0.0.1 - - [17/Jun/2025 15:10:22] "[36mGET /static/assets/Jazz-Company-logo-.png HTTP/1.1[0m" 304 -
