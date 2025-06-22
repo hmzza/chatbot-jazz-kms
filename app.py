@@ -318,20 +318,28 @@ class QueryAnalyzer:
 
     @staticmethod
     def is_roman_urdu(text: str) -> bool:
+        roman_urdu_keywords = [
+            "mujhe", "btayein", "kya", "kaise", "nahi", "hai", "ka", "ke", "mein",
+            "ap", "aap", "tum", "ker", "kar", "acha", "bura", "kyun", "kahan",
+            "mil", "jaldi", "abhi", "ghar", "bata", "karna"
+        ]
+        
+        text_lower = text.lower()
+
         try:
             lang = detect(text)
-            # If detected language is English, return False
             if lang == "en":
+                # Double-check for Roman Urdu keywords in English-classified text
+                for word in roman_urdu_keywords:
+                    if re.search(rf"\b{word}\b", text_lower):
+                        return True
                 return False
             else:
-                return True  # Assume Roman Urdu if not English
+                return True  # Non-English → assume Roman Urdu
         except:
-            # Fallback logic for unclassifiable texts
-            roman_urdu_patterns = [
-                r"\b(kia|kaise|ker|mujhe|ap|mein|ka)\b",  # Common Roman Urdu words
-                r"[a-zA-Z]+(?![.])"  # Non-English, Roman script pattern
-            ]
-            return any(re.search(pattern, text.lower()) for pattern in roman_urdu_patterns)
+            # On error, check manually
+            return any(re.search(rf"\b{word}\b", text_lower) for word in roman_urdu_keywords)
+
 
     @classmethod
     def is_greeting(cls, query: str) -> bool:
@@ -388,12 +396,12 @@ class PromptEngine:
         base_instructions = """You are JazzBot, a helpful assistant for Jazz Telecom Pakistan. 
 
 CORE PRINCIPLES:
-- Provide accurate information based on the provided knowledge
-- Be conversational and friendly
-- Keep responses concise and to the point
-- Always specify the category when mentioning packages (B2C, B2B, etc.)
-- Use bullet points for detailed information
-- Don't make up information if not in the knowledge base"""
+- Provide accurate information based on the provided knowledge.
+- Be conversational but always grammatically correct.
+- Keep responses concise and to the point.
+- Always specify the category when mentioning packages (B2C, B2B, etc.).
+- Use bullet points for details when listing features.
+- Never make up information if it's not in the knowledge base."""
 
         # Handle Roman Urdu detection
         if query_analyzer.is_roman_urdu(user_input):
@@ -405,8 +413,19 @@ CONVERSATION HISTORY:
 SITUATION: Roman Urdu query detected.
 
 INSTRUCTIONS:
-- Respond in Roman Urdu instead of English.
-- Provide concise information, just like in English.
+- Respond in **grammatically correct Roman Urdu**.
+- Start your response with **"Jee zaroor!"** (always).
+- Do not use casual or incorrect phrases like "bohat hi aam hain" or "humnein 4 hafte ki package".
+- Use correct structure: e.g., "4 hafton ka package", "Jazz Telecom ke packages", etc.
+- Do **not** include any English phrases like "Follow-up question".
+- End with a natural Roman Urdu question if relevant, like:  
+  ➤ "Kya aap kisi aur package ke baray mein maloomat lena chahenge?"
+- Keep the tone formal — no slang, no informal speech.
+
+### Example Response (for inspiration):
+Jee zaroor! Jazz Telecom Pakistan ke hafton ke liye kuch khaas packages hain.  
+- **Jazz Super Weekly** (B2C): 6 GB internet, unlimited calls, 100 SMS.  
+Kya aap kisi aur offer ke baray mein maloomat lena chahenge?
 
 USER REQUEST: {user_input}"""
 
@@ -781,8 +800,8 @@ def chat():
                 except Exception as translation_error:
                     logger.error(f"Error during translation: {translation_error}")
 
-            if roman_urdu_translation:
-                yield f"\n\nTranslation (Roman Urdu): {roman_urdu_translation}"
+#            if roman_urdu_translation:
+#                yield f"\n\nTranslation (Roman Urdu): {roman_urdu_translation}"
 
             def update_memory():
                 try:
