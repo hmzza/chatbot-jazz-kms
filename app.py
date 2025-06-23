@@ -29,6 +29,7 @@ import logging
 from typing import List, Dict, Optional, Tuple
 from dataclasses import dataclass
 import threading
+
 # from googletrans_new import Translator
 from indicnlp.transliterate.unicode_transliterate import ItransTransliterator
 from translatepy import Translator
@@ -41,10 +42,14 @@ DetectorFactory.seed = 0  # Ensures reproducibility for langdetect
 
 # Configure Indic NLP resources path
 from indicnlp import common
-common.set_resources_path('/path-to-indic-nlp-resources')  # Replace with your actual path
+
+common.set_resources_path(
+    "/path-to-indic-nlp-resources"
+)  # Replace with your actual path
 
 # Initialize the translator
 translator = Translator()
+
 
 def translate_to_roman_urdu(text: str) -> str:
     """Translate text to Urdu and convert it to Roman Urdu using Indic NLP."""
@@ -52,13 +57,14 @@ def translate_to_roman_urdu(text: str) -> str:
         # Translate text to Urdu
         translated = translator.translate(text, "Urdu")
         urdu_text = translated.result
-        
+
         # Transliterate Urdu script to Roman script
-        roman_urdu = ItransTransliterator.to_itrans(urdu_text, 'ur')
+        roman_urdu = ItransTransliterator.to_itrans(urdu_text, "ur")
         return roman_urdu
     except Exception as e:
         print(f"Error: {e}")
         return text  # Fallback to the original text
+
 
 # Configure logging
 logging.basicConfig(
@@ -286,7 +292,6 @@ class CategoryDetector:
 
         return detected_categories
 
-
     @classmethod
     def detect_primary_category(cls, query: str) -> Optional[str]:
         """Detect primary category"""
@@ -319,11 +324,32 @@ class QueryAnalyzer:
     @staticmethod
     def is_roman_urdu(text: str) -> bool:
         roman_urdu_keywords = [
-            "mujhe", "btayein", "kya", "kaise", "nahi", "hai", "ka", "ke", "mein",
-            "ap", "aap", "tum", "ker", "kar", "acha", "bura", "kyun", "kahan",
-            "mil", "jaldi", "abhi", "ghar", "bata", "karna"
+            "mujhe",
+            "btayein",
+            "kya",
+            "kaise",
+            "nahi",
+            "hai",
+            "ka",
+            "ke",
+            "mein",
+            "ap",
+            "aap",
+            "tum",
+            "ker",
+            "kar",
+            "acha",
+            "bura",
+            "kyun",
+            "kahan",
+            "mil",
+            "jaldi",
+            "abhi",
+            "ghar",
+            "bata",
+            "karna",
         ]
-        
+
         text_lower = text.lower()
 
         try:
@@ -338,8 +364,9 @@ class QueryAnalyzer:
                 return True  # Non-English → assume Roman Urdu
         except:
             # On error, check manually
-            return any(re.search(rf"\b{word}\b", text_lower) for word in roman_urdu_keywords)
-
+            return any(
+                re.search(rf"\b{word}\b", text_lower) for word in roman_urdu_keywords
+            )
 
     @classmethod
     def is_greeting(cls, query: str) -> bool:
@@ -398,6 +425,7 @@ class PromptEngine:
 CORE PRINCIPLES:
 - Provide accurate information based on the provided knowledge.
 - Be conversational but always grammatically correct.
+- Don't greet everytime, only if the user greets you.
 - Keep responses concise and to the point.
 - Always specify the category when mentioning packages (B2C, B2B, etc.).
 - Use bullet points for details when listing features.
@@ -414,7 +442,10 @@ SITUATION: Roman Urdu query detected.
 
 INSTRUCTIONS:
 - Respond in **grammatically correct Roman Urdu**.
-- Start your response with **"Jee zaroor!"** (always).
+- Don't greet everytime, only if the user greets you.
+- Don't use any Hindi words or phrases.
+- Provide concise and accurate information based on the knowledge base.
+- Start your response with right answer.
 - Do not use casual or incorrect phrases like "bohat hi aam hain" or "humnein 4 hafte ki package".
 - Use correct structure: e.g., "4 hafton ka package", "Jazz Telecom ke packages", etc.
 - Do **not** include any English phrases like "Follow-up question".
@@ -423,7 +454,7 @@ INSTRUCTIONS:
 - Keep the tone formal — no slang, no informal speech.
 
 ### Example Response (for inspiration):
-Jee zaroor! Jazz Telecom Pakistan ke hafton ke liye kuch khaas packages hain.  
+Hi! Jazz Telecom Pakistan ke hafton ke liye kuch khaas packages hain.  
 - **Jazz Super Weekly** (B2C): 6 GB internet, unlimited calls, 100 SMS.  
 Kya aap kisi aur offer ke baray mein maloomat lena chahenge?
 
@@ -495,6 +526,7 @@ INSTRUCTIONS:
 - For greetings: "Hi! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
 - For specific queries: "I'd be happy to help! Could you please specify what type of Jazz service you're looking for? For example: B2C packages, B2B solutions, data offers, voice plans, or SMS bundles?"
 - Keep response under 50 words
+- Don't greet everytime, only if the user greets you.
 - Be helpful and guide the user to provide more specific information
 
 
@@ -682,7 +714,20 @@ def chat():
         )
 
         if is_greeting:
-            response = "Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
+            if any(
+                word in user_input.lower()
+                for word in [
+                    "salam",
+                    "assalam",
+                    "aoa",
+                    "assalam o alaikum",
+                    "slam",
+                    "assalam",
+                ]
+            ):
+                response = "Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
+            else:
+                response = "Hello! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
 
             def stream_greeting():
                 words = response.split()
@@ -800,8 +845,8 @@ def chat():
                 except Exception as translation_error:
                     logger.error(f"Error during translation: {translation_error}")
 
-#            if roman_urdu_translation:
-#                yield f"\n\nTranslation (Roman Urdu): {roman_urdu_translation}"
+            #            if roman_urdu_translation:
+            #                yield f"\n\nTranslation (Roman Urdu): {roman_urdu_translation}"
 
             def update_memory():
                 try:
