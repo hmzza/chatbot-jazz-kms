@@ -51,10 +51,6 @@ INSTRUCTIONS:
   ➤ "Kya aap kisi aur package ke baray mein maloomat lena chahenge?"
 - Keep the tone formal — no slang, no informal speech.
 
-### Example Response (for inspiration):
-Hi! Jazz Telecom Pakistan ke hafton ke liye kuch khaas packages hain.  
-- **Jazz Super Weekly** (B2C): 6 GB internet, unlimited calls, 100 SMS.  
-Kya aap kisi aur offer ke baray mein maloomat lena chahenge?
 
 USER REQUEST: {user_input}"""
     
