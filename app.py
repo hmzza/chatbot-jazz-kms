@@ -6,11 +6,9 @@ from flask import Flask, session
 import os
 import threading
 from datetime import datetime
-
 from config import Config
 from utils.logger import setup_logger
 from models.memory import ConversationMemory
-# from services.retriever import build_retriever
 from services.retriever import RetrieverService
 from services.analyzer import QueryAnalyzer
 from routes.chat import chat_bp
@@ -18,7 +16,7 @@ from routes.admin import admin_bp
 
 # Configure logging
 logger = setup_logger(__name__)
-
+ 
 # Initialize Flask app
 app = Flask(__name__)
 app.secret_key = os.environ.get(
