@@ -7342,3 +7342,73 @@ NameError: name 'Ollama' is not defined
 2025-06-26 15:33:23,961 - jazzbot - INFO - Total documents loaded: 10
 2025-06-26 15:33:24,079 - jazzbot - INFO - Created 4086 chunks from 10 documents
 2025-06-26 15:33:24,083 - jazzbot - INFO - Reusing existing FAISS index
+2025-06-30 10:17:00,130 - jazzbot - INFO - Embeddings initialized successfully
+2025-06-30 10:17:00,139 - jazzbot - INFO - LLM initialized successfully
+2025-06-30 10:17:00,165 - jazzbot - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-06-30 10:17:00,185 - jazzbot - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-06-30 10:17:00,201 - jazzbot - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-06-30 10:17:00,201 - jazzbot - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-06-30 10:17:00,202 - jazzbot - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-06-30 10:17:00,203 - jazzbot - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-06-30 10:17:00,203 - jazzbot - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-06-30 10:17:00,204 - jazzbot - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-06-30 10:17:00,204 - jazzbot - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-06-30 10:17:00,204 - jazzbot - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-06-30 10:17:00,204 - jazzbot - INFO - Total documents loaded: 10
+2025-06-30 10:17:00,322 - jazzbot - INFO - Created 4086 chunks from 10 documents
+2025-06-30 10:17:00,326 - jazzbot - INFO - Reusing existing FAISS index
+2025-06-30 10:17:00,460 - __main__ - INFO - Initializing JazzBot...
+2025-06-30 10:17:04,112 - jazzbot - INFO - Embeddings initialized successfully
+2025-06-30 10:17:04,143 - jazzbot - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-06-30 10:17:04,165 - jazzbot - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-06-30 10:17:04,181 - jazzbot - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-06-30 10:17:04,181 - jazzbot - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-06-30 10:17:04,182 - jazzbot - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-06-30 10:17:04,183 - jazzbot - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-06-30 10:17:04,183 - jazzbot - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-06-30 10:17:04,183 - jazzbot - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-06-30 10:17:04,183 - jazzbot - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-06-30 10:17:04,183 - jazzbot - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-06-30 10:17:04,183 - jazzbot - INFO - Total documents loaded: 10
+2025-06-30 10:17:04,218 - jazzbot - INFO - Created 4086 chunks from 10 documents
+2025-06-30 10:17:04,220 - jazzbot - INFO - Reusing existing FAISS index
+2025-06-30 10:17:04,226 - __main__ - INFO - Vectorstore initialized successfully
+2025-06-30 10:17:04,227 - __main__ - INFO - Starting JazzBot Flask application...
+2025-06-30 10:17:11,665 - jazzbot - INFO - Embeddings initialized successfully
+2025-06-30 10:17:11,672 - jazzbot - INFO - LLM initialized successfully
+2025-06-30 10:17:11,699 - jazzbot - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-06-30 10:17:11,719 - jazzbot - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-06-30 10:17:11,734 - jazzbot - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-06-30 10:17:11,735 - jazzbot - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-06-30 10:17:11,735 - jazzbot - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-06-30 10:17:11,736 - jazzbot - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-06-30 10:17:11,736 - jazzbot - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-06-30 10:17:11,736 - jazzbot - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-06-30 10:17:11,737 - jazzbot - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-06-30 10:17:11,737 - jazzbot - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-06-30 10:17:11,737 - jazzbot - INFO - Total documents loaded: 10
+2025-06-30 10:17:11,851 - jazzbot - INFO - Created 4086 chunks from 10 documents
+2025-06-30 10:17:11,854 - jazzbot - INFO - Reusing existing FAISS index
+2025-06-30 10:17:11,877 - __main__ - INFO - Initializing JazzBot...
+2025-06-30 10:17:16,298 - jazzbot - INFO - Embeddings initialized successfully
+2025-06-30 10:17:16,329 - jazzbot - INFO - Loaded 1 documents from cleaned_data/B2C/data_offers.txt
+2025-06-30 10:17:16,351 - jazzbot - INFO - Loaded 1 documents from cleaned_data/B2C/offers.txt
+2025-06-30 10:17:16,366 - jazzbot - INFO - Loaded 1 documents from cleaned_data/B2C/packages.txt
+2025-06-30 10:17:16,367 - jazzbot - INFO - Loaded 1 documents from cleaned_data/jazz_rox/data_offers.txt
+2025-06-30 10:17:16,367 - jazzbot - INFO - Loaded 1 documents from cleaned_data/jazz_rox/offers.txt
+2025-06-30 10:17:16,368 - jazzbot - INFO - Loaded 1 documents from cleaned_data/jazz_rox/packages.txt
+2025-06-30 10:17:16,369 - jazzbot - INFO - Loaded 1 documents from cleaned_data/digital/offers.txt
+2025-06-30 10:17:16,369 - jazzbot - INFO - Loaded 1 documents from cleaned_data/CFL/data_offers.txt
+2025-06-30 10:17:16,369 - jazzbot - INFO - Loaded 1 documents from cleaned_data/CFL/offers.txt
+2025-06-30 10:17:16,369 - jazzbot - INFO - Loaded 1 documents from cleaned_data/CFL/packages.txt
+2025-06-30 10:17:16,369 - jazzbot - INFO - Total documents loaded: 10
+2025-06-30 10:17:16,402 - jazzbot - INFO - Created 4086 chunks from 10 documents
+2025-06-30 10:17:16,405 - jazzbot - INFO - Reusing existing FAISS index
+2025-06-30 10:17:16,411 - __main__ - INFO - Vectorstore initialized successfully
+2025-06-30 10:17:16,411 - __main__ - INFO - Starting JazzBot Flask application...
+2025-06-30 10:17:18,011 - jazzbot - INFO - Processing query: I want to see few Offers
+2025-06-30 10:17:18,132 - jazzbot - INFO - Query analysis - Greeting: False, Roman Urdu: False, Follow-up: False, Categories: ['whatsapp']
+2025-06-30 10:17:18,233 - jazzbot - INFO - Generated prompt length: 4622 characters
+2025-06-30 10:17:21,329 - jazzbot - INFO - Processing query: I want to see few Offers
+2025-06-30 10:17:21,337 - jazzbot - INFO - Query analysis - Greeting: False, Roman Urdu: False, Follow-up: False, Categories: ['whatsapp']
+2025-06-30 10:17:21,364 - jazzbot - INFO - Generated prompt length: 4622 characters
