@@ -25,7 +25,7 @@ app.secret_key = os.environ.get(
 
 # Register blueprints
 app.register_blueprint(chat_bp)
-app.register_blueprint(admin_bp, url_prefix='/admin')
+app.register_blueprint(admin_bp, url_prefix="/admin")
 
 # Thread-local storage for request context
 thread_local = threading.local()
@@ -57,12 +57,12 @@ except Exception as e:
     embeddings = None
 
 # Make global components available to blueprints
-app.config['vectorstore'] = vectorstore
-app.config['embeddings'] = embeddings
-app.config['memory_manager'] = memory_manager
-app.config['query_analyzer'] = query_analyzer
-app.config['jazzbot_config'] = config
-app.config['thread_local'] = thread_local
+app.config["vectorstore"] = vectorstore
+app.config["embeddings"] = embeddings
+app.config["memory_manager"] = memory_manager
+app.config["query_analyzer"] = query_analyzer
+app.config["jazzbot_config"] = config
+app.config["thread_local"] = thread_local
 
 
 @app.before_request
@@ -75,6 +75,7 @@ def before_request():
 def index():
     """Serve main page"""
     from flask import render_template
+
     return render_template("index.html")
 
 
@@ -82,7 +83,7 @@ def index():
 def status():
     """Enhanced status endpoint"""
     memory_count = len(memory_manager.get_memory())
-    
+
     return {
         "status": "online",
         "vectorstore": "available" if vectorstore else "unavailable",
@@ -101,6 +102,7 @@ def internal_error(error):
     """Handle internal errors"""
     logger.error(f"Internal server error: {error}")
     from flask import Response
+
     return Response("Internal server error occurred", status=500)
 
 
@@ -108,9 +110,10 @@ def internal_error(error):
 def not_found(error):
     """Handle 404 errors"""
     from flask import Response
+
     return Response("Page not found", status=404)
 
 
 if __name__ == "__main__":
     logger.info("Starting JazzBot Flask application...")
-    app.run(debug=True, host="0.0.0.0", port=6061)
+    app.run(debug=True, host="0.0.0.0", port=6062)

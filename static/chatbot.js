@@ -34,6 +34,23 @@
     $("#robotArea").removeClass("robot-thinking");
   }
 
+  function disableUI() {
+    $("#send-btn").prop("disabled", true);
+    $("#user-input").prop("disabled", true);
+    $("#quick-replies button").prop("disabled", true);
+    $("#stop-btn").show();
+    startTypingAnimation();
+  }
+
+  function enableUI() {
+    $("#send-btn").prop("disabled", false);
+    $("#user-input").prop("disabled", false);
+    $("#quick-replies button").prop("disabled", false);
+    $("#stop-btn").hide();
+    $("#user-input").focus();
+    stopTypingAnimation();
+  }
+
   function sendMessage() {
     const input = $("#user-input");
     const userMsg = input.val().trim();
@@ -42,11 +59,8 @@
     appendMessage(userMsg, "user");
     input.val("");
 
-    // Show the stop button and start typing animation
-    $("#stop-btn").show();
-    $("#send-btn").prop("disabled", true);
-    $("#user-input").prop("disabled", true);
-    startTypingAnimation();
+    // Disable all UI elements
+    disableUI();
 
     const bubble = $("<div>").addClass("chat-bubble").addClass("bot");
     const logo = $("<img>")
@@ -85,7 +99,7 @@
                 .replace(/\n/g, "<br>");
 
               messageContent.html(formattedText);
-              resetUI();
+              enableUI();
               return;
             }
 
@@ -111,7 +125,7 @@
           } else {
             messageContent.html("Error: " + err.message);
           }
-          resetUI();
+          enableUI();
         });
       })
       .catch((error) => {
@@ -121,7 +135,7 @@
           bubble.remove();
           appendMessage("Error: " + error.message, "bot");
         }
-        resetUI();
+        enableUI();
       });
   }
 
@@ -132,15 +146,12 @@
     }
   }
 
-  function resetUI() {
-    $("#stop-btn").hide();
-    $("#send-btn").prop("disabled", false);
-    $("#user-input").prop("disabled", false);
-    $("#user-input").focus();
-    stopTypingAnimation();
-  }
-
   function sendQuickReply(message) {
+    // Check if UI is currently disabled (response in progress)
+    if ($("#quick-replies button").prop("disabled")) {
+      return; // Don't send if disabled
+    }
+    
     $("#user-input").val(message);
     sendMessage();
   }
@@ -164,7 +175,9 @@
     document
       .getElementById("user-input")
       .addEventListener("keypress", function (e) {
-        if (e.key === "Enter") sendMessage();
+        if (e.key === "Enter" && !$("#user-input").prop("disabled")) {
+          sendMessage();
+        }
       });
   });
 })();
