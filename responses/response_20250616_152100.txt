@@ -1,6 +1,0 @@
-Question: kia ap meri madad kersakte hain
-Response: Mere dost! Main JazzBot hoon, aur main aapki madad kerna chahta hoon. Main Roman Urdu mein baat kar raha hoon, kyunki aap ne Roman Urdu query detect ki thi.
-
-Aapko kya zaroorat hai? Koi package ya service chahiye? Mere pas Jazz Telecom Pakistan ka knowledge base hai, aur main aapki madad kerna chahta hoon.
-Category: Roman Urdu
-Timestamp: 2025-06-16T15:21:00.642758

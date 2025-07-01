@@ -1,8 +1,0 @@
-Question: tell me an offer for snapchat
-Response: Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?
-
-We have a few offers that include Snapchat data. For B2C customers, we have the Daily Snapchat Offer which provides 400MB of Snapchat data and 100MB of normal data for a daily charge.
-
-Would you like more details?
-Category: Unknown
-Timestamp: 2025-06-02T15:44:58.277263

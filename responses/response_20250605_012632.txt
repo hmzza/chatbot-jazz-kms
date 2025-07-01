@@ -1,9 +1,0 @@
-Question: do you have any youtube related offers
-Response: I've got some exciting news for you! We have a few YouTube-related offers in our portfolio. For B2C customers, we offer:
-
-* 5 GB YouTube only data bundle (Offer ID: 92) with a validity of 7 days and charges at PKR 80.0.
-* Daily YouTube bundle (Offer ID: 93) offering 1.5 GB data for YouTube, Facebook, and WhatsApp, valid for 24 hours.
-
-Would you like more details?
-Category: youtube
-Timestamp: 2025-06-05T01:26:32.032168

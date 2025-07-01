@@ -1,8 +1,0 @@
-Question: do you have any youtube related offers
-Response: I've got some exciting news for you! We have two YouTube-related offers in our B2C category.
-
-For the first offer (Offer ID 92), you can get 5 GB of data usable only for YouTube with a validity period of 7 days. The subscription code is #570, and the unsubscription code is #5704.
-
-The second offer (Offer IDs 93-95) offers 1.5 GB of data for YouTube, Facebook, and WhatsApp, valid for 24 hours. You can subscribe using the code #968# or #11455#, and unsubscribe with the code #9684# or #114554#. Would you like more details?
-Category: youtube
-Timestamp: 2025-06-05T01:13:30.380931

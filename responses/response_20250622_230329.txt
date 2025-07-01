@@ -1,9 +1,0 @@
-Question: kia ap mujhe youtube package ke baray mein bta sakte hain
-Response: Kya aap YouTube package ke baare mein jaanana chahte hain? Jazz Telecom Pakistan mein YouTube package kuch is tarah hai:
-
-• Jazz B2C YouTube Package: Aapko 5 GB data, unlimited calls, and 500 SMS per month milta hai.
-• Jazz B2B YouTube Package: Aapko 10 GB data, unlimited calls, and 1000 SMS per month milta hai.
-
-Jee zaroor!
-Category: youtube
-Timestamp: 2025-06-22T23:03:29.313637

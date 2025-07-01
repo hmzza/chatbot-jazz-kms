@@ -1,6 +1,0 @@
-Question: show me some good offers for youtube
-Response: Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?
-
-We have an exciting offer just for YouTube enthusiasts! Our 92 Offer (B2C) provides 5 GB of data usable only on YouTube for PKR 80.0, valid for 7 days with a time window of 24/7. Would you like more details?
-Category: youtube
-Timestamp: 2025-06-02T15:44:33.343082

@@ -1,6 +1,0 @@
-Question: do you have any youtube related queries
-Response: I've got some YouTube-related goodies for you!
-
-As per our knowledge base, we have a Daily YouTube bundle (B2C) that offers 1.5GB of data for YouTube, Facebook, and WhatsApp, valid for 24 hours with a subscription code of 968# or 1145#. Additionally, there's another offer specifically for YouTube, offering 5 GB of data usable only for YouTube, valid for 7 days with a subscription code of 570#. Would you like more details?
-Category: youtube
-Timestamp: 2025-06-05T01:14:45.880723

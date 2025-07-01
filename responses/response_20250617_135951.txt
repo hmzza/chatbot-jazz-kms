@@ -1,4 +1,0 @@
-Question: How are you?
-Response: I'm JazzBot, a helpful assistant for Jazz Telecom Pakistan! I'm functioning well and ready to assist you with any questions or concerns you may have. My knowledge base is up-to-date on various packages, including B2C and B2B offerings. Would you like more details?
-Category: Unknown
-Timestamp: 2025-06-17T13:59:51.809371

@@ -1,6 +1,0 @@
-Question: yes
-Response: Hello! I'm JazzBot, your helpful assistant for Jazz Telecom Pakistan. 
-
-I can provide information on the offers and packages we have. According to our knowledge base, we have a Daily YouTube bundle offer in B2C category. The subscription code is 968# / 114 5#, and the unsubscription code is 968 4# / 114 5 4#. Would you like more details?
-Category: Unknown
-Timestamp: 2025-06-05T01:36:51.045923

@@ -1,4 +1,0 @@
-Question: aoa
-Response: Hello! I'm JazzBot, your helpful assistant for Jazz Telecom Pakistan. How can I assist you today?
-Category: Unknown
-Timestamp: 2025-06-05T01:10:39.875396

@@ -1,6 +1,0 @@
-Question: do you have any azadi offer
-Response: Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?
-
-I've checked our knowledge base and found that we don't have an "Azadi" offer specifically. However, we do have a Monthly Premium Discounted recursive offer (B2C) with 5GB data for Rs.472.99 [Excl Tax]. Would you like more details?
-Category: Unknown
-Timestamp: 2025-06-03T12:12:03.308638

@@ -1,6 +1,0 @@
-Question: kia ap mujhe youtube ke package ke baray mein bta sakte hain
-Response: Jee zaroor! Jazz Telecom Pakistan YouTube ke liye ek special package hai, jisamen 30 GB internet, unlimited calls, aur 100 SMS shamil hain. **Jazz Super Monthly** (B2C) ka package hai, jisamen YouTube streaming ke liye kafi space hai.
-
-Kya aap kisi aur package ke baray mein maloomat lena chahenge?
-Category: youtube
-Timestamp: 2025-06-22T23:26:02.333238
