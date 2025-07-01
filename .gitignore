@@ -6,3 +6,4 @@ __pycache__/
 *.pyc
 responses/
 jazzbot.log
+chroma_db/
