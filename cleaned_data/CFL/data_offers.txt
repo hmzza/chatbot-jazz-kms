@@ -1,0 +1,32 @@
+CATEGORY: CFL
+
+TYPE: DATA_OFFERS
+
+TOTAL ENTRIES: 1
+
+--------------------------------------------------------------------------------
+
+
+
+📦 DATA OFFER: 1 gb add on
+------------------------------------------------------------
+Category: CFL
+Offer ID: 182
+Offer Category: Postpaid
+Consumable Data: 1GB
+Charges: 200 +Tax
+Incentive: 1GB
+Validity: 30Days
+Time Window (Usage Hours): 24 Hrs
+Is Recursive: Non Recursive
+Is Prorated: Advanced 
+Subscription Code: 1
+Unsubscription Code: 1
+Offer Description: 1
+USSD String: 1
+Base Rate: 2.39 per MB
+Main Header: CFL
+Notify Domain: RTG
+Data Type: SpeedNet
+
+

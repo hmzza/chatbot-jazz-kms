@@ -1,0 +1,10 @@
+faiss_index_hash.txt
+faiss_index/
+faiss_index_hash.txt
+venv/
+__pycache__/
+*.pyc
+responses/
+jazzbot.log
+chroma_db/
+qdrant_data/
