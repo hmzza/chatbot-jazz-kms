@@ -15,10 +15,9 @@ from services.analyzer import QueryAnalyzer, CategoryDetector
 from services.prompt import PromptEngine
 from services.retriever import RetrieverService
 from services.translator import TranslationService
-from utils.helpers import save_response
+from utils.helpers import save_response, preprocess_query
 from utils.logger import logger
 from models.memory import thread_local
-
 
 # Initialize services
 config = Config()
@@ -41,7 +40,7 @@ except Exception as e:
 vectorstore, embeddings = retriever_service.build_retriever()
 
 # Create blueprint
-chat_bp = Blueprint('chat', __name__)
+chat_bp = Blueprint("chat", __name__)
 
 
 @chat_bp.route("/chat", methods=["POST"])
@@ -78,12 +77,15 @@ def chat():
         except:
             thread_local.chat_memory = []
 
+        # Preprocess query
+        processed_input = preprocess_query(user_input)
+
         # Analyze query
-        is_greeting = query_analyzer.is_greeting(user_input)
-        is_roman_urdu = query_analyzer.is_roman_urdu(user_input)
+        is_greeting = query_analyzer.is_greeting(processed_input)
+        is_roman_urdu = query_analyzer.is_roman_urdu(processed_input)
         last_response = memory_manager.get_last_response()
-        is_followup = query_analyzer.is_followup(user_input, last_response)
-        detected_categories = category_detector.detect_categories(user_input)
+        is_followup = query_analyzer.is_followup(processed_input, last_response)
+        detected_categories = category_detector.detect_categories(processed_input)
         primary_category = detected_categories[0] if detected_categories else None
 
         logger.info(
@@ -94,7 +96,9 @@ def chat():
         # Handle greeting
         if is_greeting:
             response = prompt_engine.build_greeting_response(user_input)
-            return Response(_stream_response(response, user_input, None), mimetype="text/plain")
+            return Response(
+                _stream_response(response, user_input, None), mimetype="text/plain"
+            )
 
         # Search for relevant documents
         docs = []
@@ -106,10 +110,10 @@ def chat():
                 search_query = (
                     f"{package_name} {primary_category or ''}".strip()
                     if package_name
-                    else user_input
+                    else processed_input
                 )
             else:
-                search_query = user_input
+                search_query = processed_input
 
             docs = retriever_service.search_documents(search_query, config.SEARCH_K)
 
@@ -138,7 +142,7 @@ def chat():
         prompt = prompt_engine.build_context_prompt_main(
             context=context,
             memory_context=memory_context,
-            user_input=user_input,
+            user_input=processed_input,
             is_followup=is_followup,
             package_name=package_name,
             detected_categories=detected_categories,
@@ -146,15 +150,22 @@ def chat():
 
         logger.info(f"Generated prompt length: {len(prompt)} characters")
 
-        return Response(_generate_response(prompt, user_input, primary_category), mimetype="text/plain")
+        return Response(
+            _generate_response(prompt, user_input, primary_category, is_roman_urdu),
+            mimetype="text/plain",
+        )
 
     except Exception as e:
         logger.error(f"Chat error: {e}")
-        error_msg = "I apologize, but I encountered an unexpected error. Please try again."
+        error_msg = (
+            "I apologize, but I encountered an unexpected error. Please try again."
+        )
         return Response(_stream_text(error_msg), mimetype="text/plain")
 
 
-def _generate_response(prompt: str, user_input: str, primary_category: str):
+def _generate_response(
+    prompt: str, user_input: str, primary_category: str, is_roman_urdu: bool
+):
     """Generate streaming response"""
     print("Generate Function Called!!")
     full_response = []
@@ -201,13 +212,17 @@ def _generate_response(prompt: str, user_input: str, primary_category: str):
         return
 
     complete_response = "".join(full_response).strip()
-    
+
     # Handle Roman Urdu translation if needed
-    if query_analyzer.is_roman_urdu(user_input):
+    if is_roman_urdu and not query_analyzer.is_roman_urdu(complete_response):
         try:
-            roman_urdu_translation = translator_service.translate_to_roman_urdu(complete_response)
-            # You can uncomment the line below if you want to show translation
-            # yield f"\n\nTranslation (Roman Urdu): {roman_urdu_translation}"
+            roman_urdu_translation = translator_service.translate_to_roman_urdu(
+                complete_response
+            )
+            complete_response = roman_urdu_translation
+            for char in roman_urdu_translation:
+                yield char
+                time.sleep(0.01)
         except Exception as translation_error:
             logger.error(f"Error during translation: {translation_error}")
 
@@ -231,7 +246,7 @@ def _stream_response(response: str, user_input: str, category: str):
         else:
             yield f" {word}"
         time.sleep(0.05)
-    
+
     # Update memory
     memory_manager.add_exchange(user_input, response, category)
 

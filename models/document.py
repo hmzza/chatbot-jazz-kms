@@ -6,7 +6,7 @@ import os
 from typing import List, Tuple
 from langchain_community.document_loaders import TextLoader
 
-from utils.helpers import clean_text
+from utils.helpers import clean_text, preprocess_roman_urdu
 from utils.logger import logger
 
 
@@ -53,13 +53,17 @@ class DocumentProcessor:
                     documents = loader.load()
 
                     for doc in documents:
-                        doc.page_content = clean_text(doc.page_content)
+                        # Preprocess for Roman Urdu
+                        doc.page_content = preprocess_roman_urdu(
+                            clean_text(doc.page_content)
+                        )
                         doc.metadata.update(
                             {
                                 "category": category,
                                 "file_type": file_type,
                                 "filename": file,
                                 "source_path": file_path,
+                                "is_roman_urdu": "Roman Urdu" in category.lower(),
                             }
                         )
 
