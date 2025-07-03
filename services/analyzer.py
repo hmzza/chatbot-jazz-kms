@@ -26,6 +26,17 @@ class CategoryDetector:
         "facebook": ["facebook", "fb"],
         "youtube": ["youtube", "yt"],
         "whatsapp": ["whatsapp", "wa"],
+        "Roman Urdu": [
+            "mujhe",
+            "batao",
+            "karo",
+            "hai",
+            "ke",
+            "ka",
+            "mein",
+            "pakg",
+            "offr",
+        ],
     }
 
     @classmethod
@@ -39,9 +50,10 @@ class CategoryDetector:
             if any(keyword in query_lower for keyword in keywords):
                 detected_categories.append(category)
 
-        # Special check for Roman Urdu detection
+        # Prioritize Roman Urdu if detected
         if QueryAnalyzer.is_roman_urdu(query):
-            detected_categories.append("Roman Urdu")
+            if "Roman Urdu" not in detected_categories:
+                detected_categories.insert(0, "Roman Urdu")
 
         return detected_categories
 
@@ -74,31 +86,73 @@ class QueryAnalyzer:
         r"(?:jazz\s+)?(super\s+card|smart\s+bundle)",
     ]
 
+    ROMAN_URDU_KEYWORDS = [
+        "mujhe",
+        "btayein",
+        "batao",
+        "karo",
+        "ker",
+        "kar",
+        "nahi",
+        "hai",
+        "ka",
+        "ke",
+        "mein",
+        "ap",
+        "aap",
+        "tum",
+        "acha",
+        "achha",
+        "bura",
+        "kyun",
+        "kahan",
+        "mil",
+        "jaldi",
+        "abhi",
+        "ghar",
+        "karna",
+        "pakg",
+        "package",
+        "offr",
+        "offer",
+        "bandal",
+        "bundle",
+        "hafta",
+        "mahina",
+        "internet",
+        "call",
+        "sms",
+        "data",
+        "minut",
+        "minute",
+    ]
+
+    ROMAN_URDU_PATTERN = r"\b(?:mujhe|btayein|batao|karo|ker|kar|nahi|hai|ka|ke|mein|ap|aap|tum|acha|achha|bura|kyun|kahan|mil|jaldi|abhi|ghar|karna|pakg|offr|bandal|hafta|mahina|internet|call|sms|data|minut|minute)\b"
+
     @staticmethod
     def is_roman_urdu(text: str) -> bool:
-        """Check if text is in Roman Urdu"""
-        roman_urdu_keywords = [
-            "mujhe", "btayein", "kya", "kaise", "nahi", "hai", "ka", "ke", "mein", "ap",
-            "aap", "tum", "ker", "kar", "acha", "bura", "kyun", "kahan", "mil", "jaldi",
-            "abhi", "ghar", "bata", "karna",
-        ]
-
+        """Check if text is in Roman Urdu with improved detection"""
         text_lower = text.lower()
+
+        # Check for Roman Urdu pattern
+        if re.search(QueryAnalyzer.ROMAN_URDU_PATTERN, text_lower, re.IGNORECASE):
+            return True
 
         try:
             lang = detect(text)
             if lang == "en":
-                # Double-check for Roman Urdu keywords in English-classified text
-                for word in roman_urdu_keywords:
-                    if re.search(rf"\b{word}\b", text_lower):
-                        return True
-                return False
-            else:
-                return True  # Non-English → assume Roman Urdu
-        except:
-            # On error, check manually
+                # Double-check for Roman Urdu keywords
+                return any(
+                    re.search(rf"\b{word}\b", text_lower)
+                    for word in QueryAnalyzer.ROMAN_URDU_KEYWORDS
+                )
+            return lang in ["ur", "hi"]  # Urdu or Hindi-like text
+        except Exception as e:
+            logger.error(f"Language detection error: {e}")
+            # Fallback to keyword and pattern matching
             return any(
-                re.search(rf"\b{word}\b", text_lower) for word in roman_urdu_keywords
+                re.search(rf"\b{word}\b", text_lower)
+                for word in QueryAnalyzer.ROMAN_URDU_KEYWORDS
             )
 
     @classmethod

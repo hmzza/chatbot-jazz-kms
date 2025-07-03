@@ -228,11 +228,14 @@ Respond with details about the specific item they're referring to."""
     def build_roman_urdu_prompt(self, user_input: str, memory_context: str) -> str:
         """Build optimized prompt for Roman Urdu queries"""
         base_instructions = self.get_base_instructions()
-        
+
         return f"""{base_instructions}
 
 CONVERSATION HISTORY:
 {memory_context}
+
+KNOWLEDGE BASE:
+{context}
 
 CONTEXT INSTRUCTIONS:
 - Check conversation history to understand any references
@@ -251,7 +254,7 @@ USER REQUEST: {user_input}"""
     def build_followup_prompt(self, user_input: str, memory_context: str, context: str, package_name: str) -> str:
         """Build optimized prompt for follow-up queries"""
         base_instructions = self.get_base_instructions()
-        
+
         return f"""{base_instructions}
 
 CONVERSATION HISTORY:
@@ -311,11 +314,11 @@ INSTRUCTIONS:
 - Be specific about what services are available
 
 USER REQUEST: {user_input}"""
-    
+
     def build_no_context_prompt(self, user_input: str, memory_context: str) -> str:
         """Build prompt when no relevant context is available"""
         base_instructions = self.get_base_instructions()
-        
+
         return f"""{base_instructions}
 
 CONVERSATION HISTORY:
