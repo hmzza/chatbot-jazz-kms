@@ -2,95 +2,78 @@
 models/memory.py - Conversation memory management for JazzBot
 """
 
-import threading
-from typing import List, Dict, Optional
-from datetime import datetime
+from typing import List, Optional
 from flask import session
-
+from threading import local
 from utils.logger import logger
 
-
-# Thread-local storage for request context
-thread_local = threading.local()
-
+# Thread-local storage
+thread_local = local()
 
 class ConversationMemory:
-    """Thread-safe conversation memory management"""
+    """Manage conversation history"""
 
     def __init__(self, max_size: int = 5):
         self.max_size = max_size
 
-    def get_memory(self) -> List[Dict]:
-        """Get conversation history - thread-safe"""
+    def get_memory(self) -> List[dict]:
+        """Get conversation history from session or thread-local"""
         try:
-            # First try to get from thread local (during streaming)
-            if hasattr(thread_local, "chat_memory"):
-                return thread_local.chat_memory
+            memory = getattr(thread_local, "chat_memory", session.get("chat_memory", []))
+            return memory
+        except Exception as e:
+            logger.error(f"Error accessing memory: {e}")
+            return []
 
-            # Otherwise get from session
-            if "chat_memory" not in session:
-                session["chat_memory"] = []
-            return session["chat_memory"]
-        except:
-            # Fallback to empty memory if session unavailable
-            return getattr(thread_local, "chat_memory", [])
-
-    def add_exchange(self, question: str, answer: str, category: Optional[str] = None):
-        """Add a Q&A pair to memory - thread-safe"""
-        entry = {
-            "question": question.strip(),
-            "answer": answer.strip(),
-            "category": category,
-            "timestamp": datetime.now().isoformat(),
-        }
-
+    def add_exchange(self, question: str, answer: str, category: str = None):
+        """Add a question-answer pair to memory"""
         try:
-            # Update session memory if available
-            memory = session.get("chat_memory", [])
-            memory.append(entry)
+            memory = self.get_memory()
+            memory.append({"question": question, "answer": answer, "category": category})
+            
             if len(memory) > self.max_size:
-                memory = memory[-self.max_size :]
+                memory.pop(0)
+            
+            if hasattr(thread_local, "chat_memory"):
+                thread_local.chat_memory = memory
             session["chat_memory"] = memory
-
-            # Also update thread local
-            thread_local.chat_memory = memory
-
-        except:
-            # If session unavailable, use thread local only
-            if not hasattr(thread_local, "chat_memory"):
-                thread_local.chat_memory = []
-            thread_local.chat_memory.append(entry)
-            if len(thread_local.chat_memory) > self.max_size:
-                thread_local.chat_memory = thread_local.chat_memory[-self.max_size :]
-
-        logger.info(f"Added to memory: Q='{question[:50]}...', Category={category}")
+            logger.info(f"Added exchange to memory: {question} -> {answer}")
+        except Exception as e:
+            logger.error(f"Error adding exchange to memory: {e}")
 
     def get_context_string(self, include_last_n: int = 3) -> str:
-        """Generate formatted context string from recent memory"""
-        memory = self.get_memory()
-        if not memory:
+        """Get formatted context string from recent conversations"""
+        try:
+            memory = self.get_memory()
+            context = []
+            for exchange in memory[-include_last_n:]:
+                q = exchange.get("question", "")
+                a = exchange.get("answer", "")
+                c = exchange.get("category", "unknown")
+                context.append(f"User: {q}\nAssistant: {a} (Category: {c})")
+            return "\n".join(context)
+        except Exception as e:
+            logger.error(f"Error building context string: {e}")
             return ""
 
-        recent_memory = memory[-include_last_n:] if include_last_n > 0 else memory
-        context_parts = []
-
-        for i, entry in enumerate(recent_memory, 1):
-            context_parts.append(f"Previous Q{i}: {entry['question']}")
-            context_parts.append(f"Previous A{i}: {entry['answer']}")
-
-        return "\n".join(context_parts)
-
-    def get_last_response(self) -> str:
-        """Get the last response"""
-        memory = self.get_memory()
-        return memory[-1]["answer"] if memory else ""
+    def get_last_response(self) -> Optional[str]:
+        """Get the last response from memory"""
+        try:
+            memory = self.get_memory()
+            return memory[-1]["answer"] if memory else None
+        except Exception as e:
+            logger.error(f"Error getting last response: {e}")
+            return None
 
     def clear_memory(self):
         """Clear conversation memory"""
         try:
+            if hasattr(thread_local, "chat_memory"):
+                thread_local.chat_memory = []
             session["chat_memory"] = []
-        except:
-            pass
-        
-        if hasattr(thread_local, "chat_memory"):
-            delattr(thread_local, "chat_memory")
+            logger.info("Conversation memory cleared")
+        except Exception as e:
+            logger.error(f"Error clearing memory: {e}")
+
+# Global instance
+memory_manager = ConversationMemory()
