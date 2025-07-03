@@ -93,6 +93,35 @@ body {
   background-color: #c82333;
   border-color: #bd2130;
 }
+/* Language Selector */
+.language-selector {
+  text-align: center;
+}
+.language-selector .form-select {
+  width: 100px; /* Increased width */
+  border: 2px solid #ffb77c;
+  background: linear-gradient(135deg, #fff3cd, #ffe8a3); /* Gradient for aesthetic */
+  color: #000000;
+  font-size: 13px; /* Larger font for readability */
+  font-weight:lighter; /* Bolder text */
+  text-align: center; /* Centered text */
+  padding: 6px 10px; /* More spacious padding */
+  border-radius: 10px; /* Rounded corners */
+  transition: all 0.3s ease; /* Smooth transition for hover/focus */
+}
+.language-selector .form-select:hover {
+  background: linear-gradient(135deg, #ffe8a3, #ffc107); /* Brighter gradient on hover */
+}
+.language-selector .form-select:focus {
+  border-color: #ff2b40;
+  box-shadow: 0 0 10px rgba(220, 53, 69, 0.8);
+  background: linear-gradient(135deg, #fff3cd, #ffe8a3); /* Reset gradient on focus */
+}
+.language-selector .form-select:disabled {
+  background: #e9ecef;
+  opacity: 0.65;
+  cursor: not-allowed;
+}
 /* Robot Animation Area */
 .robot-area {
   display: flex;
@@ -179,6 +208,11 @@ body {
   .robot-text {
     font-size: 14px; /* Scale down text */
   }
+  .language-selector .form-select {
+    width: 160px; /* Adjusted for smaller screens */
+    font-size: 12px; /* Slightly smaller font */
+    padding: 6px 10px; /* Adjusted padding */
+  }
   #quick-replies {
     gap: 5px;
     padding: 5px 0;
@@ -228,6 +262,11 @@ body {
   }
   .robot-text {
     font-size: 12px; /* Further scale down text */
+  }
+  .language-selector .form-select {
+    width: 120px; /* Further adjusted for smaller screens */
+    font-size: 10px; /* Smaller font */
+    padding: 5px 8px; /* Adjusted padding */
   }
   #quick-replies {
     gap: 4px;

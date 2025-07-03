@@ -38,6 +38,7 @@
     $("#send-btn").prop("disabled", true);
     $("#user-input").prop("disabled", true);
     $("#quick-replies button").prop("disabled", true);
+    $("#language-select").prop("disabled", true); // Disable language selector
     $("#stop-btn").show();
     startTypingAnimation();
   }
@@ -46,6 +47,7 @@
     $("#send-btn").prop("disabled", false);
     $("#user-input").prop("disabled", false);
     $("#quick-replies button").prop("disabled", false);
+    $("#language-select").prop("disabled", false); // Enable language selector
     $("#stop-btn").hide();
     $("#user-input").focus();
     stopTypingAnimation();
@@ -76,6 +78,9 @@
     // Store the complete response
     let fullResponse = "";
 
+    // Get selected language
+    const language = $("#language-select").val();
+
     // Create a new AbortController
     currentController = new AbortController();
     const signal = currentController.signal;
@@ -83,7 +88,7 @@
     fetch("/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ message: userMsg }),
+      body: JSON.stringify({ message: userMsg, language: language }), // Include language
       signal: signal, // Add the signal to allow aborting
     })
       .then((response) => {
@@ -151,7 +156,7 @@
     if ($("#quick-replies button").prop("disabled")) {
       return; // Don't send if disabled
     }
-    
+
     $("#user-input").val(message);
     sendMessage();
   }
@@ -164,6 +169,9 @@
   $(document).ready(function () {
     // Hide stop button initially
     $("#stop-btn").hide();
+
+    // Set default language to English
+    $("#language-select").val("english");
 
     setTimeout(() => {
       appendMessage(

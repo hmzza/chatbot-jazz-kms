@@ -10,6 +10,7 @@ from utils.logger import logger
 # Thread-local storage
 thread_local = local()
 
+
 class ConversationMemory:
     """Manage conversation history"""
 
@@ -19,7 +20,9 @@ class ConversationMemory:
     def get_memory(self) -> List[dict]:
         """Get conversation history from session or thread-local"""
         try:
-            memory = getattr(thread_local, "chat_memory", session.get("chat_memory", []))
+            memory = getattr(
+                thread_local, "chat_memory", session.get("chat_memory", [])
+            )
             return memory
         except Exception as e:
             logger.error(f"Error accessing memory: {e}")
@@ -29,11 +32,13 @@ class ConversationMemory:
         """Add a question-answer pair to memory"""
         try:
             memory = self.get_memory()
-            memory.append({"question": question, "answer": answer, "category": category})
-            
+            memory.append(
+                {"question": question, "answer": answer, "category": category}
+            )
+
             if len(memory) > self.max_size:
                 memory.pop(0)
-            
+
             if hasattr(thread_local, "chat_memory"):
                 thread_local.chat_memory = memory
             session["chat_memory"] = memory
@@ -74,6 +79,7 @@ class ConversationMemory:
             logger.info("Conversation memory cleared")
         except Exception as e:
             logger.error(f"Error clearing memory: {e}")
+
 
 # Global instance
 memory_manager = ConversationMemory()
