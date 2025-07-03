@@ -16,7 +16,7 @@ from services.analyzer import QueryAnalyzer, CategoryDetector
 from services.prompt import PromptEngine
 from services.retriever import RetrieverService
 from services.translator import TranslationService
-from utils.helpers import save_response
+from utils.helpers import save_response, preprocess_query
 from utils.logger import logger
 from models.memory import thread_local
 
@@ -60,7 +60,7 @@ else:
     logger.warning("Vector store initialization failed")
 
 # Create blueprint
-chat_bp = Blueprint('chat', __name__)
+chat_bp = Blueprint("chat", __name__)
 
 
 @chat_bp.route("/chat", methods=["POST"])
@@ -171,15 +171,18 @@ def _initialize_thread_memory():
         logger.error(f"Error initializing thread memory: {e}")
         thread_local.chat_memory = []
 
+        # Preprocess query
+        processed_input = preprocess_query(user_input)
+
 
 def _analyze_query(user_input: str) -> dict:
     """Enhanced query analysis with comprehensive results"""
     try:
-        is_greeting = query_analyzer.is_greeting(user_input)
-        is_roman_urdu = query_analyzer.is_roman_urdu(user_input)
+        is_greeting = query_analyzer.is_greeting(processed_input)
+        is_roman_urdu = query_analyzer.is_roman_urdu(processed_input)
         last_response = memory_manager.get_last_response()
-        is_followup = query_analyzer.is_followup(user_input, last_response)
-        detected_categories = category_detector.detect_categories(user_input)
+        is_followup = query_analyzer.is_followup(processed_input, last_response)
+        detected_categories = category_detector.detect_categories(processed_input)
         primary_category = detected_categories[0] if detected_categories else None
         
         # Enhanced analysis
@@ -440,7 +443,7 @@ def _generate_streaming_response(prompt: str, user_input: str, primary_category:
     logger.info(f"Response generated in {generation_time:.2f}s, length: {len(complete_response)}")
     
     # Handle Roman Urdu translation if needed
-    if query_analyzer.is_roman_urdu(user_input):
+    if is_roman_urdu and not query_analyzer.is_roman_urdu(complete_response):
         try:
             roman_urdu_translation = translator_service.translate_to_roman_urdu(complete_response)
             # Optional: yield translation
@@ -473,7 +476,7 @@ def _stream_response(response: str, user_input: str, category: str):
         else:
             yield f" {word}"
         time.sleep(0.05)
-    
+
     # Update memory
     try:
         memory_manager.add_exchange(user_input, response, category)

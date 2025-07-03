@@ -8,3 +8,6 @@ responses/
 jazzbot.log
 chroma_db/
 qdrant_data/
+
+config.bat
+node_modules

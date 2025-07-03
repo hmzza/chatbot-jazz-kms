@@ -34,7 +34,9 @@ def clean_text(text: str) -> str:
     return text.strip()
 
 
-def save_response(question: str, response: str, category: str = None, responses_dir: str = "responses"):
+def save_response(
+    question: str, response: str, category: str = None, responses_dir: str = "responses"
+):
     """Save response to file"""
     try:
         os.makedirs(responses_dir, exist_ok=True)
@@ -46,7 +48,6 @@ def save_response(question: str, response: str, category: str = None, responses_
             f.write(f"Response: {response}\n")
             f.write(f"Category: {category or 'Unknown'}\n")
             f.write(f"Timestamp: {datetime.now().isoformat()}\n")
-
     except Exception as e:
         logger.error(f"Error saving response: {e}")
 
@@ -57,13 +58,40 @@ def preprocess_roman_urdu(content: str) -> str:
     """
     replacements = {
         "krdo": "kar do",
-        "acha": "acha",
+        "karo": "kar do",
+        "ker": "kar",
+        "acha": "achha",
+        "achcha": "achha",
         "theek": "thik",
         "han": "haan",
         "nai": "nahi",
-        # Add more mappings as needed
+        "nahe": "nahi",
+        "pakg": "package",
+        "pakage": "package",
+        "offr": "offer",
+        "ofer": "offer",
+        "bandal": "bundle",
+        "bundel": "bundle",
+        "hafta": "weekly",
+        "mahina": "monthly",
+        "minut": "minute",
+        "cal": "call",
+        "internet": "data",
+        "dt": "data",
+        "sms": "sms",
+        "bta": "bata",
+        "btao": "batao",
+        "btayein": "batao",
+        "jldi": "jaldi",
+        "abhe": "abhi",
     }
 
+    content_lower = content.lower()
     for key, value in replacements.items():
-        content = content.replace(key, value)
-    return content
+        content_lower = content_lower.replace(key, value)
+    return content_lower
+
+
+def preprocess_query(query: str) -> str:
+    """Preprocess user query for consistency with documents"""
+    return preprocess_roman_urdu(clean_text(query))
