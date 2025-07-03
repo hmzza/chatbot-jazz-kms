@@ -18,14 +18,14 @@ from utils.logger import logger
 
 
 class RetrieverService:
-    """Enhanced document retrieval service using FAISS"""
-    
+    """Document retrieval service using FAISS"""
+
     def __init__(self, config: Config):
         self.config = config
         self.vectorstore = None
         self.embeddings = None
         self._initialize_embeddings()
-    
+
     def _initialize_embeddings(self):
         """Initialize HuggingFace embeddings"""
         try:
@@ -38,7 +38,7 @@ class RetrieverService:
         except Exception as e:
             logger.error(f"Error initializing embeddings: {e}")
             self.embeddings = None
-    
+
     def compute_file_hash(self, file_paths: List[str]) -> str:
         """Compute hash of input files"""
         hasher = hashlib.md5()
@@ -49,17 +49,20 @@ class RetrieverService:
             except Exception as e:
                 logger.error(f"Error hashing {file_path}: {e}")
         return hasher.hexdigest()
-    
+
     def build_retriever(self) -> Tuple[Optional[object], Optional[object]]:
-        """Build enhanced FAISS retriever"""
+        """Build FAISS retriever"""
         try:
-            docs, file_paths = DocumentProcessor.load_documents_with_categories(self.config.DATA_DIR)
+            # Load documents
+            docs, file_paths = DocumentProcessor.load_documents_with_categories(
+                self.config.DATA_DIR
+            )
 
             if not docs:
                 logger.warning("No documents found for indexing")
                 return None, None
 
-            # Enhanced text splitter
+            # Text splitter
             splitter = RecursiveCharacterTextSplitter(
                 chunk_size=self.config.CHUNK_SIZE,
                 chunk_overlap=self.config.CHUNK_OVERLAP,
@@ -76,7 +79,9 @@ class RetrieverService:
             # Check if we can reuse existing index
             current_hash = self.compute_file_hash(file_paths)
 
-            if os.path.exists(self.config.INDEX_PATH) and os.path.exists(self.config.INDEX_HASH_PATH):
+            if os.path.exists(self.config.INDEX_PATH) and os.path.exists(
+                self.config.INDEX_HASH_PATH
+            ):
                 try:
                     with open(self.config.INDEX_HASH_PATH, "r") as f:
                         saved_hash = f.read().strip()
@@ -109,43 +114,42 @@ class RetrieverService:
         except Exception as e:
             logger.error(f"Error building retriever: {e}")
             return None, None
-    
+
     def search_documents(self, query: str, k: int = None) -> List:
         """Search documents using the vectorstore"""
         if not self.vectorstore:
             logger.warning("Vectorstore not available for search")
             return []
-        
+
         try:
             k = k or self.config.SEARCH_K
             docs = self.vectorstore.similarity_search(query, k=k)
             # Filter out discontinued packages
             docs = [
-                doc for doc in docs 
-                if "discontinued" not in doc.page_content.lower()
+                doc for doc in docs if "discontinued" not in doc.page_content.lower()
             ]
             return docs
         except Exception as e:
             logger.error(f"Search error: {e}")
             return []
-    
+
     def rebuild_index(self):
         """Force rebuild of the FAISS index"""
         try:
             # Remove existing index
             if os.path.exists(self.config.INDEX_PATH):
                 shutil.rmtree(self.config.INDEX_PATH)
-            
+
             if os.path.exists(self.config.INDEX_HASH_PATH):
                 os.remove(self.config.INDEX_HASH_PATH)
-            
+
             # Rebuild
             vectorstore, embeddings = self.build_retriever()
             return vectorstore is not None
         except Exception as e:
             logger.error(f"Error rebuilding index: {e}")
             return False
-    
+
     def get_status(self) -> dict:
         """Get retriever status"""
         return {

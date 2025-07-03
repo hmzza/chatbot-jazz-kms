@@ -4,16 +4,11 @@ services/analyzer.py - Query analysis and category detection for JazzBot
 
 import re
 from typing import List, Optional
-from langdetect import detect, DetectorFactory
-
 from utils.logger import logger
-
-# Ensures reproducibility for langdetect
-DetectorFactory.seed = 0
 
 
 class CategoryDetector:
-    """Enhanced category detection"""
+    """Category detection"""
 
     CATEGORY_KEYWORDS = {
         "B2C": ["b2c", "consumer", "individual", "personal"],
@@ -26,17 +21,6 @@ class CategoryDetector:
         "facebook": ["facebook", "fb"],
         "youtube": ["youtube", "yt"],
         "whatsapp": ["whatsapp", "wa"],
-        "Roman Urdu": [
-            "mujhe",
-            "batao",
-            "karo",
-            "hai",
-            "ke",
-            "ka",
-            "mein",
-            "pakg",
-            "offr",
-        ],
     }
 
     @classmethod
@@ -45,15 +29,9 @@ class CategoryDetector:
         query_lower = query.lower()
         detected_categories = []
 
-        # Match query against predefined keywords for categories
         for category, keywords in cls.CATEGORY_KEYWORDS.items():
             if any(keyword in query_lower for keyword in keywords):
                 detected_categories.append(category)
-
-        # Prioritize Roman Urdu if detected
-        if QueryAnalyzer.is_roman_urdu(query):
-            if "Roman Urdu" not in detected_categories:
-                detected_categories.insert(0, "Roman Urdu")
 
         return detected_categories
 
@@ -65,7 +43,7 @@ class CategoryDetector:
 
 
 class QueryAnalyzer:
-    """Enhanced query analysis"""
+    """Query analysis"""
 
     GREETING_PATTERNS = [
         r"^(hi|hello|hey|aoa|salam|assalam|good\s+(morning|afternoon|evening))$",
@@ -85,75 +63,6 @@ class QueryAnalyzer:
         r"(facebook|youtube|whatsapp|instagram)\s+(?:premium\s+|daily\s+|weekly\s+|monthly\s+)?(?:offer|bundle|package)",
         r"(?:jazz\s+)?(super\s+card|smart\s+bundle)",
     ]
-
-    ROMAN_URDU_KEYWORDS = [
-        "mujhe",
-        "btayein",
-        "batao",
-        "karo",
-        "ker",
-        "kar",
-        "nahi",
-        "hai",
-        "ka",
-        "ke",
-        "mein",
-        "ap",
-        "aap",
-        "tum",
-        "acha",
-        "achha",
-        "bura",
-        "kyun",
-        "kahan",
-        "mil",
-        "jaldi",
-        "abhi",
-        "ghar",
-        "karna",
-        "pakg",
-        "package",
-        "offr",
-        "offer",
-        "bandal",
-        "bundle",
-        "hafta",
-        "mahina",
-        "internet",
-        "call",
-        "sms",
-        "data",
-        "minut",
-        "minute",
-    ]
-
-    ROMAN_URDU_PATTERN = r"\b(?:mujhe|btayein|batao|karo|ker|kar|nahi|hai|ka|ke|mein|ap|aap|tum|acha|achha|bura|kyun|kahan|mil|jaldi|abhi|ghar|karna|pakg|offr|bandal|hafta|mahina|internet|call|sms|data|minut|minute)\b"
-
-    @staticmethod
-    def is_roman_urdu(text: str) -> bool:
-        """Check if text is in Roman Urdu with improved detection"""
-        text_lower = text.lower()
-
-        # Check for Roman Urdu pattern
-        if re.search(QueryAnalyzer.ROMAN_URDU_PATTERN, text_lower, re.IGNORECASE):
-            return True
-
-        try:
-            lang = detect(text)
-            if lang == "en":
-                # Double-check for Roman Urdu keywords
-                return any(
-                    re.search(rf"\b{word}\b", text_lower)
-                    for word in QueryAnalyzer.ROMAN_URDU_KEYWORDS
-                )
-            return lang in ["ur", "hi"]  # Urdu or Hindi-like text
-        except Exception as e:
-            logger.error(f"Language detection error: {e}")
-            # Fallback to keyword and pattern matching
-            return any(
-                re.search(rf"\b{word}\b", text_lower)
-                for word in QueryAnalyzer.ROMAN_URDU_KEYWORDS
-            )
 
     @classmethod
     def is_greeting(cls, query: str) -> bool:
