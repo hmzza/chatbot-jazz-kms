@@ -6,16 +6,16 @@ import os
 from typing import List, Tuple
 from langchain_community.document_loaders import TextLoader
 
-from utils.helpers import clean_text, preprocess_roman_urdu
+from utils.helpers import clean_text
 from utils.logger import logger
 
 
 class DocumentProcessor:
-    """Enhanced document processing and retrieval"""
+    """Document processing and retrieval"""
 
     @staticmethod
     def load_documents_with_categories(data_dir: str) -> Tuple[List, List[str]]:
-        """Load documents with enhanced metadata"""
+        """Load documents with metadata"""
         docs = []
         file_paths = []
 
@@ -36,7 +36,7 @@ class DocumentProcessor:
                 file_path = os.path.join(category_path, file)
                 file_paths.append(file_path)
 
-                # Determine file type with better logic
+                # Determine file type
                 file_type = "unknown"
                 file_lower = file.lower()
                 if "offer" in file_lower:
@@ -53,17 +53,13 @@ class DocumentProcessor:
                     documents = loader.load()
 
                     for doc in documents:
-                        # Preprocess for Roman Urdu
-                        doc.page_content = preprocess_roman_urdu(
-                            clean_text(doc.page_content)
-                        )
+                        doc.page_content = clean_text(doc.page_content)
                         doc.metadata.update(
                             {
                                 "category": category,
                                 "file_type": file_type,
                                 "filename": file,
                                 "source_path": file_path,
-                                "is_roman_urdu": "Roman Urdu" in category.lower(),
                             }
                         )
 

@@ -9,7 +9,7 @@ from services.analyzer import QueryAnalyzer
 
 
 class PromptEngine:
-    """Enhanced prompt generation service"""
+    """Prompt generation service"""
 
     def __init__(self):
         self.query_analyzer = QueryAnalyzer()
@@ -27,32 +27,6 @@ CORE PRINCIPLES:
 - Always specify the category when mentioning packages (B2C, B2B, etc.).
 - Use bullet points for package details.
 - If information is missing, say: "Sorry, I don't have details for that. Can you clarify or ask about another package?" """
-
-    def build_roman_urdu_prompt(
-        self, user_input: str, memory_context: str, context: str
-    ) -> str:
-        """Build prompt for Roman Urdu queries with strict grounding"""
-        base_instructions = self.get_base_instructions()
-
-        return f"""{base_instructions}
-
-CONVERSATION HISTORY:
-{memory_context}
-
-KNOWLEDGE BASE:
-{context}
-
-SITUATION: Roman Urdu query detected.
-
-INSTRUCTIONS:
-- Respond in grammatically correct Roman Urdu.
-- Base your response ONLY on the provided knowledge base.
-- If no relevant information is found, say: "Maaf karen, mujhe is package ki tafseel nahi mili. Kya aap mazeed wazahat kar sakte hain?"
-- Use formal language, avoid slang or incorrect phrases.
-- Structure response with bullet points for package details.
-- End with: "Kya aap kisi aur package ke baray mein maloomat lena chahenge?"
-
-USER REQUEST: {user_input}"""
 
     def build_followup_prompt(
         self, user_input: str, memory_context: str, context: str, package_name: str
@@ -131,7 +105,7 @@ CONVERSATION HISTORY:
 SITUATION: No specific knowledge available for this query.
 
 INSTRUCTIONS:
-- For greetings: "Walaikum Salam! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
+- For greetings: "Hello! I'm JazzBot, your Jazz Telecom assistant. How can I help you today?"
 - For specific queries: "I'd be happy to help! Could you please specify what type of Jazz service you're looking for? For example: B2C packages, B2B solutions, data offers, voice plans, or SMS bundles?"
 - Keep response under 50 words.
 
@@ -147,24 +121,14 @@ USER REQUEST: {user_input}"""
         detected_categories: List[str] = None,
     ) -> str:
         """Main method to build context-aware prompt"""
-
-        # Handle Roman Urdu detection
-        if self.query_analyzer.is_roman_urdu(user_input):
-            return self.build_roman_urdu_prompt(user_input, memory_context, context)
-
-        # Handle follow-up with package name
         if is_followup and package_name:
             return self.build_followup_prompt(
                 user_input, memory_context, context, package_name
             )
-
-        # Handle queries with context
         elif context and len(context.split()) > 15:
             return self.build_context_prompt(
                 user_input, memory_context, context, detected_categories
             )
-
-        # Handle queries without context
         else:
             return self.build_no_context_prompt(user_input, memory_context)
 
@@ -178,6 +142,9 @@ USER REQUEST: {user_input}"""
                 "aoa",
                 "assalam o alaikum",
                 "slam",
+                "aoa",
+                "salam o alaikum",
+                "salam walaikum",
                 "assalam",
             ]
         ):

@@ -14,8 +14,7 @@ from models.memory import ConversationMemory
 from services.analyzer import QueryAnalyzer, CategoryDetector
 from services.prompt import PromptEngine
 from services.retriever import RetrieverService
-from services.translator import TranslationService
-from utils.helpers import save_response, preprocess_query
+from utils.helpers import save_response, clean_text
 from utils.logger import logger
 from models.memory import thread_local
 
@@ -26,7 +25,6 @@ query_analyzer = QueryAnalyzer()
 category_detector = CategoryDetector()
 prompt_engine = PromptEngine()
 retriever_service = RetrieverService(config)
-translator_service = TranslationService()
 
 # Initialize LLM
 try:
@@ -45,7 +43,7 @@ chat_bp = Blueprint("chat", __name__)
 
 @chat_bp.route("/chat", methods=["POST"])
 def chat():
-    """Enhanced chat endpoint with Roman Urdu support and improved streaming"""
+    """Chat endpoint for English queries"""
     try:
         print("Chat Function Called!!")
         data = request.get_json()
@@ -78,19 +76,18 @@ def chat():
             thread_local.chat_memory = []
 
         # Preprocess query
-        processed_input = preprocess_query(user_input)
+        processed_input = clean_text(user_input)
 
         # Analyze query
         is_greeting = query_analyzer.is_greeting(processed_input)
-        is_roman_urdu = query_analyzer.is_roman_urdu(processed_input)
         last_response = memory_manager.get_last_response()
         is_followup = query_analyzer.is_followup(processed_input, last_response)
         detected_categories = category_detector.detect_categories(processed_input)
         primary_category = detected_categories[0] if detected_categories else None
 
         logger.info(
-            f"Query analysis - Greeting: {is_greeting}, Roman Urdu: {is_roman_urdu}, "
-            f"Follow-up: {is_followup}, Categories: {detected_categories}"
+            f"Query analysis - Greeting: {is_greeting}, Follow-up: {is_followup}, "
+            f"Categories: {detected_categories}"
         )
 
         # Handle greeting
@@ -151,7 +148,7 @@ def chat():
         logger.info(f"Generated prompt length: {len(prompt)} characters")
 
         return Response(
-            _generate_response(prompt, user_input, primary_category, is_roman_urdu),
+            _generate_response(prompt, user_input, primary_category),
             mimetype="text/plain",
         )
 
@@ -163,9 +160,7 @@ def chat():
         return Response(_stream_text(error_msg), mimetype="text/plain")
 
 
-def _generate_response(
-    prompt: str, user_input: str, primary_category: str, is_roman_urdu: bool
-):
+def _generate_response(prompt: str, user_input: str, primary_category: str):
     """Generate streaming response"""
     print("Generate Function Called!!")
     full_response = []
@@ -212,19 +207,6 @@ def _generate_response(
         return
 
     complete_response = "".join(full_response).strip()
-
-    # Handle Roman Urdu translation if needed
-    if is_roman_urdu and not query_analyzer.is_roman_urdu(complete_response):
-        try:
-            roman_urdu_translation = translator_service.translate_to_roman_urdu(
-                complete_response
-            )
-            complete_response = roman_urdu_translation
-            for char in roman_urdu_translation:
-                yield char
-                time.sleep(0.01)
-        except Exception as translation_error:
-            logger.error(f"Error during translation: {translation_error}")
 
     # Update memory in background thread
     def update_memory():
