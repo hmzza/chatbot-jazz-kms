@@ -3,33 +3,32 @@ body {
   background-color: #f4f4f4; 
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  min-height: 100vh; /* Allow page to grow with content */
   margin: 0;
-  overflow: hidden;
+  /* Removed overflow: hidden to allow window scroll */
 }
 .container {
   flex: 1;
   display: flex;
   flex-direction: column;
-  padding-bottom: 0;
-  max-height: 100%;
   padding: 0 15px; /* Add padding for smaller screens */
 }
 .chat-box {
-  height: 60%; /* Fixed height for chat box */
-  overflow-y: auto;
+  height: 500px; /* Fixed size as requested */
+  overflow-y: auto; /* Ensure chat bubbles are scrollable */
   background: #fff8e1;
   display: flex;
   flex-direction: column;
   padding: 15px;
   border: 2px solid #ffc107;
   border-radius: 10px;
+  margin-bottom: 10px; /* Space before input area */
 }
 .chat-bubble {
   margin: 8px 0;
-  padding: 12px 16px;
+  padding: 12px 16px; /* Original padding */
   border-radius: 16px;
-  max-width: 75%;
+  max-width: 75%; /* Original max-width */
   display: flex;
   align-items: center;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -55,6 +54,7 @@ body {
 #quick-replies {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap; /* Allow buttons to wrap for responsiveness */
   gap: 8px;
   padding: 8px 0;
 }
@@ -62,7 +62,7 @@ body {
   background-color: #fff3cd;
   border-color: #ffc107;
   color: #212529;
-  padding: 5px 10px; /* Smaller padding for buttons */
+  padding: 3px 8px; /* Smaller padding for buttons */
   font-size: 12px; /* Smaller font size */
 }
 #quick-replies button:hover {
@@ -98,14 +98,14 @@ body {
   text-align: center;
 }
 .language-selector .form-select {
-  width: 100px; /* Increased width */
+  width: 100px; /* From your latest CSS */
   border: 2px solid #ffb77c;
   background: linear-gradient(135deg, #fff3cd, #ffe8a3); /* Gradient for aesthetic */
   color: #000000;
-  font-size: 13px; /* Larger font for readability */
-  font-weight:lighter; /* Bolder text */
+  font-size: 13px; /* From your latest CSS */
+  font-weight: lighter; /* From your latest CSS */
   text-align: center; /* Centered text */
-  padding: 6px 10px; /* More spacious padding */
+  padding: 6px 10px; /* From your latest CSS */
   border-radius: 10px; /* Rounded corners */
   transition: all 0.3s ease; /* Smooth transition for hover/focus */
 }
@@ -127,14 +127,15 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 120px;
+  height: 80px; /* Reduced to make smaller and free up space */
   background-color: #f4f4f4;
-  padding: 10px;
-  gap: 10px;
+  padding: 8px; /* Slightly reduced padding */
+  gap: 8px; /* Reduced gap */
+  min-height: 60px; /* Minimum height to prevent collapse */
 }
 .robot-svg {
-  width: 80px;
-  height: 80px;
+  width: 60px; /* Reduced from 80px */
+  height: 60px;
 }
 .robot-thinking .gear {
   animation: rotate 2s linear infinite;
@@ -161,7 +162,7 @@ body {
 .robot-text {
   font-family: 'Courier New', Courier, monospace; /* Robotic font */
   font-weight: bold;
-  font-size: 18px;
+  font-size: 14px; /* Reduced from 18px */
   text-transform: uppercase;
 }
 .robot-jazz {
@@ -172,9 +173,13 @@ body {
 }
 /* Input Area */
 .input-area {
-  padding: 10px 0;
+  padding: 0px 0; /* Reduced padding to save space */
   background-color: transparent; /* Remove white background */
   border-top: 1px solid #ddd;
+  min-height: 60px; /* Minimum height to ensure visibility */
+  display: flex;
+  flex-direction: column;
+  gap: 8px; /* Space between language selector, quick replies, and input */
 }
 
 /* Responsive Adjustments */
@@ -183,12 +188,12 @@ body {
     padding: 0 10px;
   }
   .chat-box {
-    height: 300px; /* Reduce height on smaller screens */
+    height: 70%; /* Fixed size for smaller screens */
     padding: 10px;
   }
   .chat-bubble {
-    padding: 8px 12px;
-    max-width: 85%; /* Allow more width on smaller screens */
+    padding: 8px 12px; /* Original responsive setting */
+    max-width: 85%; /* Original responsive setting */
     font-size: 14px;
   }
   .bot img {
@@ -197,39 +202,40 @@ body {
     margin-right: 6px;
   }
   .robot-area {
-    height: 80px; /* Reduce height */
-    gap: 8px;
-    padding: 5px;
+    height: 60px; /* Further reduced */
+    gap: 6px;
+    padding: 6px;
   }
   .robot-svg {
-    width: 50px; /* Scale down robot */
-    height: 50px;
+    width: 45px; /* Further scaled down */
+    height: 45px;
   }
   .robot-text {
-    font-size: 14px; /* Scale down text */
+    font-size: 12px; /* Further scaled down */
   }
   .language-selector .form-select {
-    width: 160px; /* Adjusted for smaller screens */
-    font-size: 12px; /* Slightly smaller font */
-    padding: 6px 10px; /* Adjusted padding */
+    width: 90px; /* Adjusted for smaller screens */
+    font-size: 12px;
+    padding: 5px 8px;
   }
   #quick-replies {
     gap: 5px;
     padding: 5px 0;
   }
   #quick-replies button {
-    padding: 4px 8px;
+    padding: 3px 6px;
     font-size: 10px;
   }
   .input-area {
     padding: 5px 0;
+    min-height: 50px;
   }
   #user-input {
     font-size: 14px;
   }
   .btn-primary, #stop-btn {
-    padding: 8px 12px;
-    font-size: 14px;
+    padding: 6px 10px;
+    font-size: 12px;
   }
 }
 
@@ -238,12 +244,12 @@ body {
     padding: 0 5px;
   }
   .chat-box {
-    height: 250px; /* Further reduce height */
+    height: 65%; /* Fixed size for small screens */
     padding: 8px;
   }
   .chat-bubble {
-    padding: 6px 10px;
-    max-width: 90%;
+    padding: 6px 10px; /* Original responsive setting */
+    max-width: 90%; /* Original responsive setting */
     font-size: 12px;
   }
   .bot img {
@@ -252,38 +258,39 @@ body {
     margin-right: 5px;
   }
   .robot-area {
-    height: 60px; /* Further reduce height */
+    height: 50px; /* Further reduced */
     gap: 5px;
     padding: 5px;
   }
   .robot-svg {
-    width: 40px; /* Further scale down robot */
-    height: 40px;
+    width: 35px; /* Further scaled down */
+    height: 35px;
   }
   .robot-text {
-    font-size: 12px; /* Further scale down text */
+    font-size: 10px; /* Further scaled down */
   }
   .language-selector .form-select {
-    width: 120px; /* Further adjusted for smaller screens */
-    font-size: 10px; /* Smaller font */
-    padding: 5px 8px; /* Adjusted padding */
+    width: 80px; /* Further adjusted for small screens */
+    font-size: 10px;
+    padding: 4px 6px;
   }
   #quick-replies {
     gap: 4px;
     padding: 4px 0;
   }
   #quick-replies button {
-    padding: 3px 6px;
+    padding: 2px 5px;
     font-size: 9px;
   }
   .input-area {
     padding: 4px 0;
+    min-height: 45px;
   }
   #user-input {
     font-size: 12px;
   }
   .btn-primary, #stop-btn {
-    padding: 6px 10px;
-    font-size: 12px;
+    padding: 5px 8px;
+    font-size: 11px;
   }
 }
